@@ -13,7 +13,7 @@ Used car prices in Israel are often opaque and hard to evaluate. This project ai
 ## 📊 Dataset
 
 - **Source:** Manually collected from [Yad2](https://www.yad2.co.il/vehicles/cars)
-- **Size:** ~276 listings (after cleaning)
+- **Size:** ~270 listings (after cleaning)
 - **Manufacturers:** Toyota, Kia, Hyundai, Skoda, Mazda, Nissan
 
 | Feature | Description |
@@ -29,11 +29,38 @@ Used car prices in Israel are often opaque and hard to evaluate. This project ai
 
 ---
 
+## 🔍 EDA Findings
+
+Exploratory Data Analysis was performed to understand the relationships between features and price.
+
+**Key findings:**
+
+- `year` has a strong positive correlation with price (**0.58**) — newer cars cost more
+- `mileage` has a strong negative correlation with price (**-0.50**) — more km = lower price
+- `hand` has a moderate negative correlation with price (**-0.35**) — more owners = lower price
+- `model` is the most impactful feature — median price ranges from ~45,000 ₪ (Auris) to ~300,000 ₪ (Sienna)
+- `fuel` type alone has weak correlation with price — model and year matter much more
+- Price distribution is **right-skewed** — most cars between 60,000–160,000 ₪ with a long tail of expensive vehicles
+
+**Graphs produced:**
+
+| Graph | Insight |
+|---|---|
+| Price Distribution | Right-skewed, most cars 60k–160k ₪ |
+| Price by Manufacturer | Toyota highest variance, Kia lowest prices |
+| Price vs Mileage | Clear negative trend |
+| Price vs Year | Clear positive trend |
+| Price by Fuel Type | Hybrid slightly higher but weak signal |
+| Correlation Heatmap | year and mileage are strongest predictors |
+| Median Price by Model | Sienna & Land Cruiser far above others |
+
+---
+
 ## 🔄 Project Status
 
 - [x] Data Collection
 - [x] Data Cleaning
-- [ ] EDA (Exploratory Data Analysis)
+- [x] EDA (Exploratory Data Analysis)
 - [ ] Preprocessing (One Hot Encoding, Normalization)
 - [ ] Model Building
 - [ ] Evaluation
@@ -51,7 +78,10 @@ Auto-Price/
 │   └── Car_Data_Clean.csv    # Cleaned data
 │
 ├── src/
-│   └── DataCleaner.py        # Data cleaning script
+│   ├── DataCleaner.py        # Data cleaning script
+│   └── EDA.py                # Exploratory data analysis
+│
+├── graphs/                   # EDA visualizations
 │
 └── README.md
 ```
@@ -62,8 +92,8 @@ Auto-Price/
 
 - Python
 - Pandas
+- Matplotlib / Seaborn
 - scikit-learn *(coming soon)*
-- Matplotlib / Seaborn *(coming soon)*
 
 ---
 
