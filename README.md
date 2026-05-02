@@ -56,6 +56,16 @@ Exploratory Data Analysis was performed to understand the relationships between 
 
 ---
 
+![Price Distribution](price_distribution.png)
+![Price by Manufacturer](price_by_manufacturer.png)
+![Price vs Mileage](price_vs_mileage.png)
+![Price vs Year](price_vs_year.png)
+![Price by Fuel Type](price_by_fuel.png)
+![Correlation Heatmap](correlation_heatmap.png)
+![Median Price by Model](price_by_model.png)
+
+
+
 ## 🔄 Project Status
 
 - [x] Data Collection
