@@ -79,7 +79,7 @@ Auto-Price/
 │
 ├── src/
 │   ├── DataCleaner.py        # Data cleaning script
-│   └── EDA.py                # Exploratory data analysis
+│   └── EDA.ipynb             # Exploratory data analysis
 │
 ├── graphs/                   # EDA visualizations
 │
