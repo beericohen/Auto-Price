@@ -1,1 +1,3 @@
-pandas
+panda
+matplotlib
+seaborn

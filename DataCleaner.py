@@ -26,6 +26,9 @@ df = df.drop_duplicates()
 model_counts = df['model'].value_counts()
 rare_models = model_counts[model_counts < 3].index.tolist()
 df = df[~df['model'].isin(rare_models)]
+
+#removing models before 2015
+df = df[df['year'] >= 2015]
  
  
 # Saving

@@ -15,21 +15,16 @@ Toyota,Corolla,2023,26000,109850,1,petrol,black
 Toyota,Sienna,2023,110000,270000,1,hybrid,white
 Toyota,Land Cruiser,2025,8000,509000,1,hybrid,gold
 Toyota,RAV4,2024,24000,175000,1,hybrid,black
-Toyota,Corolla,2007,309000,11000,5,petrol,gray
 Toyota,Corolla,2019,130000,70000,1,hybrid,gray
 Toyota,Corolla,2020,98000,89990,2,hybrid,gray
 Toyota,Corolla,2019,95000,89000,2,hybrid,gray
 Toyota,Corolla,2021,63000,103000,1,hybrid,white
-Toyota,Land Cruiser,2008,260000,99000,5,diesel,black
-Toyota,Corolla,2007,290000,13000,1,petrol,gray
-Toyota,Corolla,2006,240000,12000,1,petrol,gray
 Toyota,Corolla,2019,113000,79000,2,hybrid,gray
 Toyota,RAV4,2021,93000,159000,1,hybrid,white
 Toyota,RAV4,2017,146000,105000,2,hybrid,white
 Toyota,Corolla,2023,26000,109850,1,diesel,black
 Toyota,Corolla,2020,87000,79000,1,hybrid,gray
 Toyota,Auris,2016,147000,46500,2,hybrid,gray
-Toyota,Auris,2013,250000,28000,3,hybrid,gray
 Kia,Sportage,2020,135000,74500,4,diesel,white
 Kia,Sportage,2022,45000,132000,1,petrol,gray
 Kia,Sportage,2016,82500,54000,3,petrol,black
@@ -197,7 +192,7 @@ Mazda,3,2022,97000,118000,3,petrol,white
 Mazda,3,2022,45000,107000,1,petrol,white
 Mazda,3,2022,60000,90000,2,petrol,black
 Mazda,3,2022,92000,79500,2,petrol,black
-Mazda,3,2022,60000,13000,3,petrol,red
+Mazda,3,2022,60000,130000,3,petrol,red
 Mazda,3,2022,31000,105000,2,petrol,black
 Mazda,3,2022,99555,92000,1,petrol,gray
 Mazda,3,2022,50000,95300,4,petrol,gray
