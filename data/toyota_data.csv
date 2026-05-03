@@ -1,0 +1,301 @@
+manufacturer,model,year,price,hand,fuel,engine_liters,horsepower,transmission,mileage
+Toyota,Camry,2021,121000,2,hybrid,2.5,218.0,variable,115000
+Toyota,Corolla,2021,83900,1,hybrid,1.8,121.0,variable,82000
+Toyota,Corolla,2019,79900,2,hybrid,1.8,121.0,variable,81000
+Toyota,Corolla,2022,77000,1,hybrid,1.8,98.0,variable,150000
+Toyota,C Hr,2019,88900,4,hybrid,1.8,122.0,automatic,88000
+Toyota,Rav4,2016,65500,2,gasoline,2.0,152.0,variable,172000
+Toyota,Prius,2017,61800,3,hybrid,1.8,98.0,variable,168000
+Toyota,Corolla,2019,79800,2,hybrid,1.8,121.0,variable,74000
+Toyota,Hilux,2008,55800,4,diesel,3.0,171.0,automatic,420000
+Toyota,Corolla,2020,74800,2,gasoline,1.6,132.0,variable,47000
+Toyota,Corolla,2020,84900,1,hybrid,1.8,121.0,variable,84000
+Toyota,Corolla,2019,68800,3,hybrid,1.8,121.0,variable,145000
+Toyota,Corolla,2022,106900,1,hybrid,1.8,121.0,variable,36000
+Toyota,Corolla,2022,89900,1,hybrid,1.8,121.0,variable,73000
+Toyota,Yaris Verso,2002,8500,2,gasoline,1.3,86.0,automatic,171000
+Toyota,Auris,2013,42900,3,gasoline,1.6,132.0,variable,147000
+Toyota,Corolla,2022,85900,1,hybrid,1.8,98.0,variable,81000
+Toyota,Yaris Cross,2023,114000,1,hybrid,1.5,116.0,variable,60690
+Toyota,Prius,2016,51900,2,hybrid,1.8,98.0,variable,184000
+Toyota,Corolla,2009,18800,4,gasoline,1.6,124.0,automatic,250000
+Toyota,Auris,2017,45000,3,hybrid,1.8,136.0,variable,247000
+Toyota,Corolla,2020,85000,2,hybrid,1.8,121.0,variable,122000
+Toyota,Land Cruiser,2015,222000,3,diesel,3.0,190.0,automatic,147000
+Toyota,Camry,2013,39000,2,hybrid,2.5,200.0,variable,197000
+Toyota,Corolla,2015,33000,2,gasoline,1.6,132.0,variable,220000
+Toyota,Corolla Cross,2023,155000,1,hybrid,1.8,140.0,variable,42500
+Toyota,Auris,2017,45000,2,hybrid,1.8,136.0,variable,240000
+Toyota,Yaris,2012,31000,3,gasoline,1.3,99.0,variable,103000
+Toyota,Land Cruiser,2008,90000,4,diesel,3.0,173.0,automatic,403000
+Toyota,Corolla,2021,90000,2,hybrid,1.8,121.0,variable,100000
+Toyota,Auris,2017,45000,3,hybrid,1.8,136.0,variable,247000
+Toyota,Corolla,2020,85000,2,hybrid,1.8,121.0,variable,122000
+Toyota,Land Cruiser,2015,222000,3,diesel,3.0,190.0,automatic,147000
+Toyota,Yaris,2021,97995,2,hybrid,1.5,100.0,variable,76114
+Toyota,Yaris,2021,83155,2,hybrid,1.5,100.0,variable,137765
+Toyota,Yaris,2025,123445,2,hybrid,1.5,116.0,variable,11700
+Toyota,Yaris Cross,2024,134155,1,hybrid,1.5,116.0,variable,18648
+Toyota,Yaris Cross,2023,133505,1,hybrid,1.5,116.0,variable,43600
+Toyota,Yaris,2018,52045,2,gasoline,1.5,112.0,variable,170000
+Toyota,Proace City,2021,93965,1,diesel,1.5,131.0,automatic,82711
+Toyota,Corolla,2023,112125,1,hybrid,1.8,98.0,variable,96000
+Toyota,Corolla,2023,112405,1,hybrid,1.8,98.0,variable,91576
+Toyota,Corolla,2023,105505,1,hybrid,1.8,121.0,variable,85805
+Toyota,Corolla,2022,100545,1,hybrid,1.8,121.0,variable,87051
+Toyota,Corolla,2021,92385,2,hybrid,1.8,121.0,variable,129800
+Toyota,Corolla,2019,93915,2,hybrid,1.8,121.0,variable,99000
+Toyota,Corolla Cross,2024,169225,1,hybrid,1.8,140.0,variable,41899
+Toyota,Corolla Cross,2023,143995,1,hybrid,1.8,140.0,variable,76907
+Toyota,Corolla,2023,103565,1,gasoline,1.5,125.0,variable,65013
+Toyota,C Hr,2021,115815,1,hybrid,1.8,122.0,variable,88448
+Toyota,Camry,2021,155000,1,hybrid,2.5,218.0,variable,130
+Toyota,Camry,2020,99000,2,hybrid,2.5,218.0,variable,178000
+Toyota,Camry,2010,36000,4,gasoline,3.5,272.0,automatic,112700
+Toyota,Camry,2023,167000,2,hybrid,2.5,218.0,variable,63800
+Toyota,Auris,2014,36200,3,hybrid,1.8,99.0,variable,260000
+Toyota,Rav4,2007,26000,3,gasoline,2.0,152.0,automatic,280000
+Toyota,Rav4,2015,42200,4,gasoline,2.0,151.0,variable,151000
+Toyota,Aygo,2012,13800,3,gasoline,1.0,67.0,robotic,167000
+Toyota,Corolla,2015,40000,3,gasoline,1.6,132.0,variable,187000
+Toyota,Auris,2014,33000,3,hybrid,1.8,99.0,variable,231500
+Toyota,C Hr,2022,126715,1,hybrid,1.8,122.0,variable,87000
+Toyota,C Hr,2021,121835,1,hybrid,1.8,122.0,variable,85986
+Toyota,C Hr,2019,83955,2,hybrid,1.8,122.0,automatic,156730
+Toyota,C Hr,2019,90995,1,hybrid,1.8,122.0,automatic,144000
+Toyota,C Hr,2018,93965,1,hybrid,1.8,122.0,automatic,126425
+Toyota,Aygo,2023,80675,1,gasoline,1.0,72.0,variable,63596
+Toyota,Aygo,2023,82925,1,gasoline,1.0,72.0,variable,46045
+Toyota,Aygo,2023,83865,1,gasoline,1.0,72.0,variable,35802
+Toyota,Aygo,2023,84445,1,gasoline,1.0,72.0,variable,31153
+Toyota,Aygo,2023,86125,1,gasoline,1.0,72.0,variable,25266
+Toyota,Camry,2013,39000,2,hybrid,2.5,200.0,variable,197000
+Toyota,Corolla,2015,33000,2,gasoline,1.6,132.0,variable,220000
+Toyota,Corolla Cross,2023,155000,1,hybrid,1.8,140.0,variable,42500
+Toyota,Auris,2017,45000,2,hybrid,1.8,136.0,variable,240000
+Toyota,Yaris,2012,31000,3,gasoline,1.3,99.0,variable,103000
+Toyota,Land Cruiser,2008,90000,4,diesel,3.0,173.0,automatic,403000
+Toyota,Corolla,2021,90000,2,hybrid,1.8,121.0,variable,100000
+Toyota,C Hr,2023,136000,1,hybrid,1.8,122.0,variable,30500
+Toyota,Corolla,2022,87000,2,hybrid,1.8,121.0,variable,97000
+Toyota,Yaris,2014,32000,3,gasoline,1.3,99.0,variable,183000
+Toyota,Rav4,2021,173000,2,hybrid,2.5,218.0,automatic,81000
+Toyota,Corolla,2009,18000,2,gasoline,1.6,124.0,automatic,257500
+Toyota,Rav4,2021,185000,2,hybrid,2.5,218.0,automatic,113000
+Toyota,Yaris Cross,2022,110000,1,hybrid,1.5,116.0,variable,76000
+Toyota,Corolla,2007,8400,4,gasoline,1.6,110.0,automatic,350000
+Toyota,C Hr,2021,115000,2,hybrid,1.8,122.0,variable,37000
+Toyota,Corolla,2019,74000,2,hybrid,1.8,121.0,variable,158000
+Toyota,Corolla,2021,72000,2,hybrid,1.8,121.0,variable,155000
+Toyota,Land Cruiser,2011,125000,2,diesel,3.0,190.0,automatic,310000
+Toyota,Verso S,2011,15000,4,gasoline,1.3,99.0,variable,272000
+Toyota,Camry,2021,155000,1,hybrid,2.5,218.0,variable,130
+Toyota,Corolla,2020,94990,2,hybrid,1.8,121.0,variable,79000
+Toyota,Aygo,2012,14500,4,gasoline,1.0,67.0,robotic,175000
+Toyota,Camry,2020,99000,2,hybrid,2.5,218.0,variable,178000
+Toyota,Camry,2010,36000,4,gasoline,3.5,272.0,automatic,112700
+Toyota,Camry,2023,167000,2,hybrid,2.5,218.0,variable,63800
+Toyota,Auris,2014,36200,3,hybrid,1.8,99.0,variable,260000
+Toyota,Auris,2017,72000,1,hybrid,1.8,136.0,variable,69000
+Toyota,Rav4,2007,26000,3,gasoline,2.0,152.0,automatic,280000
+Toyota,Auris,2013,45000,2,gasoline,1.6,132.0,variable,86000
+Toyota,Camry,2022,125000,1,hybrid,2.5,218.0,variable,160000
+Toyota,Rav4,2015,42200,4,gasoline,2.0,151.0,variable,151000
+Toyota,Yaris Cross,2024,129990,1,hybrid,1.5,116.0,variable,45000
+Toyota,Corolla Cross,2023,142000,1,hybrid,1.8,140.0,variable,11000
+Toyota,Aygo,2012,13800,3,gasoline,1.0,67.0,robotic,167000
+Toyota,Corolla,2020,85000,1,hybrid,1.8,121.0,variable,177000
+Toyota,Corolla,2013,50000,2,gasoline,1.6,132.0,variable,89000
+Toyota,Corolla,2015,40000,3,gasoline,1.6,132.0,variable,187000
+Toyota,Auris,2014,33000,3,hybrid,1.8,99.0,variable,231500
+Toyota,C Hr,2017,73000,2,hybrid,1.8,122.0,automatic,173000
+Toyota,Hilux,2018,170000,1,diesel,2.4,150.0,automatic,72000
+Toyota,Corolla,2021,114000,1,hybrid,1.8,121.0,variable,39500
+Toyota,Yaris,2022,96000,2,hybrid,1.5,100.0,variable,95372
+Toyota,Verso S,2012,32000,3,gasoline,1.3,99.0,variable,116800
+Toyota,Corolla,2006,7300,4,gasoline,1.6,110.0,automatic,350000
+Toyota,Rav4,2025,278000,1,hybrid,2.5,222.0,variable,1300
+Toyota,Corolla,2021,90000,4,hybrid,1.8,121.0,variable,59000
+Toyota,Corolla,2021,70000,2,hybrid,1.8,98.0,variable,186000
+Toyota,Yaris,2007,9500,4,gasoline,1.3,87.0,robotic,220000
+Toyota,Corolla,2001,15000,3,gasoline,1.6,110.0,automatic,319000
+Toyota,C Hr,2019,88000,2,hybrid,1.8,122.0,automatic,115000
+Toyota,Aygo,2019,38000,3,gasoline,1.0,72.0,robotic,84000
+Toyota,Hilux,2002,17000,2,diesel,2.5,89.0,manual,470000
+Toyota,C Hr,2019,97990,1,hybrid,1.8,122.0,automatic,92000
+Toyota,Verso S,2012,21000,2,gasoline,1.3,99.0,variable,204000
+Toyota,Hilux,2018,124990,2,diesel,2.4,150.0,automatic,359000
+Toyota,Corolla,2018,55000,2,gasoline,1.6,132.0,variable,124000
+Toyota,Corolla,2013,23000,2,gasoline,1.6,124.0,automatic,200000
+Toyota,Yaris,2021,74990,1,hybrid,1.5,100.0,variable,159000
+Toyota,Avensis,2014,25000,4,gasoline,2.0,152.0,variable,220000
+Toyota,Aygo,2022,68990,2,gasoline,1.0,72.0,variable,44000
+Toyota,Corolla,2008,12000,3,gasoline,1.6,124.0,automatic,260000
+Toyota,Rav4,2021,169000,1,hybrid,2.5,218.0,automatic,78000
+Toyota,Rav4,2021,173000,2,hybrid,2.5,218.0,automatic,81000
+Toyota,Corolla,2009,18000,2,gasoline,1.6,124.0,automatic,257500
+Toyota,Rav4,2021,185000,2,hybrid,2.5,218.0,automatic,113000
+Toyota,Yaris Cross,2022,110000,1,hybrid,1.5,116.0,variable,76000
+Toyota,Corolla,2023,113000,1,hybrid,1.8,98.0,variable,83000
+Toyota,Corolla Cross,2026,159900,1,hybrid,1.8,140.0,variable,15
+Toyota,Corolla,2007,8400,4,gasoline,1.6,110.0,automatic,350000
+Toyota,Avensis,2009,17500,3,gasoline,2.0,152.0,variable,170000
+Toyota,Yaris,2001,5500,4,gasoline,1.3,86.0,automatic,35480
+Toyota,Corolla,2008,15000,3,gasoline,1.6,124.0,automatic,270000
+Toyota,Rav4,2021,200000,1,hybrid,2.5,222.0,automatic,47000
+Toyota,Corolla,2008,14000,3,gasoline,1.6,124.0,automatic,205890
+Toyota,Corolla,2021,110000,2,hybrid,1.8,121.0,variable,120000
+Toyota,Corolla,2023,140000,1,hybrid,1.8,98.0,variable,29000
+Toyota,Camry,2008,18000,3,gasoline,2.4,167.0,automatic,310000
+Toyota,Corolla,2002,12000,3,gasoline,1.6,110.0,automatic,223000
+Toyota,Previa,1994,7000,4,gasoline,2.4,132.0,automatic,200000
+Toyota,C Hr,2021,115000,2,hybrid,1.8,122.0,variable,37000
+Toyota,Corolla,2019,74000,2,hybrid,1.8,121.0,variable,158000
+Toyota,Corolla,2021,72000,2,hybrid,1.8,121.0,variable,155000
+Toyota,Land Cruiser,2011,125000,2,diesel,3.0,190.0,automatic,310000
+Toyota,Verso S,2011,15000,4,gasoline,1.3,99.0,variable,272000
+Toyota,Corolla,2008,13000,3,gasoline,1.6,124.0,robotic,330000
+Toyota,Bz4X,2024,144900,2,electro,,,automatic,42200
+Toyota,Hilux,2018,170000,1,diesel,2.4,150.0,automatic,72000
+Toyota,Corolla,2021,114000,1,hybrid,1.8,121.0,variable,39500
+Toyota,Corolla,2009,15000,2,gasoline,1.6,124.0,automatic,190000
+Toyota,C Hr,2018,68000,2,hybrid,1.8,122.0,automatic,149000
+Toyota,Corolla,2021,80000,1,hybrid,1.8,121.0,variable,86000
+Toyota,C Hr,2020,85000,2,hybrid,1.8,122.0,variable,113000
+Toyota,Yaris,2022,96000,2,hybrid,1.5,100.0,variable,95372
+Toyota,Prius ,2021,120000,1,hybrid,1.8,136.0,automatic,108896
+Toyota,Verso S,2012,32000,3,gasoline,1.3,99.0,variable,116800
+Toyota,Corolla,2006,7300,4,gasoline,1.6,110.0,automatic,350000
+Toyota,Rav4,2025,278000,1,hybrid,2.5,222.0,variable,1300
+Toyota,Corolla,2021,90000,4,hybrid,1.8,121.0,variable,59000
+Toyota,Corolla,2021,70000,2,hybrid,1.8,98.0,variable,186000
+Toyota,Land Cruiser,2002,55000,3,diesel,3.0,163.0,automatic,369000
+Toyota,Corolla,2007,8000,3,gasoline,1.6,110.0,automatic,308000
+Toyota,Corolla,2008,13000,3,gasoline,1.6,124.0,automatic,238000
+Toyota,Corolla,2007,10000,4,gasoline,1.6,110.0,automatic,247000
+Toyota,Corolla,2022,99200,2,hybrid,1.8,121.0,variable,130000
+Toyota,Rav4,2025,350000,1,hybrid,2.5,218.0,variable,5000
+Toyota,Allex,2006,11900,3,gasoline,1.6,110.0,automatic,242000
+Toyota,Hilux,2006,35000,2,diesel,2.5,102.0,manual,350000
+Toyota,Corolla,2019,69500,3,hybrid,1.8,121.0,variable,165000
+Toyota,Land Cruiser,1999,30000,4,diesel,3.0,125.0,automatic,500000
+Toyota,Yaris,2007,9500,4,gasoline,1.3,87.0,robotic,220000
+Toyota,Corolla,2019,99990,2,hybrid,1.8,121.0,variable,87000
+Toyota,Corolla,2001,15000,3,gasoline,1.6,110.0,automatic,319000
+Toyota,Corolla,2017,43000,2,gasoline,1.6,132.0,variable,161831
+Toyota,Aygo,2023,73000,2,gasoline,1.0,72.0,variable,57000
+Toyota,Avensis,2009,17500,3,gasoline,2.0,152.0,variable,170000
+Toyota,Yaris,2001,5500,4,gasoline,1.3,86.0,automatic,35480
+Toyota,Yaris,2021,89000,1,hybrid,1.5,116.0,variable,133000
+Toyota,Camry,2021,129000,1,hybrid,2.5,218.0,variable,175000
+Toyota,Corolla Cross,2025,161000,1,hybrid,1.8,140.0,variable,9000
+Toyota,Corolla,2008,15000,3,gasoline,1.6,124.0,automatic,270000
+Toyota,Rav4,2021,200000,1,hybrid,2.5,222.0,automatic,47000
+Toyota,Corolla,2008,14000,3,gasoline,1.6,124.0,automatic,205890
+Toyota,Corolla,2021,110000,2,hybrid,1.8,121.0,variable,120000
+Toyota,Corolla,2023,140000,1,hybrid,1.8,98.0,variable,29000
+Toyota,Corolla,2021,94990,2,hybrid,1.8,121.0,variable,65000
+Toyota,Corolla,2020,99990,1,hybrid,1.8,121.0,variable,114000
+Toyota,Camry,2008,18000,3,gasoline,2.4,167.0,automatic,310000
+Toyota,Corolla,2002,12000,3,gasoline,1.6,110.0,automatic,223000
+Toyota,Previa,1994,7000,4,gasoline,2.4,132.0,automatic,200000
+Toyota,Land Cruiser,1999,30000,4,diesel,3.0,125.0,automatic,500000
+Toyota,Corolla,2016,44000,3,gasoline,1.6,132.0,variable,181000
+Toyota,Corolla,2008,16000,3,gasoline,1.6,124.0,automatic,214000
+Toyota,Hiace,2007,34500,4,diesel,2.5,102.0,automatic,365000
+Toyota,Corolla,2007,7000,3,gasoline,1.6,110.0,automatic,302000
+Toyota,Corolla,2021,108000,2,hybrid,1.8,121.0,variable,58000
+Toyota,Verso,2013,10000,3,gasoline,1.8,147.0,variable,479000
+Toyota,Sienna,2014,100000,2,gasoline,3.5,268.0,automatic,128465
+Toyota,Auris,2014,34000,4,hybrid,1.8,99.0,variable,256000
+Toyota,Corolla,2017,46000,4,gasoline,1.6,132.0,variable,232000
+Toyota,Corolla,2012,28000,3,gasoline,1.6,124.0,automatic,192000
+Toyota,Prius,2018,49000,3,hybrid,1.8,122.0,variable,273600
+Toyota,Rav4,2022,170000,1,hybrid,2.5,218.0,automatic,45544
+Toyota,Land Cruiser,2025,410000,1,diesel,2.8,204.0,automatic,24285
+Toyota,Corolla,2014,38000,3,gasoline,1.6,132.0,variable,174000
+Toyota,Sienna,2023,210000,2,hybrid,2.5,245.0,automatic,150000
+Toyota,Land Cruiser,2002,55000,3,diesel,3.0,163.0,automatic,369000
+Toyota,Corolla,2007,8000,3,gasoline,1.6,110.0,automatic,308000
+Toyota,Corolla,2008,13000,3,gasoline,1.6,124.0,automatic,238000
+Toyota,Corolla,2007,10000,4,gasoline,1.6,110.0,automatic,247000
+Toyota,Corolla,2022,99200,2,hybrid,1.8,121.0,variable,130000
+Toyota,Rav4,2025,350000,1,hybrid,2.5,218.0,variable,5000
+Toyota,Allex,2006,11900,3,gasoline,1.6,110.0,automatic,242000
+Toyota,Hilux,2006,35000,2,diesel,2.5,102.0,manual,350000
+Toyota,Corolla,2019,69500,3,hybrid,1.8,121.0,variable,165000
+Toyota,Land Cruiser,1999,30000,4,diesel,3.0,125.0,automatic,500000
+Toyota,Yaris Cross,2023,109900,1,hybrid,1.5,116.0,variable,102000
+Toyota,Camry,2023,149900,1,hybrid,2.5,218.0,variable,77000
+Toyota,Corolla,2020,97900,1,hybrid,1.8,121.0,variable,115000
+Toyota,Corolla,2020,91900,1,hybrid,1.8,121.0,variable,110000
+Toyota,C Hr,2018,85000,1,hybrid,1.8,122.0,automatic,83900
+Toyota,Auris,2011,24000,2,gasoline,1.6,124.0,robotic,238888
+Toyota,Avensis,2014,24000,2,gasoline,2.0,152.0,variable,287000
+Toyota,Auris,2015,42000,3,hybrid,1.8,136.0,variable,249
+Toyota,Yaris,2018,75000,2,hybrid,1.5,100.0,variable,112500
+Toyota,Avensis,2008,11999,4,gasoline,2.0,147.0,automatic,195000
+Toyota,Highlander,2023,260000,2,hybrid,2.4,186.0,variable,61000
+Toyota,Corolla,2015,39000,3,gasoline,1.6,132.0,variable,160000
+Toyota,Land Cruiser,2003,44000,4,diesel,3.0,163.0,automatic,350000
+Toyota,Corolla,2018,68000,3,gasoline,1.6,132.0,variable,81000
+Toyota,Corolla,2016,44000,3,gasoline,1.6,132.0,variable,181000
+Toyota,Corolla,2008,16000,3,gasoline,1.6,124.0,automatic,214000
+Toyota,Hiace,2007,34500,4,diesel,2.5,102.0,automatic,365000
+Toyota,Corolla,2007,7000,3,gasoline,1.6,110.0,automatic,302000
+Toyota,Corolla,2021,108000,2,hybrid,1.8,121.0,variable,58000
+Toyota,Verso,2013,10000,3,gasoline,1.8,147.0,variable,479000
+Toyota,Sienna,2014,100000,2,gasoline,3.5,268.0,automatic,128465
+Toyota,Auris,2014,34000,4,hybrid,1.8,99.0,variable,256000
+Toyota,Corolla,2017,46000,4,gasoline,1.6,132.0,variable,232000
+Toyota,C Hr,2018,85000,1,hybrid,1.8,122.0,automatic,83900
+Toyota,Auris,2011,24000,2,gasoline,1.6,124.0,robotic,238888
+Toyota,Avensis,2014,24000,2,gasoline,2.0,152.0,variable,287000
+Toyota,Auris,2015,42000,3,hybrid,1.8,136.0,variable,249
+Toyota,Yaris,2018,75000,2,hybrid,1.5,100.0,variable,112500
+Toyota,Avensis,2008,11999,4,gasoline,2.0,147.0,automatic,195000
+Toyota,Highlander,2023,260000,2,hybrid,2.4,186.0,variable,61000
+Toyota,Corolla,2015,39000,3,gasoline,1.6,132.0,variable,160000
+Toyota,Land Cruiser,2003,44000,4,diesel,3.0,163.0,automatic,350000
+Toyota,Corolla,2018,68000,3,gasoline,1.6,132.0,variable,81000
+Toyota,Corolla,2011,32000,3,gasoline,1.6,124.0,robotic,195000
+Toyota,Yaris Cross,2023,133000,1,hybrid,1.5,116.0,variable,42000
+Toyota,Auris,2014,30000,3,hybrid,1.8,99.0,variable,160000
+Toyota,Auris,2017,64000,2,hybrid,1.8,136.0,variable,142200
+Toyota,Corolla,2021,105000,1,hybrid,1.8,121.0,variable,151000
+Toyota,Corolla,2020,95500,1,gasoline,1.6,132.0,variable,62000
+Toyota,Highlander,2021,285000,1,hybrid,2.4,186.0,variable,61000
+Toyota,Prius,2008,24000,2,hybrid,1.5,113.0,automatic,250000
+Toyota,Corolla,2021,99999,2,hybrid,1.8,121.0,variable,140000
+Toyota,Corolla,2013,36999,3,gasoline,1.6,132.0,variable,122000
+Toyota,Corolla,2005,10000,3,gasoline,1.6,110.0,automatic,235000
+Toyota,Corolla,2019,85000,2,hybrid,1.8,121.0,variable,103000
+Toyota,Corolla Cross,2024,175000,1,hybrid,1.8,140.0,variable,9800
+Toyota,Corolla,2019,86000,2,hybrid,1.8,121.0,variable,116000
+Toyota,Prius,2008,13800,3,hybrid,1.5,113.0,automatic,360000
+Toyota,Corolla,2020,93000,2,hybrid,1.8,121.0,variable,106000
+Toyota,Land Cruiser,2007,83200,3,diesel,3.0,166.0,automatic,390000
+Toyota,Yaris Cross,2023,133000,1,hybrid,1.5,116.0,variable,42000
+Toyota,Auris,2014,30000,3,hybrid,1.8,99.0,variable,160000
+Toyota,Auris,2017,64000,2,hybrid,1.8,136.0,variable,142200
+Toyota,Corolla,2021,105000,1,hybrid,1.8,121.0,variable,151000
+Toyota,Corolla,2020,95500,1,gasoline,1.6,132.0,variable,62000
+Toyota,Highlander,2021,285000,1,hybrid,2.4,186.0,variable,61000
+Toyota,Prius,2008,24000,2,hybrid,1.5,113.0,automatic,250000
+Toyota,Corolla,2021,99999,2,hybrid,1.8,121.0,variable,140000
+Toyota,Corolla,2013,36999,3,gasoline,1.6,132.0,variable,122000
+Toyota,Corolla,2005,10000,3,gasoline,1.6,110.0,automatic,235000
+Toyota,Rav4,2021,150000,1,hybrid,2.5,218.0,automatic,99400
+Toyota,Corolla,2021,105000,1,hybrid,1.8,121.0,variable,140000
+Toyota,Rav4,2020,160000,1,hybrid,2.5,218.0,automatic,62600
+Toyota,Prius,2009,27000,1,hybrid,1.8,136.0,automatic,142000
+Toyota,Corolla,2015,39000,3,gasoline,1.6,132.0,variable,160000
+Toyota,Land Cruiser,2003,44000,4,diesel,3.0,163.0,automatic,350000
+Toyota,Corolla,2018,68000,3,gasoline,1.6,132.0,variable,81000
+Toyota,Corolla,2011,32000,3,gasoline,1.6,124.0,robotic,195000
+Toyota,Yaris,2012,35500,4,hybrid,1.5,76.0,variable,208000
+Toyota,Hilux,2000,34000,3,diesel,2.0,90.0,manual,980000
+Toyota,Corolla,2021,103000,1,hybrid,1.8,98.0,variable,120000
+Toyota,Corolla,2021,99000,1,hybrid,1.8,121.0,variable,77000
+Toyota,Corolla,2019,89000,2,hybrid,1.8,121.0,variable,104650
+Toyota,Rav4,2018,125000,3,hybrid,2.5,200.0,variable,118000

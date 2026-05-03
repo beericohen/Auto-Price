@@ -1,6 +1,7 @@
+
 # 🚗 Auto Price – Israeli Used Car Price Predictor
 
-A machine learning project that predicts used car prices in Israel based on real listings collected from Yad2.
+A machine learning project that predicts used car prices in Israel based on real listings collected from Autoboom.
 
 ---
 
@@ -12,8 +13,8 @@ Used car prices in Israel are often opaque and hard to evaluate. This project ai
 
 ## 📊 Dataset
 
-- **Source:** Manually collected from [Yad2](https://www.yad2.co.il/vehicles/cars)
-- **Size:** ~270 listings (after cleaning)
+- **Source:** Scrapped using python script from [Autoboom](https://autoboom.co.il/en)
+- **Size:** ~1800 listings
 - **Manufacturers:** Toyota, Kia, Hyundai, Skoda, Mazda, Nissan
 
 | Feature | Description |
@@ -24,53 +25,24 @@ Used car prices in Israel are often opaque and hard to evaluate. This project ai
 | `mileage` | Kilometers driven |
 | `price` | Listed price in ILS ₪ |
 | `hand` | Number of previous owners |
-| `fuel` | Fuel type (petrol / diesel / hybrid) |
-| `color` | Car color |
+| `fuel` | Fuel type (gassoline / diesel / hybrid / plug-in / electric) |
+| `engine liters` | Engine liters|
+| `horsepower` | horsepower|
+| `transmission` | Transmission type (e.g. Automatic, Robotic, Manual)|
 
 ---
 
 ## 🔍 EDA Findings
 
-Exploratory Data Analysis was performed to understand the relationships between features and price.
 
-**Key findings:**
-
-- `year` has a strong positive correlation with price (**0.58**) — newer cars cost more
-- `mileage` has a strong negative correlation with price (**-0.50**) — more km = lower price
-- `hand` has a moderate negative correlation with price (**-0.35**) — more owners = lower price
-- `model` is the most impactful feature — median price ranges from ~45,000 ₪ (Auris) to ~300,000 ₪ (Sienna)
-- `fuel` type alone has weak correlation with price — model and year matter much more
-- Price distribution is **right-skewed** — most cars between 60,000–160,000 ₪ with a long tail of expensive vehicles
-
-**Graphs produced:**
-
-| Graph | Insight |
-|---|---|
-| Price Distribution | Right-skewed, most cars 60k–160k ₪ |
-| Price by Manufacturer | Toyota highest variance, Kia lowest prices |
-| Price vs Mileage | Clear negative trend |
-| Price vs Year | Clear positive trend |
-| Price by Fuel Type | Hybrid slightly higher but weak signal |
-| Correlation Heatmap | year and mileage are strongest predictors |
-| Median Price by Model | Sienna & Land Cruiser far above others |
-
----
-
-![Price Distribution](price_distribution.png)
-![Price by Manufacturer](price_by_manufacturer.png)
-![Price vs Mileage](price_vs_mileage.png)
-![Price vs Year](price_vs_year.png)
-![Price by Fuel Type](price_by_fuel.png)
-![Correlation Heatmap](correlation_heatmap.png)
-![Median Price by Model](price_by_model.png)
 
 
 
 ## 🔄 Project Status
 
 - [x] Data Collection
-- [x] Data Cleaning
-- [x] EDA (Exploratory Data Analysis)
+- [] Data Cleaning
+- [] EDA (Exploratory Data Analysis)
 - [ ] Preprocessing (One Hot Encoding, Normalization)
 - [ ] Model Building
 - [ ] Evaluation
@@ -83,17 +55,23 @@ Exploratory Data Analysis was performed to understand the relationships between 
 Auto-Price/
 │
 ├── data/
-│   ├── CarData.xlsx          # Raw data
-│   ├── CarData.csv           # Raw data
-│   └── Car_Data_Clean.csv    # Cleaned data
+│   ├── kia_data.csv                # Kia raw data
+│   ├── toyota_data.csv             # Toyota raw data
+│   ├── hyundai_data.csv            # Hyundai raw data
+│   ├── skoda_data.csv              # Skoda raw data
+│   ├── mazda_data.csv              # Mazda raw data
+│   ├── nissan_data.csv             # Nissan raw data
+│   ├── autoboom_raw.csv.csv        # All manufacturers raw data combined
 │
 ├── src/
-│   ├── DataCleaner.py        # Data cleaning script
-│   └── EDA.ipynb             # Exploratory data analysis
+│   └── scrapper.py                 # Scrapper script
+
 │
-├── graphs/                   # EDA visualizations
+├── graphs/                         # EDA visualizations
 │
 └── README.md
+└── requirements.txt
+
 ```
 
 ---
@@ -102,14 +80,13 @@ Auto-Price/
 
 - Python
 - Pandas
-- Matplotlib / Seaborn
-- scikit-learn *(coming soon)*
+- Requests
+- BeautifulSoup
 
 ---
 
 ## 🚀 Future Improvements
 
-- Add engine size and horsepower features
 - Enrich data with official price list (מחירון יבואן) as a feature
 - Build a simple web app to predict price from user input
-- Expand dataset to 500+ listings
+- Add more manifacturers

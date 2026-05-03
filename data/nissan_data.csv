@@ -1,0 +1,301 @@
+manufacturer,model,year,price,hand,fuel,engine_liters,horsepower,transmission,mileage
+Nissan,Note,2011,14900,2,gasoline,1.6,110,automatic,161000
+Nissan,Tiida,2009,8900,2,gasoline,1.6,110,automatic,277000
+Nissan,X Trail,2020,85000,2,gasoline,1.3,160,robotic,69000
+Nissan,Micra,2018,30800,2,gasoline,1.2,80,variable,75000
+Nissan,Micra,2018,34900,2,gasoline,1.2,80,variable,121500
+Nissan,Sentra,2022,74800,2,gasoline,2.0,149,variable,93000
+Nissan,Micra,2013,21900,2,gasoline,1.2,80,variable,133000
+Nissan,Juke,2016,32900,3,gasoline,1.6,117,variable,94700
+Nissan,Qashqai,2017,46800,2,diesel,1.6,130,variable,113000
+Nissan,Micra,2011,13800,3,gasoline,1.2,80,automatic,143000
+Nissan,Sentra,2023,97900,1,gasoline,2.0,149,variable,41000
+Nissan,Sentra,2019,52900,2,gasoline,1.8,124,variable,93684
+Nissan,Juke,2015,41900,2,gasoline,1.6,117,variable,102000
+Nissan,Qashqai,2016,39000,3,gasoline,1.2,115,variable,135000
+Nissan,Sentra,2019,42800,1,gasoline,1.8,124,variable,147000
+Nissan,Juke,2018,41800,2,gasoline,1.6,117,variable,105000
+Nissan,Note,2008,10500,3,gasoline,1.6,110,automatic,156000
+Nissan,X Trail,2016,38000,2,diesel,1.6,130,variable,260000
+Nissan,Qashqai,2022,106900,1,gasoline,1.3,156,variable,51000
+Nissan,X Trail,2018,65800,4,diesel,2.0,177,variable,188000
+Nissan,Qashqai,2013,27000,3,gasoline,1.6,117,manual,212350
+Nissan,Tiida,2011,11900,3,gasoline,1.6,110,automatic,235000
+Nissan,Qashqai,2018,61000,1,gasoline,1.2,115,variable,97000
+Nissan,X Trail,2023,179000,1,hybrid,1.5,213,automatic,86000
+Nissan,X Trail,2019,90000,2,gasoline,1.3,160,robotic,68100
+Nissan,X Trail,2016,55900,3,diesel,1.6,130,variable,130000
+Nissan,Juke,2013,19000,3,gasoline,1.6,117,variable,212000
+Nissan,Micra,2011,12500,4,gasoline,1.2,80,automatic,183000
+Nissan,Sentra,2018,50000,2,gasoline,1.8,130,variable,86000
+Nissan,Juke,2013,24000,3,gasoline,1.6,117,variable,110000
+Nissan,Micra,2018,30800,2,gasoline,1.2,80,variable,75000
+Nissan,Juke,2018,41800,2,gasoline,1.6,117,variable,105000
+Nissan,Micra,2011,13800,3,gasoline,1.2,80,automatic,143000
+Nissan,Qashqai,2022,106900,1,gasoline,1.3,156,variable,51000
+Nissan,Qashqai,2017,46800,2,diesel,1.6,130,variable,113000
+Nissan,Juke,2013,22900,2,gasoline,1.6,117,variable,156000
+Nissan,X Trail,2016,38000,2,diesel,1.6,130,variable,260000
+Nissan,Juke,2015,41900,2,gasoline,1.6,117,variable,102000
+Nissan,Qashqai,2015,38800,2,gasoline,1.2,115,variable,133000
+Nissan,Micra,2014,26800,1,gasoline,1.2,80,variable,55000
+Nissan,X Trail,2016,55500,2,diesel,1.6,130,variable,210000
+Nissan,Qashqai,2016,39000,3,gasoline,1.2,115,variable,135000
+Nissan,Qashqai,2013,27000,3,gasoline,1.6,117,manual,212350
+Nissan,X Trail,2017,40000,2,diesel,1.6,130,variable,313000
+Nissan,X Trail,2020,83995,1,gasoline,1.3,160,robotic,114123
+Nissan,Sentra,2023,83365,1,gasoline,2.0,149,variable,92668
+Nissan,Sentra,2023,87995,1,gasoline,2.0,149,variable,66438
+Nissan,Sentra,2021,59435,2,gasoline,2.0,149,variable,132000
+Nissan,Sentra,2021,62515,2,gasoline,2.0,149,variable,113216
+Nissan,Sentra,2019,60255,2,gasoline,1.8,124,variable,133000
+Nissan,Altima,2015,20500,3,gasoline,2.5,182,variable,176000
+Nissan,Juke,2013,18000,2,gasoline,1.6,117,variable,195000
+Nissan,Micra,2012,10000,2,gasoline,1.2,80,variable,200000
+Nissan,Qashqai,2009,16000,2,gasoline,2.0,140,variable,327000
+Nissan,Qashqai,2019,84000,1,gasoline,1.3,160,robotic,88000
+Nissan,Micra,2017,21000,3,gasoline,1.2,80,variable,181500
+Nissan,Qashqai,2018,62000,2,diesel,1.6,130,variable,142000
+Nissan,Qashqai,2017,53000,1,gasoline,1.2,115,variable,47000
+Nissan,Qashqai,2019,70000,4,gasoline,1.3,160,robotic,77000
+Nissan,X Trail,2024,175000,1,hybrid,1.5,213,automatic,39000
+Nissan,Sentra,2019,48995,2,gasoline,1.8,124,variable,127449
+Nissan,Qashqai,2021,96965,2,gasoline,1.3,160,robotic,63000
+Nissan,Qashqai,2021,69025,1,gasoline,1.3,160,robotic,104002
+Nissan,Qashqai,2021,80765,1,gasoline,1.3,160,robotic,101420
+Nissan,Qashqai,2020,68995,2,gasoline,1.2,115,variable,123055
+Nissan,Qashqai,2019,84285,2,gasoline,1.3,160,robotic,77486
+Nissan,Juke,2024,125925,1,hybrid,1.6,143,automatic,28415
+Nissan,Juke,2021,82090,1,gasoline,1.0,117,robotic,64108
+Nissan,Juke,2021,75615,1,gasoline,1.0,117,robotic,37715
+Nissan,Juke,2020,72715,1,gasoline,1.0,117,robotic,90313
+Nissan,Qashqai,2020,59999,2,gasoline,1.2,115,variable,150000
+Nissan,Tiida,2011,11900,3,gasoline,1.6,110,automatic,235000
+Nissan,Qashqai,2018,61000,1,gasoline,1.2,115,variable,97000
+Nissan,Juke,2014,29900,2,gasoline,1.6,117,variable,110000
+Nissan,Qashqai,2017,39900,1,gasoline,1.2,115,variable,128000
+Nissan,Qashqai,2019,52900,2,gasoline,1.3,160,robotic,113000
+Nissan,X Trail,2023,179000,1,hybrid,1.5,213,automatic,86000
+Nissan,Qashqai,2018,64900,2,gasoline,1.2,115,variable,102000
+Nissan,X Trail,2019,90000,2,gasoline,1.3,160,robotic,68100
+Nissan,Juke,2012,27500,3,gasoline,1.6,117,variable,109000
+Nissan,Micra,2017,22500,1,gasoline,1.2,80,variable,215000
+Nissan,Sentra,2021,62000,2,gasoline,2.0,149,variable,90000
+Nissan,Qashqai,2016,40000,2,gasoline,1.2,115,variable,84000
+Nissan,Qashqai,2017,32900,3,gasoline,1.2,115,variable,154000
+Nissan,X Trail,2020,94000,1,diesel,1.7,150,variable,76000
+Nissan,Qashqai,2013,18000,3,gasoline,1.6,117,manual,215000
+Nissan,Micra,2016,18000,3,gasoline,1.2,80,variable,187000
+Nissan,Qashqai,2015,29000,3,gasoline,1.2,115,variable,113000
+Nissan,X Trail,2021,120000,1,gasoline,1.3,160,robotic,36000
+Nissan,Micra,2015,18000,4,gasoline,1.2,80,variable,182000
+Nissan,X Trail,2016,55900,3,diesel,1.6,130,variable,130000
+Nissan,Juke,2013,19000,3,gasoline,1.6,117,variable,212000
+Nissan,Micra,2011,12500,4,gasoline,1.2,80,automatic,183000
+Nissan,X Trail,2025,149990,1,gasoline,1.5,163,variable,45000
+Nissan,Sentra,2018,50000,2,gasoline,1.8,130,variable,86000
+Nissan,X Trail,2018,79900,3,diesel,2.0,177,variable,109900
+Nissan,Juke,2013,24000,3,gasoline,1.6,117,variable,110000
+Nissan,Qashqai,2017,44990,2,gasoline,1.2,115,variable,94000
+Nissan,X Trail,2009,21000,3,gasoline,2.5,169,variable,210000
+Nissan,Altima,2015,20500,3,gasoline,2.5,182,variable,176000
+Nissan,Juke,2013,18000,2,gasoline,1.6,117,variable,195000
+Nissan,Micra,2012,10000,2,gasoline,1.2,80,variable,200000
+Nissan,Qashqai,2009,16000,2,gasoline,2.0,140,variable,327000
+Nissan,Qashqai,2019,84000,1,gasoline,1.3,160,robotic,88000
+Nissan,Micra,2017,21000,3,gasoline,1.2,80,variable,181500
+Nissan,Qashqai,2018,62000,2,diesel,1.6,130,variable,142000
+Nissan,X Trail,2021,96000,2,gasoline,1.3,160,robotic,85000
+Nissan,Sentra,2021,51000,1,gasoline,1.8,124,variable,120000
+Nissan,Qashqai,2017,43000,2,gasoline,1.2,115,variable,117000
+Nissan,Qashqai,2017,53000,1,gasoline,1.2,115,variable,47000
+Nissan,Juke,2014,30000,3,gasoline,1.6,117,variable,182000
+Nissan,Qashqai,2022,131000,1,gasoline,1.3,156,variable,34000
+Nissan,X Trail,2021,130000,3,gasoline,1.3,160,robotic,52000
+Nissan,Qashqai 2,2012,33000,3,gasoline,2.0,141,variable,214000
+Nissan,Juke,2015,30000,3,gasoline,1.6,190,variable,139000
+Nissan,X Trail,2018,75000,3,diesel,1.6,130,variable,110000
+Nissan,Qashqai,2011,28000,2,gasoline,2.0,140,variable,146000
+Nissan,Qashqai,2019,75000,2,gasoline,1.3,160,robotic,91000
+Nissan,Qashqai,2019,75000,1,gasoline,1.3,160,robotic,70000
+Nissan,Sentra,2019,50000,2,gasoline,1.8,124,variable,140000
+Nissan,Qashqai,2019,70000,4,gasoline,1.3,160,robotic,77000
+Nissan,X Trail,2024,175000,1,hybrid,1.5,213,automatic,39000
+Nissan,Micra,2012,12300,4,gasoline,1.2,80,variable,154000
+Nissan,X Trail,2018,65000,2,diesel,1.6,130,variable,143000
+Nissan,Juke,2011,15000,2,gasoline,1.6,117,manual,388000
+Nissan,Qashqai,2020,54900,3,gasoline,1.2,115,variable,150500
+Nissan,X Trail,2020,91000,2,diesel,1.7,150,variable,87000
+Nissan,Micra,2015,15800,2,gasoline,1.2,80,variable,160000
+Nissan,X Trail,2023,165000,1,hybrid,1.5,204,automatic,54000
+Nissan,Sentra,2021,62900,1,gasoline,2.0,149,variable,92000
+Nissan,Micra,2017,22500,1,gasoline,1.2,80,variable,215000
+Nissan,Qashqai,2021,85990,3,diesel,1.5,115,robotic,99000
+Nissan,Sentra,2021,62000,2,gasoline,2.0,149,variable,90000
+Nissan,Qashqai,2016,40000,2,gasoline,1.2,115,variable,84000
+Nissan,X Trail,2018,58000,2,diesel,1.6,130,variable,162000
+Nissan,Qashqai,2017,32900,3,gasoline,1.2,115,variable,154000
+Nissan,X Trail,2020,94000,1,diesel,1.7,150,variable,76000
+Nissan,Qashqai,2013,18000,3,gasoline,1.6,117,manual,215000
+Nissan,Micra,2016,18000,3,gasoline,1.2,80,variable,187000
+Nissan,Qashqai,2015,29000,3,gasoline,1.2,115,variable,113000
+Nissan,Sentra,2019,50000,2,gasoline,1.8,124,variable,140000
+Nissan,Qashqai,2016,42000,3,gasoline,1.2,115,variable,98000
+Nissan,Qashqai,2011,23000,3,gasoline,2.0,140,variable,200000
+Nissan,Micra,2013,9900,3,gasoline,1.2,80,manual,187000
+Nissan,Primastar,2012,60000,3,diesel,2.5,150,manual,241000
+Nissan,Almera,2014,11500,2,gasoline,1.6,109,automatic,110000
+Nissan,Sentra,2022,93000,1,gasoline,2.0,149,variable,33300
+Nissan,Altima,2015,20000,4,gasoline,2.5,182,variable,226805
+Nissan,Qashqai 2,2011,31000,2,gasoline,2.0,141,variable,170000
+Nissan,Qashqai,2019,71000,2,gasoline,1.2,115,variable,111000
+Nissan,Qashqai,2018,54990,3,gasoline,1.2,115,variable,134000
+Nissan,X Trail,2021,120000,1,gasoline,1.3,160,robotic,36000
+Nissan,Sentra,2021,75000,2,gasoline,2.0,149,variable,109000
+Nissan,Micra,2015,18000,4,gasoline,1.2,80,variable,182000
+Nissan,Juke,2013,27999,3,gasoline,1.6,117,variable,120000
+Nissan,Sentra,2016,30000,4,gasoline,1.8,130,variable,139000
+Nissan,Micra,2016,23000,1,gasoline,1.2,80,variable,160000
+Nissan,Micra,2015,22000,3,gasoline,1.2,80,variable,140000
+Nissan,Micra,2021,65000,2,gasoline,1.0,100,robotic,26700
+Nissan,Qashqai,2021,89990,2,diesel,1.5,115,robotic,107000
+Nissan,Sentra,2021,59990,2,gasoline,2.0,149,variable,145689
+Nissan,X Trail,2020,85000,2,gasoline,1.3,160,robotic,87000
+Nissan,Qashqai,2017,47900,3,gasoline,1.2,115,variable,130000
+Nissan,Sentra,2020,60000,2,gasoline,1.8,124,variable,56300
+Nissan,Qashqai,2019,70000,2,gasoline,1.3,160,robotic,80492
+Nissan,Tiida,2009,9500,2,gasoline,1.6,110,automatic,146000
+Nissan,X Trail,2020,100000,1,diesel,1.7,150,variable,80000
+Nissan,X Trail,2017,70000,2,diesel,1.6,130,variable,215000
+Nissan,Juke,2014,30000,3,gasoline,1.6,117,variable,182000
+Nissan,Qashqai,2022,131000,1,gasoline,1.3,156,variable,34000
+Nissan,Qashqai,2013,20000,3,gasoline,1.6,117,manual,235000
+Nissan,Qashqai,2018,68000,1,gasoline,1.2,115,variable,21000
+Nissan,Sentra,2021,85000,1,gasoline,2.0,149,variable,40000
+Nissan,Qashqai,2011,22000,2,gasoline,2.0,140,variable,190000
+Nissan,X Trail,2017,70000,1,diesel,1.6,130,variable,120000
+Nissan,Qashqai,2015,45999,3,gasoline,1.2,115,variable,105000
+Nissan,Juke,2015,35000,2,gasoline,1.6,117,variable,118000
+Nissan,Qashqai,2012,32000,2,gasoline,2.0,140,variable,97000
+Nissan,Altima,2017,38000,3,gasoline,2.5,182,variable,112000
+Nissan,Qashqai,2020,93000,3,gasoline,1.3,160,robotic,56000
+Nissan,X Trail,2021,130000,3,gasoline,1.3,160,robotic,52000
+Nissan,Qashqai 2,2012,33000,3,gasoline,2.0,141,variable,214000
+Nissan,Juke,2015,30000,3,gasoline,1.6,190,variable,139000
+Nissan,X Trail,2018,75000,3,diesel,1.6,130,variable,110000
+Nissan,Qashqai,2011,28000,2,gasoline,2.0,140,variable,146000
+Nissan,Qashqai,2019,75000,2,gasoline,1.3,160,robotic,91000
+Nissan,Qashqai,2019,75000,1,gasoline,1.3,160,robotic,70000
+Nissan,Sentra,2019,50000,2,gasoline,1.8,124,variable,140000
+Nissan,Qashqai,2016,42000,3,gasoline,1.2,115,variable,98000
+Nissan,Qashqai,2011,23000,3,gasoline,2.0,140,variable,200000
+Nissan,Micra,2013,9900,3,gasoline,1.2,80,manual,187000
+Nissan,Primastar,2012,60000,3,diesel,2.5,150,manual,241000
+Nissan,Almera,2014,11500,2,gasoline,1.6,109,automatic,110000
+Nissan,Sentra,2022,93000,1,gasoline,2.0,149,variable,33300
+Nissan,Altima,2015,20000,4,gasoline,2.5,182,variable,226805
+Nissan,Qashqai 2,2011,31000,2,gasoline,2.0,141,variable,170000
+Nissan,Qashqai,2019,71000,2,gasoline,1.2,115,variable,111000
+Nissan,Qashqai,2010,25000,3,gasoline,2.0,140,variable,180036
+Nissan,Qashqai,2013,20000,3,gasoline,1.6,117,manual,235000
+Nissan,Qashqai,2018,68000,1,gasoline,1.2,115,variable,21000
+Nissan,Note,2008,8500,2,gasoline,1.6,110,automatic,161250
+Nissan,Sentra,2022,99500,1,gasoline,2.0,149,variable,25000
+Nissan,Juke,2020,72000,1,gasoline,1.0,117,robotic,73000
+Nissan,Maxima,2015,45000,4,gasoline,3.5,290,variable,158000
+Nissan,Sentra,2021,85000,3,gasoline,2.0,149,variable,96813
+Nissan,Qashqai,2012,16000,2,gasoline,1.6,117,manual,175000
+Nissan,Qashqai,2020,73000,3,gasoline,1.2,115,variable,154000
+Nissan,Qashqai,2011,19500,3,gasoline,2.0,140,variable,174000
+Nissan,Qashqai,2016,44250,1,gasoline,1.2,115,variable,179000
+Nissan,X Trail,2015,75000,2,diesel,1.6,130,variable,173000
+Nissan,Sentra,2021,85000,1,gasoline,2.0,149,variable,40000
+Nissan,Qashqai,2011,22000,2,gasoline,2.0,140,variable,190000
+Nissan,X Trail,2017,70000,1,diesel,1.6,130,variable,120000
+Nissan,Qashqai,2015,45999,3,gasoline,1.2,115,variable,105000
+Nissan,Juke,2015,35000,2,gasoline,1.6,117,variable,118000
+Nissan,Qashqai,2012,32000,2,gasoline,2.0,140,variable,97000
+Nissan,Altima,2017,38000,3,gasoline,2.5,182,variable,112000
+Nissan,Qashqai,2020,93000,3,gasoline,1.3,160,robotic,56000
+Nissan,Qashqai,2019,62000,2,gasoline,1.3,160,robotic,155000
+Nissan,X Trail,2019,115000,3,diesel,2.0,177,variable,157000
+Nissan,Sentra,2024,137000,1,gasoline,2.0,149,variable,16462
+Nissan,Sentra,2018,51000,2,gasoline,1.8,130,variable,85500
+Nissan,Qashqai,2019,80000,1,diesel,1.5,115,robotic,50000
+Nissan,Almera,2004,30000,2,gasoline,1.8,114,automatic,180000
+Nissan,Note,2008,8500,2,gasoline,1.6,110,automatic,161250
+Nissan,Sentra,2022,99500,1,gasoline,2.0,149,variable,25000
+Nissan,Juke,2020,72000,1,gasoline,1.0,117,robotic,73000
+Nissan,Maxima,2015,45000,4,gasoline,3.5,290,variable,158000
+Nissan,Sentra,2021,85000,3,gasoline,2.0,149,variable,96813
+Nissan,Qashqai,2012,16000,2,gasoline,1.6,117,manual,175000
+Nissan,Juke,2019,51000,2,gasoline,1.6,117,variable,101100
+Nissan,X Trail,2023,180000,1,gasoline,1.5,163,variable,30500
+Nissan,X Trail,2021,123000,2,gasoline,1.3,160,robotic,69000
+Nissan,Juke,2016,45000,3,gasoline,1.6,117,variable,64000
+Nissan,Qashqai 2,2014,40000,4,gasoline,2.0,141,variable,150000
+Nissan,Sentra,2017,32000,2,gasoline,1.8,130,variable,170000
+Nissan,Note,2012,19000,1,gasoline,1.6,110,automatic,142000
+Nissan,Qashqai,2013,30200,3,gasoline,1.6,117,manual,133200
+Nissan,Maxima,2019,63000,2,gasoline,3.5,300,variable,191000
+Nissan,Np300,2011,29000,2,diesel,2.5,133,manual,298000
+Nissan,Qashqai,2020,73000,3,gasoline,1.2,115,variable,154000
+Nissan,Qashqai,2011,19500,3,gasoline,2.0,140,variable,174000
+Nissan,Qashqai,2016,44250,1,gasoline,1.2,115,variable,179000
+Nissan,X Trail,2015,75000,2,diesel,1.6,130,variable,173000
+Nissan,Juke,2019,51000,2,gasoline,1.6,117,variable,101100
+Nissan,X Trail,2023,180000,1,gasoline,1.5,163,variable,30500
+Nissan,X Trail,2021,123000,2,gasoline,1.3,160,robotic,69000
+Nissan,Juke,2016,45000,3,gasoline,1.6,117,variable,64000
+Nissan,Qashqai 2,2014,40000,4,gasoline,2.0,141,variable,150000
+Nissan,Sentra,2017,32000,2,gasoline,1.8,130,variable,170000
+Nissan,Note,2012,19000,1,gasoline,1.6,110,automatic,142000
+Nissan,Qashqai,2013,30200,3,gasoline,1.6,117,manual,133200
+Nissan,Maxima,2019,63000,2,gasoline,3.5,300,variable,191000
+Nissan,Np300,2011,29000,2,diesel,2.5,133,manual,298000
+Nissan,Qashqai,2015,53000,3,diesel,1.6,130,variable,105000
+Nissan,Micra,2017,33000,2,gasoline,1.2,80,variable,110000
+Nissan,X Trail,2018,82000,1,diesel,1.6,130,variable,72000
+Nissan,X Trail,2020,127000,1,diesel,1.7,150,variable,57000
+Nissan,Juke,2019,52000,2,gasoline,1.6,117,variable,70000
+Nissan,Qashqai,2019,85000,1,gasoline,1.2,115,variable,137000
+Nissan,Note,2008,8500,2,gasoline,1.6,110,automatic,161250
+Nissan,Sentra,2022,99500,1,gasoline,2.0,149,variable,25000
+Nissan,Juke,2020,72000,1,gasoline,1.0,117,robotic,73000
+Nissan,Maxima,2015,45000,4,gasoline,3.5,290,variable,158000
+Nissan,Sentra,2021,85000,3,gasoline,2.0,149,variable,96813
+Nissan,Qashqai,2012,16000,2,gasoline,1.6,117,manual,175000
+Nissan,Qashqai,2009,31450,3,gasoline,2.0,140,variable,210000
+Nissan,Juke,2011,23000,2,gasoline,1.6,117,variable,165000
+Nissan,X Trail,2017,75000,1,diesel,1.6,130,variable,125000
+Nissan,Nv200,2013,15000,4,diesel,1.5,90,manual,478000
+Nissan,Qashqai,2009,31450,3,gasoline,2.0,140,variable,210000
+Nissan,Juke,2011,23000,2,gasoline,1.6,117,variable,165000
+Nissan,X Trail,2017,75000,1,diesel,1.6,130,variable,125000
+Nissan,Nv200,2013,15000,4,diesel,1.5,90,manual,478000
+Nissan,Note,2007,10500,2,gasoline,1.6,110,automatic,253000
+Nissan,Qashqai,2024,185000,1,gasoline,1.3,156,variable,7000
+Nissan,Micra,2012,15000,4,gasoline,1.2,80,variable,152000
+Nissan,Micra,2010,11400,3,gasoline,1.4,88,automatic,182000
+Nissan,X Trail,2021,134000,2,gasoline,1.3,160,robotic,63000
+Nissan,Note,2007,5900,2,gasoline,1.6,110,automatic,350000
+Nissan,Qashqai,2020,100000,2,gasoline,1.2,115,variable,122000
+Nissan,X Trail,2020,120000,1,gasoline,1.3,160,robotic,53000
+Nissan,Qashqai,2008,15500,3,gasoline,2.0,140,variable,245000
+Nissan,X Trail,2017,80000,2,diesel,1.6,130,variable,170000
+Nissan,Qashqai,2017,55000,1,gasoline,1.2,115,variable,172000
+Nissan,Qashqai,2021,119000,1,diesel,1.5,115,robotic,20000
+Nissan,Juke,2012,30000,2,gasoline,1.6,117,variable,140000
+Nissan,Primera,2007,11000,2,gasoline,2.0,140,variable,206000
+Nissan,Qashqai,2023,182000,1,gasoline,1.3,156,variable,24000
+Nissan,Qashqai,2014,37000,2,gasoline,1.2,115,variable,181862
+Nissan,Juke,2019,51000,2,gasoline,1.6,117,variable,101100
+Nissan,X Trail,2023,180000,1,gasoline,1.5,163,variable,30500
+Nissan,X Trail,2021,123000,2,gasoline,1.3,160,robotic,69000
+Nissan,Juke,2016,45000,3,gasoline,1.6,117,variable,64000
+Nissan,Qashqai 2,2014,40000,4,gasoline,2.0,141,variable,150000
+Nissan,Sentra,2017,32000,2,gasoline,1.8,130,variable,170000
+Nissan,Note,2012,19000,1,gasoline,1.6,110,automatic,142000
+Nissan,Qashqai,2013,30200,3,gasoline,1.6,117,manual,133200
+Nissan,Maxima,2019,63000,2,gasoline,3.5,300,variable,191000
+Nissan,Np300,2011,29000,2,diesel,2.5,133,manual,298000
