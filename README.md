@@ -70,13 +70,16 @@ Auto-Price/
 │   ├── skoda_data.csv              # Skoda raw data
 │   ├── mazda_data.csv              # Mazda raw data
 │   ├── nissan_data.csv             # Nissan raw data
-│   ├── autoboom_raw.csv.csv        # All manufacturers raw data combined
-│   ├── autoboom_clean.csv.csv      # All manufacturers cleaned data
+│   ├── autoboom_raw.csv            # All manufacturers raw data combined
+│   ├── autoboom_clean.csv          # All manufacturers cleaned data
+│   ├── preprocessing.csv           # All the data with one hot encoding and normalization
+
 │
 ├── src/
 │   └── scrapper.py                 # Scrapper script
 │   └── DataCleaner.py              # data cleaning script
 │   └── EDA.ipybv                   # EDA jupyter notebook
+│   └── Preprocessing.ipybv         # Preprocessing jupyter notebook
 |
 │
 ├── graphs/                         # EDA visualizations
