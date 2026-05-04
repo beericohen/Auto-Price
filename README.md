@@ -13,9 +13,9 @@ Used car prices in Israel are often opaque and hard to evaluate. This project ai
 
 ## Models Preformence
 **Multiple Linear Regression**:
-- *MAE* 8668₪
-- *RMSE* 12323₪
-- *R2 score* 0.885
+- `MAE` 8668₪
+- `RMSE` 12323₪
+- `R2 score` 0.885
 
 ## 📊 Dataset
 
