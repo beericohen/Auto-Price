@@ -11,6 +11,10 @@ df = df.dropna(how='all')
 #Remving Empty values(except engine_liters and horsepower because they indicate that the vehicle is electro)
 df = df.dropna(subset=df.columns.difference(['engine_liters', 'horsepower']))
 
+# Adding an electro col
+df['is_electro'] = (df['fuel'] == 'electro').astype(int)
+
+
 # Removing Spaces
 df = df.map(lambda x: x.strip() if isinstance(x, str) else x)
 
@@ -33,10 +37,6 @@ model_counts = df['model'].value_counts()
 rare_models = model_counts[model_counts < 3].index.tolist()
 print(f'Rare models removed: {rare_models}')
 df = df[~df['model'].isin(rare_models)]
-
-# Adding an electro col
-df['is_electro'] = (df['fuel'] == 'electro').astype(int)
-
 
 print(f'After cleaning: {len(df)} rows')
 print(f'\nMissing values:')
