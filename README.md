@@ -78,8 +78,8 @@ Auto-Price/
 ├── src/
 │   └── scrapper.py                 # Scrapper script
 │   └── DataCleaner.py              # data cleaning script
-│   └── EDA.ipybv                   # EDA jupyter notebook
-│   └── Preprocessing.ipybv         # Preprocessing jupyter notebook
+│   └── EDA.ipynb                   # EDA jupyter notebook
+│   └── Preprocessing.ipynb         # Preprocessing jupyter notebook
 |
 │
 ├── graphs/                         # EDA visualizations
