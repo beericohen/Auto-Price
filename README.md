@@ -52,7 +52,7 @@ Exploratory Data Analysis was performed to understand the relationships between 
 - [x] Data Collection
 - [x] Data Cleaning
 - [x] EDA (Exploratory Data Analysis)
-- [ ] Preprocessing (One Hot Encoding, Normalization)
+- [x] Preprocessing (One Hot Encoding, Normalization)
 - [ ] Model Building
 - [ ] Evaluation
 
