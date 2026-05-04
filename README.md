@@ -14,7 +14,7 @@ Used car prices in Israel are often opaque and hard to evaluate. This project ai
 ## 📊 Dataset
 
 - **Source:** Scrapped using python script from [Autoboom](https://autoboom.co.il/en)
-- **Size:** ~1800 listings
+- **Size:** ~1000 listings after cleaning(before 1800)
 - **Manufacturers:** Toyota, Kia, Hyundai, Skoda, Mazda, Nissan
 
 | Feature | Description |
@@ -41,7 +41,7 @@ Used car prices in Israel are often opaque and hard to evaluate. This project ai
 ## 🔄 Project Status
 
 - [x] Data Collection
-- [] Data Cleaning
+- [x] Data Cleaning
 - [] EDA (Exploratory Data Analysis)
 - [ ] Preprocessing (One Hot Encoding, Normalization)
 - [ ] Model Building
@@ -62,9 +62,11 @@ Auto-Price/
 │   ├── mazda_data.csv              # Mazda raw data
 │   ├── nissan_data.csv             # Nissan raw data
 │   ├── autoboom_raw.csv.csv        # All manufacturers raw data combined
+│   ├── autoboom_clean.csv.csv      # All manufacturers cleaned data
 │
 ├── src/
 │   └── scrapper.py                 # Scrapper script
+│   └── DataCleaner.py              # data cleaning script
 
 │
 ├── graphs/                         # EDA visualizations
