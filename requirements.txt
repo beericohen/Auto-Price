@@ -3,5 +3,5 @@ beautifulsoup4
 requests
 matplotlib
 seaborn
-numpy
-scikit-learn
+Scikit-Learn
+joblib

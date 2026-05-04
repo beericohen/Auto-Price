@@ -11,6 +11,12 @@ Used car prices in Israel are often opaque and hard to evaluate. This project ai
 
 ---
 
+## Models Preformence
+**Multiple Linear Regression**:
+- *MAE* 8668₪
+- *RMSE* 12323₪
+- *R2 score* 0.885
+
 ## 📊 Dataset
 
 - **Source:** Scrapped using python script from [Autoboom](https://autoboom.co.il/en)
@@ -73,13 +79,15 @@ Auto-Price/
 │   ├── autoboom_raw.csv            # All manufacturers raw data combined
 │   ├── autoboom_clean.csv          # All manufacturers cleaned data
 │   ├── preprocessing.csv           # All the data with one hot encoding and normalization
-
+│   ├── minmax_scaler.pkl           # The data that being used to reverse the normalization
+|
 │
 ├── src/
 │   └── scrapper.py                 # Scrapper script
 │   └── DataCleaner.py              # data cleaning script
 │   └── EDA.ipynb                   # EDA jupyter notebook
 │   └── Preprocessing.ipynb         # Preprocessing jupyter notebook
+│   └── mlr.py                      # Multiple linear regression script
 |
 │
 ├── graphs/                         # EDA visualizations
@@ -88,15 +96,6 @@ Auto-Price/
 └── requirements.txt
 
 ```
-
----
-
-## 🛠️ Tech Stack
-
-- Python
-- Pandas
-- Requests
-- BeautifulSoup
 
 ---
 
