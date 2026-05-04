@@ -39,11 +39,6 @@ print(f'Rare models removed: {rare_models}')
 df = df[~df['model'].isin(rare_models)]
 
 print(f'After cleaning: {len(df)} rows')
-print(f'\nMissing values:')
-print(df.isnull().sum())
-print(f'\nManufacturers:')
-print(df['manufacturer'].value_counts())
-
 
 # Saving
 df.to_csv('./data/autoboom_clean.csv', index=False)
