@@ -11,9 +11,6 @@ df = df.dropna(how='all')
 #Remving Empty values(except engine_liters and horsepower because they indicate that the vehicle is electro)
 df = df.dropna(subset=df.columns.difference(['engine_liters', 'horsepower']))
 
-# Adding an electro col
-df['is_electro'] = (df['fuel'] == 'electro').astype(int)
-
 
 # Removing Spaces
 df = df.map(lambda x: x.strip() if isinstance(x, str) else x)
