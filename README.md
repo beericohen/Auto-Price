@@ -42,7 +42,7 @@ Used car prices in Israel are often opaque and hard to evaluate. This project ai
 
 - [x] Data Collection
 - [x] Data Cleaning
-- [] EDA (Exploratory Data Analysis)
+- [ ] EDA (Exploratory Data Analysis)
 - [ ] Preprocessing (One Hot Encoding, Normalization)
 - [ ] Model Building
 - [ ] Evaluation
