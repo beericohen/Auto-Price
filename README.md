@@ -34,15 +34,24 @@ Used car prices in Israel are often opaque and hard to evaluate. This project ai
 
 ## 🔍 EDA Findings
 
+Exploratory Data Analysis was performed to understand the relationships between features and price.
 
+**Key findings:**
 
+- `year` has a strong positive correlation with price (**0.73**) — newer cars cost more
+- `mileage` has a strong negative correlation with price (**-0.59**) — more km = lower price
+- `hand` has a moderate negative correlation with price (**-0.49**) — more owners = lower price
+- `fuel` electric cars or hybrid often costs more.
+- Price distribution is **right-skewed** — most cars between 50,000–150,000 ₪ with a long tail of expensive vehicles
+
+---
 
 
 ## 🔄 Project Status
 
 - [x] Data Collection
 - [x] Data Cleaning
-- [ ] EDA (Exploratory Data Analysis)
+- [x] EDA (Exploratory Data Analysis)
 - [ ] Preprocessing (One Hot Encoding, Normalization)
 - [ ] Model Building
 - [ ] Evaluation
@@ -67,7 +76,8 @@ Auto-Price/
 ├── src/
 │   └── scrapper.py                 # Scrapper script
 │   └── DataCleaner.py              # data cleaning script
-
+│   └── EDA.ipybv                   # EDA jupyter notebook
+|
 │
 ├── graphs/                         # EDA visualizations
 │
