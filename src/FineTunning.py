@@ -65,4 +65,3 @@ print(f"{'Model':<25} {'MAE':>10} {'RMSE':>10} {'R2':>8}")
 print("-" * 55)
 print(f"{'XGBoost (first tuning)':<25} {'8577.47':>10} {'12528.45':>10} {'0.8852':>8}")
 print(f"{'XGBoost (fine tuned)':<25} {mae:>10.2f} {rmse:>10.2f} {r2:>8.4f}")
-

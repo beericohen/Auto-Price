@@ -5,6 +5,7 @@ from xgboost import XGBRegressor
 import joblib
 import os
 
+
 df = pd.read_csv(r'c:\Users\USER\Documents\Auto-Price/data/preprocessing.csv')
 
 X = df.iloc[:, 1:]

@@ -11,11 +11,19 @@ Used car prices in Israel are often opaque and hard to evaluate. This project ai
 
 ---
 
-## Models Preformence
-**Multiple Linear Regression**:
-- `MAE` 8668₪
-- `RMSE` 12323₪
-- `R2 score` 0.885
+## Final Models Preformence
+**XGBoost fine tuned**:
+- `MAE` 8474₪
+- `RMSE` 12297₪
+- `R2 score` 0.88590
+
+---
+
+## 📄 Documentation
+
+[Auto-Price-Doc](https://docs.google.com/document/d/1RIsJjkGb4mnWJsIhiPEL4_RQu00MkpkBuKwzfyl-6Qw/edit?tab=t.0)
+
+---
 
 ## 📊 Dataset
 
@@ -59,8 +67,8 @@ Exploratory Data Analysis was performed to understand the relationships between 
 - [x] Data Cleaning
 - [x] EDA (Exploratory Data Analysis)
 - [x] Preprocessing (One Hot Encoding, Normalization)
-- [ ] Model Building
-- [ ] Evaluation
+- [x] Model Building
+- [x] Evaluation
 
 ---
 
@@ -87,10 +95,14 @@ Auto-Price/
 │   └── DataCleaner.py              # data cleaning script
 │   └── EDA.ipynb                   # EDA jupyter notebook
 │   └── Preprocessing.ipynb         # Preprocessing jupyter notebook
-│   └── mlr.py                      # Multiple linear regression script
-|
+│   └── models.py                   # All the choosen models
+│   └── Tunning.py                  # does a tuning of the model
+│   └── FineTunning.py              # Does a fine tuning of the model
+│   └── saveBestModel.py            # Saves the model with his parameters after fine tuning
 │
 ├── graphs/                         # EDA visualizations
+|
+├── Models/                         # All the models pkl files for future use
 │
 └── README.md
 └── requirements.txt
