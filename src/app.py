@@ -8,7 +8,7 @@ import numpy as np
 st.set_page_config(page_title="חיזוי מחיר רכב מדויק", page_icon="🚗", layout="centered")
 
 # נתיבים - וודא שהם תואמים למבנה שלך
-BASE_DIR = r"c:\Users\USER\Documents\Auto-Price"
+BASE_DIR = os.path.dirname(__file__)
 MODEL_PATH = os.path.join(BASE_DIR, "Models", "xgb_fine_tuned.pkl")
 DATA_PATH = os.path.join(BASE_DIR, "data", "preprocessing.csv")
 PRICE_SCALER_PATH = os.path.join(BASE_DIR, "data", "minmax_scaler.pkl")
