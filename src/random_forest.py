@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import KFold, cross_validate
-from sklearn.linear_model import LinearRegression
+from sklearn.ensemble import RandomForestRegressor
 import joblib
 
 df = pd.read_csv(r'c:\Users\USER\Documents\Auto-Price/data/preprocessing.csv')
@@ -14,10 +14,10 @@ scaler_loaded = joblib.load(r'c:\Users\USER\Documents\Auto-Price/data/minmax_sca
 
 # --- Cross-Validation ---
 kf = KFold(n_splits=5, shuffle=True, random_state=42)
-lr = LinearRegression()
+rf = RandomForestRegressor()
 
 cv_results = cross_validate(
-    lr, X, y,
+    rf, X, y,
     cv=kf,
     scoring=['neg_mean_absolute_error', 'neg_root_mean_squared_error', 'r2'],
     return_train_score=False
@@ -41,4 +41,4 @@ print(f"RMSE: {rmse_original.mean():.2f} (+/- {rmse_original.std():.2f})")
 print(f"R2:   {cv_results['test_r2'].mean():.4f} (+/- {cv_results['test_r2'].std():.4f})")
 
 # --- Train final model on ALL data ---
-lr.fit(X, y)
+rf.fit(X, y)
