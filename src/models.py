@@ -2,13 +2,11 @@ import pandas as pd
 import numpy as np
 from sklearn.model_selection import KFold, cross_validate
 from sklearn.linear_model import LinearRegression, Ridge, Lasso, ElasticNet, BayesianRidge
-from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor, ExtraTreesRegressor, VotingRegressor
+from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor, ExtraTreesRegressor
 from xgboost import XGBRegressor
 from sklearn.neighbors import KNeighborsRegressor
-
 import joblib
-
-
+import os
 
 df = pd.read_csv(r'c:\Users\USER\Documents\Auto-Price/data/preprocessing.csv')
 
@@ -28,7 +26,7 @@ models = {
     'LinearRegression':  LinearRegression(),
     'Ridge':             Ridge(),
     'Lasso':             Lasso(),
-    'ElasticNet':        ElasticNet(), 
+    'ElasticNet':        ElasticNet(),
     'BayesianRidge':     BayesianRidge(),
     'KNN':               KNeighborsRegressor(),
     'ExtraTrees':        ExtraTreesRegressor(),
@@ -36,6 +34,8 @@ models = {
     'GradientBoosting':  GradientBoostingRegressor(),
     'XGBoost':           XGBRegressor(),
 }
+
+os.makedirs(r'c:\Users\USER\Documents\Auto-Price\Models', exist_ok=True)
 
 print(f"{'Model':<20} {'MAE':>12} {'RMSE':>12} {'R2':>8}")
 print("-" * 56)
@@ -46,8 +46,14 @@ for name, model in models.items():
         scoring=['neg_mean_absolute_error', 'neg_root_mean_squared_error', 'r2']
     )
 
-    mae  = (-cv_results['test_neg_mean_absolute_error'].mean())  * price_range
+    mae  = (-cv_results['test_neg_mean_absolute_error'].mean()) * price_range
     rmse = (-cv_results['test_neg_root_mean_squared_error'].mean()) * price_range
     r2   = cv_results['test_r2'].mean()
 
     print(f"{name:<20} {mae:>12.2f} {rmse:>12.2f} {r2:>8.4f}")
+
+    # --- Train on ALL data and save ---
+    model.fit(X, y)
+    joblib.dump(model, rf'c:\Users\USER\Documents\Auto-Price\Models\{name}.pkl')
+
+print("\nAll models saved to Auto-Price/Models/")
