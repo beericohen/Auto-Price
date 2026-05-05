@@ -116,3 +116,4 @@ Auto-Price/
 - Enrich data with official price list (מחירון יבואן) as a feature
 - Build a simple web app to predict price from user input
 - Add more manifacturers
+- Training the model that he can preddict models and manifacturres that he doesnt know
