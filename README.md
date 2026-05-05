@@ -99,6 +99,8 @@ Auto-Price/
 │   └── Tunning.py                  # does a tuning of the model
 │   └── FineTunning.py              # Does a fine tuning of the model
 │   └── saveBestModel.py            # Saves the model with his parameters after fine tuning
+│   └── app.py                      # UI
+
 │
 ├── graphs/                         # EDA visualizations
 |
