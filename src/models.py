@@ -11,7 +11,7 @@ import os
 df = pd.read_csv(r'c:\Users\USER\Documents\Auto-Price/data/preprocessing.csv')
 
 X = df.iloc[:, 1:]
-X = X.drop(columns=['price'])
+X = X.drop(columns=['price', 'm'])
 y = df['price']
 
 scaler_loaded = joblib.load(r'c:\Users\USER\Documents\Auto-Price/data/minmax_scaler.pkl')
