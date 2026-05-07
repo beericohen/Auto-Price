@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Loading
-df = pd.read_csv('./data/autoboom_raw.csv')
+df = pd.read_csv(r'C:\Users\USER\Documents\Projects\AutoPrice\Auto-Price\data/autoboom_raw.csv', index_col=False)
 
 print(f'Before cleaning: {len(df)} rows')
 

@@ -5,13 +5,12 @@ from sklearn.ensemble import GradientBoostingRegressor
 from xgboost import XGBRegressor
 import joblib
 
-df = pd.read_csv(r'c:\Users\USER\Documents\Auto-Price/data/preprocessing.csv')
+df = pd.read_csv(r'C:\Users\USER\Documents\Projects\AutoPrice\Auto-Price\data/preprocessing.csv', index_col=False)
 
-X = df.iloc[:, 1:]
-X = X.drop(columns=['price'])
+X = df.drop(columns=['price'])
 y = df['price']
 
-scaler_loaded = joblib.load(r'c:\Users\USER\Documents\Auto-Price/data/minmax_scaler.pkl')
+scaler_loaded = joblib.load(r'C:\Users\USER\Documents\Projects\AutoPrice\Auto-Price\data/minmax_scaler.pkl')
 
 dummy_min = scaler_loaded.inverse_transform([[0]])
 dummy_max = scaler_loaded.inverse_transform([[1]])
@@ -79,5 +78,5 @@ for name, (model, params) in models.items():
 
 
     model.fit(X, y)
-    joblib.dump(model, rf'c:\Users\USER\Documents\Auto-Price\Models\{name}_tuned.pkl')
+    joblib.dump(model, rf'C:\Users\USER\Documents\Projects\AutoPrice\Auto-Price\Models\{name}_tuned.pkl')
 

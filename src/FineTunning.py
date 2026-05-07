@@ -4,13 +4,12 @@ from sklearn.model_selection import KFold, GridSearchCV, cross_validate
 from xgboost import XGBRegressor
 import joblib
 
-df = pd.read_csv(r'c:\Users\USER\Documents\Auto-Price/data/preprocessing.csv')
+df = pd.read_csv(r'C:\Users\USER\Documents\Projects\AutoPrice\Auto-Price\data/preprocessing.csv', index_col=False)
 
-X = df.iloc[:, 1:]
-X = X.drop(columns=['price'])
+X = df.drop(columns=['price'])
 y = df['price']
 
-scaler_loaded = joblib.load(r'c:\Users\USER\Documents\Auto-Price/data/minmax_scaler.pkl')
+scaler_loaded = joblib.load(r'C:\Users\USER\Documents\Projects\AutoPrice\Auto-Price\data/minmax_scaler.pkl')
 
 dummy_min = scaler_loaded.inverse_transform([[0]])
 dummy_max = scaler_loaded.inverse_transform([[1]])
@@ -21,10 +20,10 @@ kf = KFold(n_splits=5, shuffle=True, random_state=42)
 # --- Fine tuning around the best params found earlier ---
 xgb_params = {
     'n_estimators':     [250, 300, 350, 400],
-    'learning_rate':    [0.08, 0.09, 0.1, 0.11, 0.12],
-    'max_depth':        [3],
-    'subsample':        [0.9, 1.0],
-    'colsample_bytree': [0.9, 1.0],
+    'learning_rate':    [0.18, 0.19, 0.2, 0.21, 0.22],
+    'max_depth':        [5],
+    'subsample':        [0.9, 1.0, 1.1],
+    'colsample_bytree': [0.7,0.8, 0.9],
     'min_child_weight': [1, 3, 5],    # New parameter - controls overfitting
     'gamma':            [0, 0.1, 0.2] # New parameter - minimum split gain
 }
@@ -59,9 +58,3 @@ print(f"MAE:  {mae:.2f}")
 print(f"RMSE: {rmse:.2f}")
 print(f"R2:   {r2:.4f}")
 
-# --- Compare to previous best ---
-print(f"\n--- Comparison ---")
-print(f"{'Model':<25} {'MAE':>10} {'RMSE':>10} {'R2':>8}")
-print("-" * 55)
-print(f"{'XGBoost (first tuning)':<25} {'8577.47':>10} {'12528.45':>10} {'0.8852':>8}")
-print(f"{'XGBoost (fine tuned)':<25} {mae:>10.2f} {rmse:>10.2f} {r2:>8.4f}")

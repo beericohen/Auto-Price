@@ -25,7 +25,7 @@ def load_assets():
 
 @st.cache_data
 def get_options():
-    df = pd.read_csv(DATA_PATH, nrows=0)
+    df = pd.read_csv(DATA_PATH, nrows=0, index_col=False)
     cols = [c for c in df.columns if c not in ['Unnamed: 0', 'price']]
     
     manufacturers = sorted([c.replace('manufacturer_', '') for c in cols if 'manufacturer_' in c])

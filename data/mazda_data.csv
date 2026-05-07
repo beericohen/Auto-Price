@@ -1,84 +1,84 @@
 manufacturer,model,year,price,hand,fuel,engine_liters,horsepower,transmission,mileage
-Mazda,Cx 30,2024,123000,1.0,gasoline,2.0,165,automatic,10900
 Mazda,3,2018,75000,1.0,gasoline,2.0,165,automatic,46000
+Mazda,5,2009,12900,3.0,gasoline,2.0,145,automatic,258000
+Mazda,Cx 30,2024,123000,1.0,gasoline,2.0,165,automatic,10900
+Mazda,3,2008,13900,2.0,gasoline,1.6,105,automatic,168000
+Mazda,3,2014,29900,1.0,gasoline,1.5,120,automatic,179000
+Mazda,3,2021,71800,2.0,gasoline,2.0,165,automatic,118000
+Mazda,Cx 3,2018,64000,2.0,gasoline,2.0,156,automatic,160000
+Mazda,3,2018,74500,1.0,gasoline,2.0,165,automatic,84000
 Mazda,Cx 3,2024,114900,1.0,gasoline,1.5,116,automatic,51000
+Mazda,2,2016,45800,2.0,gasoline,1.5,111,automatic,141000
+Mazda,Cx 5,2021,124900,2.0,gasoline,2.0,165,automatic,62000
 Mazda,Cx 3,2023,111900,1.0,gasoline,1.5,116,automatic,41000
-Mazda,5,2011,27900,3.0,gasoline,2.0,144,automatic,187000
+Mazda,3,2022,85800,1.0,gasoline,2.0,165,automatic,113000
 Mazda,3,2021,84900,2.0,gasoline,2.0,165,automatic,67000
 Mazda,5,2009,19500,2.0,gasoline,2.0,145,automatic,134000
-Mazda,3,2022,85800,1.0,gasoline,2.0,165,automatic,113000
-Mazda,2,2021,89900,1.0,gasoline,1.5,116,automatic,31000
-Mazda,3,2008,14500,2.0,gasoline,1.6,105,automatic,168000
-Mazda,3,2021,71800,2.0,gasoline,2.0,165,automatic,118000
-Mazda,3,2018,74500,1.0,gasoline,2.0,165,automatic,84000
-Mazda,2,2008,8500,3.0,gasoline,1.5,103,automatic,177000
-Mazda,Cx 5,2021,124900,2.0,gasoline,2.0,165,automatic,62000
-Mazda,Cx 3,2018,64000,2.0,gasoline,2.0,156,automatic,160000
-Mazda,2,2020,79900,2.0,gasoline,1.5,116,automatic,45000
 Mazda,Cx 5,2013,37900,2.0,gasoline,2.0,155,automatic,178000
-Mazda,2,2016,45800,2.0,gasoline,1.5,111,automatic,141000
-Mazda,2,2023,169000,1.0,gasoline,1.5,116,automatic,100000
+Mazda,2,2022,70000,1.0,gasoline,1.5,116,automatic,114000
+Mazda,2,2008,8500,3.0,gasoline,1.5,103,automatic,177000
+Mazda,5,2011,27900,3.0,gasoline,2.0,144,automatic,187000
+Mazda,2,2021,89900,1.0,gasoline,1.5,116,automatic,31000
+Mazda,3,2006,6000,4.0,gasoline,1.6,105,automatic,286000
+Mazda,3,2017,39000,4.0,gasoline,1.5,120,automatic,187777
+Mazda,3,2009,7500,4.0,gasoline,2.0,150,automatic,295000
+Mazda,2,2012,18500,2.0,gasoline,1.5,103,automatic,153820
+Mazda,2,2023,69000,1.0,gasoline,1.5,116,automatic,100000
+Mazda,3,2014,29000,3.0,gasoline,1.5,120,automatic,200000
 Mazda,3,2005,2900,3.0,gasoline,1.6,105,automatic,250000
 Mazda,3,2020,90000,3.0,gasoline,2.0,165,automatic,90000
-Mazda,3,2017,39900,3.0,gasoline,1.5,120,automatic,187777
 Mazda,3,2021,85000,2.0,gasoline,2.0,165,automatic,99000
+Mazda,3,2010,19000,3.0,gasoline,1.6,105,automatic,257500
+Mazda,Cx 3,2018,64000,2.0,gasoline,2.0,156,automatic,160000
+Mazda,Cx 30,2022,112990,1.0,gasoline,2.0,165,automatic,49000
+Mazda,3,2006,6000,4.0,gasoline,1.6,105,automatic,286000
+Mazda,3,2017,39000,4.0,gasoline,1.5,120,automatic,187777
+Mazda,Cx 5,2023,131045,2.0,gasoline,2.0,165,automatic,64786
+Mazda,Cx 30,2022,98245,2.0,gasoline,2.0,165,automatic,101953
+Mazda,Cx 30,2022,121835,1.0,gasoline,2.0,165,automatic,50711
+Mazda,Cx 3,2024,110925,1.0,gasoline,1.5,116,automatic,72816
+Mazda,Cx 3,2024,109355,1.0,gasoline,1.5,116,automatic,38801
+Mazda,Cx 3,2023,108380,2.0,gasoline,1.5,116,automatic,36000
+Mazda,6,2022,89770,1.0,gasoline,2.0,165,automatic,91936
+Mazda,3,2014,42882,2.0,gasoline,1.5,120,automatic,103824
+Mazda,2,2022,81662,1.0,gasoline,1.5,116,automatic,72000
+Mazda,2,2021,79475,2.0,gasoline,1.5,116,automatic,114332
+Mazda,Cx 5,2021,120690,1.0,gasoline,2.0,165,automatic,97426
+Mazda,Cx 5,2021,131275,1.0,gasoline,2.0,165,automatic,92470
+Mazda,Cx 5,2019,95085,2.0,gasoline,2.0,165,automatic,99871
+Mazda,Cx 5,2017,74505,2.0,gasoline,2.0,165,automatic,143000
+Mazda,Cx 3,2021,89505,3.0,gasoline,2.0,156,automatic,79500
+Mazda,3,2014,43900,4.0,gasoline,2.0,165,automatic,140000
 Mazda,3,2009,16000,3.0,gasoline,1.6,105,automatic,203000
-Mazda,3,2010,10000,4.0,gasoline,1.6,105,automatic,213000
-Mazda,3,2006,5500,4.0,gasoline,1.6,105,automatic,286000
 Mazda,3,2009,7600,3.0,gasoline,1.6,105,automatic,220000
 Mazda,6,2008,11000,4.0,gasoline,2.5,170,automatic,279000
 Mazda,2,2010,15000,3.0,gasoline,1.5,103,automatic,220000
 Mazda,3,2023,139000,1.0,gasoline,2.0,165,automatic,70000
-Mazda,3,2020,90000,3.0,gasoline,2.0,165,automatic,90000
-Mazda,Cx 5,2024,143355,2.0,gasoline,2.0,165,automatic,46000
-Mazda,Cx 5,2023,131045,2.0,gasoline,2.0,165,automatic,64786
-Mazda,Cx 30,2022,103995,2.0,gasoline,2.0,165,automatic,101953
-Mazda,Cx 30,2022,123675,1.0,gasoline,2.0,165,automatic,50711
-Mazda,Cx 3,2024,110925,1.0,gasoline,1.5,116,automatic,72816
-Mazda,Cx 3,2024,109355,1.0,gasoline,1.5,116,automatic,38801
-Mazda,Cx 3,2023,110765,2.0,gasoline,1.5,116,automatic,36000
-Mazda,6,2022,93985,1.0,gasoline,2.0,165,automatic,91936
-Mazda,2,2022,83330,1.0,gasoline,1.5,116,automatic,72000
-Mazda,2,2021,82955,2.0,gasoline,1.5,116,automatic,114332
-Mazda,2,2016,46900,2.0,gasoline,1.5,111,automatic,140000
-Mazda,Cx 5,2021,123385,1.0,gasoline,2.0,165,automatic,97426
-Mazda,Cx 5,2021,133995,1.0,gasoline,2.0,165,automatic,92470
-Mazda,Cx 3,2021,92505,3.0,gasoline,2.0,156,automatic,79500
-Mazda,3,2017,39900,3.0,gasoline,1.5,120,automatic,187777
-Mazda,3,2021,85000,2.0,gasoline,2.0,165,automatic,99000
-Mazda,3,2018,49999,2.0,gasoline,2.0,165,automatic,184306
-Mazda,Cx 5,2013,49990,4.0,gasoline,2.0,155,automatic,155000
-Mazda,3,2009,16000,3.0,gasoline,1.6,105,automatic,203000
 Mazda,3,2014,22000,2.0,gasoline,1.5,120,automatic,260000
 Mazda,6,2008,10499,4.0,gasoline,2.0,147,automatic,217000
 Mazda,3,2007,6500,4.0,gasoline,1.6,105,automatic,294000
 Mazda,3,2010,11500,2.0,gasoline,1.6,105,automatic,200000
 Mazda,3,2009,16000,2.0,gasoline,2.0,150,automatic,250000
-Mazda,3,2009,7500,4.0,gasoline,1.6,105,automatic,300000
-Mazda,2,2017,73000,1.0,gasoline,1.5,111,automatic,64000
-Mazda,3,2008,11000,3.0,gasoline,2.0,150,automatic,245000
-Mazda,3,2006,11000,2.0,gasoline,1.6,105,automatic,235000
-Mazda,3,2007,9000,3.0,gasoline,2.0,150,automatic,213000
+Mazda,3,2009,7500,4.0,gasoline,2.0,150,automatic,295000
+Mazda,2,2012,18500,2.0,gasoline,1.5,103,automatic,153820
+Mazda,Cx 5,2018,74999,3.0,gasoline,2.0,165,automatic,170000
+Mazda,2,2023,69000,1.0,gasoline,1.5,116,automatic,100000
+Mazda,3,2014,29000,3.0,gasoline,1.5,120,automatic,200000
+Mazda,3,2005,2900,3.0,gasoline,1.6,105,automatic,250000
+Mazda,3,2020,90000,3.0,gasoline,2.0,165,automatic,90000
+Mazda,3,2021,85000,2.0,gasoline,2.0,165,automatic,99000
+Mazda,3,2018,49999,2.0,gasoline,2.0,165,automatic,184306
+Mazda,Cx 5,2013,49990,4.0,gasoline,2.0,155,automatic,155000
+Mazda,3,2010,19000,3.0,gasoline,1.6,105,automatic,257500
+Mazda,3,2009,16000,3.0,gasoline,1.6,105,automatic,203000
 Mazda,3,2017,42500,3.0,gasoline,1.5,120,automatic,174000
-Mazda,3,2010,10000,4.0,gasoline,1.6,105,automatic,213000
 Mazda,Cx 3,2022,94990,1.0,gasoline,1.5,116,automatic,57000
-Mazda,3,2006,5500,4.0,gasoline,1.6,105,automatic,286000
 Mazda,3,2009,7600,3.0,gasoline,1.6,105,automatic,220000
 Mazda,2,2010,23000,2.0,gasoline,1.5,103,automatic,92000
 Mazda,2,2008,20000,3.0,gasoline,1.5,103,automatic,108000
 Mazda,6,2008,11000,4.0,gasoline,2.5,170,automatic,279000
 Mazda,Cx 5,2022,149990,1.0,gasoline,2.5,194,automatic,49000
 Mazda,2,2010,15000,3.0,gasoline,1.5,103,automatic,220000
-Mazda,3,2018,65000,2.0,gasoline,2.0,165,automatic,141000
-Mazda,Cx 3,2023,95990,1.0,gasoline,1.5,116,automatic,52000
-Mazda,3,2023,139000,1.0,gasoline,2.0,165,automatic,70000
-Mazda,3,2022,99990,1.0,gasoline,2.0,165,automatic,97000
-Mazda,3,2014,22000,2.0,gasoline,1.5,120,automatic,260000
-Mazda,6,2008,10499,4.0,gasoline,2.0,147,automatic,217000
-Mazda,Cx 5,2019,84900,3.0,gasoline,2.0,165,automatic,87000
-Mazda,2,2016,33000,2.0,gasoline,1.5,111,automatic,189000
-Mazda,3,2013,33000,3.0,gasoline,2.0,150,automatic,147000
-Mazda,3,2007,6500,4.0,gasoline,1.6,105,automatic,294000
 Mazda,3,2010,12000,4.0,gasoline,1.6,105,automatic,260000
 Mazda,3,2008,9000,2.0,gasoline,1.6,105,automatic,250000
 Mazda,2,2022,74000,2.0,gasoline,1.5,116,automatic,92500
@@ -89,6 +89,14 @@ Mazda,Cx 5,2020,110000,3.0,gasoline,2.0,165,automatic,75000
 Mazda,2,2021,60000,2.0,gasoline,1.5,116,automatic,64000
 Mazda,3,2010,27000,1.0,gasoline,2.0,150,automatic,175000
 Mazda,6,2013,22000,3.0,gasoline,2.0,155,automatic,240000
+Mazda,3,2018,65000,2.0,gasoline,2.0,165,automatic,141000
+Mazda,Cx 3,2023,95990,1.0,gasoline,1.5,116,automatic,52000
+Mazda,3,2023,139000,1.0,gasoline,2.0,165,automatic,70000
+Mazda,3,2022,99990,1.0,gasoline,2.0,165,automatic,97000
+Mazda,3,2014,22000,2.0,gasoline,1.5,120,automatic,260000
+Mazda,6,2008,10499,4.0,gasoline,2.0,147,automatic,217000
+Mazda,2,2016,33000,2.0,gasoline,1.5,111,automatic,189000
+Mazda,3,2007,6500,4.0,gasoline,1.6,105,automatic,294000
 Mazda,3,2010,11500,2.0,gasoline,1.6,105,automatic,200000
 Mazda,3,2009,16000,2.0,gasoline,2.0,150,automatic,250000
 Mazda,3,2009,7500,4.0,gasoline,1.6,105,automatic,300000
@@ -101,6 +109,16 @@ Mazda,3,2006,11000,2.0,gasoline,1.6,105,automatic,235000
 Mazda,3,2007,9000,3.0,gasoline,2.0,150,automatic,213000
 Mazda,3,2005,5500,3.0,gasoline,1.6,105,automatic,370000
 Mazda,6,2021,120000,3.0,gasoline,2.5,195,automatic,159000
+Mazda,Cx 30,2020,83000,2.0,gasoline,2.0,165,automatic,123700
+Mazda,3,2009,13000,4.0,gasoline,1.6,105,automatic,207500
+Mazda,3,2005,4200,4.0,gasoline,1.6,105,automatic,240000
+Mazda,Cx 30,2022,85000,2.0,gasoline,2.0,165,automatic,127150
+Mazda,5,2010,13000,3.0,gasoline,2.0,145,automatic,250000
+Mazda,2,2010,12500,2.0,gasoline,1.5,103,automatic,206000
+Mazda,3,2014,28000,2.0,gasoline,1.5,120,automatic,270000
+Mazda,3,2021,77000,2.0,gasoline,2.0,165,automatic,122000
+Mazda,3,2019,62300,2.0,gasoline,2.0,165,automatic,173000
+Mazda,3,2013,27500,4.0,gasoline,2.0,165,automatic,137000
 Mazda,3,2017,58000,2.0,gasoline,2.0,165,automatic,176000
 Mazda,Cx 5,2024,127000,2.0,gasoline,2.0,165,automatic,18000
 Mazda,3,2006,9000,4.0,gasoline,1.6,105,automatic,160000
@@ -109,16 +127,6 @@ Mazda,3,2010,12000,4.0,gasoline,1.6,105,automatic,260000
 Mazda,Cx 5,2020,105000,2.0,gasoline,2.0,165,automatic,108000
 Mazda,3,2008,9000,2.0,gasoline,1.6,105,automatic,250000
 Mazda,2,2022,77000,,gasoline,1.5,116,automatic,118000
-Mazda,5,2010,13000,3.0,gasoline,2.0,145,automatic,250000
-Mazda,2,2010,12500,2.0,gasoline,1.5,103,automatic,206000
-Mazda,3,2014,28000,2.0,gasoline,1.5,120,automatic,270000
-Mazda,3,2021,77000,2.0,gasoline,2.0,165,automatic,122000
-Mazda,3,2019,62300,2.0,gasoline,2.0,165,automatic,173000
-Mazda,3,2013,27500,4.0,gasoline,2.0,165,automatic,137000
-Mazda,5,2008,15000,4.0,gasoline,2.0,145,automatic,320000
-Mazda,Cx 5,2022,147000,1.0,gasoline,2.5,194,automatic,56000
-Mazda,Cx 3,2023,115000,1.0,gasoline,1.5,116,automatic,21000
-Mazda,323,2002,5000,4.0,gasoline,1.6,105,automatic,242000
 Mazda,2,2022,74000,2.0,gasoline,1.5,116,automatic,92500
 Mazda,6,2009,13500,4.0,gasoline,2.0,147,automatic,279000
 Mazda,3,2023,120000,1.0,gasoline,2.0,165,automatic,50000
@@ -131,6 +139,16 @@ Mazda,3,2010,27000,1.0,gasoline,2.0,150,automatic,175000
 Mazda,6,2013,22000,3.0,gasoline,2.0,155,automatic,240000
 Mazda,3,2011,17000,2.0,gasoline,1.6,105,automatic,164000
 Mazda,3,2015,24000,2.0,gasoline,1.5,120,automatic,195000
+Mazda,Cx 5,2022,147000,1.0,gasoline,2.5,194,automatic,56000
+Mazda,Cx 3,2023,115000,1.0,gasoline,1.5,116,automatic,21000
+Mazda,323,2002,5000,4.0,gasoline,1.6,105,automatic,242000
+Mazda,Cx 30,2024,130000,2.0,gasoline,2.0,165,automatic,14580
+Mazda,323,2003,4500,3.0,gasoline,1.6,105,automatic,259316
+Mazda,3,2009,10000,2.0,gasoline,1.6,105,automatic,215000
+Mazda,Cx 5,2016,65000,3.0,gasoline,2.0,165,automatic,100000
+Mazda,3,2021,85000,2.0,gasoline,2.0,165,automatic,77000
+Mazda,5,2014,36500,2.0,gasoline,2.0,144,automatic,196000
+Mazda,323,1999,10000,3.0,gasoline,1.8,115,automatic,290000
 Mazda,3,2021,89000,3.0,gasoline,2.0,165,automatic,85000
 Mazda,2 Hybrid,2024,119990,1.0,hybrid,1.5,116,automatic,8500
 Mazda,Cx 30,2020,83000,2.0,gasoline,2.0,165,automatic,123700
@@ -139,16 +157,6 @@ Mazda,3,2005,4200,4.0,gasoline,1.6,105,automatic,240000
 Mazda,Cx 30,2022,85000,2.0,gasoline,2.0,165,automatic,127150
 Mazda,Cx 5,2013,39990,3.0,gasoline,2.0,155,automatic,199000
 Mazda,5,2010,13000,3.0,gasoline,2.0,145,automatic,250000
-Mazda,Cx 30,2024,130000,2.0,gasoline,2.0,165,automatic,14580
-Mazda,323,2003,4500,3.0,gasoline,1.6,105,automatic,259316
-Mazda,3,2009,10000,2.0,gasoline,1.6,105,automatic,215000
-Mazda,Cx 5,2016,65000,3.0,gasoline,2.0,165,automatic,100000
-Mazda,3,2021,85000,2.0,gasoline,2.0,165,automatic,77000
-Mazda,5,2014,36500,2.0,gasoline,2.0,144,automatic,196000
-Mazda,323,1999,10000,3.0,gasoline,1.8,115,automatic,290000
-Mazda,6,2004,6900,1.0,gasoline,2.0,147,automatic,289371
-Mazda,3,2011,10000,4.0,gasoline,1.6,105,automatic,216000
-Mazda,Cx 5,2020,117000,1.0,gasoline,2.0,165,automatic,54000
 Mazda,2,2010,12500,2.0,gasoline,1.5,103,automatic,206000
 Mazda,2,2023,78900,1.0,gasoline,1.5,116,automatic,74000
 Mazda,Cx 5,2022,134900,1.0,gasoline,2.0,165,automatic,42000
@@ -161,6 +169,16 @@ Mazda,5,2008,15000,4.0,gasoline,2.0,145,automatic,320000
 Mazda,Cx 5,2022,147000,1.0,gasoline,2.5,194,automatic,56000
 Mazda,Cx 3,2023,115000,1.0,gasoline,1.5,116,automatic,21000
 Mazda,323,2002,5000,4.0,gasoline,1.6,105,automatic,242000
+Mazda,6,2004,6900,1.0,gasoline,2.0,147,automatic,289371
+Mazda,3,2011,10000,4.0,gasoline,1.6,105,automatic,216000
+Mazda,Cx 5,2020,117000,1.0,gasoline,2.0,165,automatic,54000
+Mazda,Cx 30,2024,142600,1.0,gasoline,2.0,165,automatic,3800
+Mazda,3,2008,9280,2.0,gasoline,1.6,105,automatic,220000
+Mazda,3,2007,9000,3.0,gasoline,1.6,105,automatic,340000
+Mazda,Cx 5,2022,134000,1.0,gasoline,2.0,165,automatic,38600
+Mazda,5,2007,8000,3.0,gasoline,2.0,145,automatic,240000
+Mazda,Cx 5,2017,81000,3.0,gasoline,2.0,165,automatic,100000
+Mazda,5,2011,29000,3.0,gasoline,2.0,144,automatic,248000
 Mazda,Cx 30,2024,130000,2.0,gasoline,2.0,165,automatic,14580
 Mazda,323,2003,4500,3.0,gasoline,1.6,105,automatic,259316
 Mazda,3,2009,10000,2.0,gasoline,1.6,105,automatic,215000
@@ -169,16 +187,6 @@ Mazda,3,2021,85000,2.0,gasoline,2.0,165,automatic,77000
 Mazda,5,2014,36500,2.0,gasoline,2.0,144,automatic,196000
 Mazda,323,1999,10000,3.0,gasoline,1.8,115,automatic,290000
 Mazda,6,2004,6900,1.0,gasoline,2.0,147,automatic,289371
-Mazda,Cx 5,2022,134000,1.0,gasoline,2.0,165,automatic,38600
-Mazda,5,2007,8000,3.0,gasoline,2.0,145,automatic,240000
-Mazda,Cx 5,2017,81000,3.0,gasoline,2.0,165,automatic,100000
-Mazda,5,2011,29000,3.0,gasoline,2.0,144,automatic,248000
-Mazda,Cx 5,2013,38000,2.0,gasoline,2.0,155,automatic,211000
-Mazda,5,2006,8000,4.0,gasoline,2.0,145,automatic,155000
-Mazda,3,2005,8500,2.0,gasoline,2.0,150,automatic,280000
-Mazda,5,2010,23000,1.0,gasoline,2.0,145,automatic,220000
-Mazda,Cx 30,2020,90000,1.0,gasoline,2.0,165,automatic,87450
-Mazda,Cx 30,2021,95000,1.0,gasoline,2.0,165,automatic,100000
 Mazda,3,2011,10000,4.0,gasoline,1.6,105,automatic,216000
 Mazda,Cx 5,2020,117000,1.0,gasoline,2.0,165,automatic,54000
 Mazda,Cx 30,2024,142600,1.0,gasoline,2.0,165,automatic,3800
@@ -191,6 +199,16 @@ Mazda,5,2011,29000,3.0,gasoline,2.0,144,automatic,248000
 Mazda,Cx 5,2013,38000,2.0,gasoline,2.0,155,automatic,211000
 Mazda,5,2006,8000,4.0,gasoline,2.0,145,automatic,155000
 Mazda,3,2005,8500,2.0,gasoline,2.0,150,automatic,280000
+Mazda,2,2009,13000,1.0,gasoline,1.5,103,automatic,241675
+Mazda,323,2004,6000,2.0,gasoline,1.6,105,automatic,170000
+Mazda,3,2022,134000,1.0,gasoline,2.0,165,automatic,30000
+Mazda,3,2004,8000,4.0,gasoline,1.6,105,automatic,201000
+Mazda,3,2007,6000,1.0,gasoline,1.6,105,automatic,260000
+Mazda,5,2010,8000,3.0,gasoline,2.0,145,automatic,325000
+Mazda,3,2010,13500,4.0,gasoline,1.6,105,automatic,250000
+Mazda,6,2019,82000,2.0,gasoline,2.5,195,automatic,125000
+Mazda,3,2017,65000,4.0,gasoline,2.0,165,automatic,230000
+Mazda,Cx 5,2013,44000,2.0,gasoline,2.0,155,automatic,280000
 Mazda,5,2010,23000,1.0,gasoline,2.0,145,automatic,220000
 Mazda,Cx 30,2020,90000,1.0,gasoline,2.0,165,automatic,87450
 Mazda,Cx 30,2021,95000,1.0,gasoline,2.0,165,automatic,100000
@@ -199,16 +217,6 @@ Mazda,323,2004,6000,2.0,gasoline,1.6,105,automatic,170000
 Mazda,3,2022,134000,1.0,gasoline,2.0,165,automatic,30000
 Mazda,3,2004,8000,4.0,gasoline,1.6,105,automatic,201000
 Mazda,3,2007,6000,1.0,gasoline,1.6,105,automatic,260000
-Mazda,323,1999,10000,3.0,gasoline,1.8,115,automatic,290000
-Mazda,6,2004,6900,1.0,gasoline,2.0,147,automatic,289371
-Mazda,5,2010,8000,3.0,gasoline,2.0,145,automatic,325000
-Mazda,3,2010,13500,4.0,gasoline,1.6,105,automatic,250000
-Mazda,6,2019,82000,2.0,gasoline,2.5,195,automatic,125000
-Mazda,3,2017,65000,4.0,gasoline,2.0,165,automatic,230000
-Mazda,Cx 5,2013,44000,2.0,gasoline,2.0,155,automatic,280000
-Mazda,Cx 5,2015,71000,3.0,gasoline,2.5,188,automatic,106000
-Mazda,6,2018,74000,4.0,gasoline,2.0,165,automatic,49500
-Mazda,3,2022,120000,1.0,gasoline,2.0,165,automatic,43000
 Mazda,5,2010,8000,3.0,gasoline,2.0,145,automatic,325000
 Mazda,3,2010,13500,4.0,gasoline,1.6,105,automatic,250000
 Mazda,6,2019,82000,2.0,gasoline,2.5,195,automatic,125000
@@ -221,6 +229,16 @@ Mazda,3,2019,60000,3.0,gasoline,2.0,165,automatic,137000
 Mazda,2,2015,38500,3.0,gasoline,1.5,103,automatic,132000
 Mazda,3,2005,6900,3.0,gasoline,1.6,105,automatic,296775
 Mazda,3,2005,8500,3.0,gasoline,1.6,105,automatic,327000
+Mazda,Cx 5,2022,134000,1.0,gasoline,2.0,165,automatic,38600
+Mazda,5,2007,8000,3.0,gasoline,2.0,145,automatic,240000
+Mazda,Cx 5,2017,81000,3.0,gasoline,2.0,165,automatic,100000
+Mazda,5,2011,29000,3.0,gasoline,2.0,144,automatic,248000
+Mazda,Cx 5,2013,38000,2.0,gasoline,2.0,155,automatic,211000
+Mazda,5,2006,8000,4.0,gasoline,2.0,145,automatic,155000
+Mazda,3,2005,8500,2.0,gasoline,2.0,150,automatic,280000
+Mazda,3,2012,14000,3.0,gasoline,1.6,105,automatic,290000
+Mazda,5,2007,9000,3.0,gasoline,2.0,145,automatic,300000
+Mazda,3,2023,135000,1.0,gasoline,2.0,165,automatic,26000
 Mazda,3,2012,14000,3.0,gasoline,1.6,105,automatic,290000
 Mazda,5,2007,9000,3.0,gasoline,2.0,145,automatic,300000
 Mazda,3,2023,135000,1.0,gasoline,2.0,165,automatic,26000
@@ -229,16 +247,6 @@ Mazda,5,2007,9000,2.0,gasoline,2.0,145,automatic,267000
 Mazda,Cx 5,2022,139000,1.0,gasoline,2.0,165,automatic,90000
 Mazda,Cx 3,2020,84000,3.0,gasoline,2.0,156,automatic,65000
 Mazda,2,2009,12000,4.0,gasoline,1.5,103,automatic,250300
-Mazda,5,2011,29000,3.0,gasoline,2.0,144,automatic,248000
-Mazda,Cx 5,2013,38000,2.0,gasoline,2.0,155,automatic,211000
-Mazda,5,2006,8000,4.0,gasoline,2.0,145,automatic,155000
-Mazda,3,2005,8500,2.0,gasoline,2.0,150,automatic,280000
-Mazda,5,2010,23000,1.0,gasoline,2.0,145,automatic,220000
-Mazda,Cx 30,2020,90000,1.0,gasoline,2.0,165,automatic,87450
-Mazda,Cx 30,2021,95000,1.0,gasoline,2.0,165,automatic,100000
-Mazda,2,2009,13000,1.0,gasoline,1.5,103,automatic,241675
-Mazda,323,2004,6000,2.0,gasoline,1.6,105,automatic,170000
-Mazda,3,2022,134000,1.0,gasoline,2.0,165,automatic,30000
 Mazda,5,2006,11000,2.0,gasoline,2.0,145,automatic,89000
 Mazda,6,2019,69900,2.0,gasoline,2.0,165,automatic,160000
 Mazda,3,2008,12000,3.0,gasoline,1.6,105,automatic,200000
@@ -251,6 +259,16 @@ Mazda,Cx 5,2020,103000,2.0,gasoline,2.0,165,automatic,81000
 Mazda,3,2012,9500,4.0,gasoline,1.6,105,automatic,260000
 Mazda,3,2023,135000,2.0,gasoline,2.0,165,automatic,31000
 Mazda,5,2009,8000,3.0,gasoline,2.0,145,automatic,380000
+Mazda,2,2009,13000,1.0,gasoline,1.5,103,automatic,241675
+Mazda,323,2004,6000,2.0,gasoline,1.6,105,automatic,170000
+Mazda,3,2022,134000,1.0,gasoline,2.0,165,automatic,30000
+Mazda,3,2004,8000,4.0,gasoline,1.6,105,automatic,201000
+Mazda,3,2007,6000,1.0,gasoline,1.6,105,automatic,260000
+Mazda,5,2010,8000,3.0,gasoline,2.0,145,automatic,325000
+Mazda,3,2010,13500,4.0,gasoline,1.6,105,automatic,250000
+Mazda,6,2019,82000,2.0,gasoline,2.5,195,automatic,125000
+Mazda,3,2017,65000,4.0,gasoline,2.0,165,automatic,230000
+Mazda,Cx 5,2013,44000,2.0,gasoline,2.0,155,automatic,280000
 Mazda,Cx 5,2022,155000,1.0,gasoline,2.5,194,automatic,47300
 Mazda,5,2007,14000,4.0,gasoline,2.0,145,automatic,278000
 Mazda,5,2008,18000,3.0,gasoline,2.0,145,automatic,184000
@@ -259,16 +277,6 @@ Mazda,3,2006,7500,3.0,gasoline,1.6,105,automatic,229000
 Mazda,Cx 5,2014,58000,3.0,gasoline,2.0,165,automatic,140000
 Mazda,3,2008,11000,2.0,gasoline,1.6,105,automatic,203000
 Mazda,3,2008,14000,2.0,gasoline,1.6,105,automatic,150000
-Mazda,3,2004,8000,4.0,gasoline,1.6,105,automatic,201000
-Mazda,3,2007,6000,1.0,gasoline,1.6,105,automatic,260000
-Mazda,5,2010,8000,3.0,gasoline,2.0,145,automatic,325000
-Mazda,3,2010,13500,4.0,gasoline,1.6,105,automatic,250000
-Mazda,6,2019,82000,2.0,gasoline,2.5,195,automatic,125000
-Mazda,3,2017,65000,4.0,gasoline,2.0,165,automatic,230000
-Mazda,Cx 5,2013,44000,2.0,gasoline,2.0,155,automatic,280000
-Mazda,Cx 5,2015,71000,3.0,gasoline,2.5,188,automatic,106000
-Mazda,6,2018,74000,4.0,gasoline,2.0,165,automatic,49500
-Mazda,3,2022,120000,1.0,gasoline,2.0,165,automatic,43000
 Mazda,323,2003,4900,3.0,gasoline,1.6,105,automatic,220000
 Mazda,5,2008,15900,3.0,gasoline,2.0,145,automatic,270000
 Mazda,3,2019,60000,2.0,gasoline,2.0,165,automatic,99000
@@ -281,6 +289,16 @@ Mazda,3,2009,17000,4.0,gasoline,1.6,105,automatic,212396
 Mazda,Cx 5,2013,50000,3.0,gasoline,2.0,155,automatic,186000
 Mazda,5,2006,11000,3.0,gasoline,2.0,145,automatic,295000
 Mazda,6,2016,44000,3.0,gasoline,2.0,165,automatic,233500
+Mazda,Cx 5,2015,71000,3.0,gasoline,2.5,188,automatic,106000
+Mazda,6,2018,74000,4.0,gasoline,2.0,165,automatic,49500
+Mazda,3,2022,120000,1.0,gasoline,2.0,165,automatic,43000
+Mazda,3,2019,60000,3.0,gasoline,2.0,165,automatic,137000
+Mazda,2,2015,38500,3.0,gasoline,1.5,103,automatic,132000
+Mazda,3,2005,6900,3.0,gasoline,1.6,105,automatic,296775
+Mazda,3,2005,8500,3.0,gasoline,1.6,105,automatic,327000
+Mazda,3,2012,14000,3.0,gasoline,1.6,105,automatic,290000
+Mazda,5,2007,9000,3.0,gasoline,2.0,145,automatic,300000
+Mazda,3,2023,135000,1.0,gasoline,2.0,165,automatic,26000
 Mazda,5,2007,18000,2.0,gasoline,2.0,145,automatic,250000
 Mazda,3,2021,98000,2.0,gasoline,2.0,165,automatic,100000
 Mazda,Cx 5,2015,67000,2.0,gasoline,2.0,165,automatic,120000
@@ -289,13 +307,286 @@ Mazda,5,2014,47000,2.0,gasoline,2.0,144,automatic,199000
 Mazda,3,2010,24000,4.0,gasoline,1.6,105,automatic,125000
 Mazda,3,2010,16500,3.0,gasoline,1.6,105,automatic,200000
 Mazda,2,2008,9900,3.0,gasoline,1.5,103,automatic,268000
-Mazda,3,2019,60000,3.0,gasoline,2.0,165,automatic,137000
-Mazda,2,2015,38500,3.0,gasoline,1.5,103,automatic,132000
-Mazda,3,2005,6900,3.0,gasoline,1.6,105,automatic,296775
-Mazda,3,2005,8500,3.0,gasoline,1.6,105,automatic,327000
-Mazda,3,2012,14000,3.0,gasoline,1.6,105,automatic,290000
-Mazda,5,2007,9000,3.0,gasoline,2.0,145,automatic,300000
-Mazda,3,2023,135000,1.0,gasoline,2.0,165,automatic,26000
+Mazda,323,2003,8000,3.0,gasoline,1.6,105,automatic,280000
+Mazda,626,1998,10000,1.0,gasoline,2.0,136,automatic,275000
+Mazda,5,2013,37500,2.0,gasoline,2.0,144,automatic,205000
+Mazda,3,2005,15000,1.0,gasoline,2.0,150,automatic,165000
+Mazda,6,2010,18000,2.0,gasoline,2.0,155,automatic,193000
+Mazda,Cx 5,2020,120000,1.0,gasoline,2.0,165,automatic,57000
+Mazda,Cx 5,2018,105000,2.0,gasoline,2.0,165,automatic,53600
+Mazda,3,2021,93000,2.0,gasoline,2.0,165,automatic,64000
+Mazda,Cx 5,2015,63000,1.0,gasoline,2.0,165,automatic,130000
+Mazda,5,2009,12000,3.0,gasoline,2.0,145,automatic,247000
+Mazda,3,2007,11000,4.0,gasoline,1.6,105,automatic,180000
+Mazda,3,2010,14000,2.0,gasoline,1.6,105,automatic,222000
 Mazda,3,2018,70000,3.0,gasoline,2.0,165,automatic,149000
 Mazda,5,2007,9000,2.0,gasoline,2.0,145,automatic,267000
 Mazda,Cx 5,2022,139000,1.0,gasoline,2.0,165,automatic,90000
+Mazda,Cx 3,2020,84000,3.0,gasoline,2.0,156,automatic,65000
+Mazda,2,2009,12000,4.0,gasoline,1.5,103,automatic,250300
+Mazda,5,2006,11000,2.0,gasoline,2.0,145,automatic,89000
+Mazda,6,2019,69900,2.0,gasoline,2.0,165,automatic,160000
+Mazda,3,2008,12000,3.0,gasoline,1.6,105,automatic,200000
+Mazda,5,2007,11900,3.0,gasoline,2.0,145,automatic,185000
+Mazda,Cx 5,2013,50000,3.0,gasoline,2.0,155,automatic,161826
+Mazda,6,2010,12000,3.0,gasoline,2.0,147,automatic,280000
+Mazda,5,2011,21500,4.0,gasoline,2.0,144,automatic,194000
+Mazda,6,2007,10000,3.0,gasoline,2.0,147,automatic,295000
+Mazda,2,2022,80000,3.0,gasoline,1.5,116,automatic,63600
+Mazda,3,2018,63000,3.0,gasoline,2.0,165,automatic,125000
+Mazda,6,2011,23000,2.0,gasoline,2.0,155,automatic,106000
+Mazda,6,2015,42000,3.0,gasoline,2.0,165,automatic,205000
+Mazda,3,2018,65500,2.0,gasoline,2.0,165,automatic,133600
+Mazda,3,2019,70000,1.0,gasoline,2.0,165,automatic,75000
+Mazda,Cx 3,2024,129900,1.0,gasoline,1.5,116,automatic,400
+Mazda,3,2013,40000,2.0,gasoline,1.5,120,automatic,137000
+Mazda,3,2006,8500,3.0,gasoline,1.6,105,automatic,238000
+Mazda,3,2018,74000,2.0,gasoline,2.0,165,automatic,86000
+Mazda,3,2007,11000,4.0,gasoline,2.0,150,automatic,233000
+Mazda,Cx 5,2018,122000,2.0,gasoline,2.5,195,automatic,118000
+Mazda,3,2011,15000,4.0,gasoline,1.6,105,automatic,270000
+Mazda,6,2008,19000,3.0,gasoline,2.0,147,automatic,205000
+Mazda,6,2020,94000,2.0,gasoline,2.0,165,automatic,86800
+Mazda,3,2007,9500,3.0,gasoline,1.6,105,automatic,217450
+Mazda,5,2015,57000,2.0,gasoline,2.0,144,automatic,148000
+Mazda,5,2014,44000,4.0,gasoline,2.0,144,automatic,149000
+Mazda,Cx 5,2021,120000,2.0,gasoline,2.0,165,automatic,60000
+Mazda,Cx 5,2018,112000,2.0,gasoline,2.0,165,automatic,115000
+Mazda,Cx 5,2020,103000,2.0,gasoline,2.0,165,automatic,81000
+Mazda,3,2012,9500,4.0,gasoline,1.6,105,automatic,260000
+Mazda,3,2023,135000,2.0,gasoline,2.0,165,automatic,31000
+Mazda,5,2009,8000,3.0,gasoline,2.0,145,automatic,380000
+Mazda,Cx 5,2022,155000,1.0,gasoline,2.5,194,automatic,47300
+Mazda,5,2007,14000,4.0,gasoline,2.0,145,automatic,278000
+Mazda,5,2008,18000,3.0,gasoline,2.0,145,automatic,184000
+Mazda,3,2014,46000,4.0,gasoline,2.0,165,automatic,143000
+Mazda,Cx 30,2020,98000,2.0,gasoline,2.0,165,automatic,94000
+Mazda,Cx 5,2022,151000,2.0,gasoline,2.0,165,automatic,27800
+Mazda,6,2010,21000,2.0,gasoline,2.0,155,automatic,130700
+Mazda,Cx 5,2012,54000,3.0,gasoline,2.0,155,automatic,173000
+Mazda,6,2009,17000,3.0,gasoline,2.0,147,automatic,144000
+Mazda,3,2014,34000,2.0,gasoline,2.0,165,automatic,245000
+Mazda,5,2008,15000,4.0,gasoline,2.0,145,automatic,300000
+Mazda,3,2009,13800,2.0,gasoline,1.6,105,automatic,202200
+Mazda,3,2008,7000,3.0,gasoline,1.6,105,automatic,247000
+Mazda,3,2010,18000,3.0,gasoline,1.6,105,automatic,185000
+Mazda,Premacy,2005,9000,2.0,gasoline,2.0,131,automatic,190000
+Mazda,3,2010,16000,4.0,gasoline,1.6,105,automatic,195000
+Mazda,3,2022,110000,3.0,gasoline,2.0,165,automatic,65000
+Mazda,Cx 5,2016,65000,3.0,gasoline,2.0,165,automatic,123312
+Mazda,3,2017,54800,2.0,gasoline,2.0,165,automatic,100000
+Mazda,3,2011,11000,3.0,gasoline,1.6,105,automatic,245000
+Mazda,3,2009,16500,2.0,gasoline,1.6,105,automatic,127600
+Mazda,Cx 5,2016,66000,1.0,gasoline,2.0,165,automatic,184000
+Mazda,3,2008,11500,1.0,gasoline,1.6,105,automatic,203000
+Mazda,Cx 5,2013,50000,2.0,gasoline,2.0,155,automatic,284000
+Mazda,3,2006,7500,3.0,gasoline,1.6,105,automatic,229000
+Mazda,Cx 5,2014,58000,3.0,gasoline,2.0,165,automatic,140000
+Mazda,3,2008,11000,2.0,gasoline,1.6,105,automatic,203000
+Mazda,3,2008,14000,2.0,gasoline,1.6,105,automatic,150000
+Mazda,323,2003,4900,3.0,gasoline,1.6,105,automatic,220000
+Mazda,5,2008,15900,3.0,gasoline,2.0,145,automatic,270000
+Mazda,3,2019,60000,2.0,gasoline,2.0,165,automatic,99000
+Mazda,6,2010,18000,4.0,gasoline,2.0,155,automatic,213000
+Mazda,5,2007,12000,3.0,gasoline,2.0,145,automatic,340000
+Mazda,Cx 5,2020,115000,3.0,gasoline,2.0,165,automatic,85000
+Mazda,3,2008,14000,4.0,gasoline,1.6,105,automatic,202112
+Mazda,5,2008,13000,3.0,gasoline,2.0,145,automatic,278000
+Mazda,3,2010,30000,4.0,gasoline,2.0,150,automatic,220000
+Mazda,Cx 5,2016,69000,2.0,gasoline,2.0,165,automatic,215000
+Mazda,Cx 5,2016,75900,4.0,gasoline,2.0,165,automatic,97000
+Mazda,2,2016,50000,2.0,gasoline,1.5,111,automatic,114000
+Mazda,3,2018,66000,2.0,gasoline,2.0,165,automatic,120000
+Mazda,5,2007,15000,3.0,gasoline,2.0,145,automatic,285000
+Mazda,3,2005,10000,4.0,gasoline,2.0,150,automatic,279000
+Mazda,3,2011,27000,1.0,gasoline,2.0,150,automatic,200000
+Mazda,2,2014,19700,3.0,gasoline,1.5,103,automatic,204000
+Mazda,3,2011,27000,2.0,gasoline,2.0,150,automatic,129000
+Mazda,Cx 5,2021,132000,1.0,gasoline,2.0,165,automatic,38500
+Mazda,3,2010,13000,3.0,gasoline,1.6,105,automatic,235000
+Mazda,3,2007,15000,2.0,gasoline,1.6,105,automatic,210000
+Mazda,Cx 5,2019,100000,2.0,gasoline,2.0,165,automatic,140500
+Mazda,Cx 5,2014,51500,4.0,gasoline,2.0,155,automatic,208000
+Mazda,5,2008,4500,3.0,gasoline,2.0,145,automatic,450000
+Mazda,6,2012,31000,3.0,gasoline,2.0,155,automatic,125000
+Mazda,6,2010,13000,4.0,gasoline,2.0,155,automatic,220000
+Mazda,Cx 5,2022,125000,1.0,gasoline,2.0,165,automatic,53000
+Mazda,3,2006,8000,4.0,gasoline,1.6,105,automatic,177800
+Mazda,3,2009,17000,4.0,gasoline,1.6,105,automatic,212396
+Mazda,Cx 5,2013,50000,3.0,gasoline,2.0,155,automatic,186000
+Mazda,5,2006,11000,3.0,gasoline,2.0,145,automatic,295000
+Mazda,6,2016,44000,3.0,gasoline,2.0,165,automatic,233500
+Mazda,5,2007,18000,2.0,gasoline,2.0,145,automatic,250000
+Mazda,3,2021,98000,2.0,gasoline,2.0,165,automatic,100000
+Mazda,Cx 5,2015,67000,2.0,gasoline,2.0,165,automatic,120000
+Mazda,2,2011,18900,4.0,gasoline,1.5,103,automatic,183000
+Mazda,5,2009,12000,2.0,gasoline,2.0,145,automatic,280000
+Mazda,3,2010,21000,3.0,gasoline,1.6,105,automatic,144000
+Mazda,3,2019,89900,2.0,gasoline,2.0,165,automatic,50000
+Mazda,3,2009,18000,3.0,gasoline,1.6,105,automatic,172000
+Mazda,3,2008,11000,4.0,gasoline,1.6,105,automatic,206000
+Mazda,Cx 5,2016,55900,3.0,gasoline,2.0,165,automatic,122900
+Mazda,Cx 5,2014,56500,2.0,gasoline,2.0,155,automatic,174000
+Mazda,3,2019,73000,4.0,gasoline,2.0,165,automatic,95000
+Mazda,3,2006,10000,2.0,gasoline,1.6,105,automatic,70000
+Mazda,6,2010,32000,3.0,gasoline,2.0,147,automatic,114000
+Mazda,Demio,2001,6500,3.0,gasoline,1.5,75,automatic,225000
+Mazda,3,2021,103000,2.0,gasoline,2.0,165,automatic,58000
+Mazda,3,2012,27500,2.0,gasoline,2.0,150,automatic,297000
+Mazda,Cx 5,2020,144500,1.0,gasoline,2.0,165,automatic,52000
+Mazda,2,2008,14900,3.0,gasoline,1.5,103,automatic,130000
+Mazda,3,2012,17000,3.0,gasoline,1.6,105,automatic,220167
+Mazda,Cx 30,2021,115000,1.0,gasoline,2.0,165,automatic,38000
+Mazda,Cx 5,2012,49900,1.0,gasoline,2.0,155,automatic,127000
+Mazda,Cx 5,2015,50000,3.0,gasoline,2.0,155,automatic,190000
+Mazda,3,2019,86000,1.0,gasoline,2.0,165,automatic,97000
+Mazda,5,2014,47000,2.0,gasoline,2.0,144,automatic,199000
+Mazda,3,2010,24000,4.0,gasoline,1.6,105,automatic,125000
+Mazda,3,2010,16500,3.0,gasoline,1.6,105,automatic,200000
+Mazda,2,2008,9900,3.0,gasoline,1.5,103,automatic,268000
+Mazda,323,2003,8000,3.0,gasoline,1.6,105,automatic,280000
+Mazda,626,1998,10000,1.0,gasoline,2.0,136,automatic,275000
+Mazda,5,2013,37500,2.0,gasoline,2.0,144,automatic,205000
+Mazda,3,2005,15000,1.0,gasoline,2.0,150,automatic,165000
+Mazda,6,2010,18000,2.0,gasoline,2.0,155,automatic,193000
+Mazda,3,2024,146000,2.0,gasoline,2.0,165,automatic,500
+Mazda,5,2008,18000,3.0,gasoline,2.0,145,automatic,255000
+Mazda,Cx 5,2012,40000,3.0,gasoline,2.0,155,automatic,170550
+Mazda,2,2016,49000,1.0,gasoline,1.5,111,automatic,130000
+Mazda,6,2016,39000,4.0,gasoline,2.0,165,automatic,222000
+Mazda,6,2006,22000,3.0,gasoline,2.0,147,automatic,320000
+Mazda,3,2008,11500,2.0,gasoline,1.6,105,automatic,214000
+Mazda,Cx 5,2019,111000,1.0,gasoline,2.0,165,automatic,106000
+Mazda,Cx 5,2021,120000,2.0,gasoline,2.0,165,automatic,89000
+Mazda,Cx 5,2014,64500,3.0,gasoline,2.5,188,automatic,100000
+Mazda,6,2012,27000,3.0,gasoline,2.0,155,automatic,164000
+Mazda,5,2014,37000,2.0,gasoline,2.0,144,automatic,200000
+Mazda,Cx 5,2020,127000,1.0,gasoline,2.0,165,automatic,49000
+Mazda,2,2008,17000,2.0,gasoline,1.5,103,automatic,201000
+Mazda,5,2011,33000,2.0,gasoline,2.0,144,automatic,260000
+Mazda,5,2008,15000,2.0,gasoline,2.0,145,automatic,170000
+Mazda,3,2015,34000,2.0,gasoline,1.5,120,automatic,225000
+Mazda,6,2008,10000,3.0,gasoline,2.0,147,automatic,195000
+Mazda,3,2010,13500,3.0,gasoline,1.6,105,automatic,220000
+Mazda,B Series,2004,25000,3.0,diesel,2.5,109,manual,30000
+Mazda,Cx 5,2020,120000,1.0,gasoline,2.0,165,automatic,57000
+Mazda,Cx 5,2018,105000,2.0,gasoline,2.0,165,automatic,53600
+Mazda,3,2021,93000,2.0,gasoline,2.0,165,automatic,64000
+Mazda,Cx 5,2015,63000,1.0,gasoline,2.0,165,automatic,130000
+Mazda,5,2009,12000,3.0,gasoline,2.0,145,automatic,247000
+Mazda,3,2007,11000,4.0,gasoline,1.6,105,automatic,180000
+Mazda,3,2010,14000,2.0,gasoline,1.6,105,automatic,222000
+Mazda,6,2010,12000,3.0,gasoline,2.0,147,automatic,280000
+Mazda,5,2011,21500,4.0,gasoline,2.0,144,automatic,194000
+Mazda,6,2007,10000,3.0,gasoline,2.0,147,automatic,295000
+Mazda,3,2007,13900,3.0,gasoline,1.6,105,automatic,221000
+Mazda,323,2001,5900,2.0,gasoline,1.8,115,automatic,418000
+Mazda,Cx 5,2017,86500,2.0,gasoline,2.0,165,automatic,173000
+Mazda,5,2006,19900,3.0,gasoline,2.0,145,automatic,207000
+Mazda,3,2022,142000,1.0,gasoline,2.0,165,automatic,10000
+Mazda,3,2009,9500,3.0,gasoline,1.6,105,automatic,240000
+Mazda,6,2008,16500,3.0,gasoline,2.0,147,automatic,175000
+Mazda,3,2017,75000,2.0,gasoline,2.0,165,automatic,87000
+Mazda,6,2011,27000,4.0,gasoline,2.0,155,automatic,142000
+Mazda,2,2010,12000,3.0,gasoline,1.5,103,automatic,145000
+Mazda,3,2018,78000,2.0,gasoline,2.0,165,automatic,140000
+Mazda,Cx 5,2014,52000,3.0,gasoline,2.0,155,automatic,260000
+Mazda,3,2010,18000,2.0,gasoline,1.6,105,automatic,205000
+Mazda,3,2010,13500,3.0,gasoline,1.6,105,automatic,230000
+Mazda,3,2018,65000,3.0,gasoline,2.0,165,automatic,117000
+Mazda,3,2005,6000,4.0,gasoline,1.6,105,automatic,198000
+Mazda,Cx 30,2020,92200,3.0,gasoline,2.0,165,automatic,85000
+Mazda,3,2008,11000,3.0,gasoline,1.6,105,automatic,260000
+Mazda,Cx 5,2014,65000,1.0,gasoline,2.0,155,automatic,91000
+Mazda,3,2014,48000,4.0,gasoline,2.0,165,automatic,188000
+Mazda,2,2022,80000,3.0,gasoline,1.5,116,automatic,63600
+Mazda,3,2018,63000,3.0,gasoline,2.0,165,automatic,125000
+Mazda,6,2011,23000,2.0,gasoline,2.0,155,automatic,106000
+Mazda,6,2015,42000,3.0,gasoline,2.0,165,automatic,205000
+Mazda,3,2018,65500,2.0,gasoline,2.0,165,automatic,133600
+Mazda,3,2019,70000,1.0,gasoline,2.0,165,automatic,75000
+Mazda,Cx 3,2024,129900,1.0,gasoline,1.5,116,automatic,400
+Mazda,3,2013,40000,2.0,gasoline,1.5,120,automatic,137000
+Mazda,3,2006,8500,3.0,gasoline,1.6,105,automatic,238000
+Mazda,3,2018,74000,2.0,gasoline,2.0,165,automatic,86000
+Mazda,3,2007,8000,4.0,gasoline,1.6,105,automatic,260000
+Mazda,Cx 5,2018,91000,2.0,gasoline,2.0,165,automatic,160000
+Mazda,3,2011,17500,3.0,gasoline,1.6,105,automatic,142000
+Mazda,3,2010,19000,4.0,gasoline,1.6,105,automatic,185000
+Mazda,3,2009,10900,3.0,gasoline,1.6,105,automatic,260000
+Mazda,3,2014,31000,2.0,gasoline,1.5,120,automatic,169000
+Mazda,Cx 5,2021,145000,2.0,gasoline,2.5,194,automatic,24000
+Mazda,6,2008,13000,4.0,gasoline,2.5,170,automatic,240000
+Mazda,3,2014,34000,3.0,gasoline,1.5,120,automatic,300000
+Mazda,5,2008,30000,1.0,gasoline,2.0,145,automatic,218000
+Mazda,3,2017,54000,2.0,gasoline,2.0,165,automatic,142000
+Mazda,Cx 5,2018,95000,4.0,gasoline,2.0,165,automatic,108000
+Mazda,3,2008,12000,3.0,gasoline,1.6,105,automatic,184000
+Mazda,3,2004,12000,3.0,gasoline,1.6,105,automatic,217000
+Mazda,3,2021,105000,2.0,gasoline,2.0,165,automatic,71000
+Mazda,3,2010,17500,3.0,gasoline,1.6,105,automatic,220000
+Mazda,3,2009,20000,1.0,gasoline,1.6,105,automatic,279040
+Mazda,3,2009,15000,3.0,gasoline,1.6,105,automatic,255000
+Mazda,Cx 5,2020,120000,2.0,gasoline,2.0,165,automatic,53000
+Mazda,Mpv,2006,9000,3.0,gasoline,3.0,197,automatic,193000
+Mazda,3,2007,11000,4.0,gasoline,2.0,150,automatic,233000
+Mazda,Cx 5,2018,122000,2.0,gasoline,2.5,195,automatic,118000
+Mazda,3,2011,15000,4.0,gasoline,1.6,105,automatic,270000
+Mazda,6,2008,19000,3.0,gasoline,2.0,147,automatic,205000
+Mazda,6,2020,94000,2.0,gasoline,2.0,165,automatic,86800
+Mazda,3,2007,9500,3.0,gasoline,1.6,105,automatic,217450
+Mazda,5,2015,57000,2.0,gasoline,2.0,144,automatic,148000
+Mazda,3,2014,46000,4.0,gasoline,2.0,165,automatic,143000
+Mazda,Cx 30,2020,98000,2.0,gasoline,2.0,165,automatic,94000
+Mazda,Cx 5,2022,151000,2.0,gasoline,2.0,165,automatic,27800
+Mazda,Cx 5,2021,97000,2.0,gasoline,2.0,165,automatic,130000
+Mazda,Cx 5,2021,115000,2.0,gasoline,2.0,165,automatic,57000
+Mazda,6,2016,55000,3.0,gasoline,2.5,192,automatic,180000
+Mazda,2,2018,57900,2.0,gasoline,1.5,111,automatic,124000
+Mazda,2,2008,15500,3.0,gasoline,1.5,103,automatic,207000
+Mazda,2,2022,79000,2.0,gasoline,1.5,116,automatic,115000
+Mazda,Cx 5,2019,95000,3.0,gasoline,2.0,165,automatic,112000
+Mazda,3,2012,14000,3.0,gasoline,1.6,105,automatic,195000
+Mazda,2,2016,34999,2.0,gasoline,1.5,111,automatic,190000
+Mazda,2,2017,56900,2.0,gasoline,1.5,111,automatic,166000
+Mazda,Cx 30,2022,110155,2.0,gasoline,2.0,165,automatic,70500
+Mazda,3,2021,89492,2.0,gasoline,2.0,165,automatic,117681
+Mazda,3,2019,62250,2.0,gasoline,2.0,165,automatic,157800
+Mazda,2,2021,85495,2.0,gasoline,1.5,116,automatic,29640
+Mazda,Cx 5,2021,120345,1.0,gasoline,2.0,165,automatic,41589
+Mazda,3,2017,60000,3.0,gasoline,2.0,165,automatic,176000
+Mazda,6,2013,34000,2.0,gasoline,2.0,155,automatic,75000
+Mazda,6,2008,8900,4.0,gasoline,2.0,147,automatic,298000
+Mazda,6,2010,16500,4.0,gasoline,2.0,147,automatic,189000
+Mazda,5,2011,20000,3.0,gasoline,2.0,144,automatic,350000
+Mazda,6,2010,21000,2.0,gasoline,2.0,155,automatic,130700
+Mazda,Cx 5,2012,54000,3.0,gasoline,2.0,155,automatic,173000
+Mazda,6,2009,17000,3.0,gasoline,2.0,147,automatic,144000
+Mazda,3,2014,34000,2.0,gasoline,2.0,165,automatic,245000
+Mazda,5,2008,15000,4.0,gasoline,2.0,145,automatic,300000
+Mazda,3,2009,13800,2.0,gasoline,1.6,105,automatic,202200
+Mazda,3,2008,7000,3.0,gasoline,1.6,105,automatic,247000
+Mazda,3,2010,18000,3.0,gasoline,1.6,105,automatic,185000
+Mazda,Premacy,2005,9000,2.0,gasoline,2.0,131,automatic,190000
+Mazda,3,2010,16000,4.0,gasoline,1.6,105,automatic,195000
+Mazda,5,2011,20000,4.0,gasoline,2.0,144,automatic,236000
+Mazda,5,2007,6000,4.0,gasoline,2.0,145,automatic,320000
+Mazda,3,2018,80000,2.0,gasoline,2.0,165,automatic,87000
+Mazda,6,2012,10000,4.0,gasoline,2.0,147,automatic,196000
+Mazda,3,2017,59000,1.0,gasoline,2.0,165,automatic,84000
+Mazda,5,2010,15000,3.0,gasoline,2.0,145,automatic,250000
+Mazda,3,2005,9000,3.0,gasoline,2.0,150,automatic,182
+Mazda,5,2012,34500,2.0,gasoline,2.0,144,automatic,207000
+Mazda,3,2008,12000,3.0,gasoline,1.6,105,automatic,210000
+Mazda,5,2006,10000,4.0,gasoline,2.0,145,automatic,250000
+Mazda,5,2008,26000,4.0,gasoline,2.0,145,automatic,133000
+Mazda,3,2022,110000,3.0,gasoline,2.0,165,automatic,65000
+Mazda,Cx 5,2016,65000,3.0,gasoline,2.0,165,automatic,123312
+Mazda,3,2017,54800,2.0,gasoline,2.0,165,automatic,100000
+Mazda,3,2011,11000,3.0,gasoline,1.6,105,automatic,245000
+Mazda,3,2009,16500,2.0,gasoline,1.6,105,automatic,127600
+Mazda,Cx 5,2016,66000,1.0,gasoline,2.0,165,automatic,184000
+Mazda,3,2008,11500,1.0,gasoline,1.6,105,automatic,203000
+Mazda,Cx 5,2020,115000,3.0,gasoline,2.0,165,automatic,85000
+Mazda,3,2008,14000,4.0,gasoline,1.6,105,automatic,202112
+Mazda,5,2008,13000,3.0,gasoline,2.0,145,automatic,278000
