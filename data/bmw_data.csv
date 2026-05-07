@@ -1,0 +1,267 @@
+manufacturer,model,year,price,hand,fuel,engine_liters,horsepower,transmission,mileage
+Bmw,5 Series,2013,85000,3,gasoline,3.0,306.0,automatic,210000
+Bmw,X3,2015,74900,1,gasoline,2.0,184.0,automatic,121000
+Bmw,X1,2019,93995,2,gasoline,1.5,140.0,robotic,132300
+Bmw,Z4,2025,403555,1,gasoline,2.0,197.0,automatic,9001
+Bmw,X1,2019,86595,3,gasoline,1.5,140.0,robotic,82758
+Bmw,2 Series,2016,115995,2,gasoline,2.0,184.0,automatic,115222
+Bmw,1 Series,2016,56495,4,gasoline,1.5,136.0,automatic,124700
+Bmw,X5,2020,289000,2,plug-in,3.0,394.0,automatic,92000
+Bmw,1 Series,2017,55000,3,gasoline,1.5,136.0,automatic,112000
+Bmw,3 Series,2018,99990,2,plug-in,2.0,252.0,automatic,159000
+Bmw,I8,2015,219900,4,plug-in,1.5,231.0,automatic,155000
+Bmw,3 Series,2011,19999,4,gasoline,2.0,136.0,automatic,158500
+Bmw,3 Series,2017,117000,2,plug-in,2.0,252.0,automatic,112000
+Bmw,4 Series,2025,349990,1,gasoline,2.0,184.0,automatic,23000
+Bmw,3 Series,2018,119000,4,plug-in,2.0,252.0,automatic,137000
+Bmw,5 Series,2008,40000,4,gasoline,3.0,258.0,automatic,280000
+Bmw,1 Series,2019,65000,1,gasoline,1.5,136.0,automatic,100000
+Bmw,X5,2020,269990,2,plug-in,3.0,394.0,automatic,154000
+Bmw,X6,2015,110000,2,diesel,3.0,258.0,automatic,330000
+Bmw,3 Series,2017,109990,2,plug-in,2.0,252.0,automatic,99000
+Bmw,3 Series,2014,50000,1,gasoline,1.6,136.0,automatic,190000
+Bmw,X5,2011,55000,2,gasoline,3.0,306.0,automatic,190000
+Bmw,X5,2010,25000,4,diesel,3.0,269.0,automatic,215000
+Bmw,5 Series,2017,139999,3,plug-in,2.0,292.0,automatic,159000
+Bmw,X4,2020,215000,3,gasoline,2.0,252.0,automatic,95000
+Bmw,1 Series,2012,28000,4,gasoline,1.6,170.0,automatic,204000
+Bmw,4 Series,2014,134999,2,gasoline,3.0,306.0,automatic,78000
+Bmw,5 Series,2019,175000,2,plug-in,2.0,292.0,automatic,131000
+Bmw,X4,2021,249000,2,gasoline,2.0,184.0,automatic,79000
+Bmw,1 Series,2014,55500,4,gasoline,1.6,136.0,automatic,160000
+Bmw,Ix3,2021,174990,3,electro,,,automatic,76000
+Bmw,3 Series,2022,194990,2,plug-in,2.0,204.0,automatic,65000
+Bmw,Z3,1997,148000,4,gasoline,1.8,115.0,manual,136000
+Bmw,X6,2022,369000,3,diesel,3.0,286.0,automatic,63000
+Bmw,X3,2025,369000,1,gasoline,2.0,208.0,automatic,3500
+Bmw,5 Series,2015,69000,4,gasoline,3.0,306.0,automatic,200000
+Bmw,3 Series,2014,50000,1,gasoline,1.6,136.0,automatic,190000
+Bmw,X5,2011,55000,2,gasoline,3.0,306.0,automatic,190000
+Bmw,X5,2010,25000,4,diesel,3.0,269.0,automatic,215000
+Bmw,5 Series,2017,139999,3,plug-in,2.0,292.0,automatic,159000
+Bmw,X4,2020,215000,3,gasoline,2.0,252.0,automatic,95000
+Bmw,5 Series,2013,89000,3,gasoline,3.0,306.0,automatic,210000
+Bmw,X5,2022,379990,2,plug-in,3.0,394.0,automatic,66000
+Bmw,1 Series,2012,28000,4,gasoline,1.6,170.0,automatic,204000
+Bmw,3 Series,2025,235000,2,gasoline,2.0,156.0,automatic,7000
+Bmw,5 Series,2022,339990,1,plug-in,3.0,394.0,automatic,29000
+Bmw,4 Series,2014,134999,2,gasoline,3.0,306.0,automatic,78000
+Bmw,X3,2020,180000,3,gasoline,2.0,252.0,automatic,100000
+Bmw,5 Series,2019,175000,2,plug-in,2.0,292.0,automatic,131000
+Bmw,X4,2021,249000,2,gasoline,2.0,184.0,automatic,79000
+Bmw,3 Series,2022,208000,1,plug-in,2.0,292.0,automatic,65000
+Bmw,3 Series,2014,70000,3,gasoline,2.0,184.0,automatic,220000
+Bmw,4 Series,2020,190000,1,gasoline,2.0,184.0,automatic,90000
+Bmw,X2,2025,290000,1,gasoline,1.5,156.0,automatic,2700
+Bmw,5 Series,2006,50000,4,gasoline,3.0,258.0,automatic,360000
+Bmw,3 Series,2005,20000,4,gasoline,2.0,143.0,automatic,255000
+Bmw,3 Series,2005,28000,4,gasoline,2.0,143.0,automatic,200000
+Bmw,3 Series,2017,120000,1,gasoline,2.0,184.0,automatic,98000
+Bmw,X3,2015,62000,4,gasoline,2.0,184.0,automatic,200000
+Bmw,5 Series,2015,65000,4,gasoline,2.0,184.0,automatic,224800
+Bmw,3 Series,2024,245000,1,plug-in,2.0,204.0,automatic,65000
+Bmw,1 Series,2014,55500,4,gasoline,1.6,136.0,automatic,160000
+Bmw,Ix3,2022,230000,1,electro,,,automatic,42000
+Bmw,X5,2010,40000,2,gasoline,3.0,306.0,automatic,180000
+Bmw,1 Series,2017,37000,2,gasoline,1.5,136.0,automatic,130000
+Bmw,3 Series,2022,208000,1,plug-in,2.0,292.0,automatic,65000
+Bmw,3 Series,2014,70000,3,gasoline,2.0,184.0,automatic,220000
+Bmw,I5,2024,379990,1,electro,,,automatic,25000
+Bmw,4 Series,2020,190000,1,gasoline,2.0,184.0,automatic,90000
+Bmw,X2,2025,290000,1,gasoline,1.5,156.0,automatic,2700
+Bmw,X3,2022,289990,2,plug-in,2.0,292.0,automatic,39000
+Bmw,X1,2013,38000,4,gasoline,2.0,150.0,automatic,155000
+Bmw,5 Series,2006,50000,4,gasoline,3.0,258.0,automatic,360000
+Bmw,5 Series,2018,149990,3,plug-in,2.0,252.0,automatic,132000
+Bmw,3 Series,2005,20000,4,gasoline,2.0,143.0,automatic,255000
+Bmw,X3,2019,129990,3,gasoline,2.0,184.0,automatic,137000
+Bmw,3 Series,2007,85000,4,gasoline,2.5,218.0,automatic,146000
+Bmw,3 Series,2005,28000,4,gasoline,2.0,143.0,automatic,200000
+Bmw,3 Series,2017,120000,1,gasoline,2.0,184.0,automatic,98000
+Bmw,X3,2015,62000,4,gasoline,2.0,184.0,automatic,200000
+Bmw,X5,2011,80000,2,diesel,3.0,245.0,automatic,344241
+Bmw,1 Series,2014,38400,4,gasoline,1.6,170.0,automatic,150000
+Bmw,7 Series,2019,195000,1,plug-in,2.0,326.0,automatic,156000
+Bmw,3 Series,2022,240000,1,plug-in,2.0,292.0,automatic,103000
+Bmw,X5,2021,380000,1,diesel,3.0,286.0,automatic,120000
+Bmw,7 Series,2014,80000,4,gasoline,3.0,320.0,automatic,210000
+Bmw,4 Series,2019,555555,1,gasoline,2.0,252.0,automatic,70000
+Bmw,5 Series,2019,220000,3,plug-in,2.0,252.0,automatic,114000
+Bmw,7 Series,2012,160000,3,gasoline,3.0,258.0,automatic,250000
+Bmw,2 Series,2021,135000,2,gasoline,1.5,136.0,robotic,75000
+Bmw,X1,2020,103900,2,gasoline,1.5,140.0,robotic,82000
+Bmw,5 Series,2015,65000,4,gasoline,2.0,184.0,automatic,224800
+Bmw,5 Series,2009,18000,4,gasoline,2.5,190.0,automatic,250000
+Bmw,7 Series,2009,70000,3,gasoline,4.4,407.0,automatic,156600
+Bmw,X4,2015,86000,3,gasoline,2.0,184.0,automatic,125000
+Bmw,X3,2024,345000,2,plug-in,2.0,292.0,automatic,5500
+Bmw,X5,2011,80000,2,diesel,3.0,245.0,automatic,344241
+Bmw,1 Series,2014,38400,4,gasoline,1.6,170.0,automatic,150000
+Bmw,7 Series,2019,195000,1,plug-in,2.0,326.0,automatic,156000
+Bmw,3 Series,2022,240000,1,plug-in,2.0,292.0,automatic,103000
+Bmw,X5,2021,380000,1,diesel,3.0,286.0,automatic,120000
+Bmw,7 Series,2014,80000,4,gasoline,3.0,320.0,automatic,210000
+Bmw,4 Series,2019,555555,1,gasoline,2.0,252.0,automatic,70000
+Bmw,5 Series,2019,220000,3,plug-in,2.0,252.0,automatic,114000
+Bmw,7 Series,2012,160000,3,gasoline,3.0,258.0,automatic,250000
+Bmw,2 Series,2021,135000,2,gasoline,1.5,136.0,robotic,75000
+Bmw,3 Series,2009,30000,4,gasoline,2.0,136.0,automatic,223000
+Bmw,3 Series,2012,65000,1,gasoline,2.0,184.0,automatic,219000
+Bmw,X5,2021,395000,2,plug-in,3.0,394.0,automatic,110000
+Bmw,4 Series,2014,110000,1,gasoline,2.0,184.0,automatic,150000
+Bmw,X5,2017,180000,4,diesel,3.0,258.0,automatic,126000
+Bmw,X3,2015,75000,3,gasoline,2.0,184.0,automatic,113000
+Bmw,5 Series,2009,33000,4,gasoline,4.8,367.0,automatic,280000
+Bmw,X5,2018,200000,3,plug-in,2.0,313.0,automatic,95000
+Bmw,X1,2020,150000,1,gasoline,1.5,140.0,robotic,42000
+Bmw,X3,2016,90000,3,gasoline,2.0,184.0,automatic,171000
+Bmw,X3,2015,67000,4,diesel,2.0,190.0,automatic,195000
+Bmw,M5,2019,400000,3,gasoline,4.4,600.0,automatic,150000
+Bmw,5 Series,2018,195000,1,plug-in,2.0,252.0,automatic,95700
+Bmw,3 Series,2022,255000,2,plug-in,2.0,292.0,automatic,30000
+Bmw,3 Series,2008,23000,4,gasoline,2.0,156.0,automatic,180000
+Bmw,X6,2019,220000,3,diesel,3.0,258.0,automatic,97000
+Bmw,X5,2017,180000,4,diesel,3.0,258.0,automatic,126000
+Bmw,X3,2015,75000,3,gasoline,2.0,184.0,automatic,113000
+Bmw,5 Series,2009,33000,4,gasoline,4.8,367.0,automatic,280000
+Bmw,X5,2018,200000,3,plug-in,2.0,313.0,automatic,95000
+Bmw,X1,2020,150000,1,gasoline,1.5,140.0,robotic,42000
+Bmw,X3,2016,90000,3,gasoline,2.0,184.0,automatic,171000
+Bmw,X3,2015,67000,4,diesel,2.0,190.0,automatic,195000
+Bmw,M5,2019,400000,3,gasoline,4.4,600.0,automatic,150000
+Bmw,5 Series,2018,195000,1,plug-in,2.0,252.0,automatic,95700
+Bmw,3 Series,2022,255000,2,plug-in,2.0,292.0,automatic,30000
+Bmw,X6,2021,425000,1,diesel,3.0,286.0,automatic,50000
+Bmw,3 Series,2017,110000,4,plug-in,2.0,252.0,automatic,130000
+Bmw,X5,2018,216000,2,plug-in,2.0,313.0,automatic,114000
+Bmw,5 Series,2008,39000,4,gasoline,2.5,190.0,automatic,180000
+Bmw,X3,2024,380000,2,plug-in,2.0,292.0,automatic,1000
+Bmw,5 Series,2015,85000,3,gasoline,2.0,184.0,automatic,75000
+Bmw,X5,2022,384000,3,diesel,3.0,286.0,automatic,18000
+Bmw,3 Series,2017,75000,4,gasoline,1.5,136.0,automatic,117000
+Bmw,5 Series,2019,220000,3,plug-in,2.0,252.0,automatic,114000
+Bmw,7 Series,2012,160000,3,gasoline,3.0,258.0,automatic,250000
+Bmw,2 Series,2021,135000,2,gasoline,1.5,136.0,robotic,75000
+Bmw,3 Series,2009,30000,4,gasoline,2.0,136.0,automatic,223000
+Bmw,3 Series,2012,65000,1,gasoline,2.0,184.0,automatic,219000
+Bmw,X5,2021,395000,2,plug-in,3.0,394.0,automatic,110000
+Bmw,4 Series,2014,110000,1,gasoline,2.0,184.0,automatic,150000
+Bmw,X3,2021,245000,3,plug-in,2.0,292.0,automatic,121000
+Bmw,3 Series,2012,40000,3,gasoline,2.0,136.0,automatic,148000
+Bmw,2 Series,2018,104000,2,gasoline,1.5,136.0,robotic,80000
+Bmw,X3,2021,245000,3,plug-in,2.0,292.0,automatic,121000
+Bmw,3 Series,2012,40000,3,gasoline,2.0,136.0,automatic,148000
+Bmw,2 Series,2018,104000,2,gasoline,1.5,136.0,robotic,80000
+Bmw,3 Series,2017,80000,3,gasoline,1.5,136.0,automatic,156000
+Bmw,X3,2014,75000,2,gasoline,2.0,184.0,automatic,120000
+Bmw,X3,2019,201000,2,gasoline,2.0,252.0,automatic,57000
+Bmw,3 Series,2022,210000,2,plug-in,2.0,204.0,automatic,24000
+Bmw,7 Series,2010,124999,3,gasoline,3.0,326.0,automatic,172000
+Bmw,3 Series,2021,143000,3,gasoline,2.0,156.0,automatic,67000
+Bmw,X5,2023,540000,2,plug-in,3.0,394.0,automatic,12000
+Bmw,1 Series,2009,25000,3,gasoline,2.0,156.0,automatic,157000
+Bmw,4 Series,2014,130000,4,gasoline,2.0,245.0,automatic,146000
+Bmw,3 Series,2009,153000,3,gasoline,3.0,306.0,automatic,133000
+Bmw,1 Series,2011,20500,2,gasoline,2.0,136.0,automatic,245000
+Bmw,7 Series,2015,120000,3,gasoline,3.0,320.0,automatic,169000
+Bmw,5 Series,2020,207000,2,plug-in,2.0,292.0,automatic,86000
+Bmw,X5,2012,65000,2,diesel,3.0,306.0,automatic,238000
+Bmw,X1,2017,90000,4,gasoline,2.0,192.0,robotic,165000
+Bmw,4 Series,2017,240000,4,gasoline,3.0,326.0,automatic,89000
+Bmw,1 Series,2010,27000,3,gasoline,2.0,136.0,automatic,158000
+Bmw,X3,2015,75000,3,gasoline,2.0,184.0,automatic,113000
+Bmw,5 Series,2009,33000,4,gasoline,4.8,367.0,automatic,280000
+Bmw,X5,2018,200000,3,plug-in,2.0,313.0,automatic,95000
+Bmw,X1,2020,150000,1,gasoline,1.5,140.0,robotic,42000
+Bmw,X3,2016,90000,3,gasoline,2.0,184.0,automatic,171000
+Bmw,X3,2015,67000,4,diesel,2.0,190.0,automatic,195000
+Bmw,M5,2019,400000,3,gasoline,4.4,600.0,automatic,150000
+Bmw,5 Series,2018,195000,1,plug-in,2.0,252.0,automatic,95700
+Bmw,3 Series,2022,255000,2,plug-in,2.0,292.0,automatic,30000
+Bmw,X6,2021,425000,1,diesel,3.0,286.0,automatic,50000
+Bmw,3 Series,2023,327000,1,plug-in,2.0,292.0,automatic,24000
+Bmw,4 Series,2014,115000,3,gasoline,2.0,245.0,automatic,225000
+Bmw,3 Series,2008,55000,4,gasoline,2.0,156.0,automatic,220000
+Bmw,3 Series,2022,230000,2,plug-in,2.0,204.0,automatic,42000
+Bmw,3 Series,2015,68000,2,gasoline,1.5,136.0,automatic,98000
+Bmw,5 Series,2007,50000,2,gasoline,3.0,218.0,automatic,112000
+Bmw,7 Series,2006,20000,4,gasoline,4.0,306.0,automatic,217000
+Bmw,X5,2017,200000,3,plug-in,2.0,313.0,automatic,148000
+Bmw,X5,2017,220000,2,plug-in,2.0,313.0,automatic,85000
+Bmw,1 Series,2015,55000,3,gasoline,1.6,136.0,automatic,93000
+Bmw,X4,2017,127000,2,gasoline,2.0,184.0,automatic,108000
+Bmw,X1,2017,94000,3,gasoline,1.5,136.0,automatic,72000
+Bmw,1 Series,2017,71000,2,gasoline,1.5,136.0,automatic,119000
+Bmw,1 Series,2012,31000,4,gasoline,1.6,136.0,automatic,191000
+Bmw,3 Series,2014,58000,2,gasoline,1.6,136.0,automatic,203000
+Bmw,X3,2014,61000,2,gasoline,2.0,184.0,automatic,173000
+Bmw,3 Series,1998,35000,4,gasoline,2.0,150.0,automatic,370000
+Bmw,4 Series,2016,130000,1,gasoline,2.0,184.0,automatic,93000
+Bmw,5 Series,2007,25000,4,gasoline,2.5,177.0,automatic,255000
+Bmw,X3,2014,68000,3,gasoline,2.0,184.0,automatic,154000
+Bmw,3 Series,2017,110000,4,plug-in,2.0,252.0,automatic,130000
+Bmw,X5,2018,216000,2,plug-in,2.0,313.0,automatic,114000
+Bmw,5 Series,2008,39000,4,gasoline,2.5,190.0,automatic,180000
+Bmw,X3,2024,380000,2,plug-in,2.0,292.0,automatic,1000
+Bmw,5 Series,2015,85000,3,gasoline,2.0,184.0,automatic,75000
+Bmw,X5,2022,384000,3,diesel,3.0,286.0,automatic,18000
+Bmw,3 Series,2017,75000,4,gasoline,1.5,136.0,automatic,117000
+Bmw,X3,2021,245000,3,plug-in,2.0,292.0,automatic,121000
+Bmw,3 Series,2012,40000,3,gasoline,2.0,136.0,automatic,148000
+Bmw,2 Series,2018,104000,2,gasoline,1.5,136.0,robotic,80000
+Bmw,M3,2012,320000,4,gasoline,4.0,420.0,robotic,140000
+Bmw,X1,2015,56000,3,gasoline,2.0,184.0,automatic,100000
+Bmw,X3,2014,67000,3,gasoline,2.0,184.0,automatic,200000
+Bmw,X5,2011,65000,1,diesel,3.0,306.0,automatic,150000
+Bmw,X5,2011,58000,3,diesel,3.0,235.0,automatic,195000
+Bmw,7 Series,2007,30000,4,gasoline,4.8,367.0,automatic,280000
+Bmw,1 Series,2021,147000,2,gasoline,1.5,140.0,robotic,73000
+Bmw,5 Series,2023,330000,1,plug-in,2.0,292.0,automatic,37000
+Bmw,3 Series,2015,68000,3,gasoline,2.0,184.0,automatic,236000
+Bmw,Xm,2024,1260000,1,plug-in,4.4,653.0,automatic,11000
+Bmw,X3,2015,94000,4,gasoline,2.0,184.0,automatic,115000
+Bmw,1 Series,2015,45000,4,gasoline,1.6,136.0,automatic,135000
+Bmw,X5,2008,52000,2,diesel,3.0,235.0,automatic,200000
+Bmw,X5,2021,430000,1,plug-in,3.0,394.0,automatic,56000
+Bmw,5 Series,2013,70000,3,diesel,2.0,218.0,automatic,265000
+Bmw,X1,2017,115000,2,gasoline,2.0,192.0,automatic,66000
+Bmw,X1,2016,68000,3,gasoline,1.5,136.0,automatic,156000
+Bmw,3 Series,1993,50000,3,gasoline,1.8,115.0,automatic,302000
+Bmw,3 Series,2006,26500,4,gasoline,2.5,218.0,automatic,183000
+Bmw,3 Series,2021,170000,2,gasoline,2.0,156.0,automatic,90000
+Bmw,3 Series,2017,80000,3,gasoline,1.5,136.0,automatic,156000
+Bmw,X3,2014,75000,2,gasoline,2.0,184.0,automatic,120000
+Bmw,X3,2019,201000,2,gasoline,2.0,252.0,automatic,57000
+Bmw,3 Series,2022,210000,2,plug-in,2.0,204.0,automatic,24000
+Bmw,7 Series,2010,124999,3,gasoline,3.0,326.0,automatic,172000
+Bmw,3 Series,2021,143000,3,gasoline,2.0,156.0,automatic,67000
+Bmw,X5,2023,540000,2,plug-in,3.0,394.0,automatic,12000
+Bmw,1 Series,2009,25000,3,gasoline,2.0,156.0,automatic,157000
+Bmw,4 Series,2014,130000,4,gasoline,2.0,245.0,automatic,146000
+Bmw,3 Series,2009,153000,3,gasoline,3.0,306.0,automatic,133000
+Bmw,1 Series,2014,39900,4,gasoline,1.6,136.0,automatic,150000
+Bmw,X1,2012,39900,4,gasoline,2.0,150.0,automatic,160000
+Bmw,X1,2022,138000,3,gasoline,1.5,136.0,robotic,110000
+Bmw,4 Series,2019,152000,3,gasoline,2.0,184.0,automatic,97000
+Bmw,3 Series,2024,199990,2,gasoline,2.0,156.0,automatic,55000
+Bmw,X1,2017,79900,2,gasoline,1.5,136.0,automatic,95000
+Bmw,3 Series,2016,60000,4,gasoline,1.5,136.0,automatic,170000
+Bmw,4 Series,2019,146900,4,gasoline,2.0,184.0,automatic,80000
+Bmw,1 Series,2020,113000,2,gasoline,1.5,140.0,robotic,79000
+Bmw,X4,2015,89999,2,gasoline,2.0,184.0,automatic,140000
+Bmw,X1,2023,192900,2,gasoline,1.5,136.0,automatic,30000
+Bmw,3 Series,2019,139000,2,plug-in,2.0,252.0,automatic,120000
+Bmw,5 Series,2009,31900,4,gasoline,2.5,190.0,automatic,200000
+Bmw,4 Series,2022,360000,2,gasoline,3.0,374.0,automatic,40000
+Bmw,X5,2010,40000,2,diesel,3.0,269.0,automatic,350000
+Bmw,3 Series,2021,175000,2,gasoline,2.0,156.0,automatic,23400
+Bmw,1 Series,2011,20500,2,gasoline,2.0,136.0,automatic,245000
+Bmw,7 Series,2015,120000,3,gasoline,3.0,320.0,automatic,169000
+Bmw,5 Series,2020,207000,2,plug-in,2.0,292.0,automatic,86000
+Bmw,X5,2012,65000,2,diesel,3.0,306.0,automatic,238000
+Bmw,X1,2017,90000,4,gasoline,2.0,192.0,robotic,165000
+Bmw,4 Series,2017,240000,4,gasoline,3.0,326.0,automatic,89000
+Bmw,1 Series,2010,27000,3,gasoline,2.0,136.0,automatic,158000
+Bmw,3 Series,2023,327000,1,plug-in,2.0,292.0,automatic,24000
+Bmw,4 Series,2014,115000,3,gasoline,2.0,245.0,automatic,225000
+Bmw,3 Series,2008,55000,4,gasoline,2.0,156.0,automatic,220000

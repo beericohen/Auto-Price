@@ -1,0 +1,349 @@
+manufacturer,model,year,price,hand,fuel,engine_liters,horsepower,transmission,mileage
+Suzuki,Swift,2010,13900,1,gasoline,1.5,101,automatic,247000
+Suzuki,Crossover,2018,67000,1,gasoline,1.4,140,automatic,103000
+Suzuki,Alto,2013,12900,3,gasoline,1.0,68,automatic,149000
+Suzuki,Crossover,2020,82900,1,gasoline,1.4,140,automatic,27000
+Suzuki,Swift,2021,74900,1,gasoline,1.2,83,automatic,84000
+Suzuki,Sx4,2014,22000,2,gasoline,1.6,120,automatic,190000
+Suzuki,Sx4,2015,31900,2,gasoline,1.6,118,variable,144000
+Suzuki,S Cross,2021,79900,1,gasoline,1.4,129,automatic,68000
+Suzuki,Crossover,2017,51800,3,gasoline,1.4,140,automatic,138000
+Suzuki,Ignis,2021,72800,3,gasoline,1.2,83,variable,16000
+Suzuki,S Cross,2021,82900,2,gasoline,1.4,129,automatic,124245
+Suzuki,S Cross,2024,135000,1,gasoline,1.4,129,automatic,6000
+Suzuki,S Cross,2023,121900,1,gasoline,1.4,129,automatic,52000
+Suzuki,Alto,2015,19900,1,gasoline,1.0,68,automatic,136000
+Suzuki,Ignis,2021,72900,1,gasoline,1.2,83,variable,22900
+Suzuki,Baleno,2019,43000,2,gasoline,1.2,90,variable,109000
+Suzuki,Vitara,2025,139905,1,gasoline,1.4,129,automatic,22551
+Suzuki,Vitara,2023,101870,1,hybrid,1.5,116,robotic,96352
+Suzuki,Vitara,2023,91910,1,hybrid,1.5,116,robotic,124161
+Suzuki,Vitara,2022,110005,1,gasoline,1.4,129,automatic,98000
+Suzuki,Crossover,2021,65000,1,gasoline,1.4,129,automatic,169000
+Suzuki,Splash,2013,13000,4,gasoline,1.2,94,automatic,188000
+Suzuki,Splash,2011,10999,4,gasoline,1.2,94,automatic,210000
+Suzuki,Celerio,2016,18900,1,gasoline,1.0,68,robotic,168800
+Suzuki,Crossover,2015,21000,4,gasoline,1.6,117,variable,295000
+Suzuki,Liana,2007,5500,4,gasoline,1.6,105,automatic,160000
+Suzuki,Vitara,2023,121000,1,hybrid,1.5,116,robotic,54000
+Suzuki,Grand Vitara,2008,15000,2,gasoline,2.0,140,automatic,163000
+Suzuki,Crossover,2021,95000,1,gasoline,1.4,129,automatic,61000
+Suzuki,Baleno,2020,40000,2,gasoline,1.2,90,variable,123000
+Suzuki,Vitara,2022,92465,1,gasoline,1.4,129,automatic,93413
+Suzuki,Vitara,2022,94590,1,gasoline,1.4,129,automatic,85073
+Suzuki,Vitara,2022,122735,1,gasoline,1.4,129,automatic,59948
+Suzuki,Vitara,2022,103060,1,hybrid,1.5,116,robotic,52218
+Suzuki,Vitara,2022,88035,1,gasoline,1.4,129,automatic,129987
+Suzuki,Vitara,2021,120350,1,gasoline,1.4,129,automatic,16500
+Suzuki,Crossover,2022,101580,2,gasoline,1.4,129,automatic,85289
+Suzuki,Crossover,2021,96285,1,gasoline,1.4,129,automatic,98700
+Suzuki,Crossover,2021,94055,1,gasoline,1.4,129,automatic,103090
+Suzuki,Crossover,2015,49645,2,gasoline,1.6,117,variable,57900
+Suzuki,Swift,2024,108580,1,gasoline,1.2,83,automatic,34359
+Suzuki,Swift,2021,87852,1,gasoline,1.2,83,automatic,61904
+Suzuki,S Cross,2024,137872,1,gasoline,1.4,129,automatic,58176
+Suzuki,S Cross,2024,137200,1,gasoline,1.4,129,automatic,57261
+Suzuki,S Cross,2023,102605,1,gasoline,1.4,129,automatic,95907
+Suzuki,S Cross,2023,119635,1,gasoline,1.4,129,automatic,79300
+Suzuki,S Cross,2023,134225,1,gasoline,1.4,129,automatic,63625
+Suzuki,S Cross,2023,129060,1,gasoline,1.4,129,automatic,42001
+Suzuki,S Cross,2023,136795,1,gasoline,1.4,129,automatic,34598
+Suzuki,S Cross,2022,100370,1,gasoline,1.4,129,automatic,83384
+Suzuki,Vitara,2024,123500,2,gasoline,1.4,129,automatic,57000
+Suzuki,Swift,2007,8000,4,gasoline,1.5,101,automatic,235000
+Suzuki,Splash,2012,16000,2,gasoline,1.2,94,manual,145000
+Suzuki,Sx4,2013,19500,3,gasoline,1.6,120,automatic,172000
+Suzuki,Swift,2007,10500,3,gasoline,1.5,101,automatic,256000
+Suzuki,Sx4,2022,98000,2,gasoline,1.4,129,variable,45200
+Suzuki,Sx4,2008,15000,3,gasoline,1.6,107,automatic,205000
+Suzuki,Crossover,2017,54900,3,gasoline,1.4,140,automatic,161800
+Suzuki,S Cross,2022,130000,1,gasoline,1.4,129,automatic,13700
+Suzuki,Baleno,2017,31000,3,gasoline,1.2,90,variable,182000
+Suzuki,S Cross,2023,136435,1,gasoline,1.4,129,automatic,29611
+Suzuki,S Cross,2022,117655,1,gasoline,1.4,129,automatic,73818
+Suzuki,S Cross,2023,126780,1,gasoline,1.4,129,automatic,74000
+Suzuki,Ignis,2024,100855,1,gasoline,1.2,83,variable,12300
+Suzuki,Ignis,2023,74585,1,gasoline,1.2,83,manual,52361
+Suzuki,Ignis,2019,64995,1,gasoline,1.3,90,variable,84327
+Suzuki,Ignis,2021,73775,2,gasoline,1.2,83,variable,97357
+Suzuki,Celerio,2019,37995,1,gasoline,1.0,68,robotic,99200
+Suzuki,Crossover,2021,65000,1,gasoline,1.4,129,automatic,169000
+Suzuki,Vitara,2016,58500,1,gasoline,1.6,119,automatic,99000
+Suzuki,Splash,2013,13000,4,gasoline,1.2,94,automatic,188000
+Suzuki,Jimny,2005,28500,4,gasoline,1.3,80,automatic,220000
+Suzuki,Sx4,2010,21500,2,gasoline,1.6,120,automatic,144000
+Suzuki,Splash,2011,10999,4,gasoline,1.2,94,automatic,210000
+Suzuki,Vitara,2016,49000,1,gasoline,1.6,119,automatic,163000
+Suzuki,Celerio,2016,18900,1,gasoline,1.0,68,robotic,168800
+Suzuki,Sx4,2013,29000,3,gasoline,1.6,120,automatic,132000
+Suzuki,Baleno,2017,32000,2,gasoline,1.2,90,variable,166000
+Suzuki,Baleno,2017,35000,2,gasoline,1.2,90,variable,131000
+Suzuki,Crossover,2015,21000,4,gasoline,1.6,117,variable,295000
+Suzuki,Alto,2010,9000,4,gasoline,1.0,68,automatic,178000
+Suzuki,Grand Vitara,2006,24000,2,gasoline,1.6,93,automatic,198000
+Suzuki,Sx4,2012,20000,3,gasoline,1.6,120,automatic,185000
+Suzuki,Sx4,2014,33500,3,gasoline,1.6,118,variable,125000
+Suzuki,Jimny,2008,33000,3,gasoline,1.3,85,automatic,170000
+Suzuki,Sx4,2010,12000,1,gasoline,1.6,120,automatic,239000
+Suzuki,Swift,2015,75000,1,gasoline,1.2,94,manual,71150
+Suzuki,Grand Vitara,2014,68000,1,gasoline,2.4,169,automatic,247000
+Suzuki,S Cross,2025,145000,1,gasoline,1.4,129,automatic,4500
+Suzuki,Swift,2023,81500,1,gasoline,1.2,83,manual,51500
+Suzuki,Liana,2007,5500,4,gasoline,1.6,105,automatic,160000
+Suzuki,Vitara,2023,121000,1,hybrid,1.5,116,robotic,54000
+Suzuki,Celerio,2016,31500,2,gasoline,1.0,68,robotic,43000
+Suzuki,Grand Vitara,2008,15000,2,gasoline,2.0,140,automatic,163000
+Suzuki,Ignis,2021,74990,1,gasoline,1.2,83,variable,34000
+Suzuki,Crossover,2021,95000,1,gasoline,1.4,129,automatic,61000
+Suzuki,Celerio,2018,34500,1,gasoline,1.0,68,robotic,95000
+Suzuki,Baleno,2020,40000,2,gasoline,1.2,90,variable,123000
+Suzuki,S Cross,2022,99000,1,gasoline,1.4,129,automatic,63223
+Suzuki,Vitara,2024,123500,2,gasoline,1.4,129,automatic,57000
+Suzuki,Jimny,2015,54900,2,gasoline,1.3,85,automatic,140000
+Suzuki,Swift,2023,89990,1,gasoline,1.2,83,automatic,44000
+Suzuki,Swift,2007,8000,4,gasoline,1.5,101,automatic,235000
+Suzuki,Alto,2014,15500,3,gasoline,1.0,68,automatic,182000
+Suzuki,Splash,2012,16000,2,gasoline,1.2,94,manual,145000
+Suzuki,Sx4,2013,19500,3,gasoline,1.6,120,automatic,172000
+Suzuki,Swift,2007,10500,3,gasoline,1.5,101,automatic,256000
+Suzuki,Sx4,2022,98000,2,gasoline,1.4,129,variable,45200
+Suzuki,Sx4,2008,12900,2,gasoline,1.6,107,automatic,214000
+Suzuki,Sx4,2008,15000,3,gasoline,1.6,107,automatic,205000
+Suzuki,Sx4,2010,18000,3,gasoline,1.6,120,automatic,197000
+Suzuki,Grand Vitara,2013,70000,2,gasoline,2.4,169,automatic,185000
+Suzuki,Sx4,2008,13900,3,gasoline,1.6,107,automatic,190000
+Suzuki,Swift,2012,19000,2,gasoline,1.2,94,manual,131000
+Suzuki,Swift,2008,17000,3,gasoline,1.5,101,automatic,172000
+Suzuki,Vitara,2016,57000,1,gasoline,1.6,119,automatic,159000
+Suzuki,Splash,2011,11000,2,gasoline,1.2,94,automatic,235258
+Suzuki,Jimny,2008,36000,4,gasoline,1.3,85,automatic,207000
+Suzuki,Sx4,2008,11000,4,gasoline,1.6,107,automatic,244000
+Suzuki,Sx4,2011,19000,3,gasoline,1.6,120,automatic,247000
+Suzuki,Crossover,2017,54900,3,gasoline,1.4,140,automatic,161800
+Suzuki,S Cross,2022,130000,1,gasoline,1.4,129,automatic,13700
+Suzuki,Baleno,2017,31000,3,gasoline,1.2,90,variable,182000
+Suzuki,Sx4,2015,32000,4,gasoline,1.6,118,variable,167000
+Suzuki,Sx4,2015,37000,1,gasoline,1.6,118,variable,202000
+Suzuki,Grand Vitara,2009,37000,3,gasoline,2.4,169,automatic,200000
+Suzuki,Crossover,2019,56500,2,gasoline,1.4,140,automatic,170000
+Suzuki,Sx4,2015,32000,3,gasoline,1.6,118,variable,198000
+Suzuki,Alto,2010,9000,4,gasoline,1.0,68,automatic,178000
+Suzuki,Grand Vitara,2006,24000,2,gasoline,1.6,93,automatic,198000
+Suzuki,Sx4,2012,20000,3,gasoline,1.6,120,automatic,185000
+Suzuki,Sx4,2014,33500,3,gasoline,1.6,118,variable,125000
+Suzuki,Jimny,2008,33000,3,gasoline,1.3,85,automatic,170000
+Suzuki,Sx4,2010,12000,1,gasoline,1.6,120,automatic,239000
+Suzuki,Swift,2015,75000,1,gasoline,1.2,94,manual,71150
+Suzuki,Grand Vitara,2014,68000,1,gasoline,2.4,169,automatic,247000
+Suzuki,S Cross,2025,145000,1,gasoline,1.4,129,automatic,4500
+Suzuki,Swift,2023,81500,1,gasoline,1.2,83,manual,51500
+Suzuki,Sx4,2011,18950,3,gasoline,1.6,120,automatic,214224
+Suzuki,Vitara,2021,97500,1,gasoline,1.4,140,automatic,122000
+Suzuki,Swift,2007,13900,4,gasoline,1.5,101,automatic,170000
+Suzuki,Sx4,2015,45000,3,gasoline,1.6,118,variable,94000
+Suzuki,Grand Vitara,2009,37000,4,gasoline,2.4,165,automatic,220000
+Suzuki,Grand Vitara,2002,18000,3,gasoline,1.6,93,automatic,155000
+Suzuki,Alto,2015,19000,2,gasoline,1.0,68,manual,180000
+Suzuki,Swift,2008,19000,3,gasoline,1.5,101,automatic,156000
+Suzuki,Crossover,2017,64000,2,gasoline,1.4,140,automatic,156000
+Suzuki,Vitara,2016,60000,1,gasoline,1.6,119,automatic,177500
+Suzuki,Jimny,2008,30000,3,gasoline,1.3,85,automatic,230000
+Suzuki,Swift,2023,105000,1,gasoline,1.2,83,automatic,17000
+Suzuki,Swift,2008,12500,2,gasoline,1.5,101,automatic,200000
+Suzuki,Swift,2013,19000,3,gasoline,1.2,94,automatic,227000
+Suzuki,Sx4,2014,37000,4,gasoline,1.6,118,variable,180000
+Suzuki,Jimny,2021,129000,1,gasoline,1.5,102,automatic,30828
+Suzuki,Vitara,2021,102900,1,gasoline,1.4,129,automatic,86000
+Suzuki,Sx4,2010,18000,3,gasoline,1.6,120,automatic,197000
+Suzuki,Grand Vitara,2013,70000,2,gasoline,2.4,169,automatic,185000
+Suzuki,Sx4,2008,13900,3,gasoline,1.6,107,automatic,190000
+Suzuki,Swift,2012,19000,2,gasoline,1.2,94,manual,131000
+Suzuki,Swift,2008,17000,3,gasoline,1.5,101,automatic,172000
+Suzuki,Vitara,2016,57000,1,gasoline,1.6,119,automatic,159000
+Suzuki,Splash,2011,11000,2,gasoline,1.2,94,automatic,235258
+Suzuki,Jimny,2008,36000,4,gasoline,1.3,85,automatic,207000
+Suzuki,Sx4,2008,11000,4,gasoline,1.6,107,automatic,244000
+Suzuki,Sx4,2011,19000,3,gasoline,1.6,120,automatic,247000
+Suzuki,Alto,2009,9000,3,gasoline,1.0,68,automatic,164500
+Suzuki,Swift,2011,24000,4,gasoline,1.2,94,automatic,186000
+Suzuki,Ignis,2020,61500,2,gasoline,1.3,90,variable,146000
+Suzuki,Baleno,2019,39500,3,gasoline,1.2,90,variable,147000
+Suzuki,Sx4,2008,15000,3,gasoline,1.6,107,automatic,220000
+Suzuki,Vitara,2020,85000,2,gasoline,1.4,140,automatic,101252
+Suzuki,S Cross,2022,105000,1,gasoline,1.4,129,automatic,75000
+Suzuki,Grand Vitara,2012,52000,2,gasoline,2.4,165,automatic,243000
+Suzuki,Liana,2007,11000,4,gasoline,1.6,105,automatic,170000
+Suzuki,Swift,2021,85500,1,gasoline,1.2,83,automatic,45000
+Suzuki,Sx4,2009,16500,3,gasoline,1.6,120,automatic,132000
+Suzuki,Vitara,2016,53000,1,gasoline,1.6,119,automatic,248000
+Suzuki,Ignis,2019,63000,3,gasoline,1.3,90,variable,73000
+Suzuki,Sx4,2009,11500,2,gasoline,1.6,107,automatic,340000
+Suzuki,Alto,2010,10000,3,gasoline,1.0,68,manual,155000
+Suzuki,Liana,2007,6000,4,gasoline,1.6,105,automatic,274000
+Suzuki,Jimny,2021,145000,1,gasoline,1.5,102,automatic,53700
+Suzuki,Swift,2008,7500,2,gasoline,1.5,101,automatic,320000
+Suzuki,Swift,2007,13900,4,gasoline,1.5,101,automatic,170000
+Suzuki,Sx4,2015,45000,3,gasoline,1.6,118,variable,94000
+Suzuki,Grand Vitara,2009,37000,4,gasoline,2.4,165,automatic,220000
+Suzuki,Grand Vitara,2002,18000,3,gasoline,1.6,93,automatic,155000
+Suzuki,Alto,2015,19000,2,gasoline,1.0,68,manual,180000
+Suzuki,Swift,2008,19000,3,gasoline,1.5,101,automatic,156000
+Suzuki,Crossover,2017,64000,2,gasoline,1.4,140,automatic,156000
+Suzuki,Vitara,2016,60000,1,gasoline,1.6,119,automatic,177500
+Suzuki,Jimny,2008,30000,3,gasoline,1.3,85,automatic,230000
+Suzuki,Swift,2023,105000,1,gasoline,1.2,83,automatic,17000
+Suzuki,Vitara,2020,85000,2,gasoline,1.4,140,automatic,101252
+Suzuki,S Cross,2022,105000,1,gasoline,1.4,129,automatic,75000
+Suzuki,Grand Vitara,2012,52000,2,gasoline,2.4,165,automatic,243000
+Suzuki,Liana,2007,11000,4,gasoline,1.6,105,automatic,170000
+Suzuki,Swift,2021,85500,1,gasoline,1.2,83,automatic,45000
+Suzuki,Sx4,2009,16500,3,gasoline,1.6,120,automatic,132000
+Suzuki,Vitara,2016,53000,1,gasoline,1.6,119,automatic,248000
+Suzuki,Alto,2011,10000,2,gasoline,1.0,68,manual,198000
+Suzuki,Crossover,2021,95000,1,gasoline,1.4,140,automatic,63000
+Suzuki,Sx4,2011,21000,2,gasoline,1.6,120,automatic,192000
+Suzuki,Swift,2007,14000,3,gasoline,1.5,101,automatic,186000
+Suzuki,Swift,2016,40000,3,gasoline,1.2,94,manual,28000
+Suzuki,Alto,2014,13150,2,gasoline,1.0,68,manual,150000
+Suzuki,Vitara,2016,55000,2,gasoline,1.6,119,automatic,137700
+Suzuki,Sx4,2010,15000,3,gasoline,1.6,120,automatic,205000
+Suzuki,Swift,2009,19000,1,gasoline,1.5,101,automatic,175000
+Suzuki,Sx4,2008,5500,3,gasoline,1.6,107,automatic,168253
+Suzuki,Ignis,2019,63000,3,gasoline,1.3,90,variable,73000
+Suzuki,Sx4,2009,11500,2,gasoline,1.6,107,automatic,340000
+Suzuki,Alto,2010,10000,3,gasoline,1.0,68,manual,155000
+Suzuki,Alto,2011,10000,2,gasoline,1.0,68,manual,198000
+Suzuki,Crossover,2021,95000,1,gasoline,1.4,140,automatic,63000
+Suzuki,Sx4,2011,21000,2,gasoline,1.6,120,automatic,192000
+Suzuki,Swift,2007,14000,3,gasoline,1.5,101,automatic,186000
+Suzuki,Swift,2016,40000,3,gasoline,1.2,94,manual,28000
+Suzuki,Alto,2014,13150,2,gasoline,1.0,68,manual,150000
+Suzuki,Vitara,2016,55000,2,gasoline,1.6,119,automatic,137700
+Suzuki,Sx4,2010,15000,3,gasoline,1.6,120,automatic,205000
+Suzuki,Swift,2009,19000,1,gasoline,1.5,101,automatic,175000
+Suzuki,Sx4,2008,5500,3,gasoline,1.6,107,automatic,168253
+Suzuki,Jimny,2007,33000,4,gasoline,1.3,85,automatic,265000
+Suzuki,Sx4,2010,23000,3,gasoline,1.6,120,automatic,156000
+Suzuki,Grand Vitara,2013,47000,3,gasoline,2.4,165,automatic,150000
+Suzuki,Swift,2008,15700,3,gasoline,1.5,101,automatic,211000
+Suzuki,Splash,2011,13000,3,gasoline,1.2,94,automatic,245000
+Suzuki,Sx4,2011,20000,3,gasoline,1.6,120,automatic,110000
+Suzuki,Swift,2007,7000,3,gasoline,1.5,101,automatic,265000
+Suzuki,Vitara,2020,85000,2,gasoline,1.4,140,automatic,101252
+Suzuki,S Cross,2022,105000,1,gasoline,1.4,129,automatic,75000
+Suzuki,Grand Vitara,2012,52000,2,gasoline,2.4,165,automatic,243000
+Suzuki,Liana,2007,11000,4,gasoline,1.6,105,automatic,170000
+Suzuki,Swift,2021,85500,1,gasoline,1.2,83,automatic,45000
+Suzuki,Sx4,2009,16500,3,gasoline,1.6,120,automatic,132000
+Suzuki,Vitara,2016,53000,1,gasoline,1.6,119,automatic,248000
+Suzuki,Sx4,2016,50000,2,gasoline,1.6,118,variable,130000
+Suzuki,Sx4,2012,24100,4,gasoline,1.6,120,automatic,240000
+Suzuki,Sx4,2014,24000,2,gasoline,1.6,120,automatic,172000
+Suzuki,Sx4,2016,50000,2,gasoline,1.6,118,variable,130000
+Suzuki,Sx4,2012,24100,4,gasoline,1.6,120,automatic,240000
+Suzuki,Sx4,2014,24000,2,gasoline,1.6,120,automatic,172000
+Suzuki,Ignis,2005,5000,3,gasoline,1.3,83,automatic,190000
+Suzuki,Grand Vitara,2006,35000,2,gasoline,2.0,140,automatic,242000
+Suzuki,Swift,2014,33500,2,gasoline,1.2,94,automatic,141000
+Suzuki,Liana,2007,2900,2,gasoline,1.6,105,automatic,162000
+Suzuki,Sx4,2015,49000,2,gasoline,1.6,118,variable,70000
+Suzuki,Grand Vitara,2010,55000,3,gasoline,2.4,165,automatic,145000
+Suzuki,Sx4,2013,27000,4,gasoline,1.6,118,variable,200000
+Suzuki,Sx4,2008,15000,2,gasoline,1.6,107,automatic,230000
+Suzuki,Sx4,2013,27000,4,gasoline,1.6,118,variable,135000
+Suzuki,Liana,2007,4500,4,gasoline,1.6,105,automatic,270000
+Suzuki,Sx4,2013,26000,2,gasoline,1.6,118,variable,217000
+Suzuki,Grand Vitara,2015,69500,2,gasoline,2.4,169,automatic,220000
+Suzuki,Baleno,2017,38500,2,gasoline,1.2,90,variable,151297
+Suzuki,Sx4,2010,12900,2,gasoline,1.6,120,automatic,270000
+Suzuki,Sx4,2016,52000,2,gasoline,1.6,118,variable,71000
+Suzuki,Grand Vitara,2008,45000,2,gasoline,2.0,140,automatic,222000
+Suzuki,Splash,2013,12500,2,gasoline,1.2,94,manual,210000
+Suzuki,Alto,2011,10000,2,gasoline,1.0,68,manual,198000
+Suzuki,Crossover,2021,95000,1,gasoline,1.4,140,automatic,63000
+Suzuki,Sx4,2011,21000,2,gasoline,1.6,120,automatic,192000
+Suzuki,Swift,2007,14000,3,gasoline,1.5,101,automatic,186000
+Suzuki,Swift,2016,40000,3,gasoline,1.2,94,manual,28000
+Suzuki,Alto,2014,13150,2,gasoline,1.0,68,manual,150000
+Suzuki,Vitara,2016,55000,2,gasoline,1.6,119,automatic,137700
+Suzuki,Sx4,2010,15000,3,gasoline,1.6,120,automatic,205000
+Suzuki,Swift,2009,19000,1,gasoline,1.5,101,automatic,175000
+Suzuki,Sx4,2008,5500,3,gasoline,1.6,107,automatic,168253
+Suzuki,Alto,2012,8700,2,gasoline,1.0,68,manual,163000
+Suzuki,Jimny,2005,25000,3,gasoline,1.3,85,automatic,250000
+Suzuki,Vitara,2017,67000,3,gasoline,1.6,119,automatic,155000
+Suzuki,Vitara,2016,59800,2,gasoline,1.6,119,automatic,147000
+Suzuki,Crossover,2018,60000,2,gasoline,1.4,140,automatic,115000
+Suzuki,Liana,2005,5000,2,gasoline,1.6,105,automatic,198832
+Suzuki,Jimny,1999,26000,3,gasoline,1.3,80,automatic,251000
+Suzuki,Sx4,2008,10000,3,gasoline,1.6,107,automatic,335000
+Suzuki,Sx4,2014,34000,3,gasoline,1.6,118,variable,178000
+Suzuki,Swift,2002,5500,3,gasoline,1.3,85,automatic,119525
+Suzuki,Sx4,2015,35000,3,gasoline,1.6,118,variable,160000
+Suzuki,Swift,2013,28000,4,gasoline,1.2,94,automatic,164000
+Suzuki,Jimny,2022,158000,1,gasoline,1.5,102,automatic,28000
+Suzuki,Sx4,2016,50000,2,gasoline,1.6,118,variable,60000
+Suzuki,Vitara,2021,107000,1,gasoline,1.4,129,automatic,42000
+Suzuki,Jimny,2002,40000,3,gasoline,1.3,80,automatic,214000
+Suzuki,Ignis,2005,6500,3,gasoline,1.3,83,automatic,117640
+Suzuki,Grand Vitara,2009,27000,2,gasoline,2.4,169,automatic,200000
+Suzuki,Jimny,2008,36000,4,gasoline,1.3,85,automatic,222000
+Suzuki,Vitara,2016,65000,1,gasoline,1.6,119,automatic,178680
+Suzuki,Jimny,2007,33000,4,gasoline,1.3,85,automatic,265000
+Suzuki,Sx4,2010,23000,3,gasoline,1.6,120,automatic,156000
+Suzuki,Grand Vitara,2013,47000,3,gasoline,2.4,165,automatic,150000
+Suzuki,Swift,2008,15700,3,gasoline,1.5,101,automatic,211000
+Suzuki,Splash,2011,13000,3,gasoline,1.2,94,automatic,245000
+Suzuki,Sx4,2011,20000,3,gasoline,1.6,120,automatic,110000
+Suzuki,Swift,2007,7000,3,gasoline,1.5,101,automatic,265000
+Suzuki,Sx4,2016,50000,2,gasoline,1.6,118,variable,130000
+Suzuki,Sx4,2012,24100,4,gasoline,1.6,120,automatic,240000
+Suzuki,Sx4,2014,24000,2,gasoline,1.6,120,automatic,172000
+Suzuki,Alto,2011,12000,3,gasoline,1.0,68,manual,125000
+Suzuki,Sx4,2010,19500,3,gasoline,1.6,120,automatic,150000
+Suzuki,Sx4,2014,32000,2,gasoline,1.6,118,variable,175000
+Suzuki,Sx4,2014,40000,2,gasoline,1.6,118,variable,113000
+Suzuki,S Cross,2022,108000,1,gasoline,1.4,129,automatic,57000
+Suzuki,Swift,2021,79000,1,gasoline,1.2,83,automatic,105000
+Suzuki,Vitara,2021,108000,1,gasoline,1.4,140,automatic,99000
+Suzuki,Swift,2019,59900,4,gasoline,1.2,90,automatic,58000
+Suzuki,Swift,2023,94000,1,gasoline,1.2,83,automatic,7000
+Suzuki,S Cross,2023,123990,1,gasoline,1.4,129,automatic,88000
+Suzuki,Jimny,2015,64000,3,gasoline,1.3,85,automatic,123800
+Suzuki,Swift,2021,84900,2,gasoline,1.2,83,automatic,78800
+Suzuki,Crossover,2022,92905,2,gasoline,1.4,129,automatic,98000
+Suzuki,Crossover,2019,73505,2,gasoline,1.4,140,automatic,140000
+Suzuki,Swift,2016,47715,1,gasoline,1.2,94,automatic,100766
+Suzuki,S Cross,2024,136995,1,gasoline,1.4,129,automatic,17671
+Suzuki,Swift,2008,10000,4,gasoline,1.5,101,automatic,190000
+Suzuki,Crossover,2021,88000,2,gasoline,1.4,129,automatic,100000
+Suzuki,Crossover,2013,45000,1,gasoline,1.6,117,variable,44000
+Suzuki,Ignis,2006,5000,2,gasoline,1.3,83,automatic,200000
+Suzuki,Ignis,2005,5000,3,gasoline,1.3,83,automatic,190000
+Suzuki,Grand Vitara,2006,35000,2,gasoline,2.0,140,automatic,242000
+Suzuki,Swift,2014,33500,2,gasoline,1.2,94,automatic,141000
+Suzuki,Liana,2007,2900,2,gasoline,1.6,105,automatic,162000
+Suzuki,Sx4,2015,49000,2,gasoline,1.6,118,variable,70000
+Suzuki,Grand Vitara,2010,55000,3,gasoline,2.4,165,automatic,145000
+Suzuki,Sx4,2013,27000,4,gasoline,1.6,118,variable,200000
+Suzuki,Sx4,2008,15000,2,gasoline,1.6,107,automatic,230000
+Suzuki,Sx4,2013,27000,4,gasoline,1.6,118,variable,135000
+Suzuki,Liana,2007,4500,4,gasoline,1.6,105,automatic,270000
+Suzuki,Sx4,2010,15000,3,gasoline,1.6,120,automatic,236000
+Suzuki,Swift,2013,10000,3,gasoline,1.2,94,manual,340000
+Suzuki,Sx4,2008,12000,3,gasoline,1.6,107,automatic,276000
+Suzuki,Vitara,2016,62000,1,gasoline,1.6,119,automatic,71000
+Suzuki,Vitara,2016,67500,1,gasoline,1.6,119,automatic,62000
+Suzuki,Swift,2008,15000,4,gasoline,1.5,101,automatic,175000
+Suzuki,Splash,2013,19000,2,gasoline,1.2,94,manual,121000
+Suzuki,Jimny,2010,47000,4,gasoline,1.3,85,automatic,185000
+Suzuki,Sx4,2013,26000,2,gasoline,1.6,118,variable,217000
+Suzuki,Grand Vitara,2015,69500,2,gasoline,2.4,169,automatic,220000
+Suzuki,Baleno,2017,38500,2,gasoline,1.2,90,variable,151297
+Suzuki,Sx4,2010,12900,2,gasoline,1.6,120,automatic,270000
+Suzuki,Sx4,2016,52000,2,gasoline,1.6,118,variable,71000
+Suzuki,Grand Vitara,2008,45000,2,gasoline,2.0,140,automatic,222000
+Suzuki,Splash,2013,12500,2,gasoline,1.2,94,manual,210000
+Suzuki,Alto,2012,8700,2,gasoline,1.0,68,manual,163000
+Suzuki,Jimny,2005,25000,3,gasoline,1.3,85,automatic,250000
+Suzuki,Vitara,2017,67000,3,gasoline,1.6,119,automatic,155000

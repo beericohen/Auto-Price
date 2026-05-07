@@ -82,7 +82,7 @@ def get_mileage(ad_url):
 
 def scrape_page(manufacturer, page):
     url = f'https://autoboom.co.il/en/used/cars/{manufacturer}?year_from=2015&page={page}'
-    response = requests.get(url, headers=HEADERS, timeout=30)
+    response = requests.get(url, headers=HEADERS, timeout=60)
     
     if response.status_code != 200:
         print(f'eror in page {page}: status {response.status_code}')
@@ -105,8 +105,9 @@ def scrape_page(manufacturer, page):
     return results
 
 
-MANUFACTURERS = ['kia', 'toyota', 'hyundai', 'skoda', 'mazda', 'nissan']
-PAGES_PER_MANUFACTURER = 10 
+MANUFACTURERS = ['kia', 'toyota', 'hyundai', 'skoda', 'mazda', 'nissan', 'chevrolet', 'honda', 'mitsubishi', 'peugeot', 'suzuki','bmw', 'byd', 'audi', 'ford', 'subaru']
+#  
+PAGES_PER_MANUFACTURER = 30 
 
 def scrape_all():
     all_results = []
@@ -124,14 +125,14 @@ def scrape_all():
 
         # saving csv for each manufacturer
         df = pd.DataFrame(manufacturer_results)
-        df.to_csv(f'{manufacturer}_data.csv', index=False)
-        print(f'נשמר: {manufacturer}_data.csv')
+        df.to_csv(f'data/{manufacturer}_data.csv', index=False)
+        print(f'saved as: {manufacturer}_data.csv')
 
         all_results.extend(manufacturer_results)
 
     # cimbining all the data
     df_all = pd.DataFrame(all_results)
-    df_all.to_csv('autoboom_raw.csv', index=False)
+    df_all.to_csv(r'data/autoboom_raw.csv', index=False)
     print(f'\nin total: {len(df_all)} adds saved in - autoboom_raw.csv')
     return df_all
 
