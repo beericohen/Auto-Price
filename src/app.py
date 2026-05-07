@@ -61,22 +61,24 @@ try:
 
     st.title("🚗 מחשבון חיזוי מחיר רכב")
 
+    # --- Manufacturer and model outside the form so they update instantly ---
+    col_top1, col_top2 = st.columns(2)
+    with col_top1:
+        selected_mfg = st.selectbox("יצרן", manufacturers)
+    with col_top2:
+        available_models = mfg_to_models.get(selected_mfg, [])
+        selected_model = st.selectbox("דגם", available_models)
+
+    # --- Rest of the inputs inside the form ---
     with st.form("prediction_form"):
         col1, col2 = st.columns(2)
 
         with col1:
-            # Manufacturer dropdown
-            selected_mfg = st.selectbox("יצרן", manufacturers)
-
-            # Model dropdown — only models belonging to the selected manufacturer
-            available_models = mfg_to_models.get(selected_mfg, [])
-            selected_model = st.selectbox("דגם", available_models)
-
             year = st.number_input("שנת ייצור", 2000, 2025, 2020)
             hand = st.number_input("יד", 1, 10, 1)
+            engine = st.number_input("נפח מנוע (ליטר)", 0.1, 6.0, 1.6, step=0.1)
 
         with col2:
-            engine = st.number_input("נפח מנוע (ליטר)", 0.1, 6.0, 1.6, step=0.1)
             hp = st.number_input("כוחות סוס", 50, 600, 110)
             mileage = st.number_input("קילומטראז'", 0, 500000, 50000, step=1000)
             fuel = st.selectbox("סוג דלק", fuels)
