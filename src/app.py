@@ -11,6 +11,7 @@ st.set_page_config(page_title="חיזוי מחיר רכב מדויק", page_icon
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))  # Goes one level back from src to main directory
 
 MODEL_PATH = os.path.join(BASE_DIR, "Models", "xgb_fine_tuned.pkl")
+DATA_PATH = os.path.join(BASE_DIR, "data", "preprocessing.csv")
 PRICE_SCALER_PATH = os.path.join(BASE_DIR, "data", "minmax_scaler.pkl")
 FEATURES_SCALER_PATH = os.path.join(BASE_DIR, "data", "scaler.pkl")
 
@@ -22,43 +23,69 @@ def load_assets():
     return model, price_scaler, features_scaler
 
 @st.cache_data
-def get_options(_model):
-    # Read feature names directly from the model to avoid mismatch with CSV
-    cols = list(_model.get_booster().feature_names)
+def load_manufacturer_model_map():
+    """Build a mapping of manufacturer -> list of models from the CSV data."""
+    df = pd.read_csv(DATA_PATH)
+    cols = df.columns.tolist()
 
-    manufacturers = sorted([c.replace('manufacturer_', '') for c in cols if 'manufacturer_' in c])
-    models_list = sorted([c.replace('model_', '') for c in cols if 'model_' in c])
-    fuels = sorted([c.replace('fuel_', '') for c in cols if 'fuel_' in c])
-    transmissions = sorted([c.replace('transmission_', '') for c in cols if 'transmission_' in c])
+    manufacturers = sorted([c.replace('manufacturer_', '') for c in cols if c.startswith('manufacturer_')])
+    models_all = [c.replace('model_', '') for c in cols if c.startswith('model_')]
+    fuels = sorted([c.replace('fuel_', '') for c in cols if c.startswith('fuel_')])
+    transmissions = sorted([c.replace('transmission_', '') for c in cols if c.startswith('transmission_')])
 
-    return manufacturers, models_list, fuels, transmissions, cols
+    # For each manufacturer, find which models co-occur with it in the data
+    mfg_to_models = {}
+    for mfg in manufacturers:
+        mfg_col = f'manufacturer_{mfg}'
+        rows = df[df[mfg_col] == 1]
+        models_for_mfg = []
+        for m in models_all:
+            m_col = f'model_{m}'
+            if m_col in df.columns and rows[m_col].sum() > 0:
+                models_for_mfg.append(m)
+        mfg_to_models[mfg] = sorted(models_for_mfg)
+
+    return mfg_to_models, fuels, transmissions
+
+@st.cache_data
+def get_feature_columns(_model):
+    """Read feature names directly from the model to avoid mismatch."""
+    return list(_model.get_booster().feature_names)
+
 
 try:
     model, price_scaler, features_scaler = load_assets()
-
-    # Pass model to get_options so feature names come from the model itself
-    manufacturers, models_list, fuels, transmissions, feature_columns = get_options(model)
+    mfg_to_models, fuels, transmissions = load_manufacturer_model_map()
+    feature_columns = get_feature_columns(model)
+    manufacturers = sorted(mfg_to_models.keys())
 
     st.title("🚗 מחשבון חיזוי מחיר רכב")
 
     with st.form("prediction_form"):
         col1, col2 = st.columns(2)
+
         with col1:
+            # Manufacturer dropdown
             selected_mfg = st.selectbox("יצרן", manufacturers)
-            selected_model = st.selectbox("דגם", models_list)
+
+            # Model dropdown — only models belonging to the selected manufacturer
+            available_models = mfg_to_models.get(selected_mfg, [])
+            selected_model = st.selectbox("דגם", available_models)
+
             year = st.number_input("שנת ייצור", 2000, 2025, 2020)
             hand = st.number_input("יד", 1, 10, 1)
+
         with col2:
-            engine = st.number_input("נפח מנוע", 0.1, 6.0, 1.6)
+            engine = st.number_input("נפח מנוע (ליטר)", 0.1, 6.0, 1.6, step=0.1)
             hp = st.number_input("כוחות סוס", 50, 600, 110)
-            mileage = st.number_input("קילומטראז'", 0, 500000, 50000)
+            mileage = st.number_input("קילומטראז'", 0, 500000, 50000, step=1000)
             fuel = st.selectbox("סוג דלק", fuels)
             transmission = st.selectbox("תיבת הילוכים", transmissions)
 
-        submit = st.form_submit_button("חשב מחיר")
+        submit = st.form_submit_button("💰 חשב מחיר")
 
     if submit:
-        # Build input DataFrame with all zeros, columns matching model's expected features
+        # Build input DataFrame with all zeros, columns exactly matching model's expected features
         input_df = pd.DataFrame(0, index=[0], columns=feature_columns)
 
         # Numerical columns that go through scaling
@@ -71,13 +98,17 @@ try:
         input_df['mileage'] = mileage
 
         # Set One-Hot encoded columns (stay as 0 or 1, no scaling)
-        for prefix, val in [('manufacturer', selected_mfg), ('model', selected_model),
-                            ('fuel', fuel), ('transmission', transmission)]:
+        for prefix, val in [
+            ('manufacturer', selected_mfg),
+            ('model', selected_model),
+            ('fuel', fuel),
+            ('transmission', transmission),
+        ]:
             col_name = f"{prefix}_{val}"
             if col_name in input_df.columns:
                 input_df[col_name] = 1
 
-        # Handle 'source_' columns — set source matching the selected manufacturer (lowercase)
+        # Set source column matching the selected manufacturer (lowercase)
         source_col = f"source_{selected_mfg.lower()}"
         if source_col in input_df.columns:
             input_df[source_col] = 1
@@ -85,7 +116,7 @@ try:
         # Scale only the numerical columns
         input_df[num_cols] = features_scaler.transform(input_df[num_cols])
 
-        # Predict (model receives all columns with scaled numericals)
+        # Predict — model receives all columns with scaled numericals
         scaled_prediction = model.predict(input_df)
 
         # Convert back to price in shekels
