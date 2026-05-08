@@ -3,6 +3,9 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 import re
+import os
+
+from path import *
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36'
@@ -105,7 +108,7 @@ def scrape_page(manufacturer, page):
     return results
 
 
-MANUFACTURERS = ['kia', 'toyota', 'hyundai', 'skoda', 'mazda', 'nissan', 'chevrolet', 'honda', 'mitsubishi', 'peugeot', 'suzuki','bmw', 'byd', 'audi', 'ford', 'subaru']
+MANUFACTURERS = ['kia', 'toyota', 'hyundai', 'skoda', 'mazda', 'nissan', 'chevrolet', 'honda', 'mitsubishi', 'peugeot', 'suzuki', 'audi', 'ford', 'subaru']
 #  
 PAGES_PER_MANUFACTURER = 30 
 
@@ -125,14 +128,16 @@ def scrape_all():
 
         # saving csv for each manufacturer
         df = pd.DataFrame(manufacturer_results)
-        df.to_csv(f'data/{manufacturer}_data.csv', index=False)
+        out_path = os.path.join(DATA_DIR, f'{manufacturer}_data.csv')
+        df.to_csv(out_path, index=False)
         print(f'saved as: {manufacturer}_data.csv')
 
         all_results.extend(manufacturer_results)
 
     # cimbining all the data
     df_all = pd.DataFrame(all_results)
-    df_all.to_csv(r'data/autoboom_raw.csv', index=False)
+    out = os.path.join(DATA_DIR, 'autoboom_raw.csv')
+    df_all.to_csv(out, index=False)
     print(f'\nin total: {len(df_all)} adds saved in - autoboom_raw.csv')
     return df_all
 

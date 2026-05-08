@@ -4,16 +4,10 @@ import joblib
 import os
 import numpy as np
 
+from path import *
+
 # Page configuration
 st.set_page_config(page_title="חיזוי מחיר רכב מדויק", page_icon="🚗", layout="centered")
-
-# Path definitions
-BASE_DIR = os.path.dirname(os.path.dirname(__file__))  # Goes one level back from src to main directory
-
-MODEL_PATH = os.path.join(BASE_DIR, "Models", "xgb_fine_tuned.pkl")
-DATA_PATH = os.path.join(BASE_DIR, "data", "preprocessing.csv")
-PRICE_SCALER_PATH = os.path.join(BASE_DIR, "data", "minmax_scaler.pkl")
-FEATURES_SCALER_PATH = os.path.join(BASE_DIR, "data", "scaler.pkl")
 
 @st.cache_resource
 def load_assets():

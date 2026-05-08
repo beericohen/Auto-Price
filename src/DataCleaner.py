@@ -1,7 +1,11 @@
 import pandas as pd
 
+import os
+
+from path import *
 # Loading
-df = pd.read_csv(r'C:\Users\USER\Documents\Projects\AutoPrice\Auto-Price\data/autoboom_raw.csv', index_col=False)
+load = os.path.join(DATA_DIR, 'autoboom_raw.csv')
+df = pd.read_csv(load, index_col=False)
 
 print(f'Before cleaning: {len(df)} rows')
 
@@ -38,5 +42,6 @@ df = df[~df['model'].isin(rare_models)]
 print(f'After cleaning: {len(df)} rows')
 
 # Saving
-df.to_csv('./data/autoboom_clean.csv', index=False)
+clean_path = os.path.join(DATA_DIR, 'autoboom_clean.csv')
+df.to_csv(clean_path, index=False)
 print('\nSaved: autoboom_clean.csv')

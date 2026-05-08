@@ -8,12 +8,15 @@ from sklearn.neighbors import KNeighborsRegressor
 import joblib
 import os
 
-df = pd.read_csv(r'C:\Users\USER\Documents\Projects\AutoPrice\Auto-Price\data/preprocessing.csv', index_col=False)
+from path import *
+
+
+df = pd.read_csv(DATA_PATH, index_col=False)
 
 X = df.drop(columns=['price'])
 y = df['price']
 
-scaler_loaded = joblib.load(r'C:\Users\USER\Documents\Projects\AutoPrice\Auto-Price\data/minmax_scaler.pkl')
+scaler_loaded = joblib.load(PRICE_SCALER_PATH)
 
 dummy_min = scaler_loaded.inverse_transform([[0]])
 dummy_max = scaler_loaded.inverse_transform([[1]])
@@ -34,7 +37,7 @@ models = {
     'XGBoost':           XGBRegressor(),
 }
 
-os.makedirs(r'C:\Users\USER\Documents\Projects\AutoPrice\Auto-Price\Models', exist_ok=True)
+os.makedirs(MODELS_DIR, exist_ok=True)
 
 print(f"{'Model':<20} {'MAE':>12} {'RMSE':>12} {'R2':>8}")
 print("-" * 56)
@@ -53,6 +56,7 @@ for name, model in models.items():
 
     # --- Train on ALL data and save ---
     model.fit(X, y)
-    joblib.dump(model, rf'C:\Users\USER\Documents\Projects\AutoPrice\Auto-Price\Models\{name}.pkl')
+    out_path = os.path.join(MODELS_DIR, f'{name}.pkl')
+    joblib.dump(model, out_path)
 
 print("\nAll models saved to Auto-Price/Models/")
