@@ -87,10 +87,10 @@ try:
     # ── Manufacturer + model selectors ────────────────────────────────────────
     col_top1, col_top2 = st.columns(2)
     with col_top1:
-        selected_mfg = st.selectbox("יצרן", manufacturers)
+        selected_mfg = st.selectbox("Manifacturer", manufacturers)
     with col_top2:
         available_models = mfg_to_models.get(selected_mfg, [])
-        selected_model   = st.selectbox("דגם", available_models)
+        selected_model   = st.selectbox("Model", available_models)
 
     # ── Input form ────────────────────────────────────────────────────────────
     with st.form("prediction_form"):
@@ -105,7 +105,7 @@ try:
             fuel         = st.selectbox("Fuel Type", fuels)
             transmission = st.selectbox("Transmission", transmissions)
 
-        submit = st.form_submit_button("💰 חשב מחיר")
+        submit = st.form_submit_button("💰Calculate Price")
 
     # ── Prediction ────────────────────────────────────────────────────────────
     if submit:
