@@ -1,4 +1,5 @@
 
+
 # 🚗 Auto Price – Israeli Used Car Price Predictor
 
 A machine learning project that predicts used car prices in Israel based on real listings collected from Autoboom.
@@ -13,23 +14,26 @@ Used car prices in Israel are often opaque and hard to evaluate. This project ai
 
 ## Final Models Preformence
 **XGBoost fine tuned**:
-- `MAE` 8474₪
-- `RMSE` 12297₪
-- `R2 score` 0.88590
+- `MAE` 8,928₪
+- `RMSE` 13,216₪
+- `R2 score` 0.904
 
 ---
 
+## Website
+[Car Price Predictor](https://auto-price-predictor.streamlit.app/)
+
 ## 📄 Documentation
 
-[Auto-Price-Doc](https://docs.google.com/document/d/1RIsJjkGb4mnWJsIhiPEL4_RQu00MkpkBuKwzfyl-6Qw/edit?tab=t.0)
+pdf file or website will be later uploaded here
 
 ---
 
 ## 📊 Dataset
 
 - **Source:** Scrapped using python script from [Autoboom](https://autoboom.co.il/en)
-- **Size:** ~1000 listings after cleaning(before 1800)
-- **Manufacturers:** Toyota, Kia, Hyundai, Skoda, Mazda, Nissan
+- **Size:** ~3145 listings after cleaning
+- **Manufacturers:** Kia, Toyota, Hyundai, Skoda, Mazda, Nissan, Chevrolet, Honda, Mitsubishi, Peugeot, Suzuki, Audi, Ford, Subaru
 
 | Feature | Description |
 |---|---|
@@ -60,18 +64,6 @@ Exploratory Data Analysis was performed to understand the relationships between 
 
 ---
 
-
-## 🔄 Project Status
-
-- [x] Data Collection
-- [x] Data Cleaning
-- [x] EDA (Exploratory Data Analysis)
-- [x] Preprocessing (One Hot Encoding, Normalization)
-- [x] Model Building
-- [x] Evaluation
-
----
-
 ## 🗂️ Project Structure
 
 ```
@@ -84,23 +76,31 @@ Auto-Price/
 │   ├── skoda_data.csv              # Skoda raw data
 │   ├── mazda_data.csv              # Mazda raw data
 │   ├── nissan_data.csv             # Nissan raw data
+│   ├── chevrolet_data.csv          # Chevrolet raw data
+│   ├── honda_data.csv              # Honda raw data
+│   ├── mitsubishi_data.csv         # Mitsubishi raw data
+│   ├── peugeot_data.csv            # Peugeot raw data
+│   ├── suzuki_data.csv             # Suzuki raw data
+│   ├── audi_data.csv               # Audi raw data
+│   ├── ford_data.csv               # Ford raw data
+│   ├── subaru_data.csv             # Subaru raw data
 │   ├── autoboom_raw.csv            # All manufacturers raw data combined
 │   ├── autoboom_clean.csv          # All manufacturers cleaned data
 │   ├── preprocessing.csv           # All the data with one hot encoding and normalization
-│   ├── minmax_scaler.pkl           # The data that being used to reverse the normalization
+│   ├── minmax_scaler.pkl           # The data that being used to reverse the price normalization
+│   ├── scaler.pkl                  # The data that being used to reverse the normalization of the other values
 |
 │
 ├── src/
 │   └── scrapper.py                 # Scrapper script
 │   └── DataCleaner.py              # data cleaning script
-│   └── EDA.ipynb                   # EDA jupyter notebook
-│   └── Preprocessing.ipynb         # Preprocessing jupyter notebook
+│   └── EDA.py                      # EDA script
+│   └── Preprocessing.py            # Preprocessing script
 │   └── models.py                   # All the choosen models
-│   └── Tunning.py                  # does a tuning of the model
-│   └── FineTunning.py              # Does a fine tuning of the model
-│   └── saveBestModel.py            # Saves the model with his parameters after fine tuning
+│   └── Tunning.py                  # Does a tuning of the models
 │   └── app.py                      # UI
-
+│   └── retrain.py                  # Retrain the model based on new data
+│
 │
 ├── graphs/                         # EDA visualizations
 |
