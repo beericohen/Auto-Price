@@ -10,6 +10,7 @@ import threading
 from path import *
 
 FEEDBACK_PATH = os.path.join(DATA_DIR, 'feedback.csv')
+MAE_THRESHOLD = 8928  # Update this after retraining — current model MAE in ILS
 
 # Feedback CSV columns — must match autoboom_raw.csv structure
 FEEDBACK_COLS = ['manufacturer', 'model', 'year', 'price', 'hand',
@@ -51,7 +52,8 @@ def get_feature_columns(_model):
 
 def save_feedback(row: dict, actual_price: float):
     """Append one corrected row to feedback.csv."""
-    row['price'] = actual_price
+    row = row.copy()
+    row['price']  = actual_price
     row['source'] = 'feedback'
     df_new = pd.DataFrame([row], columns=FEEDBACK_COLS)
 
@@ -69,7 +71,7 @@ def count_feedback():
     return len(pd.read_csv(FEEDBACK_PATH))
 
 def run_retrain():
-    """Run retrain.py in a subprocess and stream output to a file."""
+    """Run retrain.py in a subprocess and write output to log file."""
     log_path = os.path.join(DATA_DIR, 'retrain_log.txt')
     script   = os.path.join(os.path.dirname(__file__), 'retrain.py')
     with open(log_path, 'w', encoding='utf-8') as log:
@@ -82,12 +84,12 @@ try:
     feature_columns = get_feature_columns(model)
     manufacturers   = sorted(mfg_to_models.keys())
 
-    st.title("Car Price Predictor🚗")
+    st.title("Car Price Predictor 🚗")
 
     # ── Manufacturer + model selectors ────────────────────────────────────────
     col_top1, col_top2 = st.columns(2)
     with col_top1:
-        selected_mfg = st.selectbox("Manifacturer", manufacturers)
+        selected_mfg = st.selectbox("Manufacturer", manufacturers)
     with col_top2:
         available_models = mfg_to_models.get(selected_mfg, [])
         selected_model   = st.selectbox("Model", available_models)
@@ -98,16 +100,16 @@ try:
         with col1:
             year     = st.number_input("Year", 2000, 2025, 2020)
             hand     = st.number_input("Hand", 1, 10, 1)
-            engine   = st.number_input("Engine Size(Liters)", 0.1, 6.0, 1.6, step=0.1)
+            engine   = st.number_input("Engine Size (Liters)", 0.1, 6.0, 1.6, step=0.1)
         with col2:
             hp       = st.number_input("Horsepower", 50, 600, 110)
             mileage  = st.number_input("Mileage", 0, 500000, 50000, step=1000)
             fuel         = st.selectbox("Fuel Type", fuels)
             transmission = st.selectbox("Transmission", transmissions)
 
-        submit = st.form_submit_button("💰Calculate Price")
+        submit = st.form_submit_button("💰 Calculate Price")
 
-    # ── Prediction ────────────────────────────────────────────────────────────
+    # ── On submit: run prediction and store everything in session_state ────────
     if submit:
         input_df = pd.DataFrame(0, index=[0], columns=feature_columns)
 
@@ -139,78 +141,109 @@ try:
             np.array(scaled_pred).reshape(-1, 1)
         )[0][0]
 
-        st.success(f"### Estimated Price: ₪{round(final_price):,}")
-        st.balloons()
+        # Store result in session_state so it survives button clicks
+        st.session_state['prediction'] = round(final_price)
+        st.session_state['car_row'] = dict(
+            manufacturer=selected_mfg, model=selected_model,
+            year=year, hand=hand, fuel=fuel,
+            engine_liters=engine, horsepower=hp,
+            transmission=transmission, mileage=mileage
+        )
+        st.session_state['feedback_saved'] = False
 
-        # ── Feedback section ──────────────────────────────────────────────────
+    # ── Show prediction + feedback if we have a result ─────────────────────────
+    if 'prediction' in st.session_state:
+        final_price = st.session_state['prediction']
+        car_row     = st.session_state['car_row']
+
+        st.success(f"### Estimated Price: ₪{final_price:,}")
+
+        # ── Feedback section ───────────────────────────────────────────────────
         st.divider()
         st.subheader("📊 Is the price accurate?")
 
         feedback_col1, feedback_col2 = st.columns(2)
 
         with feedback_col1:
-            if st.button("✅ Yes it fits the threshold"):
-                # Save the prediction itself as confirmed feedback
-                save_feedback(
-                    row=dict(manufacturer=selected_mfg, model=selected_model,
-                             year=year, hand=hand, fuel=fuel,
-                             engine_liters=engine, horsepower=hp,
-                             transmission=transmission, mileage=mileage),
-                    actual_price=round(final_price)
-                )
-                st.toast("Thank you, the feedback is saved✓", icon="✅")
+            if st.button("✅ Yes, the price is correct"):
+                save_feedback(row=car_row, actual_price=final_price)
+                st.session_state['feedback_saved'] = True
+                st.toast("Thank you! Feedback saved ✓", icon="✅")
 
         with feedback_col2:
-            with st.expander("❌ No, the price is way of(insert actual price)"):
-                actual = st.number_input("The actual price(₪)", min_value=5000,
+            with st.expander("❌ No, enter the actual price"):
+                actual = st.number_input("Actual price (₪)", min_value=5000,
                                          max_value=2000000, step=1000, key="actual_price")
-                if st.button("שמור משוב"):
-                    save_feedback(
-                        row=dict(manufacturer=selected_mfg, model=selected_model,
-                                 year=year, hand=hand, fuel=fuel,
-                                 engine_liters=engine, horsepower=hp,
-                                 transmission=transmission, mileage=mileage),
-                        actual_price=actual
-                    )
-                    st.toast(f"Thank you, we saved the actual price ₪{actual:,} ✓", icon="💾")
+
+                # Show warning/info based on whether diff exceeds MAE threshold
+                diff = abs(actual - final_price)
+                if actual > 5000:
+                    if diff <= MAE_THRESHOLD:
+                        st.info(
+                            f"The difference is ₪{diff:,}, which is within the model's "
+                            f"normal error range (±₪{MAE_THRESHOLD:,}). "
+                            f"The model's prediction is likely correct."
+                        )
+                    else:
+                        st.warning(
+                            f"The difference is ₪{diff:,} — that's significantly off. "
+                            f"Your correction will help improve the model."
+                        )
+
+                if st.button("Save feedback"):
+                    if diff <= MAE_THRESHOLD:
+                        # Within threshold — confirm the predicted price
+                        save_feedback(row=car_row, actual_price=final_price)
+                        st.toast(
+                            f"Saved! The difference (₪{diff:,}) was within normal range, "
+                            f"so the predicted price was confirmed.", icon="✅"
+                        )
+                    else:
+                        # Genuinely wrong — save the user's actual price
+                        save_feedback(row=car_row, actual_price=actual)
+                        st.toast(f"Thank you! Saved actual price ₪{actual:,} ✓", icon="💾")
+
+                    st.session_state['feedback_saved'] = True
+
+        if st.session_state.get('feedback_saved'):
+            st.success("Feedback saved! It will be used in the next retraining.")
 
     # ── Admin: Retrain section ─────────────────────────────────────────────────
     st.divider()
     with st.expander("⚙️ Manage Model"):
         n_feedback = count_feedback()
-        st.write(f"**Collected Feedbacks** {n_feedback}")
+        st.write(f"**Collected Feedbacks:** {n_feedback}")
 
         if n_feedback == 0:
-            st.info("You need a couple feedbacks before retraining")
+            st.info("You need some feedbacks before retraining.")
 
         col_r1, col_r2 = st.columns([2, 1])
         with col_r1:
             retrain_clicked = st.button(
                 "🔄 Retrain the model",
                 disabled=(n_feedback == 0),
-                help="It will retrain the model with all the new data"
+                help="Merges feedback with original data and reruns the full pipeline"
             )
         with col_r2:
             log_path = os.path.join(DATA_DIR, 'retrain_log.txt')
             if os.path.exists(log_path):
                 with open(log_path, encoding='utf-8') as f:
                     log_text = f.read()
-                st.download_button("📄Download log", data=log_text,
+                st.download_button("📄 Download log", data=log_text,
                                    file_name="retrain_log.txt", mime="text/plain")
 
         if retrain_clicked:
             st.warning(
-                "⏳ The retraining proccess has started, it will take 30-90 minutes*.\n\n"
-                "You can close the website, the model will be saved automaticly after fininshing\n"
-                "After retraining reload the page so you get the retrained model"
+                "⏳ Retraining has started in the background. This takes 30–90 minutes.\n\n"
+                "You can close the page — the model will be saved automatically when done.\n"
+                "Reload the page after finishing to use the new model."
             )
-            # Run in background thread so Streamlit doesn't freeze
             t = threading.Thread(target=run_retrain, daemon=True)
             t.start()
             st.session_state['retraining'] = True
 
         if st.session_state.get('retraining'):
-            st.info("🔄 The retraining proccess is running in the background")
+            st.info("🔄 Retraining is running in the background...")
 
 except Exception as e:
     st.error(f"Error: {e}")
