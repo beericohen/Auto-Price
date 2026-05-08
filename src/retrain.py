@@ -26,7 +26,7 @@ from DataCleaner import cleanData
 from EDA import eda
 from prepprocessing import prepprocessing
 from models import models
-from tuning import tuning
+from Tuning import tuning
 
 FEEDBACK_PATH = os.path.join(DATA_DIR, 'feedback.csv')
 
