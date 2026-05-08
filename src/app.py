@@ -15,7 +15,7 @@ FEEDBACK_PATH = os.path.join(DATA_DIR, 'feedback.csv')
 FEEDBACK_COLS = ['manufacturer', 'model', 'year', 'price', 'hand',
                  'fuel', 'engine_liters', 'horsepower', 'transmission', 'mileage', 'source']
 
-st.set_page_config(page_title="חיזוי מחיר רכב מדויק", page_icon="🚗", layout="centered")
+st.set_page_config(page_title="Car Price Predictor", page_icon="🚗", layout="centered")
 
 @st.cache_resource
 def load_assets():
@@ -82,7 +82,7 @@ try:
     feature_columns = get_feature_columns(model)
     manufacturers   = sorted(mfg_to_models.keys())
 
-    st.title("🚗 מחשבון חיזוי מחיר רכב")
+    st.title("Car Price Predictor🚗")
 
     # ── Manufacturer + model selectors ────────────────────────────────────────
     col_top1, col_top2 = st.columns(2)
@@ -96,14 +96,14 @@ try:
     with st.form("prediction_form"):
         col1, col2 = st.columns(2)
         with col1:
-            year     = st.number_input("שנת ייצור", 2000, 2025, 2020)
-            hand     = st.number_input("יד", 1, 10, 1)
-            engine   = st.number_input("נפח מנוע (ליטר)", 0.1, 6.0, 1.6, step=0.1)
+            year     = st.number_input("Year", 2000, 2025, 2020)
+            hand     = st.number_input("Hand", 1, 10, 1)
+            engine   = st.number_input("Engine Size(Liters)", 0.1, 6.0, 1.6, step=0.1)
         with col2:
-            hp       = st.number_input("כוחות סוס", 50, 600, 110)
-            mileage  = st.number_input("קילומטראז'", 0, 500000, 50000, step=1000)
-            fuel         = st.selectbox("סוג דלק", fuels)
-            transmission = st.selectbox("תיבת הילוכים", transmissions)
+            hp       = st.number_input("Horsepower", 50, 600, 110)
+            mileage  = st.number_input("Mileage", 0, 500000, 50000, step=1000)
+            fuel         = st.selectbox("Fuel Type", fuels)
+            transmission = st.selectbox("Transmission", transmissions)
 
         submit = st.form_submit_button("💰 חשב מחיר")
 
@@ -139,17 +139,17 @@ try:
             np.array(scaled_pred).reshape(-1, 1)
         )[0][0]
 
-        st.success(f"### המחיר המוערך: ₪{round(final_price):,}")
+        st.success(f"### Estimated Price: ₪{round(final_price):,}")
         st.balloons()
 
         # ── Feedback section ──────────────────────────────────────────────────
         st.divider()
-        st.subheader("📊 האם המחיר מדויק?")
+        st.subheader("📊 Is the price accurate?")
 
         feedback_col1, feedback_col2 = st.columns(2)
 
         with feedback_col1:
-            if st.button("✅ כן, המחיר נכון"):
+            if st.button("✅ Yes it fits the threshold"):
                 # Save the prediction itself as confirmed feedback
                 save_feedback(
                     row=dict(manufacturer=selected_mfg, model=selected_model,
@@ -158,11 +158,11 @@ try:
                              transmission=transmission, mileage=mileage),
                     actual_price=round(final_price)
                 )
-                st.toast("תודה! המשוב נשמר ✓", icon="✅")
+                st.toast("Thank you, the feedback is saved✓", icon="✅")
 
         with feedback_col2:
-            with st.expander("❌ לא, המחיר שגוי — הכנס מחיר אמיתי"):
-                actual = st.number_input("המחיר האמיתי (₪)", min_value=5000,
+            with st.expander("❌ No, the price is way of(insert actual price)"):
+                actual = st.number_input("The actual price(₪)", min_value=5000,
                                          max_value=2000000, step=1000, key="actual_price")
                 if st.button("שמור משוב"):
                     save_feedback(
@@ -172,37 +172,37 @@ try:
                                  transmission=transmission, mileage=mileage),
                         actual_price=actual
                     )
-                    st.toast(f"תודה! שמרנו את המחיר האמיתי: ₪{actual:,} ✓", icon="💾")
+                    st.toast(f"Thank you, we saved the actual price ₪{actual:,} ✓", icon="💾")
 
     # ── Admin: Retrain section ─────────────────────────────────────────────────
     st.divider()
-    with st.expander("⚙️ ניהול מודל"):
+    with st.expander("⚙️ Manage Model"):
         n_feedback = count_feedback()
-        st.write(f"**משובים שנאספו עד כה:** {n_feedback}")
+        st.write(f"**Collected Feedbacks** {n_feedback}")
 
         if n_feedback == 0:
-            st.info("אין עדיין משובים — אסוף לפחות כמה לפני אימון מחדש.")
+            st.info("You need a couple feedbacks before retraining")
 
         col_r1, col_r2 = st.columns([2, 1])
         with col_r1:
             retrain_clicked = st.button(
-                "🔄 אמן מחדש את המודל",
+                "🔄 Retrain the model",
                 disabled=(n_feedback == 0),
-                help="ימזג את המשובים עם הנתונים המקוריים ויריץ את כל הפייפליין מחדש"
+                help="It will retrain the model with all the new data"
             )
         with col_r2:
             log_path = os.path.join(DATA_DIR, 'retrain_log.txt')
             if os.path.exists(log_path):
                 with open(log_path, encoding='utf-8') as f:
                     log_text = f.read()
-                st.download_button("📄 הורד לוג", data=log_text,
+                st.download_button("📄Download log", data=log_text,
                                    file_name="retrain_log.txt", mime="text/plain")
 
         if retrain_clicked:
             st.warning(
-                "⏳ האימון מחדש החל ברקע. התהליך לוקח **30-90 דקות**.\n\n"
-                "תוכל לסגור את הדף — המודל יישמר אוטומטית כשהאימון יסתיים.\n"
-                "לאחר הסיום, רענן את הדף כדי להשתמש במודל החדש."
+                "⏳ The retraining proccess has started, it will take 30-90 minutes*.\n\n"
+                "You can close the website, the model will be saved automaticly after fininshing\n"
+                "After retraining reload the page so you get the retrained model"
             )
             # Run in background thread so Streamlit doesn't freeze
             t = threading.Thread(target=run_retrain, daemon=True)
@@ -210,7 +210,7 @@ try:
             st.session_state['retraining'] = True
 
         if st.session_state.get('retraining'):
-            st.info("🔄 האימון רץ ברקע...")
+            st.info("🔄 The retraining proccess is running in the background")
 
 except Exception as e:
     st.error(f"Error: {e}")
