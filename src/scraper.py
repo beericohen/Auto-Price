@@ -60,6 +60,24 @@ def parse_card(card):
         return None
 
 
+def get_submodel(ad_url):
+    try:
+        response = requests.get(ad_url, headers=HEADERS, timeout=30)
+        ad_soup = BeautifulSoup(response.text, 'html.parser')
+
+        offer_subheader = ad_soup.select_one('.offer_subheader')
+        if offer_subheader:
+            text = offer_subheader.get_text(strip=False)
+            text = text.split(' ')
+            text = [x for x in text if x != '']
+            text = text[2:]
+            result = " ".join(text)
+        return result if result.strip() else None
+    except Exception as e:
+        print(f'eror: {e}')
+        return None
+
+
 def get_mileage(ad_url):
     try:
         response = requests.get(ad_url, headers=HEADERS, timeout=30)
@@ -102,6 +120,7 @@ def scrape_page(manufacturer, page):
         
         ad_url = 'https://autoboom.co.il' + link.get('href')
         card['mileage'] = get_mileage(ad_url)
+        card['submodel'] = get_submodel(ad_url)
         results.append(card)
         time.sleep(0.5)
     
@@ -140,6 +159,7 @@ def scrape_all():
     df_all.to_csv(out, index=False)
     print(f'\nin total: {len(df_all)} adds saved in - autoboom_raw.csv')
     return df_all
+
 
 
 df = scrape_all()
