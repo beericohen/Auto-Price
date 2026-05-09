@@ -1,165 +1,186 @@
-import requests
-from bs4 import BeautifulSoup
-import pandas as pd
-import time
 import re
 import os
+import time
+import pandas as pd
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
 from path import *
 
-HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36'
-}
+MANUFACTURERS = ['kia', 'toyota', 'hyundai', 'skoda', 'mazda', 'nissan', 'chevrolet', 'honda', 'mitsubishi', 'peugeot', 'suzuki', 'audi', 'ford', 'subaru']
+PAGES_PER_MANUFACTURER = 30
 
-def parse_card(card):
+
+def create_driver():
+    options = Options()
+    options.add_argument('--headless')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36')
+    return webdriver.Chrome(options=options)
+
+
+def get_param(soup, label_text):
+    params = soup.select('.offer_param')
+    for param in params:
+        label = param.select_one('.offer_param__label')
+        value = param.select_one('.offer_param__value')
+        if label and value and label_text.lower() in label.get_text().lower():
+            result = value.get_text(strip=True)
+            return result if result else None
+    return None
+
+
+def get_ad_links(driver, manufacturer, page):
+    url = f'https://autoboom.co.il/en/used/cars/{manufacturer}?year_from=2015&page={page}'
+    driver.get(url)
     try:
-        # make and model from the URL
-        href = card.get('href', '')
-        parts = href.strip('/').split('/')
-        manufacturer = parts[4].replace('-', ' ').title()
-        model = parts[5].replace('-', ' ').title()
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, '.offer_card__visible'))
+        )
+    except:
+        return []
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+    links = soup.select('.offer_card__visible')
+    return ['https://autoboom.co.il' + l.get('href', '') for l in links if l.get('href')]
+
+
+def scrape_ad(driver, url):
+    try:
+        driver.get(url)
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, '.offer_info__price'))
+        )
+
+        # grab price, year, hand, mileage BEFORE clicking the button
+        soup_before = BeautifulSoup(driver.page_source, 'html.parser')
 
         # price
-        price_el = card.select_one('.offer_card__price_value')
-        price = int(re.sub(r'[^\d]', '', price_el.text)) if price_el else None
+        price_el = soup_before.select_one('.offer_info__price span')
+        price = int(re.sub(r'[^\d]', '', price_el.get_text())) if price_el else None
 
-        # desc (engine liters, horsepower, fuel type and transmission)
-        desc_el = card.select_one('.offer_card__desc')
-        desc = desc_el.text.strip() if desc_el else ''
+        # mileage
+        mileage = None
+        speed_icon = soup_before.select_one('.u_icon-speed_indicator')
+        if speed_icon:
+            param_div = speed_icon.find_parent('div')
+            if param_div:
+                km_match = re.search(r'([\d\xa0\s]+)km', param_div.get_text(strip=True))
+                if km_match:
+                    mileage = int(re.sub(r'[^\d]', '', km_match.group(1)))
 
-        engine_match = re.search(r'(\d+\.\d+)', desc)
-        hp_match = re.search(r'\((\d+)\s*hp\)', desc)
-        parts_desc = [p.strip() for p in desc.split(',')]
+        # year
+        year = None
+        year_el = soup_before.select_one('.u_icon-calendar')
+        if year_el:
+            year_div = year_el.find_parent('div')
+            if year_div:
+                year_match = re.search(r'(\d{4})', year_div.get_text())
+                year = int(year_match.group(1)) if year_match else None
 
-        engine_liters = float(engine_match.group(1)) if engine_match else None
-        horsepower = int(hp_match.group(1)) if hp_match else None
-        fuel = parts_desc[1] if len(parts_desc) > 1 else None
-        transmission = parts_desc[2] if len(parts_desc) > 2 else None
+        # hand
+        hand = None
+        hand_el = soup_before.select_one('.u_icon-hand')
+        if hand_el:
+            hand_div = hand_el.find_parent('div')
+            if hand_div:
+                hand_match = re.search(r'(\d+)', hand_div.get_text())
+                hand = int(hand_match.group(1)) if hand_match else None
 
-        # hand and year
-        meta = card.select('.offer_card__meta li')
-        year = int(meta[0].text.strip()) if meta else None
-        hand_text = meta[1].text.strip() if len(meta) > 1 else ''
-        hand_match = re.search(r'(\d+)', hand_text)
-        hand = int(hand_match.group(1)) if hand_match else None
+        # click "Show all data" button
+        try:
+            btn = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.CSS_SELECTOR, '.base_block__show_all'))
+            )
+            btn.click()
+            time.sleep(1)
+        except:
+            pass  # some ads may not have the button
+
+        soup_after = BeautifulSoup(driver.page_source, 'html.parser')
+
+        # make and model from URL
+        parts = url.strip('/').split('/')
+        manufacturer = parts[-3].replace('-', ' ').title()
+        model = parts[-2].replace('-', ' ').title()
+
+        # engine liters, horsepower, fuel from engine param e.g. "1.4 l / 100 hp / Gasoline"
+        engine_str = get_param(soup_after, 'Engine')
+        engine_liters, horsepower, fuel = None, None, None
+        if engine_str:
+            engine_match = re.search(r'(\d+\.\d+)', engine_str)
+            hp_match = re.search(r'(\d+)\s*hp', engine_str)
+            fuel_match = re.search(r'hp\s*/\s*(\w+)', engine_str)
+            engine_liters = float(engine_match.group(1)) if engine_match else None
+            horsepower    = int(hp_match.group(1))       if hp_match     else None
+            fuel          = fuel_match.group(1)           if fuel_match   else None
 
         return {
-            'manufacturer': manufacturer,
-            'model': model,
-            'year': year,
-            'price': price,
-            'hand': hand,
-            'fuel': fuel,
+            'manufacturer' : manufacturer,
+            'model'        : model,
+            'submodel'     : get_param(soup_after, 'Trim version'),
+            'year'         : year,
+            'hand'         : hand,
+            'mileage'      : mileage,
             'engine_liters': engine_liters,
-            'horsepower': horsepower,
-            'transmission': transmission,
+            'horsepower'   : horsepower,
+            'fuel'         : fuel,
+            'transmission' : get_param(soup_after, 'Transmission'),
+            'drive_type'   : get_param(soup_after, 'Type of drive'),
+            'body_color'   : get_param(soup_after, 'Body color'),
+            'price'        : price,
         }
 
     except Exception as e:
-        print(f'eror: {e}')
+        print(f'error scraping {url}: {e}')
         return None
 
-
-def get_submodel(ad_url):
-    try:
-        response = requests.get(ad_url, headers=HEADERS, timeout=30)
-        ad_soup = BeautifulSoup(response.text, 'html.parser')
-
-        offer_subheader = ad_soup.select_one('.offer_subheader')
-        if offer_subheader:
-            text = offer_subheader.get_text(strip=False)
-            text = text.split(' ')
-            text = [x for x in text if x != '']
-            text = text[2:]
-            result = " ".join(text)
-        return result if result.strip() else None
-    except Exception as e:
-        print(f'eror: {e}')
-        return None
-
-
-def get_mileage(ad_url):
-    try:
-        response = requests.get(ad_url, headers=HEADERS, timeout=30)
-        ad_soup = BeautifulSoup(response.text, 'html.parser')
-
-        # looking for the span wite the speedometer icon
-        speed_icon = ad_soup.select_one('.u_icon-speed_indicator')
-        if speed_icon:
-            # going to the parent and finding the text
-            param_div = speed_icon.find_parent('div')
-            if param_div:
-                text = param_div.get_text(strip=True)
-                km_match = re.search(r'([\d\xa0\s]+)km', text)
-                if km_match:
-                    return int(re.sub(r'[^\d]', '', km_match.group(1)))
-
-        return None
-
-    except Exception as e:
-        print(f'eror: {e}')
-        return None
-
-
-def scrape_page(manufacturer, page):
-    url = f'https://autoboom.co.il/en/used/cars/{manufacturer}?year_from=2015&page={page}'
-    response = requests.get(url, headers=HEADERS, timeout=60)
-    
-    if response.status_code != 200:
-        print(f'eror in page {page}: status {response.status_code}')
-        return []
-    
-    soup = BeautifulSoup(response.text, 'html.parser')
-    links = soup.select('.offer_card__visible')
-    
-    results = []
-    for link in links:
-        card = parse_card(link)
-        if not card:
-            continue
-        
-        ad_url = 'https://autoboom.co.il' + link.get('href')
-        card['mileage'] = get_mileage(ad_url)
-        card['submodel'] = get_submodel(ad_url)
-        results.append(card)
-        time.sleep(0.5)
-    
-    return results
-
-
-MANUFACTURERS = ['kia', 'toyota', 'hyundai', 'skoda', 'mazda', 'nissan', 'chevrolet', 'honda', 'mitsubishi', 'peugeot', 'suzuki', 'audi', 'ford', 'subaru']
-#  
-PAGES_PER_MANUFACTURER = 30 
 
 def scrape_all():
     all_results = []
+    driver = create_driver()  # one driver for the entire scrape
 
-    for manufacturer in MANUFACTURERS:
-        print(f'\n===== {manufacturer.upper()} =====')
-        manufacturer_results = []
+    try:
+        for manufacturer in MANUFACTURERS:
+            print(f'\n===== {manufacturer.upper()} =====')
+            manufacturer_results = []
 
-        for page in range(1, PAGES_PER_MANUFACTURER + 1):
-            print(f'page {page}/{PAGES_PER_MANUFACTURER}...')
-            page_results = scrape_page(manufacturer, page)
-            manufacturer_results.extend(page_results)
-            print(f'so far {len(manufacturer_results)} ads')
-            time.sleep(1)
+            for page in range(1, PAGES_PER_MANUFACTURER + 1):
+                print(f'page {page}/{PAGES_PER_MANUFACTURER}...')
 
-        # saving csv for each manufacturer
-        df = pd.DataFrame(manufacturer_results)
-        out_path = os.path.join(DATA_DIR, f'{manufacturer}_data.csv')
-        df.to_csv(out_path, index=False)
-        print(f'saved as: {manufacturer}_data.csv')
+                ad_links = get_ad_links(driver, manufacturer, page)
+                print(f'found {len(ad_links)} ads on page')
 
-        all_results.extend(manufacturer_results)
+                for ad_url in ad_links:
+                    result = scrape_ad(driver, ad_url)
+                    if result:
+                        manufacturer_results.append(result)
+                    time.sleep(0.5)
 
-    # cimbining all the data
+                print(f'so far {len(manufacturer_results)} ads')
+                time.sleep(1)
+
+            # save csv per manufacturer
+            df = pd.DataFrame(manufacturer_results)
+            out_path = os.path.join(DATA_DIR, f'{manufacturer}_data.csv')
+            df.to_csv(out_path, index=False)
+            print(f'saved as: {manufacturer}_data.csv')
+
+            all_results.extend(manufacturer_results)
+
+    finally:
+        driver.quit()  # always close the browser
+
+    # combine all data
     df_all = pd.DataFrame(all_results)
     out = os.path.join(DATA_DIR, 'autoboom_raw.csv')
     df_all.to_csv(out, index=False)
-    print(f'\nin total: {len(df_all)} adds saved in - autoboom_raw.csv')
+    print(f'\nin total: {len(df_all)} ads saved in autoboom_raw.csv')
     return df_all
-
 
 
 df = scrape_all()
