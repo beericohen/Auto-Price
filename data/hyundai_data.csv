@@ -1,901 +1,905 @@
-manufacturer,model,year,price,hand,fuel,engine_liters,horsepower,transmission,mileage
-Hyundai,I30,2017,38500,1.0,gasoline,1.4,100.0,manual,82000.0
-Hyundai,Tucson,2022,110000,2.0,gasoline,1.6,180.0,robotic,68000.0
-Hyundai,I30,2013,25800,3.0,gasoline,1.6,135.0,automatic,173000.0
-Hyundai,Tucson,2017,69900,1.0,gasoline,2.0,155.0,robotic,147000.0
-Hyundai,Tucson,2016,59000,3.0,gasoline,2.0,155.0,robotic,140000.0
-Hyundai,I10,2020,50800,2.0,gasoline,1.2,84.0,robotic,123000.0
-Hyundai,Tucson,2019,73900,2.0,gasoline,2.0,155.0,automatic,139000.0
-Hyundai,I10,2022,59900,1.0,gasoline,1.2,84.0,robotic,49000.0
-Hyundai,Accent,2021,61900,1.0,gasoline,1.4,100.0,automatic,135000.0
-Hyundai,I10,2014,23900,2.0,gasoline,1.0,67.0,automatic,162000.0
-Hyundai,Tucson,2019,71800,3.0,gasoline,2.0,155.0,automatic,165000.0
-Hyundai,Tucson,2016,59900,2.0,gasoline,2.0,155.0,robotic,142000.0
-Hyundai,I20,2012,20800,2.0,gasoline,1.4,100.0,automatic,173000.0
-Hyundai,I20,2014,26500,2.0,gasoline,1.4,100.0,automatic,142000.0
-Hyundai,Accent,2022,62800,1.0,gasoline,1.6,123.0,automatic,120000.0
-Hyundai,I10,2018,39800,2.0,gasoline,1.2,87.0,automatic,97934.0
-Hyundai,Elantra,2024,134900,1.0,hybrid,1.6,139.0,robotic,70000.0
-Hyundai,Accent,2008,15500,4.0,gasoline,1.4,97.0,automatic,210000.0
-Hyundai,Tucson,2008,17999,4.0,gasoline,2.7,175.0,automatic,175000.0
-Hyundai,I20,2023,82999,1.0,gasoline,1.0,100.0,robotic,85000.0
-Hyundai,Tucson,2019,92000,3.0,gasoline,2.0,155.0,automatic,52000.0
-Hyundai,I30,2012,10000,2.0,gasoline,1.6,126.0,automatic,200000.0
-Hyundai,Ix35,2015,40000,4.0,gasoline,2.0,154.0,automatic,135000.0
-Hyundai,Accent,2021,60000,1.0,gasoline,1.6,123.0,automatic,64000.0
-Hyundai,Santa Fe,2007,25000,3.0,gasoline,2.7,189.0,automatic,170000.0
-Hyundai,Veloster,2013,22500,4.0,gasoline,1.6,140.0,robotic,129100.0
-Hyundai,Bayon,2023,115000,1.0,gasoline,1.0,120.0,robotic,30000.0
-Hyundai,Bayon,2022,88500,2.0,gasoline,1.0,100.0,robotic,49450.0
-Hyundai,Tucson,2017,72000,1.0,gasoline,2.0,155.0,robotic,68000.0
-Hyundai,I25,2015,26500,3.0,gasoline,1.6,124.0,automatic,180000.0
-Hyundai,I20,2022,74900,1.0,gasoline,1.0,100.0,robotic,85000.0
-Hyundai,I20,2020,65900,2.0,gasoline,1.0,100.0,robotic,75000.0
-Hyundai,I35,2012,25800,3.0,gasoline,1.6,132.0,automatic,166000.0
-Hyundai,I20,2012,22800,3.0,gasoline,1.4,100.0,automatic,143000.0
-Hyundai,I35,2015,38800,2.0,gasoline,1.6,132.0,automatic,117000.0
-Hyundai,I10,2023,69900,1.0,gasoline,1.2,84.0,robotic,30000.0
-Hyundai,Tucson,2018,82000,1.0,gasoline,1.6,177.0,robotic,75000.0
-Hyundai,I35,2015,44900,2.0,gasoline,1.6,132.0,automatic,113000.0
-Hyundai,Accent,2020,55900,3.0,gasoline,1.4,123.0,automatic,109000.0
-Hyundai,I10,2020,55800,2.0,gasoline,1.2,84.0,robotic,59000.0
-Hyundai,I10,2019,42900,2.0,gasoline,1.2,84.0,robotic,88000.0
-Hyundai,Ioniq,2021,85800,2.0,hybrid,1.6,141.0,robotic,108000.0
-Hyundai,Accent,2023,79000,1.0,gasoline,1.6,123.0,automatic,54000.0
-Hyundai,I10,2019,46900,2.0,gasoline,1.2,84.0,robotic,50000.0
-Hyundai,I35,2013,36900,3.0,gasoline,1.6,132.0,automatic,128000.0
-Hyundai,Elantra,2022,123900,1.0,hybrid,1.6,139.0,robotic,30000.0
-Hyundai,I20,2011,22800,2.0,gasoline,1.4,100.0,automatic,143000.0
-Hyundai,Tucson,2019,79000,1.0,gasoline,1.6,177.0,robotic,200000.0
-Hyundai,I20,2019,55900,1.0,gasoline,1.0,100.0,robotic,44000.0
-Hyundai,Ioniq,2021,94900,2.0,hybrid,1.6,141.0,robotic,97000.0
-Hyundai,I20,2016,47000,3.0,gasoline,1.4,100.0,automatic,69000.0
-Hyundai,Sonata,2023,160000,1.0,hybrid,2.0,192.0,automatic,48800.0
-Hyundai,Ioniq,2018,65000,2.0,hybrid,1.6,141.0,robotic,169000.0
-Hyundai,I20,2012,13500,3.0,gasoline,1.2,85.0,manual,195300.0
-Hyundai,I20,2019,51000,3.0,gasoline,1.0,100.0,robotic,144500.0
-Hyundai,Ix35,2011,33500,2.0,gasoline,2.4,177.0,automatic,179000.0
-Hyundai,Accent,2007,10000,3.0,gasoline,1.6,112.0,automatic,103000.0
-Hyundai,I10,2015,17000,2.0,gasoline,1.0,67.0,manual,180000.0
-Hyundai,I30,2013,16500,3.0,gasoline,1.6,135.0,automatic,220000.0
-Hyundai,I30,2009,14000,3.0,gasoline,1.6,126.0,automatic,203419.0
-Hyundai,Sonata,2018,49500,3.0,hybrid,2.0,193.0,automatic,195000.0
-Hyundai,Elantra,2023,109000,1.0,hybrid,1.6,139.0,robotic,125000.0
-Hyundai,I25,2018,35800,2.0,gasoline,1.4,100.0,automatic,175025.0
-Hyundai,I20,2013,26800,3.0,gasoline,1.4,100.0,automatic,175000.0
-Hyundai,I20,2011,15800,4.0,gasoline,1.4,100.0,automatic,173000.0
-Hyundai,I20,2023,84900,1.0,gasoline,1.0,100.0,robotic,45000.0
-Hyundai,Tucson,2020,99900,1.0,gasoline,1.6,177.0,robotic,98000.0
-Hyundai,Venue,2025,99000,1.0,gasoline,1.6,123.0,variable,21000.0
-Hyundai,Kona,2024,144900,1.0,hybrid,1.6,139.0,robotic,17000.0
-Hyundai,Accent,2011,11800,3.0,gasoline,1.4,97.0,automatic,236000.0
-Hyundai,I10,2015,27800,4.0,gasoline,1.0,67.0,automatic,116000.0
-Hyundai,Tucson,2019,92000,3.0,gasoline,2.0,155.0,automatic,52000.0
-Hyundai,Venue,2024,117065,2.0,gasoline,1.6,123.0,variable,8076.0
-Hyundai,Tucson,2023,148690,2.0,gasoline,1.6,180.0,robotic,58579.0
-Hyundai,Tucson,2023,151135,1.0,gasoline,1.6,180.0,robotic,35552.0
-Hyundai,Tucson,2023,144995,2.0,gasoline,1.6,180.0,robotic,46888.0
-Hyundai,Tucson,2023,122740,1.0,gasoline,1.6,180.0,robotic,100000.0
-Hyundai,Tucson,2022,110330,2.0,gasoline,1.6,180.0,robotic,97333.0
-Hyundai,Tucson,2022,111704,2.0,gasoline,2.0,156.0,automatic,89500.0
-Hyundai,Tucson,2022,140485,2.0,gasoline,1.6,180.0,robotic,36952.0
-Hyundai,I20,2010,11000,3.0,gasoline,1.4,100.0,automatic,222000.0
-Hyundai,Elantra,2007,11000,4.0,gasoline,2.0,143.0,automatic,178597.0
-Hyundai,Tucson,2022,99000,3.0,gasoline,2.0,156.0,automatic,93000.0
-Hyundai,Elantra,2024,130000,1.0,hybrid,1.6,139.0,robotic,37000.0
-Hyundai,I20,2020,57500,2.0,gasoline,1.0,100.0,robotic,127000.0
-Hyundai,I20,2016,50000,2.0,gasoline,1.4,100.0,automatic,107000.0
-Hyundai,I10,2021,58000,2.0,gasoline,1.2,84.0,robotic,90000.0
-Hyundai,Ioniq,2018,56000,2.0,hybrid,1.6,141.0,robotic,178000.0
-Hyundai,I30,2015,23000,2.0,gasoline,1.6,135.0,automatic,196000.0
-Hyundai,Sonata,2021,101000,3.0,hybrid,2.0,192.0,automatic,118700.0
-Hyundai,Tucson,2022,136335,2.0,gasoline,1.6,180.0,robotic,54723.0
-Hyundai,Tucson,2022,132365,1.0,gasoline,1.6,180.0,robotic,90000.0
-Hyundai,Tucson,2022,134960,1.0,gasoline,1.6,180.0,robotic,65222.0
-Hyundai,Tucson,2022,136530,1.0,gasoline,1.6,180.0,robotic,62350.0
-Hyundai,Tucson,2022,143175,1.0,gasoline,1.6,180.0,robotic,58000.0
-Hyundai,Tucson,2022,129960,1.0,gasoline,1.6,180.0,robotic,56616.0
-Hyundai,Tucson,2022,130827,1.0,gasoline,1.6,180.0,robotic,48930.0
-Hyundai,Tucson,2022,138134,1.0,gasoline,1.6,180.0,robotic,47482.0
-Hyundai,Tucson,2022,145400,1.0,gasoline,1.6,180.0,robotic,33500.0
-Hyundai,Tucson,2021,132875,2.0,gasoline,1.6,180.0,robotic,51052.0
-Hyundai,Tucson,2021,129685,1.0,gasoline,1.6,180.0,robotic,
-Hyundai,Tucson,2021,119985,1.0,gasoline,1.6,180.0,robotic,66226.0
-Hyundai,Tucson,2021,129995,1.0,diesel,1.6,136.0,robotic,59500.0
-Hyundai,Tucson,2021,133785,1.0,gasoline,1.6,180.0,robotic,39252.0
-Hyundai,Tucson,2021,135185,1.0,gasoline,1.6,180.0,robotic,26744.0
-Hyundai,Tucson,2020,109070,2.0,gasoline,2.0,155.0,automatic,58513.0
-Hyundai,Tucson,2019,85685,2.0,gasoline,1.6,177.0,robotic,127545.0
-Hyundai,Tucson,2018,87865,2.0,gasoline,1.6,177.0,robotic,96052.0
-Hyundai,Tucson,2017,76165,2.0,gasoline,2.0,155.0,robotic,130300.0
-Hyundai,Tucson,2016,63570,2.0,gasoline,1.6,132.0,automatic,138778.0
-Hyundai,Sonata,2021,101000,3.0,hybrid,2.0,192.0,automatic,118700.0
-Hyundai,I20,2012,22000,3.0,gasoline,1.4,100.0,automatic,204013.0
-Hyundai,I10,2011,14000,4.0,gasoline,1.2,87.0,automatic,182500.0
-Hyundai,I10,2012,14000,3.0,gasoline,1.2,87.0,automatic,225000.0
-Hyundai,I20,2021,50000,1.0,gasoline,1.0,100.0,robotic,190000.0
-Hyundai,Tucson,2023,127400,1.0,gasoline,1.6,180.0,robotic,62734.0
-Hyundai,I20,2019,55000,3.0,gasoline,1.0,100.0,robotic,190000.0
-Hyundai,Accent,2010,6800,3.0,gasoline,1.4,97.0,automatic,212000.0
-Hyundai,Ioniq,2019,50000,2.0,hybrid,1.6,141.0,robotic,198000.0
-Hyundai,Tucson,2018,65000,3.0,gasoline,2.0,155.0,robotic,160000.0
-Hyundai,Tucson,2016,59655,2.0,gasoline,1.6,132.0,automatic,104789.0
-Hyundai,Sonata,2022,111775,1.0,hybrid,2.0,192.0,automatic,113873.0
-Hyundai,Kona,2021,113945,2.0,hybrid,1.6,141.0,robotic,103462.0
-Hyundai,Kona,2019,71995,2.0,gasoline,1.6,177.0,robotic,125681.0
-Hyundai,Ioniq,2022,93995,2.0,hybrid,1.6,141.0,robotic,90284.0
-Hyundai,Ioniq 5,2022,137995,1.0,electro,,,automatic,49000.0
-Hyundai,Ioniq,2020,81350,3.0,hybrid,1.6,141.0,robotic,122590.0
-Hyundai,Ioniq,2020,85800,2.0,hybrid,1.6,141.0,robotic,98621.0
-Hyundai,Ioniq,2020,82840,2.0,hybrid,1.6,141.0,robotic,109000.0
-Hyundai,I20,2023,102960,1.0,gasoline,1.0,100.0,robotic,9423.0
-Hyundai,I20,2023,86237,1.0,gasoline,1.0,100.0,robotic,68786.0
-Hyundai,I20,2023,91520,1.0,gasoline,1.0,100.0,robotic,35000.0
-Hyundai,I20,2022,84400,2.0,gasoline,1.0,100.0,robotic,97545.0
-Hyundai,I20,2022,88805,2.0,gasoline,1.0,100.0,robotic,41680.0
-Hyundai,I20,2022,91900,1.0,gasoline,1.0,100.0,robotic,51971.0
-Hyundai,I20,2021,72545,3.0,gasoline,1.0,100.0,robotic,43097.0
-Hyundai,I20,2021,69917,2.0,gasoline,1.0,100.0,robotic,118000.0
-Hyundai,I20,2021,58550,1.0,gasoline,1.0,100.0,robotic,131448.0
-Hyundai,I20,2020,76730,2.0,gasoline,1.0,100.0,robotic,54324.0
-Hyundai,I20,2020,81650,2.0,gasoline,1.0,100.0,robotic,33454.0
-Hyundai,I20,2014,20000,3.0,gasoline,1.4,100.0,automatic,210000.0
-Hyundai,Accent,2010,6500,2.0,gasoline,1.6,112.0,automatic,300000.0
-Hyundai,Tucson,2023,145000,1.0,gasoline,1.6,180.0,robotic,21400.0
-Hyundai,I10,2012,15000,4.0,gasoline,1.1,69.0,automatic,144000.0
-Hyundai,Ioniq,2020,120000,1.0,hybrid,1.6,141.0,robotic,47000.0
-Hyundai,Tucson,2025,218000,1.0,hybrid,1.6,235.0,robotic,3500.0
-Hyundai,I30,2008,10000,3.0,gasoline,1.6,126.0,automatic,225106.0
-Hyundai,Ioniq,2021,83000,2.0,hybrid,1.6,141.0,robotic,149000.0
-Hyundai,I10,2016,32000,2.0,gasoline,1.0,67.0,automatic,129000.0
-Hyundai,Ix35,2012,35000,4.0,diesel,2.0,184.0,automatic,197.0
-Hyundai,I20,2020,62730,2.0,gasoline,1.0,100.0,robotic,130000.0
-Hyundai,I20,2020,68860,2.0,gasoline,1.0,100.0,robotic,129000.0
-Hyundai,I20,2020,63825,2.0,gasoline,1.0,100.0,robotic,115829.0
-Hyundai,I20,2020,65045,2.0,gasoline,1.0,100.0,robotic,107712.0
-Hyundai,I20,2020,88655,1.0,gasoline,1.0,100.0,robotic,17658.0
-Hyundai,I20,2019,71345,2.0,gasoline,1.0,100.0,robotic,71624.0
-Hyundai,I20,2019,60175,2.0,gasoline,1.0,100.0,robotic,126809.0
-Hyundai,I10,2024,81600,2.0,gasoline,1.2,84.0,robotic,35714.0
-Hyundai,I10,2024,82155,2.0,gasoline,1.2,84.0,robotic,29225.0
-Hyundai,I10,2023,87445,1.0,gasoline,1.2,84.0,robotic,8686.0
-Hyundai,I10,2022,71985,2.0,gasoline,1.2,84.0,robotic,26671.0
-Hyundai,I10,2022,81750,1.0,gasoline,1.2,84.0,robotic,8729.0
-Hyundai,I10,2022,73715,1.0,gasoline,1.2,84.0,robotic,49504.0
-Hyundai,I10,2021,55455,2.0,gasoline,1.2,84.0,robotic,75968.0
-Hyundai,I10,2021,67645,2.0,gasoline,1.2,84.0,robotic,64930.0
-Hyundai,I10,2021,67625,2.0,gasoline,1.2,84.0,robotic,61850.0
-Hyundai,I10,2021,74870,1.0,gasoline,1.2,84.0,robotic,23903.0
-Hyundai,I10,2020,65095,1.0,gasoline,1.2,84.0,robotic,80042.0
-Hyundai,I10,2019,59370,2.0,gasoline,1.2,84.0,robotic,96629.0
-Hyundai,I10,2019,58235,2.0,gasoline,1.2,87.0,automatic,92244.0
-Hyundai,Sonata,2016,75000,3.0,hybrid,2.0,193.0,automatic,150000.0
-Hyundai,Kona Ev,2023,100000,1.0,electro,,,automatic,107000.0
-Hyundai,Sonata,2017,63900,4.0,hybrid,2.0,193.0,automatic,140000.0
-Hyundai,I25,2014,22000,3.0,gasoline,1.4,100.0,automatic,146250.0
-Hyundai,Ioniq,2019,65000,3.0,hybrid,1.6,141.0,robotic,175000.0
-Hyundai,I10,2021,49600,3.0,gasoline,1.2,84.0,robotic,50000.0
-Hyundai,I20,2016,35000,2.0,gasoline,1.4,100.0,automatic,168000.0
-Hyundai,Tucson,2021,123000,1.0,gasoline,1.6,180.0,robotic,75000.0
-Hyundai,Tucson,2022,113500,2.0,gasoline,1.6,180.0,robotic,100000.0
-Hyundai,I30,2010,7500,3.0,gasoline,1.6,126.0,automatic,197000.0
-Hyundai,I10,2019,63255,2.0,gasoline,1.2,87.0,automatic,60000.0
-Hyundai,I10,2019,55030,2.0,gasoline,1.2,87.0,automatic,100750.0
-Hyundai,I10,2018,50735,2.0,gasoline,1.2,87.0,automatic,131011.0
-Hyundai,I10,2017,40495,2.0,gasoline,1.0,66.0,automatic,131180.0
-Hyundai,I10,2016,33192,3.0,gasoline,1.0,67.0,automatic,81618.0
-Hyundai,Elantra,2024,144645,2.0,hybrid,1.6,139.0,robotic,43188.0
-Hyundai,I10,2012,33935,2.0,gasoline,1.2,87.0,automatic,56634.0
-Hyundai,Elantra,2023,101457,1.0,hybrid,1.6,139.0,robotic,107261.0
-Hyundai,Elantra,2022,115395,2.0,hybrid,1.6,139.0,robotic,82000.0
-Hyundai,Elantra,2022,111645,1.0,hybrid,1.6,139.0,robotic,109490.0
-Hyundai,Elantra,2022,127355,2.0,hybrid,1.6,139.0,robotic,32684.0
-Hyundai,Elantra,2022,115145,1.0,hybrid,1.6,139.0,robotic,106505.0
-Hyundai,Elantra,2023,134685,1.0,hybrid,1.6,139.0,robotic,31000.0
-Hyundai,Bayon,2023,100945,1.0,gasoline,1.0,100.0,robotic,67694.0
-Hyundai,Bayon,2023,104065,1.0,gasoline,1.0,120.0,robotic,54000.0
-Hyundai,Bayon,2023,99255,1.0,gasoline,1.0,100.0,robotic,50865.0
-Hyundai,Bayon,2023,107325,1.0,gasoline,1.0,120.0,robotic,46618.0
-Hyundai,Bayon,2023,105375,1.0,gasoline,1.0,120.0,robotic,46227.0
-Hyundai,Bayon,2023,99785,1.0,gasoline,1.0,100.0,robotic,29170.0
-Hyundai,Bayon,2023,99255,1.0,gasoline,1.0,100.0,robotic,25165.0
-Hyundai,Tucson,2021,135000,2.0,gasoline,1.6,180.0,robotic,49400.0
-Hyundai,I30,2012,15500,4.0,gasoline,1.6,126.0,automatic,212000.0
-Hyundai,Venue,2021,64900,2.0,gasoline,1.6,123.0,variable,90000.0
-Hyundai,I10,2023,70000,3.0,gasoline,1.2,84.0,robotic,14000.0
-Hyundai,I10,2018,45000,2.0,gasoline,1.2,87.0,automatic,88000.0
-Hyundai,Getz,2008,6800,4.0,gasoline,1.4,97.0,automatic,231000.0
-Hyundai,I25,2012,19000,2.0,gasoline,1.4,109.0,automatic,182000.0
-Hyundai,I10,2016,25000,3.0,gasoline,1.0,67.0,automatic,185000.0
-Hyundai,Ioniq,2020,75000,2.0,hybrid,1.6,141.0,robotic,138900.0
-Hyundai,I10,2017,37900,2.0,gasoline,1.0,66.0,automatic,113000.0
-Hyundai,Bayon,2023,106455,1.0,gasoline,1.0,100.0,robotic,23000.0
-Hyundai,Bayon,2023,108785,1.0,gasoline,1.0,120.0,robotic,21003.0
-Hyundai,I25,2012,20000,3.0,gasoline,1.4,109.0,automatic,130000.0
-Hyundai,I30,2012,10000,2.0,gasoline,1.6,126.0,automatic,200000.0
-Hyundai,Tucson,2024,134000,2.0,gasoline,1.6,180.0,robotic,49048.0
-Hyundai,Ix35,2015,40000,4.0,gasoline,2.0,154.0,automatic,135000.0
-Hyundai,Kona,2025,142000,1.0,hybrid,1.6,139.0,robotic,40000.0
-Hyundai,Tucson,2018,57000,2.0,gasoline,2.0,155.0,robotic,198000.0
-Hyundai,I25,2017,35000,2.0,gasoline,1.4,100.0,automatic,153000.0
-Hyundai,Accent,2021,60000,1.0,gasoline,1.6,123.0,automatic,64000.0
-Hyundai,Santa Fe,2007,25000,3.0,gasoline,2.7,189.0,automatic,170000.0
-Hyundai,Veloster,2013,22500,4.0,gasoline,1.6,140.0,robotic,129100.0
-Hyundai,Tucson,2019,85000,2.0,gasoline,2.0,155.0,automatic,112000.0
-Hyundai,Bayon,2023,115000,1.0,gasoline,1.0,120.0,robotic,30000.0
-Hyundai,Tucson,2021,122000,1.0,gasoline,1.6,180.0,robotic,93000.0
-Hyundai,Bayon,2022,88500,2.0,gasoline,1.0,100.0,robotic,49450.0
-Hyundai,Ioniq,2019,79999,2.0,hybrid,1.6,141.0,robotic,112000.0
-Hyundai,Tucson,2017,72000,1.0,gasoline,2.0,155.0,robotic,68000.0
-Hyundai,I25,2015,26500,3.0,gasoline,1.6,124.0,automatic,180000.0
-Hyundai,Tucson,2016,56900,3.0,gasoline,2.0,155.0,robotic,155000.0
-Hyundai,Kona,2021,93000,1.0,gasoline,1.6,198.0,robotic,55000.0
-Hyundai,Santa Fe,2008,15000,4.0,gasoline,2.7,189.0,automatic,215000.0
-Hyundai,I30,2009,10000,4.0,gasoline,1.6,126.0,automatic,180500.0
-Hyundai,I10,2024,82000,1.0,gasoline,1.2,84.0,robotic,7800.0
-Hyundai,Tucson,2022,155000,1.0,gasoline,1.6,180.0,robotic,12000.0
-Hyundai,I10,2016,21000,2.0,gasoline,1.0,67.0,manual,150000.0
-Hyundai,Sonata,2008,11000,3.0,gasoline,2.0,163.0,automatic,328000.0
-Hyundai,I35,2013,30000,3.0,gasoline,1.6,132.0,automatic,137000.0
-Hyundai,Elantra,2016,23000,4.0,gasoline,1.6,128.0,automatic,207000.0
-Hyundai,Sonata,2017,77000,2.0,hybrid,2.0,193.0,automatic,130000.0
-Hyundai,I20,2016,47000,3.0,gasoline,1.4,100.0,automatic,69000.0
-Hyundai,Sonata,2023,160000,1.0,hybrid,2.0,192.0,automatic,48800.0
-Hyundai,Ioniq,2018,65000,2.0,hybrid,1.6,141.0,robotic,169000.0
-Hyundai,I20,2012,13500,3.0,gasoline,1.2,85.0,manual,195300.0
-Hyundai,I20,2019,51000,3.0,gasoline,1.0,100.0,robotic,144500.0
-Hyundai,Ix35,2011,33500,2.0,gasoline,2.4,177.0,automatic,179000.0
-Hyundai,Accent,2007,10000,3.0,gasoline,1.6,112.0,automatic,103000.0
-Hyundai,I10,2015,17000,2.0,gasoline,1.0,67.0,manual,180000.0
-Hyundai,Tucson,2016,45000,2.0,gasoline,2.0,155.0,robotic,213000.0
-Hyundai,I20,2014,33500,2.0,gasoline,1.4,100.0,automatic,116000.0
-Hyundai,I30,2013,16500,3.0,gasoline,1.6,135.0,automatic,220000.0
-Hyundai,Ioniq,2017,65000,3.0,hybrid,1.6,141.0,robotic,250000.0
-Hyundai,I30,2009,14000,3.0,gasoline,1.6,126.0,automatic,203419.0
-Hyundai,I10,2009,12500,4.0,gasoline,1.2,78.0,automatic,211000.0
-Hyundai,Ioniq,2020,84999,2.0,hybrid,1.6,141.0,robotic,114000.0
-Hyundai,I20,2010,11000,3.0,gasoline,1.4,100.0,automatic,222000.0
-Hyundai,Elantra,2007,11000,4.0,gasoline,2.0,143.0,automatic,178597.0
-Hyundai,Tucson,2022,99000,3.0,gasoline,2.0,156.0,automatic,93000.0
-Hyundai,Elantra,2024,130000,1.0,hybrid,1.6,139.0,robotic,37000.0
-Hyundai,I20,2020,57500,2.0,gasoline,1.0,100.0,robotic,127000.0
-Hyundai,Ix35,2015,40000,3.0,gasoline,2.4,177.0,automatic,167000.0
-Hyundai,I10,2024,70000,1.0,gasoline,1.2,84.0,robotic,17000.0
-Hyundai,I20,2010,27000,2.0,gasoline,1.4,100.0,automatic,115000.0
-Hyundai,Tucson,2022,150000,1.0,gasoline,1.6,180.0,robotic,36000.0
-Hyundai,Sonata,2023,160000,1.0,hybrid,2.0,192.0,automatic,23000.0
-Hyundai,Ioniq,2017,51000,4.0,hybrid,1.6,141.0,robotic,240000.0
-Hyundai,Ioniq,2020,85000,2.0,hybrid,1.6,141.0,robotic,145000.0
-Hyundai,I20,2022,87500,1.0,gasoline,1.0,100.0,robotic,49700.0
-Hyundai,I30,2014,20000,2.0,gasoline,1.6,135.0,automatic,198000.0
-Hyundai,Ioniq,2021,92000,3.0,hybrid,1.6,141.0,robotic,101000.0
-Hyundai,I20,2016,50000,2.0,gasoline,1.4,100.0,automatic,107000.0
-Hyundai,Tucson,2019,87000,3.0,gasoline,1.6,177.0,robotic,100000.0
-Hyundai,Elantra,2023,125999,1.0,hybrid,1.6,139.0,robotic,92000.0
-Hyundai,I20,2021,59900,2.0,gasoline,1.0,100.0,robotic,144000.0
-Hyundai,I10,2021,58000,2.0,gasoline,1.2,84.0,robotic,90000.0
-Hyundai,I20,2019,62000,2.0,gasoline,1.0,100.0,robotic,100000.0
-Hyundai,Accent,2021,59000,1.0,gasoline,1.4,100.0,automatic,107500.0
-Hyundai,Ioniq,2018,56000,2.0,hybrid,1.6,141.0,robotic,178000.0
-Hyundai,I30,2015,23000,2.0,gasoline,1.6,135.0,automatic,196000.0
-Hyundai,Sonata,2021,113999,1.0,hybrid,2.0,192.0,automatic,126000.0
-Hyundai,Sonata,2021,101000,3.0,hybrid,2.0,192.0,automatic,118700.0
-Hyundai,I20,2012,22000,3.0,gasoline,1.4,100.0,automatic,204013.0
-Hyundai,I20,2020,59990,4.0,gasoline,1.0,100.0,robotic,62000.0
-Hyundai,I20,2020,55000,1.0,gasoline,1.0,100.0,robotic,84000.0
-Hyundai,I10,2011,14000,4.0,gasoline,1.2,87.0,automatic,182500.0
-Hyundai,Santa Fe,2022,154990,3.0,diesel,2.2,230.0,robotic,75000.0
-Hyundai,I10,2021,66990,2.0,gasoline,1.2,84.0,robotic,12000.0
-Hyundai,I10,2012,14000,3.0,gasoline,1.2,87.0,automatic,225000.0
-Hyundai,I20,2021,50000,1.0,gasoline,1.0,100.0,robotic,190000.0
-Hyundai,I10,2016,32000,3.0,gasoline,1.0,67.0,automatic,150000.0
-Hyundai,Tucson,2022,150000,1.0,gasoline,1.6,180.0,robotic,36000.0
-Hyundai,Sonata,2023,160000,1.0,hybrid,2.0,192.0,automatic,23000.0
-Hyundai,Ioniq,2017,51000,4.0,hybrid,1.6,141.0,robotic,240000.0
-Hyundai,Ioniq,2020,85000,2.0,hybrid,1.6,141.0,robotic,145000.0
-Hyundai,I20,2022,87500,1.0,gasoline,1.0,100.0,robotic,49700.0
-Hyundai,I30,2014,20000,2.0,gasoline,1.6,135.0,automatic,198000.0
-Hyundai,Ioniq,2021,92000,3.0,hybrid,1.6,141.0,robotic,101000.0
-Hyundai,I20,2019,67000,1.0,gasoline,1.0,100.0,robotic,140000.0
-Hyundai,I20,2020,57000,2.0,gasoline,1.0,100.0,robotic,130000.0
-Hyundai,Venue,2024,125000,1.0,gasoline,1.6,123.0,variable,4631.0
-Hyundai,Ioniq,2017,55000,2.0,hybrid,1.6,141.0,robotic,187700.0
-Hyundai,Tucson,2023,127400,1.0,gasoline,1.6,180.0,robotic,62734.0
-Hyundai,I20,2019,55000,3.0,gasoline,1.0,100.0,robotic,190000.0
-Hyundai,Elantra,2021,69900,2.0,gasoline,1.6,127.0,automatic,99900.0
-Hyundai,Accent,2010,6800,3.0,gasoline,1.4,97.0,automatic,212000.0
-Hyundai,Ioniq,2019,50000,2.0,hybrid,1.6,141.0,robotic,198000.0
-Hyundai,Tucson,2018,65000,3.0,gasoline,2.0,155.0,robotic,160000.0
-Hyundai,I20,2014,20000,3.0,gasoline,1.4,100.0,automatic,210000.0
-Hyundai,Accent,2010,6500,2.0,gasoline,1.6,112.0,automatic,300000.0
-Hyundai,Tucson,2023,145000,1.0,gasoline,1.6,180.0,robotic,21400.0
-Hyundai,I10,2012,15000,4.0,gasoline,1.1,69.0,automatic,144000.0
-Hyundai,Ioniq,2020,120000,1.0,hybrid,1.6,141.0,robotic,47000.0
-Hyundai,Tucson,2023,134000,1.0,gasoline,1.6,180.0,robotic,76000.0
-Hyundai,Tucson,2025,218000,1.0,hybrid,1.6,235.0,robotic,3500.0
-Hyundai,I30,2008,10000,3.0,gasoline,1.6,126.0,automatic,225106.0
-Hyundai,Ioniq,2021,83000,2.0,hybrid,1.6,141.0,robotic,149000.0
-Hyundai,I10,2016,32000,2.0,gasoline,1.0,67.0,automatic,129000.0
-Hyundai,Ix35,2012,35000,4.0,diesel,2.0,184.0,automatic,197.0
-Hyundai,Tucson,2022,113990,2.0,gasoline,2.0,156.0,automatic,94000.0
-Hyundai,Sonata,2016,75000,3.0,hybrid,2.0,193.0,automatic,150000.0
-Hyundai,H350,2018,45000,2.0,diesel,2.5,170.0,manual,270000.0
-Hyundai,Ioniq,2020,90000,2.0,hybrid,1.6,141.0,robotic,126500.0
-Hyundai,I20,2021,68000,2.0,gasoline,1.0,100.0,robotic,82000.0
-Hyundai,Ioniq,2020,115000,1.0,hybrid,1.6,141.0,robotic,66900.0
-Hyundai,I25,2016,32000,1.0,gasoline,1.6,124.0,automatic,170000.0
-Hyundai,Elantra,2022,120000,2.0,hybrid,1.6,139.0,robotic,100000.0
-Hyundai,Accent,2001,5000,3.0,gasoline,1.5,91.0,automatic,139000.0
-Hyundai,I10,2015,21000,4.0,gasoline,1.0,67.0,automatic,202574.0
-Hyundai,I20,2022,78000,2.0,gasoline,1.0,100.0,robotic,65500.0
-Hyundai,Elantra,2016,38000,3.0,gasoline,1.6,128.0,automatic,205000.0
-Hyundai,Kona Ev,2023,100000,1.0,electro,,,automatic,107000.0
-Hyundai,Sonata,2017,63900,4.0,hybrid,2.0,193.0,automatic,140000.0
-Hyundai,I25,2014,22000,3.0,gasoline,1.4,100.0,automatic,146250.0
-Hyundai,Ioniq,2022,99990,2.0,hybrid,1.6,141.0,robotic,73000.0
-Hyundai,Ioniq,2019,65000,3.0,hybrid,1.6,141.0,robotic,175000.0
-Hyundai,I10,2021,49600,3.0,gasoline,1.2,84.0,robotic,50000.0
-Hyundai,I20,2016,35000,2.0,gasoline,1.4,100.0,automatic,168000.0
-Hyundai,Tucson,2021,123000,1.0,gasoline,1.6,180.0,robotic,75000.0
-Hyundai,Tucson,2022,113500,2.0,gasoline,1.6,180.0,robotic,100000.0
-Hyundai,I30,2010,7500,3.0,gasoline,1.6,126.0,automatic,197000.0
-Hyundai,Tucson,2021,135000,2.0,gasoline,1.6,180.0,robotic,49400.0
-Hyundai,I30,2012,15500,4.0,gasoline,1.6,126.0,automatic,212000.0
-Hyundai,Venue,2021,64900,2.0,gasoline,1.6,123.0,variable,90000.0
-Hyundai,I25,2013,23900,2.0,gasoline,1.6,124.0,automatic,175000.0
-Hyundai,I25,2017,28900,2.0,gasoline,1.4,100.0,automatic,195000.0
-Hyundai,I10,2023,70000,3.0,gasoline,1.2,84.0,robotic,14000.0
-Hyundai,I10,2018,45000,2.0,gasoline,1.2,87.0,automatic,88000.0
-Hyundai,Getz,2008,6800,4.0,gasoline,1.4,97.0,automatic,231000.0
-Hyundai,Elantra,2022,119990,1.0,hybrid,1.6,139.0,robotic,82000.0
-Hyundai,I25,2012,19000,2.0,gasoline,1.4,109.0,automatic,182000.0
-Hyundai,I30,2010,9000,3.0,gasoline,1.6,126.0,automatic,310000.0
-Hyundai,Accent,2008,6000,4.0,gasoline,1.6,112.0,automatic,206000.0
-Hyundai,Veloster,2015,25000,2.0,gasoline,1.6,140.0,robotic,250000.0
-Hyundai,I30,2011,14000,3.0,gasoline,1.6,126.0,automatic,
-Hyundai,I30,2009,13000,3.0,gasoline,1.6,126.0,automatic,
-Hyundai,I30,2009,12000,2.0,gasoline,1.6,126.0,automatic,
-Hyundai,I20,2010,12000,1.0,gasoline,1.4,100.0,automatic,
-Hyundai,Tucson,2019,90000,1.0,gasoline,2.0,155.0,automatic,
-Hyundai,Ioniq,2017,64500,4.0,hybrid,1.6,141.0,robotic,
-Hyundai,Tucson,2016,60800,3.0,gasoline,1.6,132.0,automatic,74500.0
-Hyundai,I10,2016,25000,3.0,gasoline,1.0,67.0,automatic,185000.0
-Hyundai,Ioniq,2020,75000,2.0,hybrid,1.6,141.0,robotic,138900.0
-Hyundai,Sonata,2021,107000,1.0,hybrid,2.0,192.0,automatic,114483.0
-Hyundai,Kona,2022,110000,2.0,hybrid,1.6,139.0,robotic,38000.0
-Hyundai,Ioniq,2019,57990,2.0,hybrid,1.6,141.0,robotic,259000.0
-Hyundai,I10,2017,37900,2.0,gasoline,1.0,66.0,automatic,113000.0
-Hyundai,Ioniq,2017,65000,2.0,hybrid,1.6,141.0,robotic,180000.0
-Hyundai,Kona,2019,73000,1.0,gasoline,1.6,177.0,robotic,99000.0
-Hyundai,Accent,2004,4000,3.0,gasoline,1.5,91.0,automatic,144000.0
-Hyundai,Tucson,2021,125000,,gasoline,1.6,180.0,robotic,105000.0
-Hyundai,I25,2016,25000,3.0,gasoline,1.4,100.0,automatic,150000.0
-Hyundai,Elantra,2022,130000,1.0,hybrid,1.6,139.0,robotic,72500.0
-Hyundai,Elantra,2006,5500,2.0,gasoline,1.6,107.0,automatic,155856.0
-Hyundai,Sonata,2018,69000,3.0,hybrid,2.0,193.0,automatic,
-Hyundai,Ioniq 6,2024,175000,1.0,electro,,,automatic,29000.0
-Hyundai,I35,2012,22000,4.0,gasoline,1.6,132.0,automatic,229000.0
-Hyundai,Sonata,2016,55000,2.0,hybrid,2.0,193.0,automatic,200000.0
-Hyundai,Ioniq 5,2022,104990,2.0,electro,,,automatic,137000.0
-Hyundai,Veloster,2014,25000,4.0,gasoline,1.6,140.0,manual,199000.0
-Hyundai,I10,2021,63990,2.0,gasoline,1.2,84.0,robotic,88000.0
-Hyundai,I30,2009,13000,3.0,gasoline,1.6,126.0,automatic,291000.0
-Hyundai,I30,2009,12000,2.0,gasoline,1.6,126.0,automatic,251000.0
-Hyundai,I20,2010,12000,1.0,gasoline,1.4,100.0,automatic,257000.0
-Hyundai,Tucson,2019,90000,1.0,gasoline,2.0,155.0,automatic,116000.0
-Hyundai,Ioniq,2017,64500,4.0,hybrid,1.6,141.0,robotic,178000.0
-Hyundai,Tucson,2016,60800,3.0,gasoline,1.6,132.0,automatic,74500.0
-Hyundai,Palisade,2022,245000,1.0,gasoline,3.8,291.0,automatic,38000.0
-Hyundai,I20,2018,43000,3.0,gasoline,1.4,100.0,automatic,155000.0
-Hyundai,I25,2017,31000,4.0,gasoline,1.6,124.0,automatic,180000.0
-Hyundai,Ioniq 5,2024,195000,1.0,electro,,,automatic,17000.0
-Hyundai,Tucson,2021,125000,1.0,gasoline,1.6,180.0,robotic,63000.0
-Hyundai,Kona,2022,110000,1.0,hybrid,1.6,139.0,robotic,91759.0
-Hyundai,Ioniq 6,2023,160000,1.0,electro,,,automatic,40521.0
-Hyundai,I35,2015,28000,2.0,gasoline,1.6,132.0,automatic,174000.0
-Hyundai,Kona,2021,93000,1.0,gasoline,1.6,198.0,robotic,55000.0
-Hyundai,Santa Fe,2008,15000,4.0,gasoline,2.7,189.0,automatic,215000.0
-Hyundai,I30,2009,10000,4.0,gasoline,1.6,126.0,automatic,180500.0
-Hyundai,I10,2024,82000,1.0,gasoline,1.2,84.0,robotic,7800.0
-Hyundai,Tucson,2022,155000,1.0,gasoline,1.6,180.0,robotic,12000.0
-Hyundai,I10,2016,21000,2.0,gasoline,1.0,67.0,manual,150000.0
-Hyundai,Sonata,2008,11000,3.0,gasoline,2.0,163.0,automatic,328000.0
-Hyundai,Palisade,2021,148000,2.0,gasoline,3.8,291.0,automatic,88000.0
-Hyundai,I35,2013,30000,3.0,gasoline,1.6,132.0,automatic,137000.0
-Hyundai,I10,2023,73000,1.0,gasoline,1.2,84.0,robotic,25000.0
-Hyundai,Elantra,2016,23000,4.0,gasoline,1.6,128.0,automatic,207000.0
-Hyundai,Sonata,2017,77000,2.0,hybrid,2.0,193.0,automatic,130000.0
-Hyundai,I25,2013,18500,3.0,gasoline,1.4,109.0,automatic,223000.0
-Hyundai,Tucson,2023,153000,1.0,gasoline,1.6,180.0,robotic,23000.0
-Hyundai,Ioniq,2019,68000,4.0,hybrid,1.6,141.0,robotic,157000.0
-Hyundai,I35,2015,29950,2.0,gasoline,1.6,132.0,automatic,198000.0
-Hyundai,Sonata,2017,75000,1.0,hybrid,2.0,193.0,automatic,122000.0
-Hyundai,I30,2010,30000,1.0,gasoline,1.6,126.0,automatic,135000.0
-Hyundai,Sonata,2021,138000,2.0,hybrid,2.0,192.0,automatic,69200.0
-Hyundai,Santa Fe,2008,25000,3.0,gasoline,2.7,189.0,automatic,184000.0
-Hyundai,Ioniq,2018,78000,1.0,hybrid,1.6,141.0,robotic,113000.0
-Hyundai,Tucson,2023,160000,1.0,gasoline,1.6,180.0,robotic,43000.0
-Hyundai,Venue,2021,84000,1.0,gasoline,1.6,123.0,variable,41000.0
-Hyundai,Ioniq,2018,60000,2.0,hybrid,1.6,141.0,robotic,174000.0
-Hyundai,Sonata,2020,115000,2.0,hybrid,2.0,192.0,automatic,126000.0
-Hyundai,I30,2013,21000,4.0,gasoline,1.6,135.0,automatic,179000.0
-Hyundai,I35,2011,23000,3.0,gasoline,1.6,132.0,automatic,190000.0
-Hyundai,Ioniq,2020,93000,1.0,hybrid,1.6,141.0,robotic,118000.0
-Hyundai,Ioniq,2017,53000,3.0,hybrid,1.6,141.0,robotic,167000.0
-Hyundai,Ix35,2015,40000,3.0,gasoline,2.4,177.0,automatic,167000.0
-Hyundai,I10,2024,70000,1.0,gasoline,1.2,84.0,robotic,17000.0
-Hyundai,I20,2010,27000,2.0,gasoline,1.4,100.0,automatic,115000.0
-Hyundai,Tucson,2022,150000,1.0,gasoline,1.6,180.0,robotic,36000.0
-Hyundai,Ix35,2013,44990,2.0,diesel,2.0,184.0,automatic,203000.0
-Hyundai,Tucson,2016,55900,2.0,gasoline,1.6,132.0,automatic,71000.0
-Hyundai,Kona,2021,79900,2.0,hybrid,1.6,141.0,robotic,185000.0
-Hyundai,Ioniq 5,2024,184900,1.0,electro,,,automatic,15200.0
-Hyundai,Ioniq 5,2024,171900,1.0,electro,,,automatic,10000.0
-Hyundai,Elantra,2023,109900,1.0,hybrid,1.6,139.0,robotic,50000.0
-Hyundai,Sonata,2023,160000,1.0,hybrid,2.0,192.0,automatic,23000.0
-Hyundai,Ioniq,2017,51000,4.0,hybrid,1.6,141.0,robotic,240000.0
-Hyundai,Ioniq,2020,85000,2.0,hybrid,1.6,141.0,robotic,145000.0
-Hyundai,I20,2022,87500,1.0,gasoline,1.0,100.0,robotic,49700.0
-Hyundai,I30,2014,20000,2.0,gasoline,1.6,135.0,automatic,198000.0
-Hyundai,Ioniq,2021,92000,3.0,hybrid,1.6,141.0,robotic,101000.0
-Hyundai,I20,2019,67000,1.0,gasoline,1.0,100.0,robotic,140000.0
-Hyundai,Sonata,2020,115000,2.0,hybrid,2.0,192.0,automatic,126000.0
-Hyundai,I30,2013,21000,4.0,gasoline,1.6,135.0,automatic,179000.0
-Hyundai,I25,2017,31000,4.0,gasoline,1.6,124.0,automatic,176000.0
-Hyundai,I30,2009,11000,3.0,gasoline,1.6,126.0,automatic,230000.0
-Hyundai,I35,2014,27000,3.0,gasoline,1.6,132.0,automatic,220000.0
-Hyundai,I20,2009,11000,3.0,gasoline,1.4,100.0,automatic,280000.0
-Hyundai,Ioniq,2018,76000,2.0,hybrid,1.6,141.0,robotic,173000.0
-Hyundai,I35,2013,32000,2.0,gasoline,1.6,132.0,automatic,180000.0
-Hyundai,Kona Ev,2023,106000,1.0,electro,,,automatic,77000.0
-Hyundai,Matrix,2009,6500,3.0,gasoline,1.6,103.0,automatic,280000.0
-Hyundai,I20,2020,57000,2.0,gasoline,1.0,100.0,robotic,130000.0
-Hyundai,Venue,2024,125000,1.0,gasoline,1.6,123.0,variable,4631.0
-Hyundai,Sonata,2016,49000,3.0,hybrid,2.0,193.0,automatic,138000.0
-Hyundai,Ioniq 5,2024,183000,1.0,electro,,,automatic,25300.0
-Hyundai,Tucson,2007,14000,4.0,gasoline,2.7,175.0,automatic,270000.0
-Hyundai,I20,2010,10000,4.0,gasoline,1.4,100.0,automatic,253000.0
-Hyundai,Tucson,2021,96000,2.0,gasoline,1.6,180.0,robotic,124000.0
-Hyundai,I20,2009,10900,3.0,gasoline,1.4,100.0,automatic,217000.0
-Hyundai,I10,2019,42000,2.0,gasoline,1.2,87.0,automatic,168000.0
-Hyundai,H350,2018,45000,2.0,diesel,2.5,170.0,manual,270000.0
-Hyundai,Ioniq,2020,90000,2.0,hybrid,1.6,141.0,robotic,126500.0
-Hyundai,I20,2021,68000,2.0,gasoline,1.0,100.0,robotic,82000.0
-Hyundai,Ioniq,2020,115000,1.0,hybrid,1.6,141.0,robotic,66900.0
-Hyundai,I25,2016,32000,1.0,gasoline,1.6,124.0,automatic,170000.0
-Hyundai,Elantra,2022,120000,2.0,hybrid,1.6,139.0,robotic,100000.0
-Hyundai,Accent,2001,5000,3.0,gasoline,1.5,91.0,automatic,139000.0
-Hyundai,I10,2015,21000,4.0,gasoline,1.0,67.0,automatic,202574.0
-Hyundai,I20,2022,78000,2.0,gasoline,1.0,100.0,robotic,65500.0
-Hyundai,Elantra,2016,38000,3.0,gasoline,1.6,128.0,automatic,205000.0
-Hyundai,I30,2010,9000,3.0,gasoline,1.6,126.0,automatic,310000.0
-Hyundai,Ioniq,2017,65000,2.0,hybrid,1.6,141.0,robotic,134100.0
-Hyundai,I30,2013,25000,1.0,gasoline,1.6,135.0,automatic,165000.0
-Hyundai,I20,2022,96000,1.0,gasoline,1.0,100.0,robotic,33000.0
-Hyundai,Ioniq,2017,50000,3.0,hybrid,1.6,141.0,robotic,194500.0
-Hyundai,Accent,2020,50500,2.0,gasoline,1.4,100.0,automatic,133000.0
-Hyundai,Tucson,2015,58500,2.0,gasoline,2.0,155.0,robotic,105000.0
-Hyundai,I30,2010,14000,1.0,gasoline,1.6,126.0,automatic,197000.0
-Hyundai,Ioniq 5,2022,136000,2.0,electro,,,automatic,85000.0
-Hyundai,Ioniq,2020,95500,2.0,hybrid,1.6,141.0,robotic,120000.0
-Hyundai,I25,2014,33000,3.0,gasoline,1.4,100.0,automatic,113000.0
-Hyundai,Accent,2008,6000,4.0,gasoline,1.6,112.0,automatic,206000.0
-Hyundai,Veloster,2015,25000,2.0,gasoline,1.6,140.0,robotic,250000.0
-Hyundai,I30,2011,14000,3.0,gasoline,1.6,126.0,automatic,160000.0
-Hyundai,I30,2009,13000,3.0,gasoline,1.6,126.0,automatic,291000.0
-Hyundai,I30,2009,12000,2.0,gasoline,1.6,126.0,automatic,251000.0
-Hyundai,I20,2010,12000,1.0,gasoline,1.4,100.0,automatic,257000.0
-Hyundai,Tucson,2019,90000,1.0,gasoline,2.0,155.0,automatic,116000.0
-Hyundai,Ioniq,2017,64500,4.0,hybrid,1.6,141.0,robotic,178000.0
-Hyundai,Tucson,2016,60800,3.0,gasoline,1.6,132.0,automatic,74500.0
-Hyundai,Palisade,2022,245000,1.0,gasoline,3.8,291.0,automatic,38000.0
-Hyundai,I20,2018,43000,3.0,gasoline,1.4,100.0,automatic,155000.0
-Hyundai,I25,2017,31000,4.0,gasoline,1.6,124.0,automatic,180000.0
-Hyundai,Ioniq 5,2024,195000,1.0,electro,,,automatic,17000.0
-Hyundai,Elantra,2017,47000,2.0,gasoline,1.6,128.0,automatic,163000.0
-Hyundai,Sonata,2018,87000,4.0,hybrid,2.0,193.0,automatic,104000.0
-Hyundai,Ioniq,2020,85000,1.0,hybrid,1.6,141.0,robotic,123000.0
-Hyundai,I20,2022,98000,1.0,gasoline,1.0,100.0,robotic,26000.0
-Hyundai,Santa Fe,2010,25000,2.0,gasoline,2.4,174.0,automatic,220000.0
-Hyundai,I35,2012,28000,3.0,gasoline,1.6,132.0,automatic,233000.0
-Hyundai,Sonata,2017,75000,1.0,hybrid,2.0,193.0,automatic,122000.0
-Hyundai,Accent,2010,17000,2.0,gasoline,1.4,97.0,automatic,181000.0
-Hyundai,I10,2015,15900,3.0,gasoline,1.0,67.0,manual,168000.0
-Hyundai,Ioniq 5,2023,160000,1.0,electro,,,automatic,12500.0
-Hyundai,Ioniq,2018,51000,3.0,hybrid,1.6,141.0,robotic,220000.0
-Hyundai,I20,2012,20000,3.0,gasoline,1.4,100.0,automatic,217000.0
-Hyundai,Ix35,2015,46500,3.0,gasoline,2.0,154.0,automatic,124700.0
-Hyundai,Accent,2009,9000,4.0,gasoline,1.4,97.0,automatic,235000.0
-Hyundai,Kona,2020,82000,2.0,hybrid,1.6,141.0,robotic,123000.0
-Hyundai,Ioniq,2021,89000,2.0,hybrid,1.6,141.0,robotic,71500.0
-Hyundai,Getz,2008,8000,2.0,gasoline,1.4,97.0,automatic,119000.0
-Hyundai,I30,2010,30000,1.0,gasoline,1.6,126.0,automatic,135000.0
-Hyundai,Sonata,2021,138000,2.0,hybrid,2.0,192.0,automatic,69200.0
-Hyundai,Santa Fe,2008,25000,3.0,gasoline,2.7,189.0,automatic,184000.0
-Hyundai,Ioniq,2018,78000,1.0,hybrid,1.6,141.0,robotic,113000.0
-Hyundai,Tucson,2023,160000,1.0,gasoline,1.6,180.0,robotic,43000.0
-Hyundai,Venue,2021,84000,1.0,gasoline,1.6,123.0,variable,41000.0
-Hyundai,Ioniq,2018,60000,2.0,hybrid,1.6,141.0,robotic,174000.0
-Hyundai,Sonata,2020,115000,2.0,hybrid,2.0,192.0,automatic,126000.0
-Hyundai,I30,2013,21000,4.0,gasoline,1.6,135.0,automatic,179000.0
-Hyundai,I25,2017,31000,4.0,gasoline,1.6,124.0,automatic,176000.0
-Hyundai,I30,2009,11000,3.0,gasoline,1.6,126.0,automatic,230000.0
-Hyundai,I35,2014,27000,3.0,gasoline,1.6,132.0,automatic,220000.0
-Hyundai,I20,2009,11000,3.0,gasoline,1.4,100.0,automatic,280000.0
-Hyundai,Ioniq,2018,76000,2.0,hybrid,1.6,141.0,robotic,173000.0
-Hyundai,I35,2013,32000,2.0,gasoline,1.6,132.0,automatic,180000.0
-Hyundai,Kona Ev,2023,106000,1.0,electro,,,automatic,77000.0
-Hyundai,Matrix,2009,6500,3.0,gasoline,1.6,103.0,automatic,280000.0
-Hyundai,I10,2017,37000,1.0,gasoline,1.0,66.0,automatic,119550.0
-Hyundai,Venue,2024,126000,1.0,gasoline,1.6,121.0,variable,12000.0
-Hyundai,I25,2016,35000,2.0,gasoline,1.6,124.0,automatic,180000.0
-Hyundai,I10,2015,19000,4.0,gasoline,1.0,67.0,manual,160000.0
-Hyundai,Getz,2007,13400,2.0,gasoline,1.6,105.0,automatic,142000.0
-Hyundai,Ioniq,2019,72000,2.0,hybrid,1.6,141.0,robotic,93500.0
-Hyundai,Elantra,2022,128500,2.0,hybrid,1.6,139.0,robotic,34000.0
-Hyundai,Ioniq 5,2022,127000,2.0,electro,,,automatic,120000.0
-Hyundai,I30,2011,14500,3.0,gasoline,1.6,126.0,automatic,210000.0
-Hyundai,I20,2012,14000,3.0,gasoline,1.4,100.0,automatic,213000.0
-Hyundai,Ioniq,2020,77000,2.0,hybrid,1.6,141.0,robotic,159000.0
-Hyundai,Tucson,2022,180000,1.0,diesel,1.6,136.0,robotic,35000.0
-Hyundai,Venue,2021,93000,2.0,gasoline,1.6,123.0,variable,15000.0
-Hyundai,I30,2009,10000,2.0,gasoline,1.6,126.0,automatic,260000.0
-Hyundai,Elantra,2007,4900,3.0,gasoline,1.6,107.0,automatic,173000.0
-Hyundai,Ioniq,2018,75000,2.0,hybrid,1.6,141.0,robotic,105000.0
-Hyundai,Ioniq,2017,65000,2.0,hybrid,1.6,141.0,robotic,134100.0
-Hyundai,I30,2013,25000,1.0,gasoline,1.6,135.0,automatic,165000.0
-Hyundai,I20,2022,96000,1.0,gasoline,1.0,100.0,robotic,33000.0
-Hyundai,Ioniq,2017,50000,3.0,hybrid,1.6,141.0,robotic,194500.0
-Hyundai,Accent,2020,50500,2.0,gasoline,1.4,100.0,automatic,133000.0
-Hyundai,Tucson,2015,58500,2.0,gasoline,2.0,155.0,robotic,105000.0
-Hyundai,I30,2010,14000,1.0,gasoline,1.6,126.0,automatic,197000.0
-Hyundai,Ioniq 5,2022,136000,2.0,electro,,,automatic,85000.0
-Hyundai,Ioniq,2020,95500,2.0,hybrid,1.6,141.0,robotic,120000.0
-Hyundai,I25,2014,33000,3.0,gasoline,1.4,100.0,automatic,113000.0
-Hyundai,Accent,2010,17000,2.0,gasoline,1.4,97.0,automatic,181000.0
-Hyundai,I10,2015,15900,3.0,gasoline,1.0,67.0,manual,168000.0
-Hyundai,Ioniq 5,2023,160000,1.0,electro,,,automatic,12500.0
-Hyundai,Ioniq,2018,51000,3.0,hybrid,1.6,141.0,robotic,220000.0
-Hyundai,I20,2012,20000,3.0,gasoline,1.4,100.0,automatic,217000.0
-Hyundai,Ix35,2015,46500,3.0,gasoline,2.0,154.0,automatic,124700.0
-Hyundai,Accent,2009,9000,4.0,gasoline,1.4,97.0,automatic,235000.0
-Hyundai,Ioniq,2018,65000,2.0,hybrid,1.6,141.0,robotic,146000.0
-Hyundai,I25,2012,19800,3.0,gasoline,1.4,109.0,automatic,223125.0
-Hyundai,I30,2012,30000,2.0,gasoline,1.6,135.0,automatic,170000.0
-Hyundai,Kona,2021,86000,2.0,gasoline,1.6,198.0,robotic,65000.0
-Hyundai,I30,2008,14500,3.0,gasoline,1.6,126.0,automatic,153000.0
-Hyundai,Sonata,2021,140000,1.0,hybrid,2.0,192.0,automatic,33000.0
-Hyundai,I20,2010,16500,4.0,gasoline,1.4,100.0,automatic,258000.0
-Hyundai,Getz,2008,10000,4.0,gasoline,1.4,97.0,manual,265000.0
-Hyundai,Tucson,2021,135000,1.0,gasoline,1.6,180.0,robotic,70000.0
-Hyundai,Ioniq,2019,70000,3.0,hybrid,1.6,141.0,robotic,112000.0
-Hyundai,Kona,2020,82000,2.0,hybrid,1.6,141.0,robotic,123000.0
-Hyundai,Ioniq,2021,89000,2.0,hybrid,1.6,141.0,robotic,71500.0
-Hyundai,Getz,2008,8000,2.0,gasoline,1.4,97.0,automatic,119000.0
-Hyundai,I10,2015,19000,4.0,gasoline,1.0,67.0,manual,160000.0
-Hyundai,Getz,2007,13400,2.0,gasoline,1.6,105.0,automatic,142000.0
-Hyundai,Ioniq,2019,72000,2.0,hybrid,1.6,141.0,robotic,93500.0
-Hyundai,Elantra,2022,128500,2.0,hybrid,1.6,139.0,robotic,34000.0
-Hyundai,Ioniq 5,2022,127000,2.0,electro,,,automatic,120000.0
-Hyundai,I30,2011,14500,3.0,gasoline,1.6,126.0,automatic,210000.0
-Hyundai,I20,2012,14000,3.0,gasoline,1.4,100.0,automatic,213000.0
-Hyundai,Ioniq,2020,77000,2.0,hybrid,1.6,141.0,robotic,159000.0
-Hyundai,Tucson,2022,180000,1.0,diesel,1.6,136.0,robotic,35000.0
-Hyundai,Venue,2021,93000,2.0,gasoline,1.6,123.0,variable,15000.0
-Hyundai,Ioniq,2018,65000,2.0,hybrid,1.6,141.0,robotic,146000.0
-Hyundai,I25,2012,19800,3.0,gasoline,1.4,109.0,automatic,223125.0
-Hyundai,I30,2012,30000,2.0,gasoline,1.6,135.0,automatic,170000.0
-Hyundai,Kona,2021,86000,2.0,gasoline,1.6,198.0,robotic,65000.0
-Hyundai,I30,2008,14500,3.0,gasoline,1.6,126.0,automatic,153000.0
-Hyundai,Sonata,2021,140000,1.0,hybrid,2.0,192.0,automatic,33000.0
-Hyundai,I20,2010,16500,4.0,gasoline,1.4,100.0,automatic,258000.0
-Hyundai,Santa Fe,2011,52000,2.0,diesel,2.2,197.0,automatic,245045.0
-Hyundai,I20,2022,91000,1.0,gasoline,1.0,100.0,robotic,24000.0
-Hyundai,I25,2016,30000,2.0,gasoline,1.6,124.0,automatic,200000.0
-Hyundai,I10,2016,30000,3.0,gasoline,1.0,67.0,automatic,180000.0
-Hyundai,I20,2019,64000,3.0,gasoline,1.0,100.0,robotic,95300.0
-Hyundai,Accent,2009,9500,4.0,gasoline,1.4,97.0,automatic,190000.0
-Hyundai,I30,2018,54900,2.0,gasoline,1.4,140.0,robotic,140000.0
-Hyundai,I30,2015,33000,3.0,gasoline,1.6,135.0,automatic,176000.0
-Hyundai,Ioniq,2020,115000,1.0,hybrid,1.6,141.0,robotic,88000.0
-Hyundai,Ioniq,2019,75000,2.0,hybrid,1.6,141.0,robotic,147000.0
-Hyundai,Getz,2008,10000,4.0,gasoline,1.4,97.0,manual,265000.0
-Hyundai,Tucson,2021,135000,1.0,gasoline,1.6,180.0,robotic,70000.0
-Hyundai,Ioniq,2019,70000,3.0,hybrid,1.6,141.0,robotic,112000.0
-Hyundai,Santa Fe,2011,52000,2.0,diesel,2.2,197.0,automatic,245045.0
-Hyundai,I20,2022,91000,1.0,gasoline,1.0,100.0,robotic,24000.0
-Hyundai,I25,2016,30000,2.0,gasoline,1.6,124.0,automatic,200000.0
-Hyundai,I10,2016,30000,3.0,gasoline,1.0,67.0,automatic,180000.0
-Hyundai,I20,2019,64000,3.0,gasoline,1.0,100.0,robotic,95300.0
-Hyundai,Accent,2009,9500,4.0,gasoline,1.4,97.0,automatic,190000.0
-Hyundai,I30,2018,54900,2.0,gasoline,1.4,140.0,robotic,140000.0
-Hyundai,I30,2015,33000,3.0,gasoline,1.6,135.0,automatic,176000.0
-Hyundai,Ioniq,2020,115000,1.0,hybrid,1.6,141.0,robotic,88000.0
-Hyundai,Ioniq,2019,75000,2.0,hybrid,1.6,141.0,robotic,147000.0
-Hyundai,Getz,2010,8000,1.0,gasoline,1.4,97.0,automatic,190000.0
-Hyundai,Tucson,2018,98000,2.0,gasoline,2.0,155.0,robotic,113000.0
-Hyundai,Elantra,2023,143200,1.0,hybrid,1.6,139.0,robotic,25000.0
-Hyundai,Tucson,2016,53000,3.0,gasoline,1.6,132.0,automatic,119500.0
-Hyundai,I800,2002,6500,4.0,diesel,2.5,101.0,manual,356679.0
-Hyundai,Getz,2006,6500,3.0,gasoline,1.3,82.0,automatic,281000.0
-Hyundai,Ioniq,2019,95000,2.0,hybrid,1.6,141.0,robotic,86000.0
-Hyundai,Ioniq,2018,65000,2.0,hybrid,1.6,141.0,robotic,146000.0
-Hyundai,I25,2012,19800,3.0,gasoline,1.4,109.0,automatic,223125.0
-Hyundai,I30,2012,30000,2.0,gasoline,1.6,135.0,automatic,170000.0
-Hyundai,Kona,2021,86000,2.0,gasoline,1.6,198.0,robotic,65000.0
-Hyundai,I30,2008,14500,3.0,gasoline,1.6,126.0,automatic,153000.0
-Hyundai,Sonata,2021,140000,1.0,hybrid,2.0,192.0,automatic,33000.0
-Hyundai,I20,2010,16500,4.0,gasoline,1.4,100.0,automatic,258000.0
-Hyundai,Santa Fe,2008,25000,4.0,gasoline,2.7,189.0,automatic,220000.0
-Hyundai,I20,2019,78000,1.0,gasoline,1.0,100.0,robotic,32000.0
-Hyundai,I35,2015,37750,3.0,gasoline,1.6,132.0,automatic,178000.0
-Hyundai,Santa Fe,2008,25000,4.0,gasoline,2.7,189.0,automatic,220000.0
-Hyundai,I20,2019,78000,1.0,gasoline,1.0,100.0,robotic,32000.0
-Hyundai,I35,2015,37750,3.0,gasoline,1.6,132.0,automatic,178000.0
-Hyundai,I30,2008,15000,3.0,gasoline,1.6,126.0,automatic,173187.0
-Hyundai,I800,2011,36000,3.0,diesel,2.5,136.0,manual,433000.0
-Hyundai,Sonata,2016,54000,2.0,hybrid,2.0,193.0,automatic,170000.0
-Hyundai,Tucson,2017,78000,2.0,gasoline,2.0,155.0,robotic,67000.0
-Hyundai,Galloper,1999,16000,4.0,diesel,2.5,105.0,automatic,290000.0
-Hyundai,I30,2010,19999,4.0,gasoline,1.6,126.0,automatic,210500.0
-Hyundai,I30,2013,18000,3.0,gasoline,1.6,135.0,automatic,230000.0
-Hyundai,I30,2013,22000,4.0,gasoline,1.6,135.0,automatic,210000.0
-Hyundai,Sonata,2022,137000,1.0,hybrid,2.0,192.0,automatic,85750.0
-Hyundai,I20,2012,26000,2.0,gasoline,1.4,100.0,automatic,113000.0
-Hyundai,I30,2014,30000,3.0,gasoline,1.6,135.0,automatic,311259.0
-Hyundai,Elantra,2017,50900,3.0,gasoline,1.6,128.0,automatic,113000.0
-Hyundai,Ioniq,2018,74000,2.0,hybrid,1.6,141.0,robotic,102000.0
-Hyundai,I30,2013,18000,2.0,gasoline,1.6,135.0,automatic,303000.0
-Hyundai,I10,2022,70000,2.0,gasoline,1.2,84.0,robotic,39000.0
-Hyundai,Kona Ev,2023,122000,1.0,electro,,,automatic,30000.0
-Hyundai,Tucson,2021,115000,2.0,gasoline,2.0,156.0,automatic,38000.0
-Hyundai,Santa Fe,2011,52000,2.0,diesel,2.2,197.0,automatic,245045.0
-Hyundai,I20,2022,91000,1.0,gasoline,1.0,100.0,robotic,24000.0
-Hyundai,I25,2016,30000,2.0,gasoline,1.6,124.0,automatic,200000.0
-Hyundai,I10,2016,30000,3.0,gasoline,1.0,67.0,automatic,180000.0
-Hyundai,I20,2019,64000,3.0,gasoline,1.0,100.0,robotic,95300.0
-Hyundai,Accent,2009,9500,4.0,gasoline,1.4,97.0,automatic,190000.0
-Hyundai,I30,2018,54900,2.0,gasoline,1.4,140.0,robotic,140000.0
-Hyundai,I30,2015,33000,3.0,gasoline,1.6,135.0,automatic,176000.0
-Hyundai,Ioniq,2020,115000,1.0,hybrid,1.6,141.0,robotic,88000.0
-Hyundai,Ioniq,2019,75000,2.0,hybrid,1.6,141.0,robotic,147000.0
-Hyundai,Ioniq 5,2022,190000,2.0,electro,,,automatic,88000.0
-Hyundai,Sonata,2020,143000,1.0,hybrid,2.0,192.0,automatic,74000.0
-Hyundai,I25,2018,45000,2.0,gasoline,1.4,100.0,automatic,140000.0
-Hyundai,Sonata,2019,85000,2.0,hybrid,2.0,193.0,automatic,177800.0
-Hyundai,I10,2016,33995,4.0,gasoline,1.0,67.0,automatic,90000.0
-Hyundai,I35,2014,35000,1.0,gasoline,1.6,132.0,automatic,190000.0
-Hyundai,I10,2018,47000,2.0,gasoline,1.2,87.0,automatic,48000.0
-Hyundai,Ioniq,2021,90000,1.0,hybrid,1.6,141.0,robotic,95000.0
-Hyundai,Tucson,2021,124000,3.0,gasoline,1.6,180.0,robotic,50000.0
-Hyundai,I10,2018,35000,2.0,gasoline,1.2,87.0,automatic,69198.0
-Hyundai,I30,2014,25000,3.0,gasoline,1.6,135.0,automatic,203000.0
-Hyundai,I10,2009,9000,3.0,gasoline,1.2,78.0,automatic,232000.0
-Hyundai,Ioniq,2020,92000,2.0,hybrid,1.6,141.0,robotic,150000.0
-Hyundai,Sonata,2018,73000,3.0,hybrid,2.0,193.0,automatic,160000.0
-Hyundai,Santa Fe,2012,42000,2.0,gasoline,2.4,174.0,automatic,159000.0
-Hyundai,Ioniq,2021,105000,4.0,hybrid,1.6,141.0,robotic,80200.0
-Hyundai,I10,2014,27000,4.0,gasoline,1.0,67.0,automatic,140000.0
-Hyundai,Ioniq,2019,70000,2.0,hybrid,1.6,141.0,robotic,144000.0
-Hyundai,Ioniq,2019,90000,1.0,hybrid,1.6,141.0,robotic,115000.0
-Hyundai,I25,2012,20000,3.0,gasoline,1.4,109.0,automatic,273000.0
-Hyundai,Getz,2010,8000,1.0,gasoline,1.4,97.0,automatic,190000.0
-Hyundai,Tucson,2018,98000,2.0,gasoline,2.0,155.0,robotic,113000.0
-Hyundai,Elantra,2023,143200,1.0,hybrid,1.6,139.0,robotic,25000.0
-Hyundai,Tucson,2016,53000,3.0,gasoline,1.6,132.0,automatic,119500.0
-Hyundai,I800,2002,6500,4.0,diesel,2.5,101.0,manual,356679.0
-Hyundai,Getz,2006,6500,3.0,gasoline,1.3,82.0,automatic,281000.0
-Hyundai,Ioniq,2019,95000,2.0,hybrid,1.6,141.0,robotic,86000.0
-Hyundai,Santa Fe,2008,25000,4.0,gasoline,2.7,189.0,automatic,220000.0
-Hyundai,I20,2019,78000,1.0,gasoline,1.0,100.0,robotic,32000.0
-Hyundai,I35,2015,37750,3.0,gasoline,1.6,132.0,automatic,178000.0
-Hyundai,Tucson,2017,82500,3.0,gasoline,2.0,155.0,robotic,187000.0
-Hyundai,I35,2013,26500,3.0,gasoline,1.6,132.0,automatic,238000.0
-Hyundai,I35,2015,45000,1.0,gasoline,1.6,132.0,automatic,108600.0
-Hyundai,Sonata,2022,155000,1.0,hybrid,2.0,192.0,automatic,66000.0
-Hyundai,Tucson,2016,82000,3.0,gasoline,2.0,155.0,robotic,122255.0
-Hyundai,I30,2010,14800,3.0,gasoline,1.6,126.0,automatic,290000.0
-Hyundai,Kona Ev,2022,114000,1.0,electro,,,automatic,56000.0
-Hyundai,Tucson,2017,74000,2.0,gasoline,2.0,155.0,automatic,112000.0
-Hyundai,I25,2013,23000,3.0,gasoline,1.4,109.0,automatic,247000.0
-Hyundai,Elantra,2004,6000,3.0,gasoline,1.6,107.0,automatic,184000.0
-Hyundai,I20,2012,21000,2.0,gasoline,1.4,100.0,automatic,135000.0
-Hyundai,I10,2020,68000,1.0,gasoline,1.2,84.0,robotic,38000.0
-Hyundai,Santa Fe,2013,60000,3.0,diesel,2.2,197.0,automatic,185000.0
-Hyundai,Veloster,2011,24950,3.0,gasoline,1.6,140.0,robotic,182000.0
-Hyundai,Sonata,2016,70000,3.0,hybrid,2.0,193.0,automatic,220221.0
-Hyundai,Ix35,2011,35000,3.0,gasoline,2.0,163.0,automatic,165000.0
-Hyundai,I25,2016,30000,2.0,gasoline,1.4,100.0,automatic,238000.0
-Hyundai,I30,2016,42000,1.0,gasoline,1.6,135.0,automatic,171000.0
-Hyundai,Tucson,2016,75000,2.0,gasoline,2.0,155.0,robotic,121000.0
-Hyundai,Tucson,2016,69000,1.0,gasoline,2.0,155.0,robotic,189000.0
-Hyundai,I30,2008,15000,3.0,gasoline,1.6,126.0,automatic,173187.0
-Hyundai,I800,2011,36000,3.0,diesel,2.5,136.0,manual,433000.0
-Hyundai,Sonata,2016,54000,2.0,hybrid,2.0,193.0,automatic,170000.0
-Hyundai,Tucson,2017,78000,2.0,gasoline,2.0,155.0,robotic,67000.0
-Hyundai,Galloper,1999,16000,4.0,diesel,2.5,105.0,automatic,290000.0
-Hyundai,I30,2010,19999,4.0,gasoline,1.6,126.0,automatic,210500.0
-Hyundai,I30,2013,18000,3.0,gasoline,1.6,135.0,automatic,230000.0
-Hyundai,I30,2013,22000,4.0,gasoline,1.6,135.0,automatic,210000.0
-Hyundai,Sonata,2022,137000,1.0,hybrid,2.0,192.0,automatic,85750.0
-Hyundai,I20,2012,26000,2.0,gasoline,1.4,100.0,automatic,113000.0
-Hyundai,I10,2015,37500,2.0,gasoline,1.0,67.0,automatic,128000.0
-Hyundai,I25,2011,17000,2.0,gasoline,1.6,124.0,automatic,201000.0
-Hyundai,I25,2012,29000,4.0,gasoline,1.6,124.0,automatic,180000.0
-Hyundai,Elantra,2022,122000,1.0,hybrid,1.6,139.0,robotic,46000.0
-Hyundai,Accent,2008,8500,1.0,gasoline,1.6,112.0,automatic,270000.0
-Hyundai,I20,2010,16000,3.0,gasoline,1.4,100.0,automatic,197000.0
-Hyundai,I10,2021,61000,1.0,gasoline,1.2,84.0,robotic,70000.0
-Hyundai,I10,2015,24150,4.0,gasoline,1.0,67.0,automatic,209727.0
-Hyundai,Tucson,2022,137000,1.0,gasoline,1.6,180.0,robotic,53000.0
-Hyundai,H350,2018,75000,2.0,diesel,2.5,170.0,manual,264876.0
-Hyundai,Veloster,2015,40000,2.0,gasoline,1.6,140.0,robotic,91000.0
-Hyundai,I30,2011,16500,3.0,gasoline,1.6,126.0,automatic,235000.0
-Hyundai,Ioniq,2019,78000,1.0,hybrid,1.6,141.0,robotic,146000.0
-Hyundai,I30,2009,11000,4.0,gasoline,1.6,126.0,automatic,212000.0
-Hyundai,I35,2013,23000,2.0,gasoline,1.6,132.0,automatic,300000.0
-Hyundai,Tucson,2016,65000,3.0,gasoline,2.0,155.0,robotic,113000.0
-Hyundai,I10,2021,67000,1.0,gasoline,1.2,84.0,robotic,30032.0
-Hyundai,Santa Fe,2015,80000,3.0,gasoline,2.4,192.0,automatic,79000.0
-Hyundai,Bayon,2023,120000,2.0,gasoline,1.0,120.0,robotic,10600.0
-Hyundai,Getz,2008,7499,3.0,gasoline,1.4,97.0,automatic,243000.0
-Hyundai,I30,2014,30000,3.0,gasoline,1.6,135.0,automatic,311259.0
-Hyundai,Elantra,2017,50900,3.0,gasoline,1.6,128.0,automatic,113000.0
-Hyundai,Ioniq,2018,74000,2.0,hybrid,1.6,141.0,robotic,102000.0
-Hyundai,I30,2013,18000,2.0,gasoline,1.6,135.0,automatic,303000.0
-Hyundai,I10,2022,70000,2.0,gasoline,1.2,84.0,robotic,39000.0
-Hyundai,Kona Ev,2023,122000,1.0,electro,,,automatic,30000.0
-Hyundai,Tucson,2021,115000,2.0,gasoline,2.0,156.0,automatic,38000.0
-Hyundai,Ioniq 5,2022,190000,2.0,electro,,,automatic,88000.0
-Hyundai,Sonata,2020,143000,1.0,hybrid,2.0,192.0,automatic,74000.0
-Hyundai,I25,2018,45000,2.0,gasoline,1.4,100.0,automatic,140000.0
-Hyundai,Tucson,2016,63000,1.0,gasoline,2.0,155.0,robotic,138000.0
-Hyundai,I10,2018,40000,2.0,gasoline,1.2,87.0,automatic,173000.0
-Hyundai,Kona Ev,2022,116000,1.0,electro,,,automatic,52000.0
-Hyundai,Tucson,2020,110000,3.0,gasoline,2.0,155.0,automatic,75000.0
-Hyundai,Elantra,2022,124000,1.0,hybrid,1.6,139.0,robotic,59000.0
-Hyundai,I10,2020,63000,1.0,gasoline,1.2,84.0,robotic,58000.0
-Hyundai,I30,2008,15000,4.0,gasoline,1.6,126.0,automatic,183000.0
-Hyundai,Ioniq,2017,65000,1.0,hybrid,1.6,141.0,robotic,149000.0
-Hyundai,I25,2016,30000,2.0,gasoline,1.4,100.0,automatic,210000.0
-Hyundai,Ioniq,2020,82000,1.0,hybrid,1.6,141.0,robotic,151000.0
-Hyundai,Tucson,2018,87000,3.0,gasoline,2.0,155.0,automatic,85000.0
-Hyundai,Santa Fe,2015,78999,3.0,gasoline,2.4,192.0,automatic,105000.0
-Hyundai,I35,2013,25500,4.0,gasoline,1.6,132.0,automatic,236500.0
-Hyundai,Ioniq,2020,115000,2.0,hybrid,1.6,141.0,robotic,62000.0
-Hyundai,Sonata,2006,6000,4.0,gasoline,2.4,161.0,automatic,266000.0
-Hyundai,Ioniq,2019,77000,1.0,hybrid,1.6,141.0,robotic,108000.0
-Hyundai,I20,2015,30000,3.0,gasoline,1.4,100.0,automatic,192000.0
-Hyundai,I20,2021,65000,3.0,gasoline,1.0,100.0,robotic,73300.0
-Hyundai,Tucson,2018,93000,2.0,gasoline,1.6,177.0,robotic,103000.0
-Hyundai,Ioniq,2017,70000,2.0,hybrid,1.6,141.0,robotic,145000.0
-Hyundai,Sonata,2019,85000,2.0,hybrid,2.0,193.0,automatic,177800.0
-Hyundai,I10,2016,33995,4.0,gasoline,1.0,67.0,automatic,90000.0
-Hyundai,I35,2014,35000,1.0,gasoline,1.6,132.0,automatic,190000.0
-Hyundai,I10,2018,47000,2.0,gasoline,1.2,87.0,automatic,48000.0
-Hyundai,Ioniq,2021,90000,1.0,hybrid,1.6,141.0,robotic,95000.0
-Hyundai,Tucson,2021,124000,3.0,gasoline,1.6,180.0,robotic,50000.0
-Hyundai,I10,2018,35000,2.0,gasoline,1.2,87.0,automatic,69198.0
-Hyundai,I30,2014,25000,3.0,gasoline,1.6,135.0,automatic,203000.0
-Hyundai,I10,2009,9000,3.0,gasoline,1.2,78.0,automatic,232000.0
-Hyundai,Ioniq,2020,92000,2.0,hybrid,1.6,141.0,robotic,150000.0
-Hyundai,Sonata,2017,78000,3.0,hybrid,2.0,193.0,automatic,144000.0
-Hyundai,I20,2010,9000,4.0,gasoline,1.4,100.0,automatic,240000.0
-Hyundai,Ioniq,2019,79000,2.0,hybrid,1.6,141.0,robotic,179000.0
-Hyundai,I25,2013,31999,1.0,gasoline,1.6,124.0,automatic,179000.0
-Hyundai,I20,2014,13000,4.0,gasoline,1.2,85.0,manual,160000.0
-Hyundai,I10,2009,13500,4.0,gasoline,1.2,78.0,automatic,170000.0
-Hyundai,I20,2022,97000,2.0,gasoline,1.0,100.0,robotic,15000.0
-Hyundai,Santa Fe,2008,25000,3.0,gasoline,2.7,189.0,automatic,242000.0
-Hyundai,Ioniq 5,2024,152000,1.0,electro,,,automatic,80000.0
-Hyundai,I30,2008,12000,4.0,gasoline,1.6,126.0,automatic,250123.0
-Hyundai,Getz,2004,4800,4.0,gasoline,1.3,82.0,automatic,230000.0
-Hyundai,Ioniq,2019,80000,2.0,hybrid,1.6,141.0,robotic,129000.0
-Hyundai,I30,2010,11000,2.0,gasoline,1.6,126.0,automatic,322900.0
-Hyundai,Tucson,2018,71000,3.0,gasoline,2.0,155.0,robotic,118000.0
-Hyundai,Ioniq,2019,78000,2.0,hybrid,1.6,141.0,robotic,157000.0
-Hyundai,I30,2010,22000,3.0,gasoline,1.6,126.0,automatic,200000.0
-Hyundai,I25,2013,21000,4.0,gasoline,1.4,109.0,automatic,209000.0
-Hyundai,Elantra,2022,165000,2.0,gasoline,1.6,201.0,robotic,53000.0
-Hyundai,Tucson,2016,68000,1.0,gasoline,1.6,132.0,automatic,120000.0
-Hyundai,I25,2015,31500,4.0,gasoline,1.6,124.0,automatic,177000.0
-Hyundai,Sonata,2018,73000,3.0,hybrid,2.0,193.0,automatic,160000.0
-Hyundai,Santa Fe,2012,42000,2.0,gasoline,2.4,174.0,automatic,159000.0
-Hyundai,Ioniq,2021,105000,4.0,hybrid,1.6,141.0,robotic,80200.0
-Hyundai,I10,2014,27000,4.0,gasoline,1.0,67.0,automatic,140000.0
-Hyundai,Ioniq,2019,70000,2.0,hybrid,1.6,141.0,robotic,144000.0
-Hyundai,Ioniq,2019,90000,1.0,hybrid,1.6,141.0,robotic,115000.0
-Hyundai,I25,2012,20000,3.0,gasoline,1.4,109.0,automatic,273000.0
-Hyundai,Tucson,2017,82500,3.0,gasoline,2.0,155.0,robotic,187000.0
-Hyundai,I35,2013,26500,3.0,gasoline,1.6,132.0,automatic,238000.0
-Hyundai,I35,2015,45000,1.0,gasoline,1.6,132.0,automatic,108600.0
-Hyundai,I10,2021,60000,1.0,gasoline,1.2,84.0,robotic,70000.0
-Hyundai,Tucson,2023,159000,1.0,gasoline,1.6,180.0,robotic,11700.0
-Hyundai,I25,2016,35400,3.0,gasoline,1.6,124.0,automatic,200000.0
-Hyundai,Tucson,2008,16500,2.0,gasoline,2.7,175.0,automatic,185000.0
-Hyundai,I30,2010,13000,4.0,gasoline,1.6,126.0,automatic,280000.0
-Hyundai,Sonata,2017,85000,3.0,hybrid,2.0,193.0,automatic,125000.0
-Hyundai,Tucson,2019,100000,2.0,gasoline,1.6,177.0,robotic,130000.0
-Hyundai,I30,2012,26000,2.0,gasoline,1.6,135.0,automatic,217000.0
-Hyundai,Ioniq,2018,85000,2.0,hybrid,1.6,141.0,robotic,96000.0
-Hyundai,Accent,2020,67000,1.0,gasoline,1.4,123.0,automatic,81000.0
-Hyundai,Sonata,2018,85000,2.0,hybrid,2.0,193.0,automatic,200000.0
-Hyundai,Tucson,2018,95000,2.0,gasoline,1.6,177.0,robotic,95000.0
-Hyundai,Tucson,2019,92000,2.0,gasoline,2.0,155.0,automatic,31500.0
-Hyundai,Ioniq,2022,105000,2.0,hybrid,1.6,141.0,robotic,66000.0
-Hyundai,I20,2020,73000,1.0,gasoline,1.0,100.0,robotic,80000.0
-Hyundai,Bayon,2023,113000,1.0,gasoline,1.0,100.0,robotic,19000.0
-Hyundai,I25,2011,24000,3.0,gasoline,1.6,124.0,automatic,160000.0
-Hyundai,Sonata,2016,79500,2.0,hybrid,2.0,193.0,automatic,68900.0
-Hyundai,Ix35,2012,41000,2.0,gasoline,2.0,163.0,automatic,211000.0
-Hyundai,Venue,2021,80000,2.0,gasoline,1.6,123.0,variable,63000.0
-Hyundai,Sonata,2022,155000,1.0,hybrid,2.0,192.0,automatic,66000.0
-Hyundai,Tucson,2016,82000,3.0,gasoline,2.0,155.0,robotic,122255.0
-Hyundai,I30,2010,14800,3.0,gasoline,1.6,126.0,automatic,290000.0
-Hyundai,Kona Ev,2022,114000,1.0,electro,,,automatic,56000.0
-Hyundai,Tucson,2017,74000,2.0,gasoline,2.0,155.0,automatic,112000.0
-Hyundai,I25,2013,23000,3.0,gasoline,1.4,109.0,automatic,247000.0
-Hyundai,Elantra,2004,6000,3.0,gasoline,1.6,107.0,automatic,184000.0
-Hyundai,I20,2012,21000,2.0,gasoline,1.4,100.0,automatic,135000.0
-Hyundai,I10,2020,68000,1.0,gasoline,1.2,84.0,robotic,38000.0
-Hyundai,Santa Fe,2013,60000,3.0,diesel,2.2,197.0,automatic,185000.0
-Hyundai,I10,2018,42000,2.0,gasoline,1.2,87.0,automatic,100000.0
-Hyundai,I20,2010,19000,4.0,gasoline,1.4,100.0,automatic,152135.0
-Hyundai,Getz,2009,7000,3.0,gasoline,1.4,97.0,automatic,180000.0
-Hyundai,I25,2018,50000,2.0,gasoline,1.4,100.0,automatic,150000.0
-Hyundai,I10,2018,55400,2.0,gasoline,1.2,87.0,automatic,57000.0
-Hyundai,I30,2010,10500,4.0,gasoline,1.6,126.0,automatic,260000.0
-Hyundai,Ix35,2012,47000,3.0,gasoline,2.0,163.0,automatic,177000.0
-Hyundai,Santa Fe,2011,37000,4.0,gasoline,2.4,174.0,automatic,223000.0
-Hyundai,I10,2018,45000,2.0,gasoline,1.2,87.0,automatic,129800.0
-Hyundai,I10,2016,32000,4.0,gasoline,1.2,87.0,automatic,114000.0
-Hyundai,I10,2017,30000,2.0,gasoline,1.0,66.0,automatic,112000.0
-Hyundai,Ioniq,2018,75000,2.0,hybrid,1.6,141.0,robotic,124000.0
-Hyundai,Ioniq,2019,78000,1.0,hybrid,1.6,141.0,robotic,123000.0
-Hyundai,Ioniq,2020,100000,3.0,hybrid,1.6,141.0,robotic,100000.0
-Hyundai,Tucson,2016,58000,1.0,gasoline,1.6,132.0,automatic,185000.0
-Hyundai,I30,2013,29600,3.0,gasoline,1.6,135.0,automatic,141000.0
-Hyundai,I30,2010,15500,3.0,gasoline,1.6,126.0,automatic,250000.0
-Hyundai,Tucson,2020,120000,2.0,gasoline,2.0,155.0,automatic,16000.0
-Hyundai,Ioniq,2019,82000,2.0,hybrid,1.6,141.0,robotic,125000.0
-Hyundai,I20,2014,20500,2.0,gasoline,1.4,100.0,automatic,199427.0
-Hyundai,Veloster,2011,24950,3.0,gasoline,1.6,140.0,robotic,182000.0
-Hyundai,Sonata,2016,70000,3.0,hybrid,2.0,193.0,automatic,220221.0
-Hyundai,Ix35,2011,35000,3.0,gasoline,2.0,163.0,automatic,165000.0
-Hyundai,I25,2016,30000,2.0,gasoline,1.4,100.0,automatic,238000.0
-Hyundai,I30,2016,42000,1.0,gasoline,1.6,135.0,automatic,171000.0
-Hyundai,Tucson,2016,75000,2.0,gasoline,2.0,155.0,robotic,121000.0
-Hyundai,Tucson,2016,69000,1.0,gasoline,2.0,155.0,robotic,189000.0
-Hyundai,I10,2015,37500,2.0,gasoline,1.0,67.0,automatic,128000.0
-Hyundai,I25,2011,17000,2.0,gasoline,1.6,124.0,automatic,201000.0
-Hyundai,I25,2012,29000,4.0,gasoline,1.6,124.0,automatic,180000.0
-Hyundai,Palisade,2022,235000,1.0,gasoline,3.8,291.0,automatic,33000.0
-Hyundai,Ioniq,2020,113000,1.0,hybrid,1.6,141.0,robotic,130000.0
-Hyundai,I10,2017,38000,3.0,gasoline,1.2,87.0,automatic,117000.0
-Hyundai,Ioniq,2017,56000,3.0,hybrid,1.6,141.0,robotic,192000.0
-Hyundai,Sonata,2020,136000,1.0,hybrid,2.0,192.0,automatic,83000.0
-Hyundai,I800,2018,117000,1.0,diesel,2.5,170.0,automatic,90400.0
-Hyundai,Ioniq,2018,69000,2.0,hybrid,1.6,141.0,robotic,159000.0
-Hyundai,Tucson,2019,90400,2.0,gasoline,2.0,155.0,automatic,102000.0
-Hyundai,Ioniq,2019,78000,2.0,hybrid,1.6,141.0,robotic,140000.0
-Hyundai,I20,2011,15000,3.0,gasoline,1.4,100.0,automatic,186000.0
-Hyundai,Accent,2008,5500,3.0,gasoline,1.4,97.0,automatic,245000.0
-Hyundai,Accent,2019,58000,2.0,gasoline,1.4,123.0,automatic,149000.0
-Hyundai,Tucson,2019,95000,3.0,gasoline,2.0,155.0,automatic,53000.0
-Hyundai,Santa Fe,2009,39000,2.0,gasoline,2.7,189.0,automatic,150000.0
-Hyundai,Tucson,2005,9500,4.0,gasoline,2.7,175.0,automatic,171000.0
-Hyundai,I20,2011,21000,3.0,gasoline,1.4,100.0,automatic,180000.0
-Hyundai,Getz,2005,7000,3.0,gasoline,1.3,82.0,automatic,161000.0
-Hyundai,Sonata,2018,62000,3.0,hybrid,2.0,193.0,automatic,194000.0
-Hyundai,Tucson,2016,72000,2.0,gasoline,2.0,155.0,robotic,98025.0
-Hyundai,Ioniq,2017,66000,3.0,hybrid,1.6,141.0,robotic,151000.0
-Hyundai,Elantra,2022,122000,1.0,hybrid,1.6,139.0,robotic,46000.0
-Hyundai,Accent,2008,8500,1.0,gasoline,1.6,112.0,automatic,270000.0
-Hyundai,I20,2010,16000,3.0,gasoline,1.4,100.0,automatic,197000.0
-Hyundai,I10,2021,61000,1.0,gasoline,1.2,84.0,robotic,70000.0
-Hyundai,I10,2015,24150,4.0,gasoline,1.0,67.0,automatic,209727.0
-Hyundai,Tucson,2022,137000,1.0,gasoline,1.6,180.0,robotic,53000.0
-Hyundai,H350,2018,75000,2.0,diesel,2.5,170.0,manual,264876.0
-Hyundai,Veloster,2015,40000,2.0,gasoline,1.6,140.0,robotic,91000.0
-Hyundai,I30,2011,16500,3.0,gasoline,1.6,126.0,automatic,235000.0
-Hyundai,Ioniq,2019,78000,1.0,hybrid,1.6,141.0,robotic,146000.0
+manufacturer,model,submodel,year,hand,mileage,engine_liters,horsepower,fuel,transmission,drive_type,body_color,price
+Hyundai,I30,Inspire,2017,1,82000,1.4,100,Gasoline,Manual,FWD,White,38500
+Hyundai,I20,Inspire,2012,3,143000,1.4,100,Gasoline,Automatic,FWD,Silver,22800
+Hyundai,I10,Open Sky,2019,2,50000,1.2,84,Gasoline,Robotic,FWD,Red,46900
+Hyundai,I25,Inspire,2018,2,175025,1.4,100,Gasoline,Automatic,FWD,Silver,35800
+Hyundai,I10,Prime,2020,2,59000,1.2,84,Gasoline,Robotic,FWD,Black,55800
+Hyundai,I20,Prestige,2019,1,44000,1.0,100,Gasoline,Robotic,FWD,Blue,55900
+Hyundai,Accent,GL,2011,3,236000,1.4,97,Gasoline,Automatic,FWD,Silver,11800
+Hyundai,Tucson,Prime Plus,2018,2,198000,2.0,155,Gasoline,Robotic,FWD,Black,57000
+Hyundai,Elantra,Supreme,2022,1,30000,1.6,139,Hybrid,Robotic,FWD,Black,123900
+Hyundai,Tucson,Luxury,2019,1,200000,1.6,177,Gasoline,Robotic,FWD,Grey,79000
+Hyundai,Accent,Inspire,2022,1,120000,1.6,123,Gasoline,Automatic,FWD,White,62800
+Hyundai,Tucson,Prime Plus,2019,2,139000,2.0,155,Gasoline,Automatic,FWD,Grey,73900
+Hyundai,Accent,Inspire,2021,1,135000,1.4,100,Gasoline,Automatic,FWD,Silver,61900
+Hyundai,I35,Supreme,2013,3,128000,1.6,132,Gasoline,Automatic,FWD,Silver,36900
+Hyundai,I35,Inspire,2012,3,166000,1.6,132,Gasoline,Automatic,FWD,Black,25800
+Hyundai,I20,Inspire,2011,2,143000,1.4,100,Gasoline,Automatic,FWD,White,22800
+Hyundai,I20,Instyle,2012,2,173000,1.4,100,Gasoline,Automatic,FWD,Beige,20800
+Hyundai,Elantra,Premium,2023,1,125000,1.6,139,Hybrid,Robotic,FWD,White,109000
+Hyundai,I10,Prime,2022,1,49000,1.2,84,Gasoline,Robotic,FWD,Blue,59900
+Hyundai,I20,Insight,2014,2,142000,1.4,100,Gasoline,Automatic,FWD,Silver,26500
+Hyundai,I20,Prime,2019,3,190000,1.0,100,Gasoline,Robotic,FWD,White,60000
+Hyundai,Tucson,Panoramic,2019,3,52000,2.0,155,Gasoline,Automatic,FWD,White,92000
+Hyundai,I30,Inspire SW,2012,2,200000,1.6,126,Gasoline,Automatic,FWD,White,10000
+Hyundai,Ix35,Open Sky,2015,4,135000,2.0,154,Gasoline,Automatic,FWD,White,40000
+Hyundai,Accent,Inspire,2021,1,64000,1.6,123,Gasoline,Automatic,FWD,Black,60000
+Hyundai,Santa Fe,Luxury,2007,3,170000,2.7,189,Gasoline,Automatic,AWD,Black,25000
+Hyundai,Veloster,Supreme,2013,4,129100,1.6,140,Gasoline,Robotic,FWD,Yellow,22500
+Hyundai,Bayon,Supreme,2023,1,30000,1.0,120,Gasoline,Robotic,FWD,White,115000
+Hyundai,Bayon,Prime Plus,2022,2,49450,1.0,100,Gasoline,Robotic,FWD,White,88500
+Hyundai,Tucson,Open Sky,2017,1,68000,2.0,155,Gasoline,Robotic,FWD,White,72000
+Hyundai,Ioniq,Premium,2021,2,108000,1.6,141,Hybrid,Robotic,FWD,Silver,85800
+Hyundai,Accent,Inspire 1.6,2020,3,109000,1.4,123,Gasoline,Automatic,FWD,Silver,55900
+Hyundai,I20,Inspire,2011,4,173000,1.4,100,Gasoline,Automatic,FWD,White,15800
+Hyundai,I20,Inspire,2011,2,143000,1.4,100,Gasoline,Automatic,FWD,White,22800
+Hyundai,Venue,Inspire,2025,1,21000,1.6,123,Gasoline,Variable,FWD,White,99000
+Hyundai,Accent,Inspire,2023,1,54000,1.6,123,Gasoline,Automatic,FWD,White,79000
+Hyundai,I20,Inspire,2012,3,143000,1.4,100,Gasoline,Automatic,FWD,Silver,22800
+Hyundai,I20,Prime Plus,2023,1,85000,1.0,100,Gasoline,Robotic,FWD,Silver,82999
+Hyundai,I10,Prime,2022,1,49000,1.2,84,Gasoline,Robotic,FWD,Blue,59900
+Hyundai,Tucson,Luxury,2018,1,75000,1.6,177,Gasoline,Robotic,FWD,Grey,82000
+Hyundai,Accent,Inspire,2021,1,135000,1.4,100,Gasoline,Automatic,FWD,Silver,61900
+Hyundai,I35,Inspire,2015,2,117000,1.6,132,Gasoline,Automatic,FWD,White,38800
+Hyundai,I10,Insight,2014,2,162000,1.0,67,Gasoline,Automatic,FWD,Grey,23900
+Hyundai,I10,Prime,2018,2,97934,1.2,87,Gasoline,Automatic,FWD,Grey,39800
+Hyundai,I20,Prime,2023,1,45000,1.0,100,Gasoline,Robotic,FWD,White,84900
+Hyundai,Sonata,Premium,2018,3,195000,2.0,193,Hybrid,Automatic,FWD,Silver,49500
+Hyundai,Kona,Premium,2025,1,40000,1.6,139,Hybrid,Robotic,FWD,White,142000
+Hyundai,Tucson,Luxury,2019,1,200000,1.6,177,Gasoline,Robotic,FWD,Grey,79000
+Hyundai,Elantra,Premium,2023,1,125000,1.6,139,Hybrid,Robotic,FWD,White,109000
+Hyundai,Kona,Prestige,2024,1,17000,1.6,139,Hybrid,Robotic,FWD,Grey,144900
+Hyundai,I25,Inspire,2015,3,180000,1.6,124,Gasoline,Automatic,FWD,Black,26500
+Hyundai,Sonata,Limited,2023,1,48800,2.0,192,Hybrid,Automatic,FWD,Grey,160000
+Hyundai,Ioniq,Premium,2018,2,169000,1.6,141,Hybrid,Robotic,FWD,White,65000
+Hyundai,I20,Insight,2012,3,195300,1.2,85,Gasoline,Manual,FWD,Bronze,13500
+Hyundai,I20,Prime,2019,3,144500,1.0,100,Gasoline,Robotic,FWD,White,51000
+Hyundai,Ix35,Elite,2011,2,179000,2.4,177,Gasoline,Automatic,AWD,Black,33500
+Hyundai,Accent,GLS,2007,3,103000,1.6,112,Gasoline,Automatic,FWD,Beige,10000
+Hyundai,I10,Insight,2015,2,180000,1.0,67,Gasoline,Manual,FWD,Black,17000
+Hyundai,I30,Inspire SW 1.6,2013,3,220000,1.6,135,Gasoline,Automatic,FWD,Grey,16500
+Hyundai,I30,Inspire,2009,3,203419,1.6,126,Gasoline,Automatic,FWD,White,14000
+Hyundai,I10,Insight,2015,4,116000,1.0,67,Gasoline,Automatic,FWD,Black,27800
+Hyundai,I10,Open Sky,2019,2,88000,1.2,84,Gasoline,Robotic,FWD,Blue,42900
+Hyundai,Tucson,Premium,2017,1,147000,2.0,155,Gasoline,Robotic,FWD,White,69900
+Hyundai,Accent,Inspire,2022,1,120000,1.6,123,Gasoline,Automatic,FWD,White,62800
+Hyundai,I20,Prime,2020,2,75000,1.0,100,Gasoline,Robotic,FWD,Silver,65900
+Hyundai,Tucson,Arizona,2008,4,175000,2.7,175,Gasoline,Automatic,AWD,Black,17999
+Hyundai,I30,Inspire,2013,3,173000,1.6,135,Gasoline,Automatic,FWD,Blue,25800
+Hyundai,I10,Prime,2020,2,59000,1.2,84,Gasoline,Robotic,FWD,Black,55800
+Hyundai,I25,Inspire,2018,2,175025,1.4,100,Gasoline,Automatic,FWD,Silver,35800
+Hyundai,Ioniq,Premium,2021,2,97000,1.6,141,Hybrid,Robotic,FWD,White,94900
+Hyundai,Tucson,,2020,1,98000,1.6,177,Gasoline,Robotic,FWD,Light Grey,99900
+Hyundai,Tucson,Panoramic,2022,2,68000,1.6,180,Gasoline,Robotic,FWD,White,110000
+Hyundai,I20,Instyle,2012,2,173000,1.4,100,Gasoline,Automatic,FWD,Beige,20800
+Hyundai,Ioniq,Premium,2020,2,114000,1.6,141,Hybrid,Robotic,FWD,Black,83999
+Hyundai,I20,Prime,2019,3,190000,1.0,100,Gasoline,Robotic,FWD,White,60000
+Hyundai,Tucson,Elite,2023,2,58579,1.6,180,Gasoline,Robotic,FWD,White,148690
+Hyundai,Tucson,Luxury,2023,1,35552,1.6,180,Gasoline,Robotic,FWD,Grey,151135
+Hyundai,Tucson,Elite,2023,2,46888,1.6,180,Gasoline,Robotic,FWD,Black,144995
+Hyundai,Tucson,Prestige,2023,1,100000,1.6,180,Gasoline,Robotic,FWD,Black,122740
+Hyundai,Tucson,Panoramic,2022,2,97333,1.6,180,Gasoline,Robotic,FWD,White,110330
+Hyundai,I20,GLI,2010,3,222000,1.4,100,Gasoline,Automatic,FWD,Silver,11000
+Hyundai,Elantra,GLS,2007,4,178597,2.0,143,Gasoline,Automatic,FWD,Blue,11000
+Hyundai,Tucson,Premium,2022,3,93000,2.0,156,Gasoline,Automatic,FWD,White,99000
+Hyundai,Elantra,Premium,2024,1,37000,1.6,139,Hybrid,Robotic,FWD,Silver,130000
+Hyundai,I20,Intense,2020,2,127000,1.0,100,Gasoline,Robotic,FWD,Silver,57500
+Hyundai,I20,Inspire,2016,2,107000,1.4,100,Gasoline,Automatic,FWD,White,50000
+Hyundai,I10,Prime,2021,2,90000,1.2,84,Gasoline,Robotic,FWD,White,58000
+Hyundai,Ioniq,Premium,2018,2,178000,1.6,141,Hybrid,Robotic,FWD,White,56000
+Hyundai,I30,Inspire SW 1.6,2015,2,196000,1.6,135,Gasoline,Automatic,FWD,"Silver
+                                            
+                                                metallic",23000
+Hyundai,Sonata,Premium,2021,3,118700,2.0,192,Hybrid,Automatic,FWD,Black,101000
+Hyundai,Tucson,Premium,2022,2,89500,2.0,156,Gasoline,Automatic,FWD,Silver,111704
+Hyundai,Tucson,Elite,2022,2,54723,1.6,180,Gasoline,Robotic,FWD,Grey,136335
+Hyundai,Tucson,Luxury,2022,2,36952,1.6,180,Gasoline,Robotic,FWD,Bronze,140485
+Hyundai,Tucson,Elite,2022,1,90000,1.6,180,Gasoline,Robotic,FWD,Black,132365
+Hyundai,Tucson,Luxury,2022,1,65222,1.6,180,Gasoline,Robotic,FWD,White,134960
+Hyundai,Tucson,Luxury,2022,1,62350,1.6,180,Gasoline,Robotic,FWD,Grey,136530
+Hyundai,Tucson,Elite,2022,1,58000,1.6,180,Gasoline,Robotic,FWD,White,143175
+Hyundai,Tucson,Prestige,2022,1,56616,1.6,180,Gasoline,Robotic,FWD,Grey,129960
+Hyundai,Tucson,Panoramic,2022,1,48930,1.6,180,Gasoline,Robotic,FWD,Black,130827
+Hyundai,Tucson,Luxury,2022,1,47482,1.6,180,Gasoline,Robotic,FWD,Grey,138134
+Hyundai,Tucson,Elite,2022,1,33500,1.6,180,Gasoline,Robotic,FWD,Black,145400
+Hyundai,Tucson,Luxury,2021,2,95973,1.6,180,Gasoline,Robotic,FWD,Black,124675
+Hyundai,Tucson,Elite,2021,2,51052,1.6,180,Gasoline,Robotic,FWD,Grey,132875
+Hyundai,Tucson,Luxury,2021,1,68115,1.6,180,Gasoline,Robotic,FWD,White,129685
+Hyundai,Tucson,Prestige,2021,1,66226,1.6,180,Gasoline,Robotic,FWD,White,119985
+Hyundai,Tucson,Prestige,2021,1,64050,1.6,180,Gasoline,Robotic,FWD,Grey,119525
+Hyundai,Tucson,Prime Luxury,2021,1,59500,1.6,136,Diesel,Robotic,FWD,White,129995
+Hyundai,Tucson,Luxury,2021,1,39252,1.6,180,Gasoline,Robotic,FWD,White,133785
+Hyundai,Tucson,Luxury,2021,1,26744,1.6,180,Gasoline,Robotic,FWD,White,135185
+Hyundai,Tucson,Panoramic,2020,2,58513,2.0,155,Gasoline,Automatic,FWD,Grey,109070
+Hyundai,Sonata,Premium,2021,3,118700,2.0,192,Hybrid,Automatic,FWD,Black,101000
+Hyundai,I20,Inspire,2012,3,204013,1.4,100,Gasoline,Automatic,FWD,Silver,22000
+Hyundai,I10,GL,2011,4,182500,1.2,87,Gasoline,Automatic,FWD,Black,14000
+Hyundai,I10,GL,2012,3,225000,1.2,87,Gasoline,Automatic,FWD,Silver,14000
+Hyundai,I20,Intense,2021,1,190000,1.0,100,Gasoline,Robotic,FWD,Multicolored,50000
+Hyundai,Tucson,Prestige,2023,1,62734,1.6,180,Gasoline,Robotic,FWD,Grey,127400
+Hyundai,Accent,GL,2010,3,212000,1.4,97,Gasoline,Automatic,FWD,Beige,6800
+Hyundai,Ioniq,Premium,2019,2,198000,1.6,141,Hybrid,Robotic,FWD,Grey,50000
+Hyundai,Tucson,Prime Plus,2018,3,160000,2.0,155,Gasoline,Robotic,FWD,White,65000
+Hyundai,I20,Insight,2014,3,210000,1.4,100,Gasoline,Automatic,FWD,White,20000
+Hyundai,Tucson,Elite Turbo,2019,2,127545,1.6,177,Gasoline,Robotic,FWD,Beige,85685
+Hyundai,Tucson,Luxury,2018,2,96052,1.6,177,Gasoline,Robotic,FWD,Black,87865
+Hyundai,Tucson,Panoramic,2018,2,79443,2.0,155,Gasoline,Automatic,FWD,White,83135
+Hyundai,Tucson,Premium,2017,2,130300,2.0,155,Gasoline,Robotic,FWD,Beige,76165
+Hyundai,Tucson,Prime,2016,2,138778,1.6,132,Gasoline,Automatic,FWD,Beige,63570
+Hyundai,Sonata,Prestige,2022,1,113873,2.0,192,Hybrid,Automatic,FWD,White,111775
+Hyundai,Kona,Prestige,2022,1,94665,1.6,139,Hybrid,Robotic,FWD,White,116865
+Hyundai,Kona,Prestige Hybrid,2021,2,103462,1.6,141,Hybrid,Robotic,FWD,White,113945
+Hyundai,Kona,Prime Plus,2024,1,14500,1.6,198,Gasoline,Robotic,FWD,White,139735
+Hyundai,Kona,Prestige,2019,2,125681,1.6,177,Gasoline,Robotic,FWD,White,71995
+Hyundai,Ioniq 5,Elite,2022,1,49000,,305,Electro,Automatic,AWD,Green,137995
+Hyundai,Ioniq,Premium,2022,2,90284,1.6,141,Hybrid,Robotic,FWD,Silver,93995
+Hyundai,Ioniq,Premium,2020,3,122590,1.6,141,Hybrid,Robotic,FWD,White,81350
+Hyundai,Ioniq,Premium,2020,2,98621,1.6,141,Hybrid,Robotic,FWD,White,85800
+Hyundai,Ioniq,Premium,2020,2,109000,1.6,141,Hybrid,Robotic,FWD,Grey,82840
+Hyundai,I20,Prestige,2023,1,9423,1.0,100,Gasoline,Robotic,FWD,White,102960
+Hyundai,I20,Prime Plus,2023,1,68786,1.0,100,Gasoline,Robotic,FWD,Silver,86237
+Hyundai,I20,Supreme,2023,1,35000,1.0,100,Gasoline,Robotic,FWD,Silver,91520
+Hyundai,I20,Supreme Plus,2022,2,97545,1.0,100,Gasoline,Robotic,FWD,White,84400
+Hyundai,I20,Prime,2022,2,41680,1.0,100,Gasoline,Robotic,FWD,Black,88805
+Hyundai,Accent,GL,2010,2,300000,1.6,112,Gasoline,Automatic,FWD,Silver,6500
+Hyundai,Tucson,Elite,2023,1,21400,1.6,180,Gasoline,Robotic,FWD,Grey,145000
+Hyundai,I10,Inspire,2012,4,144000,1.1,69,Gasoline,Automatic,FWD,White,15000
+Hyundai,Ioniq,Supreme,2020,1,47000,1.6,141,Hybrid,Robotic,FWD,White,120000
+Hyundai,Tucson,Executive,2025,1,3500,1.6,235,Hybrid,Robotic,AWD,White,218000
+Hyundai,I30,Inspire,2008,3,225106,1.6,126,Gasoline,Automatic,FWD,White,10000
+Hyundai,Ioniq,Premium,2021,2,149000,1.6,141,Hybrid,Robotic,FWD,White,83000
+Hyundai,I10,Inspire,2016,2,129000,1.0,67,Gasoline,Automatic,FWD,Silver,32000
+Hyundai,Ix35,Supreme,2012,4,197,2.0,184,Diesel,Automatic,AWD,White,35000
+Hyundai,Sonata,,2016,3,150000,2.0,193,Hybrid,Automatic,FWD,Black,75000
+Hyundai,I20,Prime,2022,1,51971,1.0,100,Gasoline,Robotic,FWD,Black,91900
+Hyundai,I20,Intense,2021,3,43097,1.0,100,Gasoline,Robotic,FWD,White,72545
+Hyundai,I20,Intense,2021,2,118000,1.0,100,Gasoline,Robotic,FWD,Grey,69917
+Hyundai,I20,Supreme,2021,1,131448,1.0,100,Gasoline,Robotic,FWD,Grey,58550
+Hyundai,I20,Prime Plus,2020,2,54324,1.0,100,Gasoline,Robotic,FWD,Silver,76730
+Hyundai,I20,Prime Plus,2020,2,33454,1.0,100,Gasoline,Robotic,FWD,White,81650
+Hyundai,I20,Prime Plus,2020,2,130000,1.0,100,Gasoline,Robotic,FWD,White,62730
+Hyundai,I20,Intense,2020,2,129238,1.0,100,Gasoline,Robotic,FWD,White,61540
+Hyundai,I20,Prestige,2020,2,129000,1.0,100,Gasoline,Robotic,FWD,White,68860
+Hyundai,I20,Prime Plus,2020,2,107712,1.0,100,Gasoline,Robotic,FWD,White,65045
+Hyundai,I20,Prime,2020,2,115829,1.0,100,Gasoline,Robotic,FWD,Silver,63825
+Hyundai,I20,Prestige,2020,1,17658,1.0,100,Gasoline,Robotic,FWD,White,88655
+Hyundai,I20,Prestige,2019,2,71624,1.0,100,Gasoline,Robotic,FWD,Blue,71345
+Hyundai,I20,Prime,2019,2,126809,1.0,100,Gasoline,Robotic,FWD,Red,60175
+Hyundai,I10,Prime,2024,2,35714,1.2,84,Gasoline,Robotic,FWD,Light Grey,81600
+Hyundai,I10,Prime,2024,2,29225,1.2,84,Gasoline,Robotic,FWD,Light Grey,82155
+Hyundai,I10,Supreme,2023,1,8686,1.2,84,Gasoline,Robotic,FWD,White,87445
+Hyundai,I10,Prime Plus,2022,2,26671,1.2,84,Gasoline,Robotic,FWD,White,71985
+Hyundai,I10,Prime,2022,1,8729,1.2,84,Gasoline,Robotic,FWD,Black,81750
+Hyundai,I10,Supreme,2022,1,49504,1.2,84,Gasoline,Robotic,FWD,Silver,73715
+Hyundai,Kona Ev,EV,2023,1,107000,,136,Electro,Automatic,FWD,Red,100000
+Hyundai,Sonata,Limited,2017,4,140000,2.0,193,Hybrid,Automatic,FWD,White,63900
+Hyundai,I25,Inspire,2014,3,146250,1.4,100,Gasoline,Automatic,FWD,Silver,22000
+Hyundai,Ioniq,Supreme,2019,3,175000,1.6,141,Hybrid,Robotic,FWD,White,65000
+Hyundai,I10,Prime,2021,3,50000,1.2,84,Gasoline,Robotic,FWD,White,49600
+Hyundai,I20,Inspire,2016,2,168000,1.4,100,Gasoline,Automatic,FWD,Silver,35000
+Hyundai,Tucson,Luxury,2021,1,75000,1.6,180,Gasoline,Robotic,FWD,Grey,123000
+Hyundai,Tucson,Panoramic,2022,2,100000,1.6,180,Gasoline,Robotic,FWD,White,113500
+Hyundai,I30,Inspire SW,2010,3,197000,1.6,126,Gasoline,Automatic,FWD,Black,7500
+Hyundai,Tucson,Elite,2021,2,49400,1.6,180,Gasoline,Robotic,FWD,Grey,135000
+Hyundai,I10,Prime,2021,2,75968,1.2,84,Gasoline,Robotic,FWD,Blue,55455
+Hyundai,I10,Prime,2021,2,61850,1.2,84,Gasoline,Robotic,FWD,White,67625
+Hyundai,I10,Prime,2021,2,64930,1.2,84,Gasoline,Robotic,FWD,Silver,67645
+Hyundai,I10,Supreme,2021,1,23903,1.2,84,Gasoline,Robotic,FWD,White,74870
+Hyundai,I10,Prime,2020,1,80042,1.2,84,Gasoline,Robotic,FWD,Silver,65095
+Hyundai,I10,Open Sky,2019,2,96629,1.2,84,Gasoline,Robotic,FWD,Black,59370
+Hyundai,I10,Prime,2019,2,92244,1.2,87,Gasoline,Automatic,FWD,Grey,58235
+Hyundai,I10,Prime,2019,2,60000,1.2,87,Gasoline,Automatic,FWD,Blue,63255
+Hyundai,I10,Prime,2019,2,100750,1.2,87,Gasoline,Automatic,FWD,White,55030
+Hyundai,I10,Prime,2018,2,131011,1.2,87,Gasoline,Automatic,FWD,Black,50735
+Hyundai,I10,Premium,2017,2,131180,1.0,66,Gasoline,Automatic,FWD,Grey,40495
+Hyundai,I10,Inspire,2016,3,81618,1.0,67,Gasoline,Automatic,FWD,Blue,33192
+Hyundai,Elantra,,2024,2,43188,1.6,139,Hybrid,Robotic,FWD,Silver,144645
+Hyundai,I10,GL,2012,2,56634,1.2,87,Gasoline,Automatic,FWD,Blue,33935
+Hyundai,Elantra,Premium,2023,1,107261,1.6,139,Hybrid,Robotic,FWD,White,101457
+Hyundai,Elantra,Premium,2022,2,82000,1.6,139,Hybrid,Robotic,FWD,White,115395
+Hyundai,Elantra,Premium,2022,2,32684,1.6,139,Hybrid,Robotic,FWD,Black,127355
+Hyundai,Elantra,Supreme,2022,1,109490,1.6,139,Hybrid,Robotic,FWD,Black,111645
+Hyundai,Elantra,Supreme,2022,1,106505,1.6,139,Hybrid,Robotic,FWD,White,115145
+Hyundai,Elantra,Supreme,2023,1,31000,1.6,139,Hybrid,Robotic,FWD,Grey,134685
+Hyundai,I30,Inspire SW,2012,4,212000,1.6,126,Gasoline,Automatic,FWD,White,15500
+Hyundai,Venue,Intense,2021,2,90000,1.6,123,Gasoline,Variable,FWD,Black,64900
+Hyundai,I10,Supreme,2023,3,14000,1.2,84,Gasoline,Robotic,FWD,Silver,70000
+Hyundai,I10,Inspire,2018,2,88000,1.2,87,Gasoline,Automatic,FWD,Red,45000
+Hyundai,Getz,GLF,2008,4,231000,1.4,97,Gasoline,Automatic,FWD,Red,6800
+Hyundai,I25,Inspire,2012,2,182000,1.4,109,Gasoline,Automatic,FWD,Black,19000
+Hyundai,I10,Premium,2016,3,185000,1.0,67,Gasoline,Automatic,FWD,Blue,25000
+Hyundai,Ioniq,Premium,2020,2,138900,1.6,141,Hybrid,Robotic,FWD,Silver,75000
+Hyundai,I10,Inspire,2017,2,113000,1.0,66,Gasoline,Automatic,FWD,White,37900
+Hyundai,Ioniq,Premium,2017,2,180000,1.6,141,Hybrid,Robotic,FWD,Black,65000
+Hyundai,Bayon,Premium,2023,1,50865,1.0,100,Gasoline,Robotic,FWD,Grey,99255
+Hyundai,Bayon,Supreme,2023,1,46227,1.0,120,Gasoline,Robotic,FWD,Silver,105375
+Hyundai,Bayon,Supreme,2023,1,46618,1.0,120,Gasoline,Robotic,FWD,Silver,107325
+Hyundai,Bayon,Premium,2023,1,29170,1.0,100,Gasoline,Robotic,FWD,Grey,99785
+Hyundai,Bayon,Premium,2023,1,25165,1.0,100,Gasoline,Robotic,FWD,Green,99255
+Hyundai,Bayon,Prime Plus,2023,1,23000,1.0,100,Gasoline,Robotic,FWD,White,106455
+Hyundai,Bayon,Supreme,2023,1,21003,1.0,120,Gasoline,Robotic,FWD,Blue,108785
+Hyundai,Ioniq,Premium,2019,2,259000,1.6,141,Hybrid,Robotic,FWD,Silver,49990
+Hyundai,Tucson,Panoramic,2019,3,52000,2.0,155,Gasoline,Automatic,FWD,White,92000
+Hyundai,I25,Inspire,2012,3,130000,1.4,109,Gasoline,Automatic,FWD,Silver,20000
+Hyundai,I30,Inspire SW,2012,2,200000,1.6,126,Gasoline,Automatic,FWD,White,10000
+Hyundai,Tucson,Elite,2024,2,49048,1.6,180,Gasoline,Robotic,FWD,White,134000
+Hyundai,Ix35,Open Sky,2015,4,135000,2.0,154,Gasoline,Automatic,FWD,White,40000
+Hyundai,Kona,Premium,2025,1,40000,1.6,139,Hybrid,Robotic,FWD,White,142000
+Hyundai,Tucson,Prime Plus,2018,2,198000,2.0,155,Gasoline,Robotic,FWD,Black,57000
+Hyundai,I25,Inspire,2017,2,153000,1.4,100,Gasoline,Automatic,FWD,White,35000
+Hyundai,Accent,Inspire,2021,1,64000,1.6,123,Gasoline,Automatic,FWD,Black,60000
+Hyundai,Santa Fe,Luxury,2007,3,170000,2.7,189,Gasoline,Automatic,AWD,Black,25000
+Hyundai,Veloster,Supreme,2013,4,129100,1.6,140,Gasoline,Robotic,FWD,Yellow,22500
+Hyundai,Tucson,Panoramic,2019,2,112000,2.0,155,Gasoline,Automatic,FWD,Black,85000
+Hyundai,Tucson,Luxury,2021,1,63000,1.6,180,Gasoline,Robotic,FWD,White,125000
+Hyundai,I35,Inspire,2015,2,174000,1.6,132,Gasoline,Automatic,FWD,Silver,28000
+Hyundai,Kona,Prestige,2021,1,55000,1.6,198,Gasoline,Robotic,FWD,Grey,93000
+Hyundai,Santa Fe,Luxury,2008,4,215000,2.7,189,Gasoline,Automatic,AWD,Black,15000
+Hyundai,I30,Inspire,2009,4,180500,1.6,126,Gasoline,Automatic,FWD,Silver,10000
+Hyundai,I10,,2024,1,7800,1.2,84,Gasoline,Robotic,FWD,Grey,82000
+Hyundai,Tucson,,2022,1,12000,1.6,180,Gasoline,Robotic,FWD,Black,155000
+Hyundai,I10,Insight,2016,2,150000,1.0,67,Gasoline,Manual,FWD,Silver,21000
+Hyundai,Sonata,,2008,3,328000,2.0,163,Gasoline,Automatic,FWD,White,11000
+Hyundai,I35,Supreme,2013,3,137000,1.6,132,Gasoline,Automatic,FWD,Grey,30000
+Hyundai,Bayon,Supreme,2023,1,30000,1.0,120,Gasoline,Robotic,FWD,White,115000
+Hyundai,Tucson,Luxury,2021,1,93000,1.6,180,Gasoline,Robotic,FWD,Black,122000
+Hyundai,Bayon,Prime Plus,2022,2,49450,1.0,100,Gasoline,Robotic,FWD,White,88500
+Hyundai,Ioniq,Premium,2019,2,112000,1.6,141,Hybrid,Robotic,FWD,White,79999
+Hyundai,Tucson,Open Sky,2017,1,68000,2.0,155,Gasoline,Robotic,FWD,White,72000
+Hyundai,I25,Inspire,2015,3,180000,1.6,124,Gasoline,Automatic,FWD,Black,26500
+Hyundai,Tucson,Open Sky,2016,3,155000,2.0,155,Gasoline,Robotic,FWD,Beige,56900
+Hyundai,Sonata,Limited,2023,1,48800,2.0,192,Hybrid,Automatic,FWD,Grey,160000
+Hyundai,Ioniq,Premium,2018,2,169000,1.6,141,Hybrid,Robotic,FWD,White,65000
+Hyundai,I20,Insight,2012,3,195300,1.2,85,Gasoline,Manual,FWD,Bronze,13500
+Hyundai,I20,Prime,2019,3,144500,1.0,100,Gasoline,Robotic,FWD,White,51000
+Hyundai,Ix35,Elite,2011,2,179000,2.4,177,Gasoline,Automatic,AWD,Black,33500
+Hyundai,Accent,GLS,2007,3,103000,1.6,112,Gasoline,Automatic,FWD,Beige,10000
+Hyundai,I10,Insight,2015,2,180000,1.0,67,Gasoline,Manual,FWD,Black,17000
+Hyundai,Tucson,Premium,2016,2,213000,2.0,155,Gasoline,Robotic,FWD,White,45000
+Hyundai,I20,Insight,2014,2,116000,1.4,100,Gasoline,Automatic,FWD,Silver,33500
+Hyundai,I30,Inspire SW 1.6,2013,3,220000,1.6,135,Gasoline,Automatic,FWD,Grey,16500
+Hyundai,Ioniq,Premium,2017,3,250000,1.6,141,Hybrid,Robotic,FWD,Black,65000
+Hyundai,I30,Inspire,2009,3,203419,1.6,126,Gasoline,Automatic,FWD,White,14000
+Hyundai,I10,GL,2009,4,211000,1.2,78,Gasoline,Automatic,FWD,White,12500
+Hyundai,Ioniq,Premium,2017,3,167000,1.6,141,Hybrid,Robotic,FWD,White,53000
+Hyundai,Ix35,Elite,2015,3,167000,2.4,177,Gasoline,Automatic,AWD,White,40000
+Hyundai,I10,,2024,1,17000,1.2,84,Gasoline,Robotic,FWD,Light Grey,70000
+Hyundai,I20,,2010,2,115000,1.4,100,Gasoline,Automatic,FWD,Green,27000
+Hyundai,Tucson,Prestige,2022,1,36000,1.6,180,Gasoline,Robotic,FWD,Grey,150000
+Hyundai,Sonata,Limited,2023,1,23000,2.0,192,Hybrid,Automatic,FWD,Grey,160000
+Hyundai,Ioniq,Premium,2017,4,240000,1.6,141,Hybrid,Robotic,FWD,Grey,51000
+Hyundai,Ioniq,Premium,2020,2,145000,1.6,141,Hybrid,Robotic,FWD,Black,85000
+Hyundai,I20,Prestige,2022,1,49700,1.0,100,Gasoline,Robotic,FWD,Silver,87500
+Hyundai,I30,Inspire SW 1.6,2014,2,198000,1.6,135,Gasoline,Automatic,FWD,Silver,20000
+Hyundai,I20,GLI,2010,3,222000,1.4,100,Gasoline,Automatic,FWD,Silver,11000
+Hyundai,Elantra,GLS,2007,4,178597,2.0,143,Gasoline,Automatic,FWD,Blue,11000
+Hyundai,Tucson,Premium,2022,3,93000,2.0,156,Gasoline,Automatic,FWD,White,99000
+Hyundai,Elantra,Premium,2024,1,37000,1.6,139,Hybrid,Robotic,FWD,Silver,130000
+Hyundai,I20,Intense,2020,2,127000,1.0,100,Gasoline,Robotic,FWD,Silver,57500
+Hyundai,I20,Inspire,2016,2,107000,1.4,100,Gasoline,Automatic,FWD,White,50000
+Hyundai,Tucson,Luxury,2019,3,100000,1.6,177,Gasoline,Robotic,FWD,Grey,87000
+Hyundai,Elantra,Supreme,2023,1,92000,1.6,139,Hybrid,Robotic,FWD,White,125999
+Hyundai,I20,Prime Plus,2021,2,144000,1.0,100,Gasoline,Robotic,,,59900
+Hyundai,I10,Prime,2021,2,90000,1.2,84,Gasoline,Robotic,FWD,White,58000
+Hyundai,I20,Prime,2019,2,100000,1.0,100,Gasoline,Robotic,FWD,White,62000
+Hyundai,Accent,Inspire,2021,1,107500,1.4,100,Gasoline,Automatic,FWD,Silver,59000
+Hyundai,Ioniq,Premium,2018,2,178000,1.6,141,Hybrid,Robotic,FWD,White,56000
+Hyundai,I30,Inspire SW 1.6,2015,2,196000,1.6,135,Gasoline,Automatic,FWD,"Silver
+                                            
+                                                metallic",23000
+Hyundai,Sonata,Premium,2021,1,126000,2.0,192,Hybrid,Automatic,FWD,Grey,113999
+Hyundai,Sonata,Premium,2021,3,118700,2.0,192,Hybrid,Automatic,FWD,Black,101000
+Hyundai,I20,Inspire,2012,3,204013,1.4,100,Gasoline,Automatic,FWD,Silver,22000
+Hyundai,I20,Prime,2020,4,62000,1.0,100,Gasoline,Robotic,FWD,Grey,59990
+Hyundai,I20,Prime Plus,2020,1,84000,1.0,100,Gasoline,Robotic,FWD,Silver,55000
+Hyundai,I10,GL,2011,4,182500,1.2,87,Gasoline,Automatic,FWD,Black,14000
+Hyundai,I20,Prestige,2022,1,49700,1.0,100,Gasoline,Robotic,FWD,Silver,87500
+Hyundai,I30,Inspire SW 1.6,2014,2,198000,1.6,135,Gasoline,Automatic,FWD,Silver,20000
+Hyundai,Ioniq,Premium,2021,3,101000,1.6,141,Hybrid,Robotic,FWD,White,92000
+Hyundai,I20,Prestige,2019,1,140000,1.0,100,Gasoline,Robotic,FWD,White,67000
+Hyundai,I20,Prime Plus,2020,2,130000,1.0,100,Gasoline,Robotic,FWD,White,57000
+Hyundai,Venue,Premium,2024,1,4631,1.6,123,Gasoline,Variable,FWD,White,125000
+Hyundai,Sonata,Premium,2016,3,138000,2.0,193,Hybrid,Automatic,FWD,Silver,49000
+Hyundai,Ioniq 5,Elite,2024,1,25300,,305,Electro,Automatic,AWD,Light blue,183000
+Hyundai,Tucson,Luxury,2007,4,270000,2.7,175,Gasoline,Automatic,AWD,Black,14000
+Hyundai,I20,GLI,2010,4,253000,1.4,100,Gasoline,Automatic,FWD,Red,10000
+Hyundai,Santa Fe,Supreme,2022,3,75000,2.2,230,Diesel,Robotic,FWD,Silver,154990
+Hyundai,I10,Prime,2021,2,12000,1.2,84,Gasoline,Robotic,FWD,White,66990
+Hyundai,I10,GL,2012,3,225000,1.2,87,Gasoline,Automatic,FWD,Silver,14000
+Hyundai,I20,Intense,2021,1,190000,1.0,100,Gasoline,Robotic,FWD,Multicolored,50000
+Hyundai,I10,Premium,2016,3,150000,1.0,67,Gasoline,Automatic,FWD,Silver,32000
+Hyundai,Ioniq,Premium,2017,2,187700,1.6,141,Hybrid,Robotic,FWD,Silver,55000
+Hyundai,Tucson,Prestige,2023,1,62734,1.6,180,Gasoline,Robotic,FWD,Grey,127400
+Hyundai,Elantra,Inspire SR,2021,2,99900,1.6,127,Gasoline,Automatic,FWD,White,69900
+Hyundai,Accent,GL,2010,3,212000,1.4,97,Gasoline,Automatic,FWD,Beige,6800
+Hyundai,Ioniq,Premium,2019,2,198000,1.6,141,Hybrid,Robotic,FWD,Grey,50000
+Hyundai,Tucson,Prime Plus,2018,3,160000,2.0,155,Gasoline,Robotic,FWD,White,65000
+Hyundai,I20,Insight,2014,3,210000,1.4,100,Gasoline,Automatic,FWD,White,20000
+Hyundai,Accent,GL,2010,2,300000,1.6,112,Gasoline,Automatic,FWD,Silver,6500
+Hyundai,Tucson,Elite,2023,1,21400,1.6,180,Gasoline,Robotic,FWD,Grey,145000
+Hyundai,I10,Inspire,2012,4,144000,1.1,69,Gasoline,Automatic,FWD,White,15000
+Hyundai,Ioniq,Supreme,2020,1,47000,1.6,141,Hybrid,Robotic,FWD,White,120000
+Hyundai,Tucson,Luxury,2023,1,76000,1.6,180,Gasoline,Robotic,FWD,Grey,134000
+Hyundai,Tucson,Executive,2025,1,3500,1.6,235,Hybrid,Robotic,AWD,White,218000
+Hyundai,I30,Inspire,2008,3,225106,1.6,126,Gasoline,Automatic,FWD,White,10000
+Hyundai,Ioniq,Premium,2021,2,149000,1.6,141,Hybrid,Robotic,FWD,White,83000
+Hyundai,I10,Prime,2019,2,168000,1.2,87,Gasoline,Automatic,FWD,White,42000
+Hyundai,H350,,2018,2,270000,2.5,170,Diesel,Manual,RWD,White,45000
+Hyundai,Ioniq,Premium,2020,2,126500,1.6,141,Hybrid,Robotic,FWD,Silver,90000
+Hyundai,I20,Prime Plus,2021,2,82000,1.0,100,Gasoline,Robotic,FWD,Grey,68000
+Hyundai,Ioniq,Premium,2020,1,66900,1.6,141,Hybrid,Robotic,FWD,White,115000
+Hyundai,I25,Inspire,2016,1,170000,1.6,124,Gasoline,Automatic,FWD,Silver,32000
+Hyundai,Elantra,Supreme,2022,2,100000,1.6,139,Hybrid,Robotic,FWD,White,120000
+Hyundai,Accent,Esteem,2001,3,139000,1.5,91,Gasoline,Automatic,FWD,Silver,5000
+Hyundai,I10,Insight,2015,4,202574,1.0,67,Gasoline,Automatic,FWD,White,21000
+Hyundai,I20,Prime Plus,2022,2,65500,1.0,100,Gasoline,Robotic,FWD,White,78000
+Hyundai,I10,Inspire,2016,2,129000,1.0,67,Gasoline,Automatic,FWD,Silver,32000
+Hyundai,Ix35,Supreme,2012,4,197,2.0,184,Diesel,Automatic,AWD,White,35000
+Hyundai,Tucson,Premium,2022,2,94000,2.0,156,Gasoline,Automatic,FWD,White,113990
+Hyundai,Sonata,,2016,3,150000,2.0,193,Hybrid,Automatic,FWD,Black,75000
+Hyundai,Kona Ev,EV,2023,1,107000,,136,Electro,Automatic,FWD,Red,100000
+Hyundai,Sonata,Limited,2017,4,140000,2.0,193,Hybrid,Automatic,FWD,White,63900
+Hyundai,I25,Inspire,2014,3,146250,1.4,100,Gasoline,Automatic,FWD,Silver,22000
+Hyundai,Ioniq,Premium,2022,2,73000,1.6,141,Hybrid,Robotic,FWD,White,99990
+Hyundai,Ioniq,Supreme,2019,3,175000,1.6,141,Hybrid,Robotic,FWD,White,65000
+Hyundai,I10,Prime,2021,3,50000,1.2,84,Gasoline,Robotic,FWD,White,49600
+Hyundai,I20,Inspire,2016,2,168000,1.4,100,Gasoline,Automatic,FWD,Silver,35000
+Hyundai,Tucson,Luxury,2021,1,75000,1.6,180,Gasoline,Robotic,FWD,Grey,123000
+Hyundai,Tucson,Panoramic,2022,2,100000,1.6,180,Gasoline,Robotic,FWD,White,113500
+Hyundai,I30,Inspire SW,2010,3,197000,1.6,126,Gasoline,Automatic,FWD,Black,7500
+Hyundai,Tucson,Elite,2021,2,49400,1.6,180,Gasoline,Robotic,FWD,Grey,135000
+Hyundai,I30,Inspire SW,2012,4,212000,1.6,126,Gasoline,Automatic,FWD,White,15500
+Hyundai,Venue,Intense,2021,2,90000,1.6,123,Gasoline,Variable,FWD,Black,64900
+Hyundai,I25,Inspire,2013,2,175000,1.6,124,Gasoline,Automatic,FWD,Silver,23900
+Hyundai,I25,Inspire,2017,2,195000,1.4,100,Gasoline,Automatic,FWD,Silver,28900
+Hyundai,I10,Supreme,2023,3,14000,1.2,84,Gasoline,Robotic,FWD,Silver,70000
+Hyundai,Accent,,2008,4,206000,1.6,112,Gasoline,Automatic,FWD,Silver,6000
+Hyundai,Veloster,Elite,2015,2,250000,1.6,140,Gasoline,Robotic,FWD,Silver,25000
+Hyundai,I30,Inspire SW,2011,3,160000,1.6,126,Gasoline,Automatic,FWD,Grey,14000
+Hyundai,I30,Inspire,2009,3,291000,1.6,126,Gasoline,Automatic,FWD,White,13000
+Hyundai,I30,Inspire,2009,2,251000,1.6,126,Gasoline,Automatic,FWD,White,12000
+Hyundai,I20,GLI,2010,1,257000,1.4,100,Gasoline,Automatic,FWD,Red,12000
+Hyundai,Tucson,Elite,2019,1,116000,2.0,155,Gasoline,Automatic,FWD,White,90000
+Hyundai,Ioniq,Supreme,2017,4,178000,1.6,141,Hybrid,Robotic,FWD,White,64500
+Hyundai,Tucson,,2016,3,74500,1.6,132,Gasoline,Automatic,FWD,Grey,60800
+Hyundai,Palisade,,2022,1,38000,3.8,291,Gasoline,Automatic,AWD,Black,245000
+Hyundai,I10,Inspire,2018,2,88000,1.2,87,Gasoline,Automatic,FWD,Red,45000
+Hyundai,Getz,GLF,2008,4,231000,1.4,97,Gasoline,Automatic,FWD,Red,6800
+Hyundai,Elantra,Supreme,2022,1,82000,1.6,139,Hybrid,Robotic,FWD,Black,119990
+Hyundai,I25,Inspire,2012,2,182000,1.4,109,Gasoline,Automatic,FWD,Black,19000
+Hyundai,I10,Premium,2016,3,185000,1.0,67,Gasoline,Automatic,FWD,Blue,25000
+Hyundai,Ioniq,Premium,2020,2,138900,1.6,141,Hybrid,Robotic,FWD,Silver,75000
+Hyundai,Sonata,Premium,2021,1,114483,2.0,192,Hybrid,Automatic,FWD,White,107000
+Hyundai,Kona,Prestige,2022,2,38000,1.6,139,Hybrid,Robotic,FWD,White,110000
+Hyundai,I10,Inspire,2017,2,113000,1.0,66,Gasoline,Automatic,FWD,White,37900
+Hyundai,Ioniq,Premium,2017,2,180000,1.6,141,Hybrid,Robotic,FWD,Black,65000
+Hyundai,Kona,Premium,2019,1,99000,1.6,177,Gasoline,Robotic,FWD,Ruby,73000
+Hyundai,Accent,GLI,2004,3,144000,1.5,91,Gasoline,Automatic,FWD,Blue,4000
+Hyundai,Tucson,Luxury,2021,0,105000,1.6,180,Gasoline,Robotic,FWD,White,125000
+Hyundai,I25,Inspire,2016,3,150000,1.4,100,Gasoline,Automatic,FWD,Silver,25000
+Hyundai,Elantra,Supreme,2022,1,72500,1.6,139,Hybrid,Robotic,FWD,White,130000
+Hyundai,Elantra,,2006,2,155856,1.6,107,Gasoline,Automatic,FWD,Silver,5500
+Hyundai,Sonata,Premium,2018,3,107000,2.0,193,Hybrid,Automatic,FWD,Black,69000
+Hyundai,Ioniq 6,Limited 2x4,2024,1,29000,,226,Electro,Automatic,RWD,White,175000
+Hyundai,I35,Inspire,2012,4,229000,1.6,132,Gasoline,Automatic,FWD,White,22000
+Hyundai,Sonata,Premium,2016,2,200000,2.0,193,Hybrid,Automatic,FWD,Grey,55000
+Hyundai,Ioniq,Supreme,2017,4,178000,1.6,141,Hybrid,Robotic,FWD,White,64500
+Hyundai,Tucson,,2016,3,74500,1.6,132,Gasoline,Automatic,FWD,Grey,60800
+Hyundai,Palisade,,2022,1,38000,3.8,291,Gasoline,Automatic,AWD,Black,245000
+Hyundai,I20,Inspire,2018,3,155000,1.4,100,Gasoline,Automatic,FWD,White,43000
+Hyundai,I25,Inspire,2017,4,180000,1.6,124,Gasoline,Automatic,FWD,White,31000
+Hyundai,Ioniq 5,Luxury,2024,1,17000,,217,Electro,Automatic,RWD,Black,195000
+Hyundai,Elantra,Inspire,2017,2,163000,1.6,128,Gasoline,Automatic,FWD,Black,47000
+Hyundai,Sonata,Limited,2018,4,104000,2.0,193,Hybrid,Automatic,FWD,White,87000
+Hyundai,Ioniq,Premium,2020,1,123000,1.6,141,Hybrid,Robotic,FWD,Black,85000
+Hyundai,I20,Supreme,2022,1,26000,1.0,100,Gasoline,Robotic,FWD,Blue,98000
+Hyundai,Ioniq 5,Prestige,2022,2,137000,,217,Electro,Automatic,RWD,White,104990
+Hyundai,Veloster,Inspire,2014,4,199000,1.6,140,Gasoline,Manual,FWD,Red,25000
+Hyundai,I10,Prime Plus,2021,2,88000,1.2,84,Gasoline,Robotic,FWD,Silver,63990
+Hyundai,Tucson,Luxury,2021,1,63000,1.6,180,Gasoline,Robotic,FWD,White,125000
+Hyundai,Kona,Premium,2022,1,91759,1.6,139,Hybrid,Robotic,FWD,Grey,110000
+Hyundai,Ioniq 6,Limited 2x4,2023,1,40521,,226,Electro,Automatic,RWD,Silver,160000
+Hyundai,I35,Inspire,2015,2,174000,1.6,132,Gasoline,Automatic,FWD,Silver,28000
+Hyundai,Kona,Prestige,2021,1,55000,1.6,198,Gasoline,Robotic,FWD,Grey,93000
+Hyundai,Santa Fe,Luxury,2008,4,215000,2.7,189,Gasoline,Automatic,AWD,Black,15000
+Hyundai,I30,Inspire,2009,4,180500,1.6,126,Gasoline,Automatic,FWD,Silver,10000
+Hyundai,I10,,2024,1,7800,1.2,84,Gasoline,Robotic,FWD,Grey,82000
+Hyundai,Tucson,,2022,1,12000,1.6,180,Gasoline,Robotic,FWD,Black,155000
+Hyundai,I10,Insight,2016,2,150000,1.0,67,Gasoline,Manual,FWD,Silver,21000
+Hyundai,Sonata,,2008,3,328000,2.0,163,Gasoline,Automatic,FWD,White,11000
+Hyundai,Palisade,Premium,2021,2,88000,3.8,291,Gasoline,Automatic,FWD,White,148000
+Hyundai,I35,Supreme,2013,3,137000,1.6,132,Gasoline,Automatic,FWD,Grey,30000
+Hyundai,I10,Prime,2023,1,25000,1.2,84,Gasoline,Robotic,FWD,White,73000
+Hyundai,Elantra,Inspire,2016,4,207000,1.6,128,Gasoline,Automatic,FWD,Grey,23000
+Hyundai,Sonata,Limited,2017,2,130000,2.0,193,Hybrid,Automatic,FWD,Grey,77000
+Hyundai,I25,Inspire,2013,3,223000,1.4,109,Gasoline,Automatic,FWD,Light blue,18500
+Hyundai,Santa Fe,Luxury,2010,2,220000,2.4,174,Gasoline,Automatic,AWD,Black,25000
+Hyundai,I35,Supreme,2012,3,233000,1.6,132,Gasoline,Automatic,FWD,Bronze,28000
+Hyundai,Sonata,Limited,2017,1,122000,2.0,193,Hybrid,Automatic,FWD,Black,75000
+Hyundai,I30,Supreme,2010,1,135000,1.6,126,Gasoline,Automatic,FWD,Grey,30000
+Hyundai,Sonata,Limited,2021,2,69200,2.0,192,Hybrid,Automatic,FWD,Silver,138000
+Hyundai,Santa Fe,Executive,2008,3,184000,2.7,189,Gasoline,Automatic,AWD,Silver,25000
+Hyundai,Ioniq,Supreme,2018,1,113000,1.6,141,Hybrid,Robotic,FWD,Black,78000
+Hyundai,Tucson,Elite,2023,1,43000,1.6,180,Gasoline,Robotic,FWD,Blue,160000
+Hyundai,Venue,,2021,1,41000,1.6,123,Gasoline,Variable,FWD,Grey,84000
+Hyundai,Ioniq,Premium,2018,2,174000,1.6,141,Hybrid,Robotic,FWD,Grey,60000
+Hyundai,Tucson,,2023,1,23000,1.6,180,Gasoline,Robotic,FWD,White,153000
+Hyundai,Ioniq,Premium,2019,4,157000,1.6,141,Hybrid,Robotic,FWD,Grey,68000
+Hyundai,I35,Supreme,2015,2,198000,1.6,132,Gasoline,Automatic,FWD,Silver,29950
+Hyundai,I35,Inspire,2011,3,190000,1.6,132,Gasoline,Automatic,FWD,Silver,23000
+Hyundai,Ioniq,Supreme,2020,1,118000,1.6,141,Hybrid,Robotic,FWD,Grey,93000
+Hyundai,Ioniq,Premium,2017,3,167000,1.6,141,Hybrid,Robotic,FWD,White,53000
+Hyundai,Ix35,Elite,2015,3,167000,2.4,177,Gasoline,Automatic,AWD,White,40000
+Hyundai,I10,,2024,1,17000,1.2,84,Gasoline,Robotic,FWD,Light Grey,70000
+Hyundai,I20,,2010,2,115000,1.4,100,Gasoline,Automatic,FWD,Green,27000
+Hyundai,Tucson,Prestige,2022,1,36000,1.6,180,Gasoline,Robotic,FWD,Grey,150000
+Hyundai,Ix35,Supreme,2013,2,203000,2.0,184,Diesel,Automatic,AWD,Black,44990
+Hyundai,Tucson,Prime,2016,2,71000,1.6,132,Gasoline,Automatic,FWD,Beige,55900
+Hyundai,Kona,Premium Hybrid,2021,2,185000,1.6,141,Hybrid,Robotic,FWD,Grey,79900
+Hyundai,Ioniq 5,Luxury,2024,1,15200,,305,Electro,Automatic,AWD,Grey,184900
+Hyundai,Ioniq 5,Luxury,2024,1,10000,,217,Electro,Automatic,RWD,Light blue,171900
+Hyundai,Elantra,Premium,2023,1,50000,1.6,139,Hybrid,Robotic,FWD,White,109900
+Hyundai,Sonata,Limited,2023,1,23000,2.0,192,Hybrid,Automatic,FWD,Grey,160000
+Hyundai,Ioniq,Premium,2017,4,240000,1.6,141,Hybrid,Robotic,FWD,Grey,51000
+Hyundai,Ioniq,Premium,2020,2,145000,1.6,141,Hybrid,Robotic,FWD,Black,85000
+Hyundai,I20,Prestige,2022,1,49700,1.0,100,Gasoline,Robotic,FWD,Silver,87500
+Hyundai,I30,Inspire SW 1.6,2013,4,179000,1.6,135,Gasoline,Automatic,FWD,Blue,21000
+Hyundai,I25,Inspire,2017,4,176000,1.6,124,Gasoline,Automatic,FWD,White,31000
+Hyundai,I30,Inspire,2009,3,230000,1.6,126,Gasoline,Automatic,FWD,Blue,11000
+Hyundai,I35,Inspire,2014,3,220000,1.6,132,Gasoline,Automatic,FWD,Light blue,27000
+Hyundai,I20,GLI,2009,3,280000,1.4,100,Gasoline,Automatic,FWD,White,11000
+Hyundai,Ioniq,,2018,2,173000,1.6,141,Hybrid,Robotic,FWD,Black,76000
+Hyundai,I35,Inspire,2013,2,180000,1.6,132,Gasoline,Automatic,FWD,Silver,32000
+Hyundai,Kona Ev,EV,2023,1,77000,,136,Electro,Automatic,FWD,Grey,106000
+Hyundai,Matrix,,2009,3,280000,1.6,103,Gasoline,Automatic,FWD,Silver,6500
+Hyundai,I10,Inspire,2017,1,119550,1.0,66,Gasoline,Automatic,FWD,Silver,37000
+Hyundai,I30,Inspire SW 1.6,2014,2,198000,1.6,135,Gasoline,Automatic,FWD,Silver,20000
+Hyundai,Ioniq,Premium,2021,3,101000,1.6,141,Hybrid,Robotic,FWD,White,92000
+Hyundai,I20,Prestige,2019,1,140000,1.0,100,Gasoline,Robotic,FWD,White,67000
+Hyundai,I20,Prime Plus,2020,2,130000,1.0,100,Gasoline,Robotic,FWD,White,57000
+Hyundai,Venue,Premium,2024,1,4631,1.6,123,Gasoline,Variable,FWD,White,125000
+Hyundai,Sonata,Premium,2016,3,138000,2.0,193,Hybrid,Automatic,FWD,Silver,49000
+Hyundai,Ioniq 5,Elite,2024,1,25300,,305,Electro,Automatic,AWD,Light blue,183000
+Hyundai,Tucson,Luxury,2007,4,270000,2.7,175,Gasoline,Automatic,AWD,Black,14000
+Hyundai,I20,GLI,2010,4,253000,1.4,100,Gasoline,Automatic,FWD,Red,10000
+Hyundai,Tucson,Luxury,2021,2,124000,1.6,180,Gasoline,Robotic,FWD,Grey,96000
+Hyundai,I20,GLI,2009,3,217000,1.4,100,Gasoline,Automatic,FWD,Blue,10900
+Hyundai,I10,Prime,2019,2,168000,1.2,87,Gasoline,Automatic,FWD,White,42000
+Hyundai,H350,,2018,2,270000,2.5,170,Diesel,Manual,RWD,White,45000
+Hyundai,Ioniq,Premium,2020,2,126500,1.6,141,Hybrid,Robotic,FWD,Silver,90000
+Hyundai,I20,Prime Plus,2021,2,82000,1.0,100,Gasoline,Robotic,FWD,Grey,68000
+Hyundai,Ioniq,Premium,2020,1,66900,1.6,141,Hybrid,Robotic,FWD,White,115000
+Hyundai,I25,Inspire,2016,1,170000,1.6,124,Gasoline,Automatic,FWD,Silver,32000
+Hyundai,Elantra,Supreme,2022,2,100000,1.6,139,Hybrid,Robotic,FWD,White,120000
+Hyundai,Accent,Esteem,2001,3,139000,1.5,91,Gasoline,Automatic,FWD,Silver,5000
+Hyundai,I10,Insight,2015,4,202574,1.0,67,Gasoline,Automatic,FWD,White,21000
+Hyundai,I30,Inspire,2013,1,165000,1.6,135,Gasoline,Automatic,FWD,Grey,25000
+Hyundai,I20,Supreme,2022,1,33000,1.0,100,Gasoline,Robotic,FWD,White,96000
+Hyundai,Ioniq,Premium,2017,3,194500,1.6,141,Hybrid,Robotic,FWD,Silver,50000
+Hyundai,Accent,Inspire 1.4,2020,2,133000,1.4,100,Gasoline,Automatic,FWD,White,50500
+Hyundai,Tucson,Premium,2015,2,105000,2.0,155,Gasoline,Robotic,FWD,Black,58500
+Hyundai,I30,Inspire,2010,1,197000,1.6,126,Gasoline,Automatic,FWD,White,14000
+Hyundai,Ioniq 5,Elite,2022,2,85000,,217,Electro,Automatic,RWD,White,136000
+Hyundai,Ioniq,Premium,2020,2,120000,1.6,141,Hybrid,Robotic,FWD,Light Grey,95500
+Hyundai,I25,Inspire,2014,3,113000,1.4,100,Gasoline,Automatic,FWD,White,33000
+Hyundai,Accent,GL,2010,2,181000,1.4,97,Gasoline,Automatic,FWD,Silver,17000
+Hyundai,I20,Prime Plus,2022,2,65500,1.0,100,Gasoline,Robotic,FWD,White,78000
+Hyundai,Elantra,Inspire,2016,3,205000,1.6,128,Gasoline,Automatic,FWD,White,38000
+Hyundai,I30,Inspire,2010,3,310000,1.6,126,Gasoline,Automatic,FWD,Black,9000
+Hyundai,Accent,,2008,4,206000,1.6,112,Gasoline,Automatic,FWD,Silver,6000
+Hyundai,Veloster,Elite,2015,2,250000,1.6,140,Gasoline,Robotic,FWD,Silver,25000
+Hyundai,I30,Inspire SW,2011,3,160000,1.6,126,Gasoline,Automatic,FWD,Grey,14000
+Hyundai,I30,Inspire,2009,3,291000,1.6,126,Gasoline,Automatic,FWD,White,13000
+Hyundai,I30,Inspire,2009,2,251000,1.6,126,Gasoline,Automatic,FWD,White,12000
+Hyundai,I20,GLI,2010,1,257000,1.4,100,Gasoline,Automatic,FWD,Red,12000
+Hyundai,Tucson,Elite,2019,1,116000,2.0,155,Gasoline,Automatic,FWD,White,90000
+Hyundai,Ioniq,Supreme,2017,4,178000,1.6,141,Hybrid,Robotic,FWD,White,64500
+Hyundai,Tucson,,2016,3,74500,1.6,132,Gasoline,Automatic,FWD,Grey,60800
+Hyundai,Palisade,,2022,1,38000,3.8,291,Gasoline,Automatic,AWD,Black,245000
+Hyundai,I20,Inspire,2018,3,155000,1.4,100,Gasoline,Automatic,FWD,White,43000
+Hyundai,I25,Inspire,2017,4,180000,1.6,124,Gasoline,Automatic,FWD,White,31000
+Hyundai,Ioniq 5,Luxury,2024,1,17000,,217,Electro,Automatic,RWD,Black,195000
+Hyundai,Elantra,Inspire,2017,2,163000,1.6,128,Gasoline,Automatic,FWD,Black,47000
+Hyundai,Sonata,Limited,2018,4,104000,2.0,193,Hybrid,Automatic,FWD,White,87000
+Hyundai,Ioniq,Premium,2020,1,123000,1.6,141,Hybrid,Robotic,FWD,Black,85000
+Hyundai,I20,Supreme,2022,1,26000,1.0,100,Gasoline,Robotic,FWD,Blue,98000
+Hyundai,I10,Insight,2015,3,168000,1.0,67,Gasoline,Manual,FWD,Red,15900
+Hyundai,Ioniq 5,Prestige,2023,1,12500,,217,Electro,Automatic,RWD,Light blue,160000
+Hyundai,Ioniq,Premium,2018,3,220000,1.6,141,Hybrid,Robotic,FWD,White,51000
+Hyundai,I20,Inspire,2012,3,217000,1.4,100,Gasoline,Automatic,FWD,Blue,20000
+Hyundai,Ix35,Prime,2015,3,124700,2.0,154,Gasoline,Automatic,FWD,White,46500
+Hyundai,Accent,,2009,4,235000,1.4,97,Gasoline,Automatic,FWD,Silver,9000
+Hyundai,Kona,Premium Hybrid,2020,2,123000,1.6,141,Hybrid,Robotic,FWD,White,82000
+Hyundai,Ioniq,Premium,2021,2,71500,1.6,141,Hybrid,Robotic,FWD,Silver,89000
+Hyundai,Getz,GLX,2008,2,119000,1.4,97,Gasoline,Automatic,FWD,Red,8000
+Hyundai,I10,Inspire,2015,4,160000,1.0,67,Gasoline,Manual,FWD,White,19000
+Hyundai,Santa Fe,Luxury,2010,2,220000,2.4,174,Gasoline,Automatic,AWD,Black,25000
+Hyundai,I35,Supreme,2012,3,233000,1.6,132,Gasoline,Automatic,FWD,Bronze,28000
+Hyundai,Sonata,Limited,2017,1,122000,2.0,193,Hybrid,Automatic,FWD,Black,75000
+Hyundai,I30,Supreme,2010,1,135000,1.6,126,Gasoline,Automatic,FWD,Grey,30000
+Hyundai,Sonata,Limited,2021,2,69200,2.0,192,Hybrid,Automatic,FWD,Silver,138000
+Hyundai,Santa Fe,Executive,2008,3,184000,2.7,189,Gasoline,Automatic,AWD,Silver,25000
+Hyundai,Ioniq,Supreme,2018,1,113000,1.6,141,Hybrid,Robotic,FWD,Black,78000
+Hyundai,Tucson,Elite,2023,1,43000,1.6,180,Gasoline,Robotic,FWD,Blue,160000
+Hyundai,Venue,,2021,1,41000,1.6,123,Gasoline,Variable,FWD,Grey,84000
+Hyundai,Ioniq,Premium,2018,2,174000,1.6,141,Hybrid,Robotic,FWD,Grey,60000
+Hyundai,Sonata,Premium,2020,2,126000,2.0,192,Hybrid,Automatic,FWD,White,115000
+Hyundai,I30,Inspire SW 1.6,2013,4,179000,1.6,135,Gasoline,Automatic,FWD,Blue,21000
+Hyundai,I25,Inspire,2017,4,176000,1.6,124,Gasoline,Automatic,FWD,White,31000
+Hyundai,I30,Inspire,2009,3,230000,1.6,126,Gasoline,Automatic,FWD,Blue,11000
+Hyundai,I35,Inspire,2014,3,220000,1.6,132,Gasoline,Automatic,FWD,Light blue,27000
+Hyundai,I20,GLI,2009,3,280000,1.4,100,Gasoline,Automatic,FWD,White,11000
+Hyundai,Ioniq,,2018,2,173000,1.6,141,Hybrid,Robotic,FWD,Black,76000
+Hyundai,I35,Inspire,2013,2,180000,1.6,132,Gasoline,Automatic,FWD,Silver,32000
+Hyundai,Kona Ev,EV,2023,1,77000,,136,Electro,Automatic,FWD,Grey,106000
+Hyundai,Matrix,,2009,3,280000,1.6,103,Gasoline,Automatic,FWD,Silver,6500
+Hyundai,Getz,GL Sport,2007,2,142000,1.6,105,Gasoline,Automatic,FWD,Blue,13400
+Hyundai,Ioniq,Premium,2019,2,93500,1.6,141,Hybrid,Robotic,FWD,Grey,72000
+Hyundai,Elantra,Supreme,2022,2,34000,1.6,139,Hybrid,Robotic,FWD,Silver,128500
+Hyundai,Ioniq 5,Supreme,2022,2,120000,,217,Electro,Automatic,RWD,Green,127000
+Hyundai,I30,Inspire,2011,3,210000,1.6,126,Gasoline,Automatic,FWD,Black,14500
+Hyundai,I20,Inspire,2012,3,213000,1.4,100,Gasoline,Automatic,FWD,Light blue,14000
+Hyundai,Ioniq,Premium,2020,2,159000,1.6,141,Hybrid,Robotic,FWD,Grey,77000
+Hyundai,Tucson,Platinum,2022,1,35000,1.6,136,Diesel,Robotic,FWD,Grey,180000
+Hyundai,Venue,Supreme,2021,2,15000,1.6,123,Gasoline,Variable,FWD,White,93000
+Hyundai,Ioniq,Premium,2018,2,146000,1.6,141,Hybrid,Robotic,FWD,Black,65000
+Hyundai,I10,Inspire,2017,1,119550,1.0,66,Gasoline,Automatic,FWD,Silver,37000
+Hyundai,Venue,,2024,1,12000,1.6,121,Gasoline,Variable,FWD,Grey,126000
+Hyundai,I25,,2016,2,180000,1.6,124,Gasoline,Automatic,FWD,White,35000
+Hyundai,I30,Inspire,2009,2,260000,1.6,126,Gasoline,Automatic,FWD,Blue,10000
+Hyundai,Elantra,GLS,2007,3,173000,1.6,107,Gasoline,Automatic,FWD,Silver,4900
+Hyundai,Ioniq,Premium,2018,2,105000,1.6,141,Hybrid,Robotic,FWD,White,75000
+Hyundai,Ioniq,Premium,2017,2,134100,1.6,141,Hybrid,Robotic,FWD,Black,65000
+Hyundai,I30,Inspire,2013,1,165000,1.6,135,Gasoline,Automatic,FWD,Grey,25000
+Hyundai,I20,Supreme,2022,1,33000,1.0,100,Gasoline,Robotic,FWD,White,96000
+Hyundai,Ioniq,Premium,2017,3,194500,1.6,141,Hybrid,Robotic,FWD,Silver,50000
+Hyundai,Accent,Inspire 1.4,2020,2,133000,1.4,100,Gasoline,Automatic,FWD,White,50500
+Hyundai,Tucson,Premium,2015,2,105000,2.0,155,Gasoline,Robotic,FWD,Black,58500
+Hyundai,I30,Inspire,2010,1,197000,1.6,126,Gasoline,Automatic,FWD,White,14000
+Hyundai,Ioniq 5,Elite,2022,2,85000,,217,Electro,Automatic,RWD,White,136000
+Hyundai,Ioniq,Premium,2020,2,120000,1.6,141,Hybrid,Robotic,FWD,Light Grey,95500
+Hyundai,I25,Inspire,2014,3,113000,1.4,100,Gasoline,Automatic,FWD,White,33000
+Hyundai,Accent,GL,2010,2,181000,1.4,97,Gasoline,Automatic,FWD,Silver,17000
+Hyundai,I10,Insight,2015,3,168000,1.0,67,Gasoline,Manual,FWD,Red,15900
+Hyundai,Ioniq 5,Prestige,2023,1,12500,,217,Electro,Automatic,RWD,Light blue,160000
+Hyundai,Ioniq,Premium,2018,3,220000,1.6,141,Hybrid,Robotic,FWD,White,51000
+Hyundai,I25,Inspire,2012,3,223125,1.4,109,Gasoline,Automatic,FWD,White,19800
+Hyundai,I30,Inspire,2012,2,170000,1.6,135,Gasoline,Automatic,FWD,Blue,30000
+Hyundai,Kona,Prime,2021,2,65000,1.6,198,Gasoline,Robotic,FWD,Black,86000
+Hyundai,I30,Inspire,2008,3,153000,1.6,126,Gasoline,Automatic,FWD,Beige,14500
+Hyundai,Sonata,Limited,2021,1,33000,2.0,192,Hybrid,Automatic,FWD,Silver,140000
+Hyundai,I20,,2010,4,258000,1.4,100,Gasoline,Automatic,FWD,Beige,16500
+Hyundai,Getz,,2008,4,265000,1.4,97,Gasoline,Manual,FWD,Black,10000
+Hyundai,Tucson,Luxury,2021,1,70000,1.6,180,Gasoline,Robotic,FWD,White,135000
+Hyundai,Ioniq,Premium,2019,3,112000,1.6,141,Hybrid,Robotic,FWD,Silver,70000
+Hyundai,Santa Fe,,2011,2,245045,2.2,197,Diesel,Automatic,AWD,White,52000
+Hyundai,I20,Inspire,2012,3,217000,1.4,100,Gasoline,Automatic,FWD,Blue,20000
+Hyundai,Ix35,Prime,2015,3,124700,2.0,154,Gasoline,Automatic,FWD,White,46500
+Hyundai,Accent,,2009,4,235000,1.4,97,Gasoline,Automatic,FWD,Silver,9000
+Hyundai,Kona,Premium Hybrid,2020,2,123000,1.6,141,Hybrid,Robotic,FWD,White,82000
+Hyundai,Ioniq,Premium,2021,2,71500,1.6,141,Hybrid,Robotic,FWD,Silver,89000
+Hyundai,Getz,GLX,2008,2,119000,1.4,97,Gasoline,Automatic,FWD,Red,8000
+Hyundai,I10,Inspire,2015,4,160000,1.0,67,Gasoline,Manual,FWD,White,19000
+Hyundai,Getz,GL Sport,2007,2,142000,1.6,105,Gasoline,Automatic,FWD,Blue,13400
+Hyundai,Ioniq,Premium,2019,2,93500,1.6,141,Hybrid,Robotic,FWD,Grey,72000
+Hyundai,Elantra,Supreme,2022,2,34000,1.6,139,Hybrid,Robotic,FWD,Silver,128500
+Hyundai,Ioniq 5,Supreme,2022,2,120000,,217,Electro,Automatic,RWD,Green,127000
+Hyundai,I30,Inspire,2011,3,210000,1.6,126,Gasoline,Automatic,FWD,Black,14500
+Hyundai,I20,Inspire,2012,3,213000,1.4,100,Gasoline,Automatic,FWD,Light blue,14000
+Hyundai,Ioniq,Premium,2020,2,159000,1.6,141,Hybrid,Robotic,FWD,Grey,77000
+Hyundai,Tucson,Platinum,2022,1,35000,1.6,136,Diesel,Robotic,FWD,Grey,180000
+Hyundai,Venue,Supreme,2021,2,15000,1.6,123,Gasoline,Variable,FWD,White,93000
+Hyundai,Ioniq,Premium,2018,2,146000,1.6,141,Hybrid,Robotic,FWD,Black,65000
+Hyundai,I25,Inspire,2012,3,223125,1.4,109,Gasoline,Automatic,FWD,White,19800
+Hyundai,I30,Inspire,2012,2,170000,1.6,135,Gasoline,Automatic,FWD,Blue,30000
+Hyundai,Kona,Prime,2021,2,65000,1.6,198,Gasoline,Robotic,FWD,Black,86000
+Hyundai,I20,Prestige,2022,1,24000,1.0,100,Gasoline,Robotic,FWD,White,91000
+Hyundai,I25,Inspire,2016,2,200000,1.6,124,Gasoline,Automatic,FWD,White,30000
+Hyundai,I10,Premium,2016,3,180000,1.0,67,Gasoline,Automatic,FWD,Black,30000
+Hyundai,I20,,2019,3,95300,1.0,100,Gasoline,Robotic,FWD,Black,64000
+Hyundai,Accent,GL,2009,4,190000,1.4,97,Gasoline,Automatic,FWD,Bronze,9500
+Hyundai,I30,Premium,2018,2,140000,1.4,140,Gasoline,Robotic,FWD,White,54900
+Hyundai,I30,Premium,2015,3,176000,1.6,135,Gasoline,Automatic,FWD,Black,33000
+Hyundai,Ioniq,Supreme,2020,1,88000,1.6,141,Hybrid,Robotic,FWD,Silver,115000
+Hyundai,Ioniq,,2019,2,147000,1.6,141,Hybrid,Robotic,FWD,Silver,75000
+Hyundai,Getz,GLI,2010,1,190000,1.4,97,Gasoline,Automatic,FWD,Silver,8000
+Hyundai,I30,Inspire,2008,3,153000,1.6,126,Gasoline,Automatic,FWD,Beige,14500
+Hyundai,Sonata,Limited,2021,1,33000,2.0,192,Hybrid,Automatic,FWD,Silver,140000
+Hyundai,I20,,2010,4,258000,1.4,100,Gasoline,Automatic,FWD,Beige,16500
+Hyundai,Getz,,2008,4,265000,1.4,97,Gasoline,Manual,FWD,Black,10000
+Hyundai,Tucson,Luxury,2021,1,70000,1.6,180,Gasoline,Robotic,FWD,White,135000
+Hyundai,Ioniq,Premium,2019,3,112000,1.6,141,Hybrid,Robotic,FWD,Silver,70000
+Hyundai,Santa Fe,,2011,2,245045,2.2,197,Diesel,Automatic,AWD,White,52000
+Hyundai,I20,Prestige,2022,1,24000,1.0,100,Gasoline,Robotic,FWD,White,91000
+Hyundai,I25,Inspire,2016,2,200000,1.6,124,Gasoline,Automatic,FWD,White,30000
+Hyundai,I10,Premium,2016,3,180000,1.0,67,Gasoline,Automatic,FWD,Black,30000
+Hyundai,I20,,2019,3,95300,1.0,100,Gasoline,Robotic,FWD,Black,64000
+Hyundai,Accent,GL,2009,4,190000,1.4,97,Gasoline,Automatic,FWD,Bronze,9500
+Hyundai,I30,Premium,2018,2,140000,1.4,140,Gasoline,Robotic,FWD,White,54900
+Hyundai,I30,Premium,2015,3,176000,1.6,135,Gasoline,Automatic,FWD,Black,33000
+Hyundai,Ioniq,Supreme,2020,1,88000,1.6,141,Hybrid,Robotic,FWD,Silver,115000
+Hyundai,Ioniq,,2019,2,147000,1.6,141,Hybrid,Robotic,FWD,Silver,75000
+Hyundai,Getz,GLI,2010,1,190000,1.4,97,Gasoline,Automatic,FWD,Silver,8000
+Hyundai,Tucson,,2018,2,113000,2.0,155,Gasoline,Robotic,FWD,Black,98000
+Hyundai,Elantra,Supreme,2023,1,25000,1.6,139,Hybrid,Robotic,FWD,White,143200
+Hyundai,Tucson,Prime,2016,3,119500,1.6,132,Gasoline,Automatic,FWD,Silver,53000
+Hyundai,I25,Inspire,2012,3,223125,1.4,109,Gasoline,Automatic,FWD,White,19800
+Hyundai,I30,Inspire,2012,2,170000,1.6,135,Gasoline,Automatic,FWD,Blue,30000
+Hyundai,Kona,Prime,2021,2,65000,1.6,198,Gasoline,Robotic,FWD,Black,86000
+Hyundai,I800,,2002,4,356679,2.5,101,Diesel,Manual,RWD,Grey,6500
+Hyundai,Getz,GLF,2006,3,281000,1.3,82,Gasoline,Automatic,FWD,Blue,6500
+Hyundai,Ioniq,Supreme,2019,2,86000,1.6,141,Hybrid,Robotic,FWD,Silver,95000
+Hyundai,Santa Fe,Luxury,2008,4,220000,2.7,189,Gasoline,Automatic,AWD,White,25000
+Hyundai,I20,Prestige,2019,1,32000,1.0,100,Gasoline,Robotic,FWD,Grey,78000
+Hyundai,I35,Supreme,2015,3,178000,1.6,132,Gasoline,Automatic,FWD,Blue,37750
+Hyundai,I30,Inspire,2008,3,173187,1.6,126,Gasoline,Automatic,FWD,Grey,15000
+Hyundai,I800,,2002,4,356679,2.5,101,Diesel,Manual,RWD,Grey,6500
+Hyundai,Getz,GLF,2006,3,281000,1.3,82,Gasoline,Automatic,FWD,Blue,6500
+Hyundai,Ioniq,Supreme,2019,2,86000,1.6,141,Hybrid,Robotic,FWD,Silver,95000
+Hyundai,Santa Fe,Luxury,2008,4,220000,2.7,189,Gasoline,Automatic,AWD,White,25000
+Hyundai,I20,Prestige,2019,1,32000,1.0,100,Gasoline,Robotic,FWD,Grey,78000
+Hyundai,I35,Supreme,2015,3,178000,1.6,132,Gasoline,Automatic,FWD,Blue,37750
+Hyundai,I30,Inspire,2008,3,173187,1.6,126,Gasoline,Automatic,FWD,Grey,15000
+Hyundai,I800,,2011,3,433000,2.5,136,Diesel,Manual,RWD,Silver,36000
+Hyundai,Sonata,Premium,2016,2,170000,2.0,193,Hybrid,Automatic,FWD,Grey,54000
+Hyundai,Tucson,Premium,2017,2,67000,2.0,155,Gasoline,Robotic,FWD,White,78000
+Hyundai,Galloper,,1999,4,290000,2.5,105,Diesel,Automatic,AWD,Green,16000
+Hyundai,I30,,2010,4,210500,1.6,126,Gasoline,Automatic,FWD,White,19999
+Hyundai,I30,Inspire SW 1.6,2013,3,230000,1.6,135,Gasoline,Automatic,FWD,White,18000
+Hyundai,I30,Inspire SW 1.6,2013,4,210000,1.6,135,Gasoline,Automatic,FWD,Blue,22000
+Hyundai,Sonata,Prestige,2022,1,85750,2.0,192,Hybrid,Automatic,FWD,Black,137000
+Hyundai,I20,,2012,2,113000,1.4,100,Gasoline,Automatic,FWD,Light blue,26000
+Hyundai,I30,Inspire,2014,3,311259,1.6,135,Gasoline,Automatic,FWD,White,30000
+Hyundai,Elantra,,2017,3,113000,1.6,128,Gasoline,Automatic,FWD,White,50900
+Hyundai,Ioniq,Premium,2018,2,102000,1.6,141,Hybrid,Robotic,FWD,Silver,74000
+Hyundai,I30,Inspire SW 1.6,2013,2,303000,1.6,135,Gasoline,Automatic,FWD,Grey,18000
+Hyundai,I20,Prestige,2022,1,24000,1.0,100,Gasoline,Robotic,FWD,White,91000
+Hyundai,I25,Inspire,2016,2,200000,1.6,124,Gasoline,Automatic,FWD,White,30000
+Hyundai,I10,Premium,2016,3,180000,1.0,67,Gasoline,Automatic,FWD,Black,30000
+Hyundai,I20,,2019,3,95300,1.0,100,Gasoline,Robotic,FWD,Black,64000
+Hyundai,Accent,GL,2009,4,190000,1.4,97,Gasoline,Automatic,FWD,Bronze,9500
+Hyundai,I30,Premium,2018,2,140000,1.4,140,Gasoline,Robotic,FWD,White,54900
+Hyundai,I30,Premium,2015,3,176000,1.6,135,Gasoline,Automatic,FWD,Black,33000
+Hyundai,Ioniq,Supreme,2020,1,88000,1.6,141,Hybrid,Robotic,FWD,Silver,115000
+Hyundai,Ioniq,,2019,2,147000,1.6,141,Hybrid,Robotic,FWD,Silver,75000
+Hyundai,Getz,GLI,2010,1,190000,1.4,97,Gasoline,Automatic,FWD,Silver,8000
+Hyundai,I10,Prime,2022,2,39000,1.2,84,Gasoline,Robotic,FWD,White,70000
+Hyundai,Kona Ev,,2023,1,30000,,136,Electro,Automatic,FWD,Black,122000
+Hyundai,Tucson,Panoramic,2021,2,38000,2.0,156,Gasoline,Automatic,FWD,White,115000
+Hyundai,Ioniq 5,Elite,2022,2,88000,,217,Electro,Automatic,RWD,Black,190000
+Hyundai,Sonata,Limited,2020,1,74000,2.0,192,Hybrid,Automatic,FWD,Blue,143000
+Hyundai,I25,Inspire,2018,2,140000,1.4,100,Gasoline,Automatic,FWD,White,45000
+Hyundai,Sonata,Premium,2019,2,177800,2.0,193,Hybrid,Automatic,FWD,Grey,85000
+Hyundai,I10,Inspire,2016,4,90000,1.0,67,Gasoline,Automatic,FWD,Orange,33995
+Hyundai,I35,Inspire,2014,1,190000,1.6,132,Gasoline,Automatic,FWD,White,35000
+Hyundai,I10,Prime,2018,2,48000,1.2,87,Gasoline,Automatic,FWD,Black,47000
+Hyundai,Ioniq,Premium,2021,1,95000,1.6,141,Hybrid,Robotic,FWD,White,90000
+Hyundai,Tucson,Panoramic,2021,3,50000,1.6,180,Gasoline,Robotic,FWD,White,124000
+Hyundai,I10,Prime,2018,2,69198,1.2,87,Gasoline,Automatic,FWD,Silver,35000
+Hyundai,I30,Inspire SW 1.6,2014,3,203000,1.6,135,Gasoline,Automatic,FWD,Silver,25000
+Hyundai,I10,GL,2009,3,232000,1.2,78,Gasoline,Automatic,FWD,Beige,9000
+Hyundai,Ioniq,Premium,2020,2,150000,1.6,141,Hybrid,Robotic,FWD,White,92000
+Hyundai,Sonata,Limited,2018,3,160000,2.0,193,Hybrid,Automatic,FWD,Blue,73000
+Hyundai,Santa Fe,Executive,2012,2,159000,2.4,174,Gasoline,Automatic,AWD,Silver,42000
+Hyundai,Ioniq,Premium,2021,4,80200,1.6,141,Hybrid,Robotic,FWD,Silver,105000
+Hyundai,I10,,2014,4,140000,1.0,67,Gasoline,Automatic,FWD,White,27000
+Hyundai,Tucson,,2018,2,113000,2.0,155,Gasoline,Robotic,FWD,Black,98000
+Hyundai,Elantra,Supreme,2023,1,25000,1.6,139,Hybrid,Robotic,FWD,White,143200
+Hyundai,Tucson,Prime,2016,3,119500,1.6,132,Gasoline,Automatic,FWD,Silver,53000
+Hyundai,I800,,2002,4,356679,2.5,101,Diesel,Manual,RWD,Grey,6500
+Hyundai,Getz,GLF,2006,3,281000,1.3,82,Gasoline,Automatic,FWD,Blue,6500
+Hyundai,Ioniq,Supreme,2019,2,86000,1.6,141,Hybrid,Robotic,FWD,Silver,95000
+Hyundai,Santa Fe,Luxury,2008,4,220000,2.7,189,Gasoline,Automatic,AWD,White,25000
+Hyundai,I20,Prestige,2019,1,32000,1.0,100,Gasoline,Robotic,FWD,Grey,78000
+Hyundai,I35,Supreme,2015,3,178000,1.6,132,Gasoline,Automatic,FWD,Blue,37750
+Hyundai,I30,Inspire,2008,3,173187,1.6,126,Gasoline,Automatic,FWD,Grey,15000
+Hyundai,Ioniq,Premium,2019,2,144000,1.6,141,Hybrid,Robotic,FWD,Grey,70000
+Hyundai,Ioniq,Supreme,2019,1,115000,1.6,141,Hybrid,Robotic,FWD,Silver,90000
+Hyundai,I25,Inspire,2012,3,273000,1.4,109,Gasoline,Automatic,FWD,Grey,20000
+Hyundai,Tucson,Supreme,2017,3,187000,2.0,155,Gasoline,Robotic,FWD,White,82500
+Hyundai,I35,,2013,3,238000,1.6,132,Gasoline,Automatic,FWD,Silver,26500
+Hyundai,I35,Supreme,2015,1,108600,1.6,132,Gasoline,Automatic,FWD,Blue,45000
+Hyundai,Sonata,Limited,2022,1,66000,2.0,192,Hybrid,Automatic,FWD,Black,155000
+Hyundai,Tucson,Supreme,2016,3,122255,2.0,155,Gasoline,Robotic,FWD,White,82000
+Hyundai,I30,Inspire,2010,3,290000,1.6,126,Gasoline,Automatic,FWD,Black,14800
+Hyundai,Kona Ev,EV,2022,1,56000,,136,Electro,Automatic,FWD,Grey,114000
+Hyundai,Tucson,Premium,2017,2,112000,2.0,155,Gasoline,Automatic,FWD,White,74000
+Hyundai,I25,Inspire,2013,3,247000,1.4,109,Gasoline,Automatic,FWD,Light Grey,23000
+Hyundai,Elantra,GLS,2004,3,184000,1.6,107,Gasoline,Automatic,FWD,Green,6000
+Hyundai,I20,Instyle,2012,2,135000,1.4,100,Gasoline,Automatic,FWD,Black,21000
+Hyundai,I10,Prime,2020,1,38000,1.2,84,Gasoline,Robotic,FWD,Black,68000
+Hyundai,Santa Fe,Supreme,2013,3,185000,2.2,197,Diesel,Automatic,AWD,Blue,60000
+Hyundai,Veloster,,2011,3,182000,1.6,140,Gasoline,Robotic,FWD,Orange,24950
+Hyundai,Sonata,Limited,2016,3,220221,2.0,193,Hybrid,Automatic,FWD,White,70000
+Hyundai,Ix35,Inspire,2011,3,165000,2.0,163,Gasoline,Automatic,FWD,White,35000
+Hyundai,I25,Inspire,2016,2,238000,1.4,100,Gasoline,Automatic,FWD,Silver,30000
+Hyundai,I800,,2011,3,433000,2.5,136,Diesel,Manual,RWD,Silver,36000
+Hyundai,Sonata,Premium,2016,2,170000,2.0,193,Hybrid,Automatic,FWD,Grey,54000
+Hyundai,Tucson,Premium,2017,2,67000,2.0,155,Gasoline,Robotic,FWD,White,78000
+Hyundai,Galloper,,1999,4,290000,2.5,105,Diesel,Automatic,AWD,Green,16000
+Hyundai,I30,,2010,4,210500,1.6,126,Gasoline,Automatic,FWD,White,19999
+Hyundai,I30,Inspire SW 1.6,2013,3,230000,1.6,135,Gasoline,Automatic,FWD,White,18000
+Hyundai,I30,Inspire SW 1.6,2013,4,210000,1.6,135,Gasoline,Automatic,FWD,Blue,22000
+Hyundai,Sonata,Prestige,2022,1,85750,2.0,192,Hybrid,Automatic,FWD,Black,137000
+Hyundai,I20,,2012,2,113000,1.4,100,Gasoline,Automatic,FWD,Light blue,26000
+Hyundai,I30,Inspire,2014,3,311259,1.6,135,Gasoline,Automatic,FWD,White,30000
+Hyundai,I30,Inspire SW 1.6,2016,1,171000,1.6,135,Gasoline,Automatic,FWD,White,42000
+Hyundai,Tucson,Open Sky,2016,2,121000,2.0,155,Gasoline,Robotic,FWD,Brown,75000
+Hyundai,Tucson,Open Sky,2016,1,189000,2.0,155,Gasoline,Robotic,FWD,Blue,69000
+Hyundai,I10,,2015,2,128000,1.0,67,Gasoline,Automatic,FWD,Grey,37500
+Hyundai,I25,Inspire,2011,2,201000,1.6,124,Gasoline,Automatic,FWD,White,17000
+Hyundai,I25,Premium,2012,4,180000,1.6,124,Gasoline,Automatic,FWD,Silver,29000
+Hyundai,Elantra,Supreme,2022,1,46000,1.6,139,Hybrid,Robotic,FWD,Grey,122000
+Hyundai,Accent,GLS,2008,1,270000,1.6,112,Gasoline,Automatic,FWD,Light blue,8500
+Hyundai,I20,GLI,2010,3,197000,1.4,100,Gasoline,Automatic,FWD,Grey,16000
+Hyundai,I10,Prime,2021,1,70000,1.2,84,Gasoline,Robotic,FWD,Black,61000
+Hyundai,I10,Premium,2015,4,209727,1.0,67,Gasoline,Automatic,FWD,Red,24150
+Hyundai,Tucson,Luxury,2022,1,53000,1.6,180,Gasoline,Robotic,FWD,White,137000
+Hyundai,H350,,2018,2,264876,2.5,170,Diesel,Manual,RWD,White,75000
+Hyundai,Veloster,Inspire,2015,2,91000,1.6,140,Gasoline,Robotic,FWD,Orange,40000
+Hyundai,I30,Inspire SW,2011,3,235000,1.6,126,Gasoline,Automatic,FWD,Blue,16500
+Hyundai,Ioniq,Premium,2019,1,146000,1.6,141,Hybrid,Robotic,FWD,Grey,78000
+Hyundai,I30,Inspire,2009,4,212000,1.6,126,Gasoline,Automatic,FWD,Grey,11000
+Hyundai,I35,Inspire,2013,2,300000,1.6,132,Gasoline,Automatic,FWD,Silver,23000
+Hyundai,Tucson,Premium,2016,3,113000,2.0,155,Gasoline,Robotic,FWD,Beige,65000
+Hyundai,I10,Prime,2021,1,30032,1.2,84,Gasoline,Robotic,FWD,Silver,67000
+Hyundai,Elantra,,2017,3,113000,1.6,128,Gasoline,Automatic,FWD,White,50900
+Hyundai,Ioniq,Premium,2018,2,102000,1.6,141,Hybrid,Robotic,FWD,Silver,74000
+Hyundai,I30,Inspire SW 1.6,2013,2,303000,1.6,135,Gasoline,Automatic,FWD,Grey,18000
+Hyundai,I10,Prime,2022,2,39000,1.2,84,Gasoline,Robotic,FWD,White,70000
+Hyundai,Kona Ev,,2023,1,30000,,136,Electro,Automatic,FWD,Black,122000
+Hyundai,Tucson,Panoramic,2021,2,38000,2.0,156,Gasoline,Automatic,FWD,White,115000
+Hyundai,Ioniq 5,Elite,2022,2,88000,,217,Electro,Automatic,RWD,Black,190000
+Hyundai,Sonata,Limited,2020,1,74000,2.0,192,Hybrid,Automatic,FWD,Blue,143000
+Hyundai,I25,Inspire,2018,2,140000,1.4,100,Gasoline,Automatic,FWD,White,45000
+Hyundai,Sonata,Premium,2019,2,177800,2.0,193,Hybrid,Automatic,FWD,Grey,85000
+Hyundai,Santa Fe,Premium,2015,3,79000,2.4,192,Gasoline,Automatic,AWD,Blue,80000
+Hyundai,Bayon,Supreme,2023,2,10600,1.0,120,Gasoline,Robotic,FWD,Silver,120000
+Hyundai,Getz,GLF,2008,3,243000,1.4,97,Gasoline,Automatic,FWD,Silver,7499
+Hyundai,Tucson,Premium,2016,1,138000,2.0,155,Gasoline,Robotic,FWD,White,63000
+Hyundai,I10,Prime,2018,2,173000,1.2,87,Gasoline,Automatic,FWD,Black,40000
+Hyundai,Kona Ev,EV,2022,1,52000,,136,Electro,Automatic,FWD,Grey,116000
+Hyundai,Tucson,Elite,2020,3,75000,2.0,155,Gasoline,Automatic,FWD,Black,110000
+Hyundai,Elantra,Supreme,2022,1,59000,1.6,139,Hybrid,Robotic,FWD,Grey,124000
+Hyundai,I10,Inspire,2020,1,58000,1.2,84,Gasoline,Robotic,FWD,Grey,63000
+Hyundai,I30,,2008,4,183000,1.6,126,Gasoline,Automatic,FWD,Blue,15000
+Hyundai,Ioniq,Premium,2017,1,149000,1.6,141,Hybrid,Robotic,FWD,Black,65000
+Hyundai,I25,Inspire,2016,2,210000,1.4,100,Gasoline,Automatic,FWD,White,30000
+Hyundai,Ioniq,Premium,2020,1,151000,1.6,141,Hybrid,Robotic,FWD,White,82000
+Hyundai,Tucson,Panoramic,2018,3,85000,2.0,155,Gasoline,Automatic,FWD,Black,87000
+Hyundai,Santa Fe,Supreme,2015,3,105000,2.4,192,Gasoline,Automatic,AWD,White,78999
+Hyundai,I35,Inspire,2013,4,236500,1.6,132,Gasoline,Automatic,FWD,White,25500
+Hyundai,Ioniq,Premium,2020,2,62000,1.6,141,Hybrid,Robotic,FWD,Grey,115000
+Hyundai,Sonata,,2006,4,266000,2.4,161,Gasoline,Automatic,FWD,Light Grey,6000
+Hyundai,Ioniq,Premium,2019,1,108000,1.6,141,Hybrid,Robotic,FWD,Silver,77000
+Hyundai,I20,Inspire,2015,3,192000,1.4,100,Gasoline,Automatic,FWD,Grey,30000
+Hyundai,I10,Inspire,2016,4,90000,1.0,67,Gasoline,Automatic,FWD,Orange,33995
+Hyundai,I35,Inspire,2014,1,190000,1.6,132,Gasoline,Automatic,FWD,White,35000
+Hyundai,I10,Prime,2018,2,48000,1.2,87,Gasoline,Automatic,FWD,Black,47000
+Hyundai,Ioniq,Premium,2021,1,95000,1.6,141,Hybrid,Robotic,FWD,White,90000
+Hyundai,Tucson,Panoramic,2021,3,50000,1.6,180,Gasoline,Robotic,FWD,White,124000
+Hyundai,I10,Prime,2018,2,69198,1.2,87,Gasoline,Automatic,FWD,Silver,35000
+Hyundai,I30,Inspire SW 1.6,2014,3,203000,1.6,135,Gasoline,Automatic,FWD,Silver,25000
+Hyundai,I10,GL,2009,3,232000,1.2,78,Gasoline,Automatic,FWD,Beige,9000
+Hyundai,Ioniq,Premium,2020,2,150000,1.6,141,Hybrid,Robotic,FWD,White,92000
+Hyundai,Sonata,Limited,2018,3,160000,2.0,193,Hybrid,Automatic,FWD,Blue,73000
+Hyundai,I20,Intense,2021,3,73300,1.0,100,Gasoline,Robotic,FWD,Black,65000
+Hyundai,Tucson,Luxury,2018,2,103000,1.6,177,Gasoline,Robotic,FWD,Beige,93000
+Hyundai,Ioniq,Premium,2017,2,145000,1.6,141,Hybrid,Robotic,FWD,Grey,70000
+Hyundai,Sonata,Limited,2017,3,144000,2.0,193,Hybrid,Automatic,FWD,White,78000
+Hyundai,I20,GLI,2010,4,240000,1.4,100,Gasoline,Automatic,FWD,Blue,9000
+Hyundai,Ioniq,Premium,2019,2,179000,1.6,141,Hybrid,Robotic,FWD,White,79000
+Hyundai,I25,Premium,2013,1,179000,1.6,124,Gasoline,Automatic,FWD,Silver,31999
+Hyundai,I20,Insight,2014,4,160000,1.2,85,Gasoline,Manual,FWD,White,13000
+Hyundai,I10,GL,2009,4,170000,1.2,78,Gasoline,Automatic,FWD,Light blue,13500
+Hyundai,I20,Prestige,2022,2,15000,1.0,100,Gasoline,Robotic,FWD,Blue,97000
+Hyundai,Santa Fe,Executive,2008,3,242000,2.7,189,Gasoline,Automatic,AWD,White,25000
+Hyundai,Ioniq 5,,2024,1,80000,,228,Electro,Automatic,RWD,Grey,152000
+Hyundai,I30,Inspire,2008,4,250123,1.6,126,Gasoline,Automatic,FWD,Beige,12000
+Hyundai,Getz,GL,2004,4,230000,1.3,82,Gasoline,Automatic,FWD,Silver,4800
+Hyundai,Ioniq,Premium,2019,2,129000,1.6,141,Hybrid,Robotic,FWD,White,80000
+Hyundai,I30,Inspire SW,2010,2,322900,1.6,126,Gasoline,Automatic,FWD,Grey,11000
+Hyundai,Tucson,Prime Plus,2018,3,118000,2.0,155,Gasoline,Robotic,FWD,White,71000
+Hyundai,Ioniq,Premium,2019,2,157000,1.6,141,Hybrid,Robotic,FWD,Silver,78000
+Hyundai,I30,Inspire,2010,3,200000,1.6,126,Gasoline,Automatic,FWD,Silver,22000
+Hyundai,I25,,2013,4,209000,1.4,109,Gasoline,Automatic,FWD,White,21000
+Hyundai,Santa Fe,Executive,2012,2,159000,2.4,174,Gasoline,Automatic,AWD,Silver,42000
+Hyundai,Ioniq,Premium,2021,4,80200,1.6,141,Hybrid,Robotic,FWD,Silver,105000
+Hyundai,I10,,2014,4,140000,1.0,67,Gasoline,Automatic,FWD,White,27000
+Hyundai,Ioniq,Premium,2019,2,144000,1.6,141,Hybrid,Robotic,FWD,Grey,70000
+Hyundai,Ioniq,Supreme,2019,1,115000,1.6,141,Hybrid,Robotic,FWD,Silver,90000
+Hyundai,I25,Inspire,2012,3,273000,1.4,109,Gasoline,Automatic,FWD,Grey,20000
+Hyundai,Tucson,Supreme,2017,3,187000,2.0,155,Gasoline,Robotic,FWD,White,82500
+Hyundai,I35,,2013,3,238000,1.6,132,Gasoline,Automatic,FWD,Silver,26500
+Hyundai,I35,Supreme,2015,1,108600,1.6,132,Gasoline,Automatic,FWD,Blue,45000
+Hyundai,Sonata,Limited,2022,1,66000,2.0,192,Hybrid,Automatic,FWD,Black,155000
+Hyundai,Elantra,N Line,2022,2,53000,1.6,201,Gasoline,Robotic,FWD,Light Grey,165000
+Hyundai,Tucson,Prime,2016,1,120000,1.6,132,Gasoline,Automatic,FWD,White,68000
+Hyundai,I25,Inspire,2015,4,177000,1.6,124,Gasoline,Automatic,FWD,Silver,31500
+Hyundai,I10,Prime,2021,1,70000,1.2,84,Gasoline,Robotic,FWD,Black,60000
+Hyundai,Tucson,,2023,1,11700,1.6,180,Gasoline,Robotic,FWD,Black,159000
+Hyundai,I25,,2016,3,200000,1.6,124,Gasoline,Automatic,FWD,White,35400
+Hyundai,Tucson,SE,2008,2,185000,2.7,175,Gasoline,Automatic,AWD,Black,16500
+Hyundai,I30,Inspire,2010,4,280000,1.6,126,Gasoline,Automatic,FWD,Grey,13000
+Hyundai,Sonata,Limited,2017,3,125000,2.0,193,Hybrid,Automatic,FWD,Black,85000
+Hyundai,Tucson,Luxury,2019,2,130000,1.6,177,Gasoline,Robotic,FWD,Grey,100000
+Hyundai,I30,Inspire SW 1.6,2012,2,217000,1.6,135,Gasoline,Automatic,FWD,White,26000
+Hyundai,Ioniq,Premium,2018,2,96000,1.6,141,Hybrid,Robotic,FWD,Silver,85000
+Hyundai,Accent,Inspire 1.6,2020,1,81000,1.4,123,Gasoline,Automatic,FWD,Grey,67000
+Hyundai,Sonata,Premium,2018,2,200000,2.0,193,Hybrid,Automatic,FWD,White,85000
+Hyundai,Tucson,Luxury,2018,2,95000,1.6,177,Gasoline,Robotic,FWD,Beige,95000
+Hyundai,Tucson,Prime Plus,2019,2,31500,2.0,155,Gasoline,Automatic,FWD,White,92000
+Hyundai,Ioniq,Premium,2022,2,66000,1.6,141,Hybrid,Robotic,FWD,White,105000
+Hyundai,I20,Supreme,2020,1,80000,1.0,100,Gasoline,Robotic,FWD,Black,73000
+Hyundai,Bayon,Premium,2023,1,19000,1.0,100,Gasoline,Robotic,FWD,Black,113000
+Hyundai,I25,Premium,2011,3,160000,1.6,124,Gasoline,Automatic,FWD,Bronze,24000
+Hyundai,Tucson,Supreme,2016,3,122255,2.0,155,Gasoline,Robotic,FWD,White,82000
+Hyundai,I30,Inspire,2010,3,290000,1.6,126,Gasoline,Automatic,FWD,Black,14800
+Hyundai,Kona Ev,EV,2022,1,56000,,136,Electro,Automatic,FWD,Grey,114000
+Hyundai,Tucson,Premium,2017,2,112000,2.0,155,Gasoline,Automatic,FWD,White,74000
+Hyundai,I25,Inspire,2013,3,247000,1.4,109,Gasoline,Automatic,FWD,Light Grey,23000
+Hyundai,Elantra,GLS,2004,3,184000,1.6,107,Gasoline,Automatic,FWD,Green,6000
+Hyundai,I20,Instyle,2012,2,135000,1.4,100,Gasoline,Automatic,FWD,Black,21000
+Hyundai,I10,Prime,2020,1,38000,1.2,84,Gasoline,Robotic,FWD,Black,68000
+Hyundai,Santa Fe,Supreme,2013,3,185000,2.2,197,Diesel,Automatic,AWD,Blue,60000
+Hyundai,Veloster,,2011,3,182000,1.6,140,Gasoline,Robotic,FWD,Orange,24950
+Hyundai,Sonata,Limited,2016,2,68900,2.0,193,Hybrid,Automatic,FWD,White,79500
+Hyundai,Ix35,Supreme,2012,2,211000,2.0,163,Gasoline,Automatic,FWD,Green,41000
+Hyundai,Venue,Premium,2021,2,63000,1.6,123,Gasoline,Variable,FWD,Blue,80000
+Hyundai,I10,Prime,2018,2,100000,1.2,87,Gasoline,Automatic,FWD,Silver,42000
+Hyundai,I20,GLI,2010,4,152135,1.4,100,Gasoline,Automatic,FWD,Black,19000
+Hyundai,Getz,GLI,2009,3,180000,1.4,97,Gasoline,Automatic,FWD,Light blue,7000
+Hyundai,I25,Inspire,2018,2,150000,1.4,100,Gasoline,Automatic,FWD,White,50000
+Hyundai,I10,Inspire,2018,2,57000,1.2,87,Gasoline,Automatic,FWD,Red,55400
+Hyundai,I30,Inspire,2010,4,260000,1.6,126,Gasoline,Automatic,FWD,Light blue,10500
+Hyundai,Ix35,Inspire,2012,3,177000,2.0,163,Gasoline,Automatic,FWD,Silver,47000
+Hyundai,Santa Fe,Executive,2011,4,223000,2.4,174,Gasoline,Automatic,AWD,White,37000
+Hyundai,I10,Prime,2018,2,129800,1.2,87,Gasoline,Automatic,FWD,White,45000
+Hyundai,I10,Supreme,2016,4,114000,1.2,87,Gasoline,Automatic,FWD,Silver,32000
+Hyundai,I10,Premium TLV,2017,2,112000,1.0,66,Gasoline,Automatic,FWD,White,30000
+Hyundai,Ioniq,Premium,2018,2,124000,1.6,141,Hybrid,Robotic,FWD,White,75000
+Hyundai,Ioniq,Premium,2019,1,123000,1.6,141,Hybrid,Robotic,FWD,White,78000
+Hyundai,Ioniq,Premium,2020,3,100000,1.6,141,Hybrid,Robotic,FWD,Brown,100000
+Hyundai,Tucson,Prime,2016,1,185000,1.6,132,Gasoline,Automatic,FWD,White,58000
+Hyundai,I30,Inspire SW 1.6,2013,3,141000,1.6,135,Gasoline,Automatic,FWD,Silver,29600
+Hyundai,I30,Inspire,2010,3,250000,1.6,126,Gasoline,Automatic,FWD,Silver,15500
+Hyundai,Sonata,Limited,2016,3,220221,2.0,193,Hybrid,Automatic,FWD,White,70000
+Hyundai,Ix35,Inspire,2011,3,165000,2.0,163,Gasoline,Automatic,FWD,White,35000
+Hyundai,I25,Inspire,2016,2,238000,1.4,100,Gasoline,Automatic,FWD,Silver,30000
+Hyundai,I30,Inspire SW 1.6,2016,1,171000,1.6,135,Gasoline,Automatic,FWD,White,42000
+Hyundai,Tucson,Open Sky,2016,2,121000,2.0,155,Gasoline,Robotic,FWD,Brown,75000
+Hyundai,Tucson,Open Sky,2016,1,189000,2.0,155,Gasoline,Robotic,FWD,Blue,69000
+Hyundai,I10,,2015,2,128000,1.0,67,Gasoline,Automatic,FWD,Grey,37500
+Hyundai,I25,Inspire,2011,2,201000,1.6,124,Gasoline,Automatic,FWD,White,17000
+Hyundai,I25,Premium,2012,4,180000,1.6,124,Gasoline,Automatic,FWD,Silver,29000
+Hyundai,Elantra,Supreme,2022,1,46000,1.6,139,Hybrid,Robotic,FWD,Grey,122000
+Hyundai,Tucson,Panoramic,2020,2,16000,2.0,155,Gasoline,Automatic,FWD,Black,120000
+Hyundai,Ioniq,Supreme,2019,2,125000,1.6,141,Hybrid,Robotic,FWD,White,82000
+Hyundai,I20,,2014,2,199427,1.4,100,Gasoline,Automatic,FWD,White,20500
+Hyundai,Palisade,Luxury,2022,1,33000,3.8,291,Gasoline,Automatic,AWD,White,235000
+Hyundai,Ioniq,Premium,2020,1,130000,1.6,141,Hybrid,Robotic,FWD,Silver,113000
+Hyundai,I10,,2017,3,117000,1.2,87,Gasoline,Automatic,FWD,Silver,38000
+Hyundai,Ioniq,Premium,2017,3,192000,1.6,141,Hybrid,Robotic,FWD,Grey,56000
+Hyundai,Sonata,Limited,2020,1,83000,2.0,192,Hybrid,Automatic,FWD,White,136000
+Hyundai,I800,,2018,1,90400,2.5,170,Diesel,Automatic,RWD,Black,117000
+Hyundai,Ioniq,Premium,2018,2,159000,1.6,141,Hybrid,Robotic,FWD,White,69000
+Hyundai,Tucson,Elite,2019,2,102000,2.0,155,Gasoline,Automatic,FWD,Silver,90400
+Hyundai,Ioniq,Premium,2019,2,140000,1.6,141,Hybrid,Robotic,FWD,White,78000
+Hyundai,I20,GLI,2011,3,186000,1.4,100,Gasoline,Automatic,FWD,White,15000
+Hyundai,Accent,GL,2008,3,245000,1.4,97,Gasoline,Automatic,FWD,White,5500
+Hyundai,Accent,Inspire 1.6,2019,2,149000,1.4,123,Gasoline,Automatic,FWD,Grey,58000
+Hyundai,Tucson,Panoramic,2019,3,53000,2.0,155,Gasoline,Automatic,FWD,White,95000
+Hyundai,Santa Fe,Executive,2009,2,150000,2.7,189,Gasoline,Automatic,AWD,Black,39000
+Hyundai,Tucson,GLS,2005,4,171000,2.7,175,Gasoline,Automatic,AWD,Beige,9500
+Hyundai,I20,Inspire,2011,3,180000,1.4,100,Gasoline,Automatic,FWD,Grey,21000
+Hyundai,Getz,GL,2005,3,161000,1.3,82,Gasoline,Automatic,FWD,Silver,7000
+Hyundai,Accent,GLS,2008,1,270000,1.6,112,Gasoline,Automatic,FWD,Light blue,8500
+Hyundai,I20,GLI,2010,3,197000,1.4,100,Gasoline,Automatic,FWD,Grey,16000
+Hyundai,I10,Prime,2021,1,70000,1.2,84,Gasoline,Robotic,FWD,Black,61000
+Hyundai,I10,Premium,2015,4,209727,1.0,67,Gasoline,Automatic,FWD,Red,24150
+Hyundai,Tucson,Luxury,2022,1,53000,1.6,180,Gasoline,Robotic,FWD,White,137000
+Hyundai,H350,,2018,2,264876,2.5,170,Diesel,Manual,RWD,White,75000
+Hyundai,Veloster,Inspire,2015,2,91000,1.6,140,Gasoline,Robotic,FWD,Orange,40000
+Hyundai,I30,Inspire SW,2011,3,235000,1.6,126,Gasoline,Automatic,FWD,Blue,16500
+Hyundai,Ioniq,Premium,2019,1,146000,1.6,141,Hybrid,Robotic,FWD,Grey,78000
+Hyundai,I30,Inspire,2009,4,212000,1.6,126,Gasoline,Automatic,FWD,Grey,11000

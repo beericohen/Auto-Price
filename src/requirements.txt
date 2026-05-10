@@ -1,9 +1,10 @@
 pandas
 beautifulsoup4
-requests
+selenium
 matplotlib
 seaborn
 Scikit-Learn
 joblib
 xgboost
 streamlit
+

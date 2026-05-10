@@ -8,11 +8,21 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from threading import Lock
 
 from path import *
 
 MANUFACTURERS = ['kia', 'toyota', 'hyundai', 'skoda', 'mazda', 'nissan', 'chevrolet', 'honda', 'mitsubishi', 'peugeot', 'suzuki', 'audi', 'ford', 'subaru']
 PAGES_PER_MANUFACTURER = 30
+NUM_THREADS = 3  # number of parallel browsers
+
+# lock for thread-safe printing
+print_lock = Lock()
+
+def safe_print(*args):
+    with print_lock:
+        print(*args)
 
 
 def create_driver():
@@ -99,7 +109,7 @@ def scrape_ad(driver, url):
             btn.click()
             time.sleep(1)
         except:
-            pass  # some ads may not have the button
+            pass
 
         soup_after = BeautifulSoup(driver.page_source, 'html.parser')
 
@@ -113,8 +123,8 @@ def scrape_ad(driver, url):
         engine_liters, horsepower, fuel = None, None, None
         if engine_str:
             engine_match = re.search(r'(\d+\.\d+)', engine_str)
-            hp_match = re.search(r'(\d+)\s*hp', engine_str)
-            fuel_match = re.search(r'hp\s*/\s*(\w+)', engine_str)
+            hp_match     = re.search(r'(\d+)\s*hp', engine_str)
+            fuel_match   = re.search(r'hp\s*/\s*(\w+)', engine_str)
             engine_liters = float(engine_match.group(1)) if engine_match else None
             horsepower    = int(hp_match.group(1))       if hp_match     else None
             fuel          = fuel_match.group(1)           if fuel_match   else None
@@ -136,50 +146,64 @@ def scrape_ad(driver, url):
         }
 
     except Exception as e:
-        print(f'error scraping {url}: {e}')
+        safe_print(f'error scraping {url}: {e}')
         return None
+
+
+def scrape_manufacturer(manufacturer):
+    # each thread gets its own driver
+    driver = create_driver()
+    results = []
+
+    try:
+        for page in range(1, PAGES_PER_MANUFACTURER + 1):
+            safe_print(f'[{manufacturer.upper()}] page {page}/{PAGES_PER_MANUFACTURER}...')
+
+            ad_links = get_ad_links(driver, manufacturer, page)
+            safe_print(f'[{manufacturer.upper()}] found {len(ad_links)} ads on page {page}')
+
+            for ad_url in ad_links:
+                result = scrape_ad(driver, ad_url)
+                if result:
+                    results.append(result)
+                time.sleep(0.5)
+
+            safe_print(f'[{manufacturer.upper()}] so far {len(results)} ads total')
+            time.sleep(1)
+
+    finally:
+        driver.quit()
+
+    # save csv per manufacturer
+    df = pd.DataFrame(results)
+    out_path = os.path.join(DATA_DIR, f'{manufacturer}_data.csv')
+    df.to_csv(out_path, index=False)
+    safe_print(f'[{manufacturer.upper()}] saved {len(results)} ads -> {manufacturer}_data.csv')
+
+    return results
 
 
 def scrape_all():
     all_results = []
-    driver = create_driver()  # one driver for the entire scrape
 
-    try:
-        for manufacturer in MANUFACTURERS:
-            print(f'\n===== {manufacturer.upper()} =====')
-            manufacturer_results = []
+    # run NUM_THREADS manufacturers in parallel
+    with ThreadPoolExecutor(max_workers=NUM_THREADS) as executor:
+        futures = {executor.submit(scrape_manufacturer, m): m for m in MANUFACTURERS}
 
-            for page in range(1, PAGES_PER_MANUFACTURER + 1):
-                print(f'page {page}/{PAGES_PER_MANUFACTURER}...')
-
-                ad_links = get_ad_links(driver, manufacturer, page)
-                print(f'found {len(ad_links)} ads on page')
-
-                for ad_url in ad_links:
-                    result = scrape_ad(driver, ad_url)
-                    if result:
-                        manufacturer_results.append(result)
-                    time.sleep(0.5)
-
-                print(f'so far {len(manufacturer_results)} ads')
-                time.sleep(1)
-
-            # save csv per manufacturer
-            df = pd.DataFrame(manufacturer_results)
-            out_path = os.path.join(DATA_DIR, f'{manufacturer}_data.csv')
-            df.to_csv(out_path, index=False)
-            print(f'saved as: {manufacturer}_data.csv')
-
-            all_results.extend(manufacturer_results)
-
-    finally:
-        driver.quit()  # always close the browser
+        for future in as_completed(futures):
+            manufacturer = futures[future]
+            try:
+                results = future.result()
+                all_results.extend(results)
+                safe_print(f'\n[DONE] {manufacturer.upper()} finished with {len(results)} ads')
+            except Exception as e:
+                safe_print(f'\n[ERROR] {manufacturer.upper()} failed: {e}')
 
     # combine all data
     df_all = pd.DataFrame(all_results)
     out = os.path.join(DATA_DIR, 'autoboom_raw.csv')
     df_all.to_csv(out, index=False)
-    print(f'\nin total: {len(df_all)} ads saved in autoboom_raw.csv')
+    safe_print(f'\nin total: {len(df_all)} ads saved in autoboom_raw.csv')
     return df_all
 
 

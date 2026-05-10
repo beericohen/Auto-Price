@@ -1,535 +1,536 @@
-manufacturer,model,year,price,hand,fuel,engine_liters,horsepower,transmission,mileage
-Peugeot,308,2018,35000,2,gasoline,1.2,130.0,automatic,98000
-Peugeot,308,2014,9900,4,gasoline,1.6,120.0,automatic,142000
-Peugeot,407,2006,7900,2,gasoline,2.0,140.0,automatic,129000
-Peugeot,207,2011,10900,3,gasoline,1.6,120.0,automatic,157000
-Peugeot,107,2012,11900,3,gasoline,1.0,68.0,robotic,171000
-Peugeot,3008,2022,89999,1,diesel,1.5,130.0,automatic,85000
-Peugeot,3008,2023,115000,1,gasoline,1.2,130.0,automatic,37000
-Peugeot,2008,2020,64900,2,diesel,1.5,130.0,automatic,75000
-Peugeot,3008,2022,78900,1,diesel,1.5,130.0,automatic,165000
-Peugeot,5008,2021,78000,1,gasoline,1.2,130.0,automatic,105000
-Peugeot,208,2022,79900,3,gasoline,1.2,130.0,automatic,27000
-Peugeot,3008,2020,84500,1,gasoline,1.6,180.0,automatic,77000
-Peugeot,2008,2022,62000,1,diesel,1.5,130.0,automatic,150000
-Peugeot,2008,2020,44800,2,gasoline,1.2,110.0,automatic,67000
-Peugeot,2008,2022,69999,1,diesel,1.5,130.0,automatic,128000
-Peugeot,2008,2021,74900,1,gasoline,1.2,130.0,automatic,57000
-Peugeot,208,2024,99000,1,gasoline,1.2,130.0,automatic,10000
-Peugeot,2008,2021,75000,1,gasoline,1.2,130.0,automatic,95000
-Peugeot,3008,2022,73900,1,diesel,1.5,130.0,automatic,180000
-Peugeot,2008,2023,83000,1,diesel,1.5,130.0,automatic,107365
-Peugeot,207,2012,8000,4,gasoline,1.6,120.0,automatic,180000
-Peugeot,208,2021,55000,1,gasoline,1.2,130.0,automatic,86568
-Peugeot,3008,2020,79000,1,gasoline,1.2,130.0,automatic,32000
-Peugeot,3008,2025,149999,1,gasoline,1.2,136.0,robotic,14500
-Peugeot,308,2015,16000,3,gasoline,1.2,130.0,automatic,120000
-Peugeot,3008,2017,55200,3,diesel,1.6,120.0,automatic,95000
-Peugeot,5008,2021,77000,2,gasoline,1.6,180.0,automatic,120000
-Peugeot,2008,2021,78000,1,gasoline,1.2,130.0,automatic,80000
-Peugeot,3008,2021,89800,1,gasoline,1.6,180.0,automatic,103500
-Peugeot,Boxer,2018,79900,2,diesel,2.2,140.0,manual,85000
-Peugeot,2008,2019,38800,2,gasoline,1.2,110.0,automatic,100000
-Peugeot,5008,2020,57800,2,gasoline,1.2,130.0,automatic,96000
-Peugeot,3008,2020,67900,2,gasoline,1.2,130.0,automatic,77000
-Peugeot,3008,2022,87999,1,diesel,1.5,130.0,automatic,109000
-Peugeot,2008,2023,82900,1,diesel,1.5,130.0,automatic,72000
-Peugeot,2008,2016,19999,3,gasoline,1.2,110.0,automatic,115000
-Peugeot,5008,2013,5900,3,gasoline,1.6,156.0,automatic,155000
-Peugeot,107,2013,13900,3,gasoline,1.0,68.0,robotic,132000
-Peugeot,3008,2021,79000,1,gasoline,1.2,130.0,automatic,65000
-Peugeot,2008,2020,62000,2,diesel,1.5,130.0,automatic,113000
-Peugeot,2008,2025,95770,1,gasoline,1.2,130.0,automatic,45843
-Peugeot,3008,2019,57900,1,diesel,1.5,130.0,automatic,122000
-Peugeot,3008,2019,67900,1,diesel,1.5,130.0,automatic,98490
-Peugeot,5008,2024,131255,1,gasoline,1.2,130.0,automatic,58855
-Peugeot,5008,2024,140995,1,gasoline,1.2,130.0,automatic,28680
-Peugeot,5008,2023,125415,1,gasoline,1.2,130.0,automatic,31125
-Peugeot,5008,2023,108995,1,gasoline,1.2,130.0,automatic,40264
-Peugeot,5008,2023,87295,1,gasoline,1.2,130.0,automatic,117081
-Peugeot,5008,2022,100955,1,diesel,1.5,130.0,automatic,73620
-Peugeot,5008,2021,101530,1,gasoline,1.6,180.0,automatic,87519
-Peugeot,2008,2021,80000,1,gasoline,1.2,130.0,automatic,55000
-Peugeot,3008,2019,65000,2,gasoline,1.2,130.0,automatic,67000
-Peugeot,2008,2018,38000,3,gasoline,1.2,110.0,automatic,95000
-Peugeot,5008,2024,124000,1,gasoline,1.2,130.0,automatic,26000
-Peugeot,308,2009,9500,4,gasoline,1.6,120.0,automatic,177000
-Peugeot,308,2012,6000,2,gasoline,1.6,120.0,automatic,84000
-Peugeot,301,2016,17999,2,gasoline,1.2,82.0,robotic,180000
-Peugeot,5008,2018,59000,2,gasoline,1.6,165.0,automatic,123000
-Peugeot,3008,2023,75000,2,gasoline,1.2,130.0,automatic,97700
-Peugeot,3008,2021,94500,1,diesel,1.5,130.0,automatic,37400
-Peugeot,5008,2020,70155,2,gasoline,1.2,130.0,automatic,103000
-Peugeot,5008,2021,101845,1,gasoline,1.6,180.0,automatic,74053
-Peugeot,408,2023,111515,1,gasoline,1.2,130.0,automatic,45432
-Peugeot,408,2023,112515,1,gasoline,1.2,130.0,automatic,35854
-Peugeot,408,2023,112995,1,gasoline,1.2,130.0,automatic,30138
-Peugeot,308,2019,51005,1,gasoline,1.2,130.0,automatic,105190
-Peugeot,3008,2024,127245,1,diesel,1.5,130.0,automatic,70764
-Peugeot,3008,2024,121225,1,gasoline,1.2,130.0,automatic,44108
-Peugeot,3008,2024,133995,1,diesel,1.5,130.0,automatic,38892
-Peugeot,3008,2024,124940,1,gasoline,1.2,130.0,automatic,37968
-Peugeot,3008,2024,121385,1,gasoline,1.2,130.0,automatic,29665
-Peugeot,3008,2023,87415,2,gasoline,1.2,130.0,automatic,43708
-Peugeot,3008,2023,105540,1,diesel,1.5,130.0,automatic,93240
-Peugeot,3008,2023,96995,1,gasoline,1.2,130.0,automatic,88405
-Peugeot,3008,2023,113380,1,diesel,1.5,130.0,automatic,86629
-Peugeot,3008,2023,109805,1,diesel,1.5,130.0,automatic,85943
-Peugeot,3008,2023,98495,1,gasoline,1.2,130.0,automatic,65614
-Peugeot,3008,2023,99960,1,gasoline,1.2,130.0,automatic,51040
-Peugeot,3008,2023,123045,1,diesel,1.5,130.0,automatic,50423
-Peugeot,3008,2023,109245,1,gasoline,1.2,130.0,automatic,44466
-Peugeot,3008,2018,58000,4,diesel,1.6,120.0,automatic,114200
-Peugeot,508,2015,17000,3,gasoline,1.6,156.0,automatic,135000
-Peugeot,2008,2017,20000,3,gasoline,1.2,110.0,automatic,90000
-Peugeot,206,2002,16000,3,gasoline,1.6,110.0,manual,260000
-Peugeot,2008,2023,100000,1,gasoline,1.2,130.0,automatic,39000
-Peugeot,208,2017,27000,4,gasoline,1.2,110.0,automatic,126340
-Peugeot,2008,2018,38000,2,gasoline,1.2,110.0,automatic,124000
-Peugeot,207,2012,11000,2,gasoline,1.6,120.0,automatic,88000
-Peugeot,208,2014,14500,2,gasoline,1.6,120.0,automatic,130000
-Peugeot,3008,2020,89000,2,diesel,1.5,130.0,automatic,58000
-Peugeot,3008,2023,127560,1,diesel,1.5,130.0,automatic,37569
-Peugeot,3008,2023,110335,1,gasoline,1.2,130.0,automatic,35770
-Peugeot,3008,2023,102605,1,gasoline,1.2,130.0,automatic,33853
-Peugeot,3008,2022,96355,1,gasoline,1.6,180.0,automatic,92837
-Peugeot,3008,2023,125710,1,diesel,1.5,130.0,automatic,27696
-Peugeot,3008,2022,92475,1,diesel,1.5,130.0,automatic,88307
-Peugeot,3008,2022,93182,1,diesel,1.5,130.0,automatic,79471
-Peugeot,3008,2022,110430,1,diesel,1.5,130.0,automatic,78705
-Peugeot,3008,2022,97325,1,gasoline,1.2,130.0,automatic,74187
-Peugeot,3008,2022,101740,1,gasoline,1.6,180.0,automatic,67978
-Peugeot,3008,2022,105375,1,diesel,1.5,130.0,automatic,65372
-Peugeot,3008,2022,89915,1,gasoline,1.2,130.0,automatic,51625
-Peugeot,3008,2022,105475,1,gasoline,1.2,130.0,automatic,39000
-Peugeot,3008,2022,112495,1,diesel,1.5,130.0,automatic,35566
-Peugeot,3008,2022,89995,1,diesel,1.5,130.0,automatic,127210
-Peugeot,3008,2021,88125,2,diesel,1.5,130.0,automatic,88000
-Peugeot,3008,2021,63995,2,gasoline,1.2,130.0,automatic,82547
-Peugeot,3008,2021,86695,2,diesel,1.5,130.0,automatic,76714
-Peugeot,3008,2021,88125,2,diesel,1.5,130.0,automatic,70114
-Peugeot,3008,2021,87177,1,diesel,1.5,130.0,automatic,96653
-Peugeot,308,2015,22000,2,gasoline,1.2,130.0,automatic,105000
-Peugeot,5008,2021,100000,1,diesel,1.5,130.0,automatic,74000
-Peugeot,3008,2022,105700,1,gasoline,1.2,130.0,automatic,61000
-Peugeot,3008,2020,90000,1,gasoline,1.2,130.0,automatic,125000
-Peugeot,308,2016,19000,4,gasoline,1.2,130.0,automatic,90000
-Peugeot,2008,2020,45000,2,gasoline,1.2,110.0,automatic,56000
-Peugeot,108,2017,24000,1,gasoline,1.0,69.0,robotic,134000
-Peugeot,3008,2019,65000,2,gasoline,1.2,130.0,automatic,85000
-Peugeot,208,2021,60000,1,gasoline,1.2,130.0,automatic,60300
-Peugeot,3008,2021,117000,1,diesel,1.5,130.0,automatic,90000
-Peugeot,3008,2021,87137,1,diesel,1.5,130.0,automatic,95343
-Peugeot,3008,2021,92610,1,diesel,1.5,130.0,automatic,93423
-Peugeot,3008,2021,73610,1,gasoline,1.2,130.0,automatic,92874
-Peugeot,3008,2021,88617,1,diesel,1.5,130.0,automatic,89485
-Peugeot,3008,2021,80175,1,gasoline,1.6,180.0,automatic,83454
-Peugeot,3008,2021,95672,1,diesel,1.5,130.0,automatic,67603
-Peugeot,3008,2021,95285,1,diesel,1.5,130.0,automatic,64967
-Peugeot,3008,2021,95445,1,diesel,1.5,130.0,automatic,59244
-Peugeot,3008,2021,92315,1,gasoline,1.2,130.0,automatic,58919
-Peugeot,3008,2021,87560,1,diesel,1.5,130.0,automatic,123426
-Peugeot,3008,2021,87995,1,diesel,1.5,130.0,automatic,120018
-Peugeot,3008,2021,84575,1,diesel,1.5,130.0,automatic,105860
-Peugeot,3008,2021,72815,1,gasoline,1.2,130.0,automatic,105306
-Peugeot,3008,2020,70692,2,gasoline,1.2,130.0,automatic,88328
-Peugeot,3008,2020,81985,2,gasoline,1.6,180.0,automatic,82595
-Peugeot,3008,2020,63992,1,gasoline,1.2,130.0,automatic,99200
-Peugeot,3008,2020,70922,1,gasoline,1.2,130.0,automatic,93518
-Peugeot,3008,2020,71707,1,gasoline,1.2,130.0,automatic,82159
-Peugeot,3008,2020,71650,1,gasoline,1.2,130.0,automatic,79191
-Peugeot,3008,2020,73925,1,gasoline,1.2,130.0,automatic,74340
-Peugeot,308,2017,22990,2,gasoline,1.2,130.0,automatic,123000
-Peugeot,407,2007,5500,2,gasoline,2.0,140.0,automatic,213000
-Peugeot,508,2012,7800,3,gasoline,1.6,156.0,automatic,145000
-Peugeot,301,2017,15000,2,gasoline,1.6,115.0,automatic,157000
-Peugeot,3008,2017,57000,3,diesel,1.6,120.0,automatic,120000
-Peugeot,208,2017,24000,2,gasoline,1.2,110.0,automatic,109000
-Peugeot,3008,2021,100000,1,gasoline,1.2,130.0,automatic,48000
-Peugeot,3008,2022,124000,2,diesel,1.5,130.0,automatic,64500
-Peugeot,2008,2023,110000,1,gasoline,1.2,130.0,automatic,22000
-Peugeot,3008,2021,129000,1,gasoline,1.2,130.0,automatic,27000
-Peugeot,3008,2020,81695,1,gasoline,1.2,130.0,automatic,57847
-Peugeot,3008,2020,78445,1,diesel,1.5,130.0,automatic,115000
-Peugeot,3008,2020,83870,1,gasoline,1.2,130.0,automatic,100497
-Peugeot,3008,2019,66192,2,diesel,1.5,130.0,automatic,97000
-Peugeot,3008,2019,65215,2,gasoline,1.2,130.0,automatic,55637
-Peugeot,3008,2019,61770,2,gasoline,1.2,130.0,automatic,127500
-Peugeot,3008,2019,78785,1,diesel,1.5,130.0,automatic,68636
-Peugeot,3008,2017,62505,2,gasoline,1.6,165.0,automatic,124000
-Peugeot,3008,2017,62905,1,diesel,1.6,120.0,automatic,132642
-Peugeot,208,2024,93722,1,gasoline,1.2,130.0,automatic,40510
-Peugeot,208,2024,101045,1,gasoline,1.2,130.0,automatic,26712
-Peugeot,208,2023,77645,1,gasoline,1.2,130.0,automatic,77818
-Peugeot,208,2023,95265,1,gasoline,1.2,130.0,automatic,6930
-Peugeot,208,2023,86645,1,gasoline,1.2,130.0,automatic,57721
-Peugeot,208,2023,81725,1,gasoline,1.2,130.0,automatic,46098
-Peugeot,208,2023,86645,1,gasoline,1.2,130.0,automatic,45039
-Peugeot,208,2023,89025,1,gasoline,1.2,130.0,automatic,34899
-Peugeot,208,2023,91515,1,gasoline,1.2,130.0,automatic,16721
-Peugeot,208,2022,75920,1,electro,,,automatic,75521
-Peugeot,208,2022,82055,1,gasoline,1.2,130.0,automatic,42624
-Peugeot,2008,2015,10000,3,gasoline,1.2,82.0,robotic,150000
-Peugeot,Boxer,2019,70000,2,diesel,2.2,140.0,manual,171000
-Peugeot,301,2013,9000,4,gasoline,1.6,115.0,automatic,187000
-Peugeot,508,2020,99000,3,gasoline,1.6,225.0,automatic,87000
-Peugeot,3008,2021,109000,2,diesel,1.5,130.0,automatic,90000
-Peugeot,3008,2019,65000,4,diesel,1.5,130.0,automatic,97000
-Peugeot,107,2013,4500,3,gasoline,1.0,68.0,robotic,170000
-Peugeot,2008,2016,32000,1,gasoline,1.6,120.0,automatic,29890
-Peugeot,Rcz,2011,30000,4,gasoline,1.6,156.0,automatic,350000
-Peugeot,3008,2020,110000,2,gasoline,1.2,130.0,automatic,80000
-Peugeot,208,2021,67375,1,gasoline,1.2,130.0,automatic,91840
-Peugeot,208,2021,69285,1,electro,,,automatic,82000
-Peugeot,208,2020,48880,2,gasoline,1.2,110.0,automatic,80246
-Peugeot,208,2020,45352,2,gasoline,1.2,110.0,automatic,75795
-Peugeot,208,2020,52615,2,gasoline,1.2,110.0,automatic,61321
-Peugeot,208,2020,55640,1,gasoline,1.2,110.0,automatic,59900
-Peugeot,2008,2024,115955,1,gasoline,1.2,130.0,automatic,28874
-Peugeot,2008,2023,89830,1,gasoline,1.2,130.0,automatic,78858
-Peugeot,2008,2023,99925,1,gasoline,1.2,130.0,automatic,61731
-Peugeot,2008,2023,97855,1,gasoline,1.2,130.0,automatic,60344
-Peugeot,2008,2023,103690,1,gasoline,1.2,130.0,automatic,35401
-Peugeot,2008,2023,97935,1,gasoline,1.2,130.0,automatic,59017
-Peugeot,2008,2023,100810,1,gasoline,1.2,130.0,automatic,33717
-Peugeot,2008,2023,101715,1,gasoline,1.2,130.0,automatic,33157
-Peugeot,2008,2023,100592,1,gasoline,1.2,130.0,automatic,30817
-Peugeot,2008,2023,100830,1,gasoline,1.2,130.0,automatic,29449
-Peugeot,2008,2023,103717,1,gasoline,1.2,130.0,automatic,29021
-Peugeot,2008,2023,95655,1,gasoline,1.2,130.0,automatic,27128
-Peugeot,2008,2023,110145,1,gasoline,1.2,130.0,automatic,22655
-Peugeot,2008,2023,102485,1,gasoline,1.2,130.0,automatic,21075
-Peugeot,3008,2017,74000,3,gasoline,1.6,165.0,automatic,94000
-Peugeot,308,2011,9500,3,gasoline,1.6,120.0,automatic,104321
-Peugeot,208,2018,32000,3,gasoline,1.2,110.0,automatic,115000
-Peugeot,208,2016,20000,2,gasoline,1.2,110.0,automatic,163000
-Peugeot,3008,2020,95000,2,gasoline,1.6,180.0,automatic,31000
-Peugeot,108,2017,24000,2,gasoline,1.0,69.0,robotic,86000
-Peugeot,3008,2018,79000,2,diesel,1.6,120.0,automatic,65000
-Peugeot,2008,2020,72000,1,diesel,1.5,130.0,automatic,70000
-Peugeot,3008,2013,14000,4,gasoline,1.6,156.0,automatic,162000
-Peugeot,3008,2022,120000,1,gasoline,1.2,130.0,automatic,19200
-Peugeot,2008,2023,110115,1,gasoline,1.2,130.0,automatic,18779
-Peugeot,2008,2023,102650,1,gasoline,1.2,130.0,automatic,16611
-Peugeot,2008,2023,106445,1,gasoline,1.2,130.0,automatic,12496
-Peugeot,2008,2022,83960,1,gasoline,1.2,130.0,automatic,77067
-Peugeot,2008,2022,81995,1,diesel,1.5,130.0,automatic,71698
-Peugeot,2008,2022,81415,1,diesel,1.5,130.0,automatic,68700
-Peugeot,2008,2022,89995,1,gasoline,1.2,130.0,automatic,49071
-Peugeot,2008,2022,91705,1,diesel,1.5,130.0,automatic,46163
-Peugeot,2008,2022,89555,1,gasoline,1.2,130.0,automatic,45080
-Peugeot,2008,2022,91675,1,gasoline,1.2,130.0,automatic,37162
-Peugeot,2008,2022,92460,1,gasoline,1.2,130.0,automatic,37148
-Peugeot,2008,2022,95985,1,gasoline,1.2,130.0,automatic,30700
-Peugeot,2008,2022,91705,1,gasoline,1.2,130.0,automatic,29892
-Peugeot,2008,2022,97675,1,gasoline,1.2,130.0,automatic,29885
-Peugeot,2008,2022,91682,1,gasoline,1.2,130.0,automatic,29480
-Peugeot,2008,2022,65345,1,diesel,1.5,130.0,automatic,118253
-Peugeot,2008,2021,79682,2,gasoline,1.2,130.0,automatic,71028
-Peugeot,2008,2021,77915,2,gasoline,1.2,130.0,automatic,46438
-Peugeot,2008,2021,81995,2,gasoline,1.2,130.0,automatic,27837
-Peugeot,2008,2021,74215,1,gasoline,1.2,130.0,automatic,98558
-Peugeot,3008,2023,140000,1,diesel,1.5,130.0,automatic,15500
-Peugeot,108,2015,19900,2,gasoline,1.0,69.0,robotic,170000
-Peugeot,3008,2020,110000,1,diesel,1.5,130.0,automatic,85000
-Peugeot,5008,2020,108000,2,gasoline,1.6,180.0,automatic,95000
-Peugeot,3008,2019,95000,3,diesel,1.5,130.0,automatic,91000
-Peugeot,3008,2021,107000,1,gasoline,1.2,130.0,automatic,59000
-Peugeot,208,2016,25000,1,gasoline,1.2,110.0,automatic,135000
-Peugeot,208,2016,32000,2,gasoline,1.2,110.0,automatic,69000
-Peugeot,5008,2018,68000,2,gasoline,1.6,165.0,automatic,125000
-Peugeot,107,2011,6000,3,gasoline,1.0,68.0,robotic,264000
-Peugeot,2008,2021,88790,1,gasoline,1.2,130.0,automatic,3614
-Peugeot,2008,2021,89455,1,gasoline,1.2,130.0,automatic,33776
-Peugeot,2008,2021,80840,1,gasoline,1.2,130.0,automatic,31279
-Peugeot,2008,2021,73575,1,gasoline,1.2,130.0,automatic,103181
-Peugeot,2008,2020,63472,3,diesel,1.5,130.0,automatic,101786
-Peugeot,2008,2020,75872,1,gasoline,1.2,130.0,automatic,83075
-Peugeot,2008,2020,73995,1,gasoline,1.2,130.0,automatic,74134
-Peugeot,2008,2020,73685,1,gasoline,1.2,130.0,automatic,33040
-Peugeot,2008,2017,45752,1,gasoline,1.2,110.0,automatic,42155
-Peugeot,108,2015,27995,1,gasoline,1.0,69.0,robotic,82389
-Peugeot,207,2012,8000,4,gasoline,1.6,120.0,automatic,180000
-Peugeot,208,2021,55000,1,gasoline,1.2,130.0,automatic,86568
-Peugeot,3008,2020,79000,1,gasoline,1.2,130.0,automatic,32000
-Peugeot,3008,2025,149999,1,gasoline,1.2,136.0,robotic,14500
-Peugeot,2008,2022,69999,1,diesel,1.5,130.0,automatic,128000
-Peugeot,3008,2022,73900,1,diesel,1.5,130.0,automatic,180000
-Peugeot,3008,2022,89999,1,diesel,1.5,130.0,automatic,85000
-Peugeot,3008,2023,115000,1,gasoline,1.2,130.0,automatic,37000
-Peugeot,Boxer,2022,109900,1,diesel,2.2,140.0,manual,64000
-Peugeot,3008,2018,54900,2,gasoline,1.6,165.0,automatic,115000
-Peugeot,3008,2019,90000,1,gasoline,1.2,130.0,automatic,103000
-Peugeot,301,2014,15000,3,gasoline,1.2,72.0,manual,130000
-Peugeot,508,2017,40000,3,gasoline,1.6,165.0,automatic,120000
-Peugeot,208,2014,17500,3,gasoline,1.6,120.0,automatic,105750
-Peugeot,2008,2018,37000,2,gasoline,1.2,110.0,automatic,141000
-Peugeot,5008,2012,15500,4,gasoline,1.6,156.0,automatic,77000
-Peugeot,3008,2019,94000,3,gasoline,1.2,130.0,automatic,67500
-Peugeot,3008,2018,71000,2,gasoline,1.6,165.0,automatic,130000
-Peugeot,208,2015,19500,3,gasoline,1.2,82.0,manual,71000
-Peugeot,Boxer,2013,44000,3,diesel,2.2,120.0,manual,255000
-Peugeot,3008,2020,76900,1,gasoline,1.2,130.0,automatic,106000
-Peugeot,3008,2014,8900,3,gasoline,1.6,156.0,automatic,179000
-Peugeot,3008,2020,69900,1,gasoline,1.2,130.0,automatic,90000
-Peugeot,Boxer,2023,129900,2,diesel,2.2,140.0,manual,102000
-Peugeot,2008,2017,29900,4,gasoline,1.2,110.0,automatic,94000
-Peugeot,308,2015,16000,3,gasoline,1.2,130.0,automatic,120000
-Peugeot,3008,2017,55200,3,diesel,1.6,120.0,automatic,95000
-Peugeot,5008,2021,77000,2,gasoline,1.6,180.0,automatic,120000
-Peugeot,2008,2021,78000,1,gasoline,1.2,130.0,automatic,80000
-Peugeot,3008,2021,89800,1,gasoline,1.6,180.0,automatic,103500
-Peugeot,Boxer,2018,79900,2,diesel,2.2,140.0,manual,85000
-Peugeot,2008,2021,80000,1,gasoline,1.2,130.0,automatic,55000
-Peugeot,3008,2019,65000,2,gasoline,1.2,130.0,automatic,67000
-Peugeot,3008,2020,59990,2,gasoline,1.2,130.0,automatic,86000
-Peugeot,208,2023,89990,1,gasoline,1.2,130.0,automatic,39000
-Peugeot,2008,2016,12990,3,gasoline,1.2,110.0,automatic,169000
-Peugeot,2008,2018,38000,3,gasoline,1.2,110.0,automatic,95000
-Peugeot,5008,2024,124000,1,gasoline,1.2,130.0,automatic,26000
-Peugeot,308,2009,9500,4,gasoline,1.6,120.0,automatic,177000
-Peugeot,3008,2021,109990,1,diesel,1.5,130.0,automatic,32000
-Peugeot,3008,2012,15000,2,gasoline,1.6,156.0,automatic,102000
-Peugeot,3008,2018,77000,2,diesel,1.6,120.0,automatic,160000
-Peugeot,Rcz,2012,42000,4,gasoline,1.6,156.0,automatic,155000
-Peugeot,2008,2020,75000,2,gasoline,1.2,130.0,automatic,23000
-Peugeot,301,2013,10000,2,gasoline,1.6,115.0,automatic,192000
-Peugeot,3008,2021,115500,2,diesel,1.5,130.0,automatic,64000
-Peugeot,208,2015,27000,3,gasoline,1.6,120.0,automatic,126000
-Peugeot,207,2012,14000,4,gasoline,1.6,120.0,automatic,94000
-Peugeot,308,2010,7500,2,gasoline,1.6,120.0,automatic,101300
-Peugeot,301,2016,21600,2,gasoline,1.2,82.0,robotic,60000
-Peugeot,208,2017,16490,3,gasoline,1.2,110.0,automatic,109000
-Peugeot,308,2012,6000,2,gasoline,1.6,120.0,automatic,84000
-Peugeot,301,2016,17999,2,gasoline,1.2,82.0,robotic,180000
-Peugeot,5008,2018,59000,2,gasoline,1.6,165.0,automatic,123000
-Peugeot,3008,2017,38990,2,diesel,1.6,120.0,automatic,179000
-Peugeot,3008,2023,75000,2,gasoline,1.2,130.0,automatic,97700
-Peugeot,3008,2021,94500,1,diesel,1.5,130.0,automatic,37400
-Peugeot,3008,2018,58000,4,diesel,1.6,120.0,automatic,114200
-Peugeot,508,2015,17000,3,gasoline,1.6,156.0,automatic,135000
-Peugeot,2008,2017,20000,3,gasoline,1.2,110.0,automatic,90000
-Peugeot,206,2002,16000,3,gasoline,1.6,110.0,manual,260000
-Peugeot,2008,2023,100000,1,gasoline,1.2,130.0,automatic,39000
-Peugeot,208,2017,27000,4,gasoline,1.2,110.0,automatic,126340
-Peugeot,3008,2021,159990,1,plug-in,1.6,300.0,automatic,39000
-Peugeot,2008,2018,38000,2,gasoline,1.2,110.0,automatic,124000
-Peugeot,3008,2022,84990,1,gasoline,1.6,180.0,automatic,109000
-Peugeot,2008,2021,77900,1,electro,,,automatic,80640
-Peugeot,208,2017,18500,2,gasoline,1.2,110.0,automatic,147000
-Peugeot,207,2012,11000,2,gasoline,1.6,120.0,automatic,88000
-Peugeot,208,2014,14500,2,gasoline,1.6,120.0,automatic,130000
-Peugeot,3008,2021,122000,1,gasoline,1.2,130.0,automatic,38500
-Peugeot,3008,2018,80000,3,diesel,1.6,120.0,automatic,118000
-Peugeot,207,2011,12500,2,gasoline,1.6,120.0,automatic,130000
-Peugeot,208,2015,29000,3,gasoline,1.2,110.0,automatic,45000
-Peugeot,307,2005,28000,4,gasoline,2.0,136.0,automatic,330000
-Peugeot,207,2009,6900,2,gasoline,1.6,120.0,automatic,142675
-Peugeot,208,2018,32000,2,gasoline,1.2,110.0,automatic,113000
-Peugeot,208,2014,15000,2,gasoline,1.6,120.0,automatic,193000
-Peugeot,2008,2016,43000,2,gasoline,1.6,120.0,automatic,75000
-Peugeot,3008,2024,175000,2,diesel,1.5,130.0,automatic,3000
-Peugeot,3008,2020,89000,2,diesel,1.5,130.0,automatic,58000
-Peugeot,308,2015,22000,2,gasoline,1.2,130.0,automatic,105000
-Peugeot,5008,2021,100000,1,diesel,1.5,130.0,automatic,74000
-Peugeot,3008,2022,105700,1,gasoline,1.2,130.0,automatic,61000
-Peugeot,3008,2020,90000,1,gasoline,1.2,130.0,automatic,125000
-Peugeot,308,2016,19000,4,gasoline,1.2,130.0,automatic,90000
-Peugeot,2008,2020,45000,2,gasoline,1.2,110.0,automatic,56000
-Peugeot,108,2017,24000,1,gasoline,1.0,69.0,robotic,134000
-Peugeot,3008,2019,65000,2,gasoline,1.2,130.0,automatic,85000
-Peugeot,208,2021,60000,1,gasoline,1.2,130.0,automatic,60300
-Peugeot,3008,2021,117000,1,diesel,1.5,130.0,automatic,90000
-Peugeot,308,2017,22990,2,gasoline,1.2,130.0,automatic,123000
-Peugeot,407,2007,5500,2,gasoline,2.0,140.0,automatic,213000
-Peugeot,508,2012,7800,3,gasoline,1.6,156.0,automatic,145000
-Peugeot,301,2017,15000,2,gasoline,1.6,115.0,automatic,157000
-Peugeot,3008,2017,57000,3,diesel,1.6,120.0,automatic,120000
-Peugeot,208,2017,24000,2,gasoline,1.2,110.0,automatic,109000
-Peugeot,3008,2021,100000,1,gasoline,1.2,130.0,automatic,48000
-Peugeot,3008,2022,124000,2,diesel,1.5,130.0,automatic,64500
-Peugeot,2008,2023,110000,1,gasoline,1.2,130.0,automatic,22000
-Peugeot,301,2017,25000,2,gasoline,1.6,115.0,automatic,90000
-Peugeot,3008,2019,74000,3,gasoline,1.2,130.0,automatic,67000
-Peugeot,308,2015,19000,3,gasoline,1.2,130.0,automatic,180000
-Peugeot,3008,2020,104000,1,gasoline,1.2,130.0,automatic,64800
-Peugeot,208,2023,105000,1,gasoline,1.2,130.0,automatic,10000
-Peugeot,2008,2021,93000,1,diesel,1.5,130.0,automatic,47000
-Peugeot,2008,2017,53000,2,gasoline,1.2,110.0,automatic,70000
-Peugeot,508,2014,23000,3,gasoline,1.6,156.0,automatic,100000
-Peugeot,3008,2018,90000,2,gasoline,1.6,165.0,automatic,90000
-Peugeot,301,2015,11000,4,gasoline,1.2,82.0,robotic,170000
-Peugeot,3008,2021,129000,1,gasoline,1.2,130.0,automatic,27000
-Peugeot,2008,2015,10000,3,gasoline,1.2,82.0,robotic,150000
-Peugeot,Boxer,2019,70000,2,diesel,2.2,140.0,manual,171000
-Peugeot,301,2013,9000,4,gasoline,1.6,115.0,automatic,187000
-Peugeot,508,2020,99000,3,gasoline,1.6,225.0,automatic,87000
-Peugeot,3008,2021,109000,2,diesel,1.5,130.0,automatic,90000
-Peugeot,3008,2019,65000,4,diesel,1.5,130.0,automatic,97000
-Peugeot,107,2013,4500,3,gasoline,1.0,68.0,robotic,170000
-Peugeot,2008,2016,32000,1,gasoline,1.6,120.0,automatic,29890
-Peugeot,Rcz,2011,30000,4,gasoline,1.6,156.0,automatic,350000
-Peugeot,3008,2020,110000,2,gasoline,1.2,130.0,automatic,80000
-Peugeot,3008,2017,74000,3,gasoline,1.6,165.0,automatic,94000
-Peugeot,308,2011,9500,3,gasoline,1.6,120.0,automatic,104321
-Peugeot,208,2018,32000,3,gasoline,1.2,110.0,automatic,115000
-Peugeot,208,2016,20000,2,gasoline,1.2,110.0,automatic,163000
-Peugeot,3008,2020,95000,2,gasoline,1.6,180.0,automatic,31000
-Peugeot,108,2017,24000,2,gasoline,1.0,69.0,robotic,86000
-Peugeot,3008,2018,79000,2,diesel,1.6,120.0,automatic,65000
-Peugeot,2008,2020,72000,1,diesel,1.5,130.0,automatic,70000
-Peugeot,3008,2013,14000,4,gasoline,1.6,156.0,automatic,162000
-Peugeot,208,2023,119000,1,gasoline,1.2,130.0,automatic,9100
-Peugeot,508,2013,8000,3,gasoline,1.6,156.0,automatic,200000
-Peugeot,307,2005,3600,3,gasoline,1.6,109.0,automatic,190000
-Peugeot,3008,2020,112000,1,diesel,1.5,130.0,automatic,37500
-Peugeot,206,2002,25000,4,gasoline,1.6,109.0,automatic,166000
-Peugeot,3008,2017,60000,4,diesel,1.6,120.0,automatic,190000
-Peugeot,3008,2020,120000,1,diesel,1.5,130.0,automatic,24000
-Peugeot,208,2014,6000,3,gasoline,1.2,82.0,robotic,220000
-Peugeot,3008,2019,100000,3,gasoline,1.6,180.0,automatic,48000
-Peugeot,3008,2019,101000,2,diesel,1.5,130.0,automatic,130000
-Peugeot,3008,2022,120000,1,gasoline,1.2,130.0,automatic,19200
-Peugeot,3008,2023,140000,1,diesel,1.5,130.0,automatic,15500
-Peugeot,108,2015,19900,2,gasoline,1.0,69.0,robotic,170000
-Peugeot,3008,2020,110000,1,diesel,1.5,130.0,automatic,85000
-Peugeot,5008,2020,108000,2,gasoline,1.6,180.0,automatic,95000
-Peugeot,3008,2019,95000,3,diesel,1.5,130.0,automatic,91000
-Peugeot,3008,2021,107000,1,gasoline,1.2,130.0,automatic,59000
-Peugeot,208,2016,25000,1,gasoline,1.2,110.0,automatic,135000
-Peugeot,208,2016,32000,2,gasoline,1.2,110.0,automatic,69000
-Peugeot,5008,2018,68000,2,gasoline,1.6,165.0,automatic,125000
-Peugeot,107,2011,6000,3,gasoline,1.0,68.0,robotic,264000
-Peugeot,207,2011,12900,1,gasoline,1.6,120.0,automatic,36800
-Peugeot,208,2015,23000,2,gasoline,1.6,120.0,automatic,150000
-Peugeot,5008,2018,56000,2,gasoline,1.6,165.0,automatic,148500
-Peugeot,208,2016,24000,2,gasoline,1.2,110.0,automatic,150759
-Peugeot,3008,2019,90000,1,gasoline,1.2,130.0,automatic,103000
-Peugeot,301,2014,15000,3,gasoline,1.2,72.0,manual,130000
-Peugeot,508,2017,40000,3,gasoline,1.6,165.0,automatic,120000
-Peugeot,208,2014,17500,3,gasoline,1.6,120.0,automatic,105750
-Peugeot,2008,2018,37000,2,gasoline,1.2,110.0,automatic,141000
-Peugeot,2008,2016,35000,4,gasoline,1.2,110.0,automatic,107000
-Peugeot,3008,2019,81000,3,diesel,1.5,130.0,automatic,135000
-Peugeot,3008,2017,81000,1,diesel,1.6,120.0,automatic,55300
-Peugeot,2008,2015,22000,3,gasoline,1.2,82.0,robotic,165000
-Peugeot,3008,2017,88000,1,diesel,1.6,120.0,automatic,57000
-Peugeot,208,2016,27000,2,gasoline,1.2,110.0,automatic,122000
-Peugeot,2008,2020,92000,1,diesel,1.5,130.0,automatic,54000
-Peugeot,5008,2019,95000,1,diesel,1.5,130.0,automatic,88000
-Peugeot,3008,2019,77000,1,gasoline,1.6,180.0,automatic,92000
-Peugeot,2008,2015,18400,2,gasoline,1.6,120.0,automatic,158000
-Peugeot,5008,2012,15500,4,gasoline,1.6,156.0,automatic,77000
-Peugeot,3008,2019,94000,3,gasoline,1.2,130.0,automatic,67500
-Peugeot,3008,2018,71000,2,gasoline,1.6,165.0,automatic,130000
-Peugeot,208,2015,19500,3,gasoline,1.2,82.0,manual,71000
-Peugeot,Boxer,2013,44000,3,diesel,2.2,120.0,manual,255000
-Peugeot,208,2015,22000,3,gasoline,1.6,120.0,automatic,101000
-Peugeot,3008,2020,89000,2,gasoline,1.2,130.0,automatic,69000
-Peugeot,3008,2021,120000,1,gasoline,1.6,180.0,automatic,71100
-Peugeot,3008,2018,94000,2,diesel,1.6,120.0,automatic,88000
-Peugeot,3008,2018,82000,1,gasoline,1.6,165.0,automatic,132000
-Peugeot,208,2013,19500,3,gasoline,1.6,120.0,automatic,124000
-Peugeot,3008,2022,125000,1,gasoline,1.2,130.0,automatic,26000
-Peugeot,3008,2012,15000,2,gasoline,1.6,156.0,automatic,102000
-Peugeot,3008,2018,77000,2,diesel,1.6,120.0,automatic,160000
-Peugeot,Rcz,2012,42000,4,gasoline,1.6,156.0,automatic,155000
-Peugeot,2008,2020,75000,2,gasoline,1.2,130.0,automatic,23000
-Peugeot,301,2013,10000,2,gasoline,1.6,115.0,automatic,192000
-Peugeot,3008,2021,115500,2,diesel,1.5,130.0,automatic,64000
-Peugeot,208,2015,27000,3,gasoline,1.6,120.0,automatic,126000
-Peugeot,207,2012,14000,4,gasoline,1.6,120.0,automatic,94000
-Peugeot,5008,2020,90000,2,gasoline,1.6,180.0,automatic,115000
-Peugeot,3008,2021,130000,1,gasoline,1.6,180.0,automatic,42000
-Peugeot,3008,2019,69000,2,gasoline,1.2,130.0,automatic,101000
-Peugeot,3008,2021,114000,1,diesel,1.5,130.0,automatic,64000
-Peugeot,Boxer,2016,35000,2,diesel,2.2,155.0,manual,222000
-Peugeot,Boxer,2019,67000,1,diesel,2.2,130.0,manual,172000
-Peugeot,3008,2019,75000,2,gasoline,1.2,130.0,automatic,131000
-Peugeot,308,2010,7500,2,gasoline,1.6,120.0,automatic,101300
-Peugeot,301,2016,21600,2,gasoline,1.2,82.0,robotic,60000
-Peugeot,3008,2020,114000,2,gasoline,1.2,130.0,automatic,40600
-Peugeot,208,2015,20000,3,gasoline,1.2,110.0,automatic,180000
-Peugeot,107,2012,11500,3,gasoline,1.0,68.0,robotic,96480
-Peugeot,3008,2021,122000,1,gasoline,1.2,130.0,automatic,38500
-Peugeot,3008,2018,80000,3,diesel,1.6,120.0,automatic,118000
-Peugeot,207,2011,12500,2,gasoline,1.6,120.0,automatic,130000
-Peugeot,208,2015,29000,3,gasoline,1.2,110.0,automatic,45000
-Peugeot,307,2005,28000,4,gasoline,2.0,136.0,automatic,330000
-Peugeot,207,2009,6900,2,gasoline,1.6,120.0,automatic,142675
-Peugeot,208,2018,32000,2,gasoline,1.2,110.0,automatic,113000
-Peugeot,208,2014,15000,2,gasoline,1.6,120.0,automatic,193000
-Peugeot,2008,2016,43000,2,gasoline,1.6,120.0,automatic,75000
-Peugeot,3008,2024,175000,2,diesel,1.5,130.0,automatic,3000
-Peugeot,3008,2017,95000,2,gasoline,1.6,165.0,automatic,52000
-Peugeot,3008,2017,55000,2,diesel,1.6,120.0,automatic,182000
-Peugeot,2008,2017,43000,2,gasoline,1.2,110.0,automatic,69000
-Peugeot,3008,2017,65500,2,diesel,1.6,120.0,automatic,129000
-Peugeot,5008,2020,100000,3,diesel,1.5,130.0,automatic,120000
-Peugeot,508,2012,5000,3,gasoline,1.6,156.0,automatic,170000
-Peugeot,301,2017,25000,2,gasoline,1.6,115.0,automatic,90000
-Peugeot,3008,2019,74000,3,gasoline,1.2,130.0,automatic,67000
-Peugeot,308,2015,19000,3,gasoline,1.2,130.0,automatic,180000
-Peugeot,3008,2020,104000,1,gasoline,1.2,130.0,automatic,64800
-Peugeot,208,2023,105000,1,gasoline,1.2,130.0,automatic,10000
-Peugeot,2008,2021,93000,1,diesel,1.5,130.0,automatic,47000
-Peugeot,2008,2017,53000,2,gasoline,1.2,110.0,automatic,70000
-Peugeot,508,2014,23000,3,gasoline,1.6,156.0,automatic,100000
-Peugeot,3008,2018,90000,2,gasoline,1.6,165.0,automatic,90000
-Peugeot,301,2015,11000,4,gasoline,1.2,82.0,robotic,170000
-Peugeot,208,2023,119000,1,gasoline,1.2,130.0,automatic,9100
-Peugeot,508,2013,8000,3,gasoline,1.6,156.0,automatic,200000
-Peugeot,307,2005,3600,3,gasoline,1.6,109.0,automatic,190000
-Peugeot,3008,2020,112000,1,diesel,1.5,130.0,automatic,37500
-Peugeot,206,2002,25000,4,gasoline,1.6,109.0,automatic,166000
-Peugeot,3008,2017,60000,4,diesel,1.6,120.0,automatic,190000
-Peugeot,3008,2020,120000,1,diesel,1.5,130.0,automatic,24000
-Peugeot,208,2014,6000,3,gasoline,1.2,82.0,robotic,220000
-Peugeot,3008,2019,100000,3,gasoline,1.6,180.0,automatic,48000
-Peugeot,3008,2019,101000,2,diesel,1.5,130.0,automatic,130000
-Peugeot,2008,2016,35000,4,gasoline,1.2,110.0,automatic,107000
-Peugeot,3008,2019,81000,3,diesel,1.5,130.0,automatic,135000
-Peugeot,3008,2017,81000,1,diesel,1.6,120.0,automatic,55300
-Peugeot,2008,2015,22000,3,gasoline,1.2,82.0,robotic,165000
-Peugeot,3008,2017,88000,1,diesel,1.6,120.0,automatic,57000
-Peugeot,208,2016,27000,2,gasoline,1.2,110.0,automatic,122000
-Peugeot,2008,2020,92000,1,diesel,1.5,130.0,automatic,54000
-Peugeot,5008,2019,95000,1,diesel,1.5,130.0,automatic,88000
-Peugeot,208,2014,15900,3,gasoline,1.6,120.0,automatic,140000
-Peugeot,208,2014,14500,1,gasoline,1.2,82.0,manual,133000
-Peugeot,208,2025,118000,1,gasoline,1.2,130.0,automatic,4000
-Peugeot,208,2018,29999,2,gasoline,1.2,110.0,automatic,155000
-Peugeot,3008,2019,68000,2,diesel,1.5,130.0,automatic,149000
-Peugeot,3008,2020,64990,1,gasoline,1.2,130.0,automatic,89000
-Peugeot,3008,2021,104990,2,diesel,1.5,130.0,automatic,54000
-Peugeot,2008,2019,36500,2,gasoline,1.2,110.0,automatic,128000
-Peugeot,Boxer,2020,69990,2,diesel,2.2,130.0,manual,189000
-Peugeot,3008,2019,72900,2,diesel,1.5,130.0,automatic,110000
-Peugeot,5008,2018,69132,2,gasoline,1.6,165.0,automatic,112048
-Peugeot,3008,2025,151995,1,gasoline,1.2,136.0,robotic,6107
-Peugeot,3008,2023,121280,1,diesel,1.5,130.0,automatic,49184
-Peugeot,3008,2022,106560,1,diesel,1.5,130.0,automatic,61753
-Peugeot,3008,2022,101165,1,gasoline,1.2,130.0,automatic,54026
-Peugeot,3008,2022,113175,1,diesel,1.5,130.0,automatic,40946
-Peugeot,3008,2022,93885,1,gasoline,1.6,180.0,automatic,101590
-Peugeot,208,2023,90645,1,gasoline,1.2,130.0,automatic,19819
-Peugeot,2008,2024,115855,1,gasoline,1.2,130.0,automatic,35000
-Peugeot,2008,2024,110525,1,gasoline,1.2,130.0,automatic,14068
-Peugeot,2008,2023,111325,1,gasoline,1.2,130.0,automatic,28086
-Peugeot,2008,2022,81125,1,diesel,1.5,130.0,automatic,82928
-Peugeot,2008,2022,74505,1,electro,,,automatic,75960
-Peugeot,2008,2021,72985,2,gasoline,1.2,130.0,automatic,58119
-Peugeot,2008,2021,86435,1,gasoline,1.2,130.0,automatic,21190
-Peugeot,2008,2016,19999,3,gasoline,1.2,110.0,automatic,115000
-Peugeot,5008,2021,78000,1,gasoline,1.2,130.0,automatic,105000
-Peugeot,3008,2022,78900,1,diesel,1.5,130.0,automatic,165000
-Peugeot,2008,2022,62000,1,diesel,1.5,130.0,automatic,150000
-Peugeot,3008,2019,77000,1,gasoline,1.6,180.0,automatic,92000
-Peugeot,2008,2015,18400,2,gasoline,1.6,120.0,automatic,158000
-Peugeot,5008,2020,90000,2,gasoline,1.6,180.0,automatic,115000
-Peugeot,3008,2021,130000,1,gasoline,1.6,180.0,automatic,42000
-Peugeot,3008,2019,69000,2,gasoline,1.2,130.0,automatic,101000
-Peugeot,3008,2021,114000,1,diesel,1.5,130.0,automatic,64000
-Peugeot,Boxer,2016,35000,2,diesel,2.2,155.0,manual,222000
-Peugeot,Boxer,2019,67000,1,diesel,2.2,130.0,manual,172000
-Peugeot,3008,2019,75000,2,gasoline,1.2,130.0,automatic,131000
+manufacturer,model,submodel,year,hand,mileage,engine_liters,horsepower,fuel,transmission,drive_type,body_color,price
+Peugeot,407,SR,2006,2,129000,2.0,140,Gasoline,Automatic,FWD,Beige,7900
+Peugeot,207,Trendy,2011,3,157000,1.6,120,Gasoline,Automatic,FWD,Grey,10900
+Peugeot,308,,2018,2,98000,1.2,130,Gasoline,Automatic,FWD,White,35000
+Peugeot,308,Access,2014,4,142000,1.6,120,Gasoline,Automatic,FWD,Grey,9900
+Peugeot,107,Trend,2012,3,171000,1.0,68,Gasoline,Robotic,FWD,Grey,11900
+Peugeot,5008,Premium Pack,2013,3,155000,1.6,156,Gasoline,Automatic,FWD,Light Grey,5900
+Peugeot,3008,Premium,2020,1,77000,1.6,180,Gasoline,Automatic,FWD,Silver,84500
+Peugeot,2008,Active,2023,1,72000,1.5,130,Diesel,Automatic,FWD,White,82900
+Peugeot,208,GT,2024,1,10000,1.2,130,Gasoline,Automatic,FWD,White,99000
+Peugeot,3008,Active,2020,2,77000,1.2,130,Gasoline,Automatic,FWD,White,67900
+Peugeot,2008,Premium,2020,2,75000,1.5,130,Diesel,Automatic,FWD,White,64900
+Peugeot,2008,Active,2023,1,107365,1.5,130,Diesel,Automatic,FWD,Silver,83000
+Peugeot,5008,Active,2020,2,96000,1.2,130,Gasoline,Automatic,FWD,Silver,57800
+Peugeot,208,GT,2022,3,27000,1.2,130,Gasoline,Automatic,FWD,Yellow,79900
+Peugeot,2008,Active Go,2020,2,67000,1.2,110,Gasoline,Automatic,FWD,Black,44800
+Peugeot,107,Active,2013,3,132000,1.0,68,Gasoline,Robotic,FWD,White,13900
+Peugeot,3008,Active Pack,2022,1,109000,1.5,130,Diesel,Automatic,FWD,White,87999
+Peugeot,2008,Active Go,2019,2,100000,1.2,110,Gasoline,Automatic,FWD,Black,38800
+Peugeot,2008,Premium,2021,1,57000,1.2,130,Gasoline,Automatic,FWD,Grey,74900
+Peugeot,3008,Active Pack,2021,1,65000,1.2,130,Gasoline,Automatic,FWD,White,79000
+Peugeot,Boxer,,2018,2,87000,2.2,140,Diesel,Manual,FWD,White,68500
+Peugeot,3008,Active Pack,2022,2,143000,1.5,130,Diesel,Automatic,FWD,White,71500
+Peugeot,207,Active,2012,4,180000,1.6,120,Gasoline,Automatic,FWD,Grey,8000
+Peugeot,208,Premium,2021,1,86568,1.2,130,Gasoline,Automatic,FWD,Blue,55000
+Peugeot,3008,,2020,1,32000,1.2,130,Gasoline,Automatic,FWD,Brown,79000
+Peugeot,3008,,2025,1,14500,1.2,136,Gasoline,Robotic,FWD,Grey,149999
+Peugeot,308,Active,2015,3,120000,1.2,130,Gasoline,Automatic,FWD,White,16000
+Peugeot,3008,Active,2017,3,95000,1.6,120,Diesel,Automatic,FWD,Silver,55200
+Peugeot,5008,Premium,2021,2,120000,1.6,180,Gasoline,Automatic,FWD,White,77000
+Peugeot,2008,Premium,2021,1,80000,1.2,130,Gasoline,Automatic,FWD,Black,78000
+Peugeot,2008,Active,2021,1,95000,1.2,130,Gasoline,Automatic,FWD,White,75000
+Peugeot,2008,Active,2025,1,45843,1.2,130,Gasoline,Automatic,FWD,White,95770
+Peugeot,3008,Active,2019,1,122000,1.5,130,Diesel,Automatic,FWD,White,57900
+Peugeot,3008,Active,2019,1,98490,1.5,130,Diesel,Automatic,FWD,Black,67900
+Peugeot,5008,Active Pack,2024,1,58855,1.2,130,Gasoline,Automatic,FWD,White,131255
+Peugeot,5008,Active Pack,2024,1,28680,1.2,130,Gasoline,Automatic,FWD,Silver,140995
+Peugeot,5008,Active Pack,2023,1,40264,1.2,130,Gasoline,Automatic,FWD,White,108995
+Peugeot,5008,Premium,2023,1,31125,1.2,130,Gasoline,Automatic,FWD,Blue,125415
+Peugeot,5008,Active Pack,2023,1,117081,1.2,130,Gasoline,Automatic,FWD,Silver,87295
+Peugeot,5008,Active Pack,2022,1,73620,1.5,130,Diesel,Automatic,FWD,White,100955
+Peugeot,5008,Premium,2021,1,87519,1.6,180,Gasoline,Automatic,FWD,Grey,101530
+Peugeot,5008,Premium,2021,1,74053,1.6,180,Gasoline,Automatic,FWD,Black,101845
+Peugeot,5008,Active,2020,2,103000,1.2,130,Gasoline,Automatic,FWD,Grey,70155
+Peugeot,408,Allure Pack,2023,1,45432,1.2,130,Gasoline,Automatic,FWD,Red,111515
+Peugeot,408,Allure Pack,2023,1,35854,1.2,130,Gasoline,Automatic,FWD,Light blue,112515
+Peugeot,408,Allure Pack,2023,1,30138,1.2,130,Gasoline,Automatic,FWD,White,112995
+Peugeot,308,Premium,2019,1,105190,1.2,130,Gasoline,Automatic,FWD,Silver,51005
+Peugeot,3008,Active Pack,2024,1,70764,1.5,130,Diesel,Automatic,FWD,White,127245
+Peugeot,3008,GT,2025,1,6107,1.2,136,Gasoline,Robotic,FWD,White,151995
+Peugeot,3008,Premium,2024,1,44108,1.2,130,Gasoline,Automatic,FWD,White,121225
+Peugeot,3008,,2021,1,103500,1.6,180,Gasoline,Automatic,FWD,White,89800
+Peugeot,2008,Active,2021,1,55000,1.2,130,Gasoline,Automatic,FWD,Silver,80000
+Peugeot,3008,Premium,2019,2,67000,1.2,130,Gasoline,Automatic,FWD,Bronze,65000
+Peugeot,2008,Active Go,2018,3,95000,1.2,110,Gasoline,Automatic,FWD,Grey,38000
+Peugeot,5008,Active Pack,2024,1,26000,1.2,130,Gasoline,Automatic,FWD,White,124000
+Peugeot,308,Comfort Pack,2009,4,177000,1.6,120,Gasoline,Automatic,FWD,Light Grey,9500
+Peugeot,308,Access,2012,2,84000,1.6,120,Gasoline,Automatic,FWD,Grey,6000
+Peugeot,301,,2016,2,180000,1.2,82,Gasoline,Robotic,FWD,White,17999
+Peugeot,5008,Active,2018,2,123000,1.6,165,Gasoline,Automatic,FWD,White,59000
+Peugeot,3008,Active Pack,2023,2,97700,1.2,130,Gasoline,Automatic,FWD,Grey,75000
+Peugeot,3008,Active Pack,2024,1,38892,1.5,130,Diesel,Automatic,FWD,White,133995
+Peugeot,3008,Premium,2024,1,37968,1.2,130,Gasoline,Automatic,FWD,White,124940
+Peugeot,3008,Premium,2024,1,29665,1.2,130,Gasoline,Automatic,FWD,Black,121385
+Peugeot,3008,Active Pack,2023,2,43708,1.2,130,Gasoline,Automatic,FWD,White,87415
+Peugeot,3008,Active Pack,2023,1,93240,1.5,130,Diesel,Automatic,FWD,Silver,105540
+Peugeot,3008,Premium,2023,1,88405,1.2,130,Gasoline,Automatic,FWD,White,96995
+Peugeot,3008,Active Pack,2023,1,86629,1.5,130,Diesel,Automatic,FWD,Grey,113380
+Peugeot,3008,Active Pack,2023,1,85943,1.5,130,Diesel,Automatic,FWD,White,109805
+Peugeot,3008,Active Pack,2023,1,65614,1.2,130,Gasoline,Automatic,FWD,Silver,98495
+Peugeot,3008,Active Pack,2023,1,51040,1.2,130,Gasoline,Automatic,FWD,Silver,99960
+Peugeot,3008,Premium,2023,1,50423,1.5,130,Diesel,Automatic,FWD,Grey,123045
+Peugeot,3008,Premium,2023,1,44466,1.2,130,Gasoline,Automatic,FWD,White,109245
+Peugeot,3008,Premium,2023,1,37569,1.5,130,Diesel,Automatic,FWD,Grey,127560
+Peugeot,3008,Premium,2023,1,35770,1.2,130,Gasoline,Automatic,FWD,Blue,110335
+Peugeot,3008,Active Pack,2023,1,33853,1.2,130,Gasoline,Automatic,FWD,Grey,102605
+Peugeot,3008,Premium,2023,1,27696,1.5,130,Diesel,Automatic,FWD,Grey,125710
+Peugeot,3008,Premium,2022,1,92837,1.6,180,Gasoline,Automatic,FWD,White,96355
+Peugeot,3008,Active Pack,2022,1,88307,1.5,130,Diesel,Automatic,FWD,Blue,92475
+Peugeot,3008,Active Pack,2022,1,79471,1.5,130,Diesel,Automatic,FWD,Silver,93182
+Peugeot,3008,Premium,2022,1,78705,1.5,130,Diesel,Automatic,FWD,White,110430
+Peugeot,3008,Active Pack,2021,1,37400,1.5,130,Diesel,Automatic,FWD,Silver,94500
+Peugeot,3008,Premium,2018,4,114200,1.6,120,Diesel,Automatic,FWD,Grey,58000
+Peugeot,508,,2015,3,135000,1.6,156,Gasoline,Automatic,FWD,Silver,17000
+Peugeot,2008,Active Go,2017,3,90000,1.2,110,Gasoline,Automatic,FWD,Red,20000
+Peugeot,206,XS,2002,3,260000,1.6,110,Gasoline,Manual,FWD,Light Grey,16000
+Peugeot,2008,GT,2023,1,39000,1.2,130,Gasoline,Automatic,FWD,White,100000
+Peugeot,208,Active Pro,2017,4,126340,1.2,110,Gasoline,Automatic,FWD,Black,27000
+Peugeot,2008,Active Go,2018,2,124000,1.2,110,Gasoline,Automatic,FWD,Grey,38000
+Peugeot,207,Active,2012,2,88000,1.6,120,Gasoline,Automatic,FWD,Black,11000
+Peugeot,208,,2014,2,130000,1.6,120,Gasoline,Automatic,FWD,Black,14500
+Peugeot,3008,Premium,2022,1,74187,1.2,130,Gasoline,Automatic,FWD,White,97325
+Peugeot,3008,Active Pack,2022,1,67978,1.6,180,Gasoline,Automatic,FWD,Grey,101740
+Peugeot,3008,Active Pack,2022,1,65372,1.5,130,Diesel,Automatic,FWD,Silver,105375
+Peugeot,3008,Active Pack,2022,1,61753,1.5,130,Diesel,Automatic,FWD,White,106560
+Peugeot,3008,Active Pack,2022,1,51625,1.2,130,Gasoline,Automatic,FWD,White,89915
+Peugeot,3008,Active Pack,2022,1,40946,1.5,130,Diesel,Automatic,FWD,White,113175
+Peugeot,3008,Premium,2022,1,39000,1.2,130,Gasoline,Automatic,FWD,White,105475
+Peugeot,3008,Active Pack,2022,1,35566,1.5,130,Diesel,Automatic,FWD,Black,112495
+Peugeot,3008,Premium,2022,1,127210,1.5,130,Diesel,Automatic,FWD,White,89995
+Peugeot,3008,Active Pack,2021,2,88000,1.5,130,Diesel,Automatic,FWD,Black,88125
+Peugeot,3008,Active Pack,2021,2,82547,1.2,130,Gasoline,Automatic,FWD,Black,63995
+Peugeot,3008,Active,2021,2,76714,1.5,130,Diesel,Automatic,FWD,Silver,86695
+Peugeot,3008,Active Pack,2021,2,70114,1.5,130,Diesel,Automatic,FWD,Red,88125
+Peugeot,3008,Active Pack,2021,1,96653,1.5,130,Diesel,Automatic,FWD,White,87177
+Peugeot,3008,Active Pack,2021,1,95343,1.5,130,Diesel,Automatic,FWD,Grey,87137
+Peugeot,3008,Active Pack,2021,1,93423,1.5,130,Diesel,Automatic,FWD,White,92610
+Peugeot,3008,Active Pack,2021,1,92874,1.2,130,Gasoline,Automatic,FWD,Blue,73610
+Peugeot,3008,Active Pack,2021,1,89485,1.5,130,Diesel,Automatic,FWD,White,88617
+Peugeot,3008,Active Pack,2021,1,83454,1.6,180,Gasoline,Automatic,FWD,White,80175
+Peugeot,3008,Active Pack,2021,1,67603,1.5,130,Diesel,Automatic,FWD,White,95672
+Peugeot,3008,Active,2020,2,58000,1.5,130,Diesel,Automatic,FWD,Grey,89000
+Peugeot,308,Active,2015,2,105000,1.2,130,Gasoline,Automatic,FWD,Black,22000
+Peugeot,5008,Active Pack,2021,1,74000,1.5,130,Diesel,Automatic,FWD,White,100000
+Peugeot,3008,Active Pack,2022,1,61000,1.2,130,Gasoline,Automatic,FWD,White,105700
+Peugeot,3008,Premium,2020,1,125000,1.2,130,Gasoline,Automatic,FWD,White,90000
+Peugeot,308,Active,2016,4,90000,1.2,130,Gasoline,Automatic,FWD,Grey,19000
+Peugeot,2008,Active Go,2020,2,56000,1.2,110,Gasoline,Automatic,FWD,Black,45000
+Peugeot,108,,2017,1,134000,1.0,69,Gasoline,Robotic,FWD,Grey,24000
+Peugeot,3008,Active,2019,2,85000,1.2,130,Gasoline,Automatic,FWD,White,65000
+Peugeot,208,Premium S,2021,1,60300,1.2,130,Gasoline,Automatic,FWD,White,60000
+Peugeot,3008,Active Pack,2021,1,64967,1.5,130,Diesel,Automatic,FWD,White,95285
+Peugeot,3008,Active,2021,1,59244,1.5,130,Diesel,Automatic,FWD,Silver,95445
+Peugeot,3008,Premium,2021,1,58919,1.2,130,Gasoline,Automatic,FWD,Silver,92315
+Peugeot,3008,Active Pack,2021,1,123426,1.5,130,Diesel,Automatic,FWD,Black,87560
+Peugeot,3008,Active Pack,2021,1,120018,1.5,130,Diesel,Automatic,FWD,White,87995
+Peugeot,3008,Active,2021,1,105860,1.5,130,Diesel,Automatic,FWD,Silver,84575
+Peugeot,3008,Active Pack,2021,1,105306,1.2,130,Gasoline,Automatic,FWD,Silver,72815
+Peugeot,3008,Premium,2020,2,88328,1.2,130,Gasoline,Automatic,FWD,White,70692
+Peugeot,3008,Premium,2020,2,82595,1.6,180,Gasoline,Automatic,FWD,Brown,81985
+Peugeot,3008,Active,2020,1,99200,1.2,130,Gasoline,Automatic,FWD,White,63992
+Peugeot,3008,Premium,2020,1,93518,1.2,130,Gasoline,Automatic,FWD,Silver,70922
+Peugeot,3008,Premium,2020,1,82159,1.2,130,Gasoline,Automatic,FWD,White,71707
+Peugeot,3008,Premium,2020,1,79191,1.2,130,Gasoline,Automatic,FWD,Grey,71650
+Peugeot,3008,Premium,2020,1,74340,1.2,130,Gasoline,Automatic,FWD,White,73925
+Peugeot,3008,Premium,2020,1,57847,1.2,130,Gasoline,Automatic,FWD,White,81695
+Peugeot,3008,Active,2020,1,115000,1.5,130,Diesel,Automatic,FWD,Silver,78445
+Peugeot,3008,Premium,2020,1,100497,1.2,130,Gasoline,Automatic,FWD,White,83870
+Peugeot,3008,Active,2019,2,97000,1.5,130,Diesel,Automatic,FWD,White,66192
+Peugeot,3008,Active,2019,2,55637,1.2,130,Gasoline,Automatic,FWD,White,65215
+Peugeot,3008,Premium,2019,2,127500,1.2,130,Gasoline,Automatic,FWD,Grey,61770
+Peugeot,3008,Premium,2021,1,90000,1.5,130,Diesel,Automatic,FWD,White,117000
+Peugeot,308,Active,2017,2,123000,1.2,130,Gasoline,Automatic,FWD,White,22990
+Peugeot,407,SR,2007,2,213000,2.0,140,Gasoline,Automatic,FWD,Light Grey,5500
+Peugeot,508,Access,2012,3,145000,1.6,156,Gasoline,Automatic,FWD,Blue,7800
+Peugeot,301,Active,2017,2,157000,1.6,115,Gasoline,Automatic,FWD,Grey,15000
+Peugeot,3008,Active,2017,3,120000,1.6,120,Diesel,Automatic,FWD,White,57000
+Peugeot,208,Access Plus,2017,2,109000,1.2,110,Gasoline,Automatic,FWD,Grey,24000
+Peugeot,3008,Premium,2021,1,48000,1.2,130,Gasoline,Automatic,FWD,Red,100000
+Peugeot,3008,Active Pack,2022,2,64500,1.5,130,Diesel,Automatic,FWD,White,124000
+Peugeot,2008,Active,2023,1,22000,1.2,130,Gasoline,Automatic,FWD,Grey,110000
+Peugeot,3008,Premium S. E.,2019,1,68636,1.5,130,Diesel,Automatic,FWD,Brown,78785
+Peugeot,3008,Premium,2017,2,124000,1.6,165,Gasoline,Automatic,FWD,White,62505
+Peugeot,3008,Premium,2017,1,132642,1.6,120,Diesel,Automatic,FWD,White,62905
+Peugeot,208,Premium S,2024,1,40510,1.2,130,Gasoline,Automatic,FWD,Grey,93722
+Peugeot,208,Premium S,2024,1,26712,1.2,130,Gasoline,Automatic,FWD,Blue,101045
+Peugeot,208,Premium S,2023,1,77818,1.2,130,Gasoline,Automatic,FWD,Blue,77645
+Peugeot,208,Premium S,2023,1,6930,1.2,130,Gasoline,Automatic,FWD,White,95265
+Peugeot,208,Premium S,2023,1,57721,1.2,130,Gasoline,Automatic,FWD,Black,86645
+Peugeot,208,Premium S,2023,1,46098,1.2,130,Gasoline,Automatic,FWD,Red,81725
+Peugeot,208,Premium S,2023,1,45039,1.2,130,Gasoline,Automatic,FWD,White,86645
+Peugeot,208,Premium S,2023,1,34899,1.2,130,Gasoline,Automatic,FWD,White,89025
+Peugeot,208,Premium S,2023,1,16721,1.2,130,Gasoline,Automatic,FWD,White,91515
+Peugeot,208,E Premium S,2022,1,75521,,136,Electro,Automatic,FWD,White,75920
+Peugeot,208,Premium S,2022,1,42624,1.2,130,Gasoline,Automatic,FWD,Silver,82055
+Peugeot,208,E Premium S,2021,1,82000,,136,Electro,Automatic,FWD,Blue,69285
+Peugeot,208,Active,2020,2,80246,1.2,110,Gasoline,Automatic,FWD,White,48880
+Peugeot,208,Active,2020,2,75795,1.2,110,Gasoline,Automatic,FWD,White,45352
+Peugeot,208,Active,2020,2,61321,1.2,110,Gasoline,Automatic,FWD,White,52615
+Peugeot,208,,2020,1,59900,1.2,110,Gasoline,Automatic,FWD,White,55640
+Peugeot,2008,GT,2024,1,35000,1.2,130,Gasoline,Automatic,FWD,Grey,115855
+Peugeot,3008,Premium,2021,1,27000,1.2,130,Gasoline,Automatic,FWD,Grey,129000
+Peugeot,2008,Access,2015,3,150000,1.2,82,Gasoline,Robotic,FWD,Grey,10000
+Peugeot,Boxer,,2019,2,171000,2.2,140,Diesel,Manual,FWD,White,70000
+Peugeot,301,,2013,4,187000,1.6,115,Gasoline,Automatic,FWD,White,9000
+Peugeot,508,GT,2020,3,87000,1.6,225,Gasoline,Automatic,FWD,Red,99000
+Peugeot,3008,,2021,2,90000,1.5,130,Diesel,Automatic,FWD,Blue,109000
+Peugeot,3008,Active,2019,4,97000,1.5,130,Diesel,Automatic,FWD,Black,65000
+Peugeot,107,Active,2013,3,170000,1.0,68,Gasoline,Robotic,FWD,Red,4500
+Peugeot,2008,,2016,1,29890,1.6,120,Gasoline,Automatic,FWD,Grey,32000
+Peugeot,Rcz,Premium,2011,4,350000,1.6,156,Gasoline,Automatic,FWD,Light blue,30000
+Peugeot,2008,GT,2024,1,28874,1.2,130,Gasoline,Automatic,FWD,White,115955
+Peugeot,2008,Premium,2023,1,78858,1.2,130,Gasoline,Automatic,FWD,White,89830
+Peugeot,2008,GT,2023,1,61731,1.2,130,Gasoline,Automatic,FWD,Blue,99925
+Peugeot,2008,GT,2023,1,60344,1.2,130,Gasoline,Automatic,FWD,White,97855
+Peugeot,2008,GT,2023,1,59017,1.2,130,Gasoline,Automatic,FWD,Grey,97935
+Peugeot,2008,GT,2023,1,35401,1.2,130,Gasoline,Automatic,FWD,White,103690
+Peugeot,2008,Premium,2023,1,33717,1.2,130,Gasoline,Automatic,FWD,White,100810
+Peugeot,2008,Premium,2023,1,30817,1.2,130,Gasoline,Automatic,FWD,Orange,100592
+Peugeot,2008,GT,2023,1,33157,1.2,130,Gasoline,Automatic,FWD,White,101715
+Peugeot,2008,Premium,2023,1,29449,1.2,130,Gasoline,Automatic,FWD,Grey,100830
+Peugeot,2008,GT,2023,1,29021,1.2,130,Gasoline,Automatic,FWD,Orange,103717
+Peugeot,2008,GT,2023,1,28086,1.2,130,Gasoline,Automatic,FWD,White,111325
+Peugeot,2008,Premium,2023,1,27128,1.2,130,Gasoline,Automatic,FWD,Orange,95655
+Peugeot,2008,GT,2023,1,22655,1.2,130,Gasoline,Automatic,FWD,Black,110145
+Peugeot,2008,Premium,2023,1,21075,1.2,130,Gasoline,Automatic,FWD,Black,102485
+Peugeot,2008,Premium,2023,1,20106,1.2,130,Gasoline,Automatic,FWD,White,103685
+Peugeot,2008,Premium,2023,1,19061,1.2,130,Gasoline,Automatic,FWD,White,101615
+Peugeot,2008,GT,2023,1,18779,1.2,130,Gasoline,Automatic,FWD,White,110115
+Peugeot,2008,GT,2023,1,16611,1.2,130,Gasoline,Automatic,FWD,Silver,102650
+Peugeot,2008,Premium,2023,1,12496,1.2,130,Gasoline,Automatic,FWD,White,106445
+Peugeot,3008,Premium,2020,2,80000,1.2,130,Gasoline,Automatic,FWD,Black,110000
+Peugeot,3008,Premium,2017,3,94000,1.6,165,Gasoline,Automatic,FWD,Black,74000
+Peugeot,308,Comfort Plus,2011,3,104321,1.6,120,Gasoline,Automatic,FWD,Blue,9500
+Peugeot,208,Access Plus,2018,3,115000,1.2,110,Gasoline,Automatic,FWD,Silver,32000
+Peugeot,208,Active Pro,2016,2,163000,1.2,110,Gasoline,Automatic,FWD,Grey,20000
+Peugeot,3008,Active,2020,2,31000,1.6,180,Gasoline,Automatic,FWD,White,95000
+Peugeot,108,,2017,2,86000,1.0,69,Gasoline,Robotic,FWD,Purple,24000
+Peugeot,3008,Active,2018,2,65000,1.6,120,Diesel,Automatic,FWD,Golden,79000
+Peugeot,2008,Premium,2020,1,70000,1.5,130,Diesel,Automatic,FWD,Orange,72000
+Peugeot,3008,Premium Pack,2013,4,162000,1.6,156,Gasoline,Automatic,FWD,Brown,14000
+Peugeot,2008,Active,2022,1,77067,1.2,130,Gasoline,Automatic,FWD,Blue,83960
+Peugeot,2008,Active,2022,1,71698,1.5,130,Diesel,Automatic,FWD,White,81995
+Peugeot,2008,Active,2022,1,68700,1.5,130,Diesel,Automatic,FWD,Grey,81415
+Peugeot,2008,Active,2022,1,49071,1.2,130,Gasoline,Automatic,FWD,White,89995
+Peugeot,2008,Active,2022,1,46163,1.5,130,Diesel,Automatic,FWD,White,91705
+Peugeot,2008,Active,2022,1,45080,1.2,130,Gasoline,Automatic,FWD,Silver,89555
+Peugeot,2008,Premium,2022,1,37162,1.2,130,Gasoline,Automatic,FWD,Blue,91675
+Peugeot,2008,Active,2022,1,37148,1.2,130,Gasoline,Automatic,FWD,White,92460
+Peugeot,2008,Active,2022,1,30700,1.2,130,Gasoline,Automatic,FWD,Silver,95985
+Peugeot,2008,Active,2022,1,29892,1.2,130,Gasoline,Automatic,FWD,Blue,91705
+Peugeot,2008,GT,2022,1,29885,1.2,130,Gasoline,Automatic,FWD,Blue,97675
+Peugeot,2008,Active,2022,1,29480,1.2,130,Gasoline,Automatic,FWD,Black,91682
+Peugeot,2008,Active,2022,1,118253,1.5,130,Diesel,Automatic,FWD,Blue,65345
+Peugeot,2008,GT,2021,2,71028,1.2,130,Gasoline,Automatic,FWD,White,77682
+Peugeot,2008,Premium,2021,2,46438,1.2,130,Gasoline,Automatic,FWD,White,77915
+Peugeot,2008,GT,2021,2,27837,1.2,130,Gasoline,Automatic,FWD,White,81995
+Peugeot,2008,Premium,2021,1,98558,1.2,130,Gasoline,Automatic,FWD,White,74215
+Peugeot,2008,Active,2021,1,96686,1.5,130,Diesel,Automatic,FWD,Red,69352
+Peugeot,2008,Active,2021,1,83902,1.2,130,Gasoline,Automatic,FWD,White,75995
+Peugeot,2008,Premium,2021,1,80318,1.5,130,Diesel,Automatic,FWD,White,77312
+Peugeot,3008,Premium,2022,1,19200,1.2,130,Gasoline,Automatic,FWD,Black,120000
+Peugeot,3008,Active Pack,2023,1,15500,1.5,130,Diesel,Automatic,FWD,Red,140000
+Peugeot,108,Top Active,2015,2,170000,1.0,69,Gasoline,Robotic,FWD,Grey,19900
+Peugeot,3008,Premium,2020,1,85000,1.5,130,Diesel,Automatic,FWD,Grey,110000
+Peugeot,5008,Premium,2020,2,95000,1.6,180,Gasoline,Automatic,FWD,White,108000
+Peugeot,3008,Active,2019,3,91000,1.5,130,Diesel,Automatic,FWD,Grey,95000
+Peugeot,3008,Active Pack,2021,1,59000,1.2,130,Gasoline,Automatic,FWD,Grey,107000
+Peugeot,208,Active Pro,2016,1,135000,1.2,110,Gasoline,Automatic,FWD,Blue,25000
+Peugeot,208,Access,2016,2,69000,1.2,110,Gasoline,Automatic,FWD,Silver,32000
+Peugeot,5008,Active,2018,2,125000,1.6,165,Gasoline,Automatic,FWD,Black,68000
+Peugeot,2008,Active,2022,1,118253,1.5,130,Diesel,Automatic,FWD,Blue,65345
+Peugeot,2008,GT,2021,2,71028,1.2,130,Gasoline,Automatic,FWD,White,77682
+Peugeot,2008,Premium,2021,2,46438,1.2,130,Gasoline,Automatic,FWD,White,77915
+Peugeot,2008,GT,2021,2,27837,1.2,130,Gasoline,Automatic,FWD,White,81995
+Peugeot,2008,Premium,2021,1,98558,1.2,130,Gasoline,Automatic,FWD,White,74215
+Peugeot,2008,Active,2021,1,96686,1.5,130,Diesel,Automatic,FWD,Red,69352
+Peugeot,2008,Active,2021,1,83902,1.2,130,Gasoline,Automatic,FWD,White,75995
+Peugeot,2008,Premium,2021,1,80318,1.5,130,Diesel,Automatic,FWD,White,77312
+Peugeot,2008,Premium,2021,1,74501,1.2,130,Gasoline,Automatic,FWD,White,79415
+Peugeot,2008,GT,2021,1,54329,1.2,130,Gasoline,Automatic,FWD,Silver,81990
+Peugeot,2008,Active,2021,1,46482,1.2,130,Gasoline,Automatic,FWD,Grey,79985
+Peugeot,2008,Active,2021,1,3614,1.2,130,Gasoline,Automatic,FWD,Black,88790
+Peugeot,2008,GT,2021,1,33776,1.2,130,Gasoline,Automatic,FWD,White,89455
+Peugeot,2008,Active,2021,1,31279,1.2,130,Gasoline,Automatic,FWD,Orange,80840
+Peugeot,2008,Premium,2021,1,21190,1.2,130,Gasoline,Automatic,FWD,White,86435
+Peugeot,2008,Active,2021,1,103181,1.2,130,Gasoline,Automatic,FWD,White,73575
+Peugeot,2008,Premium,2020,3,101786,1.5,130,Diesel,Automatic,FWD,Blue,63472
+Peugeot,2008,Premium,2020,1,83075,1.2,130,Gasoline,Automatic,FWD,White,75872
+Peugeot,2008,Premium,2020,1,74134,1.2,130,Gasoline,Automatic,FWD,White,73995
+Peugeot,2008,Active,2020,1,33040,1.2,130,Gasoline,Automatic,FWD,Orange,73685
+Peugeot,107,Trend,2011,3,264000,1.0,68,Gasoline,Robotic,FWD,Black,6000
+Peugeot,207,Active,2011,1,36800,1.6,120,Gasoline,Automatic,FWD,Grey,12900
+Peugeot,208,,2015,2,150000,1.6,120,Gasoline,Automatic,FWD,Silver,23000
+Peugeot,5008,Active,2018,2,148500,1.6,165,Gasoline,Automatic,FWD,Light blue,56000
+Peugeot,208,Active Pro,2016,2,150759,1.2,110,Gasoline,Automatic,FWD,Black,24000
+Peugeot,3008,,2019,1,103000,1.2,130,Gasoline,Automatic,FWD,Grey,90000
+Peugeot,301,,2014,3,130000,1.2,72,Gasoline,Manual,FWD,Grey,15000
+Peugeot,508,Access,2017,3,120000,1.6,165,Gasoline,Automatic,FWD,Black,40000
+Peugeot,208,Active,2014,3,105750,1.6,120,Gasoline,Automatic,FWD,Black,17500
+Peugeot,2008,Active Go,2018,2,141000,1.2,110,Gasoline,Automatic,FWD,Grey,37000
+Peugeot,2008,Active Go,2017,1,42155,1.2,110,Gasoline,Automatic,FWD,Beige,45752
+Peugeot,108,,2015,1,82389,1.0,69,Gasoline,Robotic,FWD,Grey,27995
+Peugeot,Boxer,,2018,2,87000,2.2,140,Diesel,Manual,FWD,White,68500
+Peugeot,3008,Active Pack,2022,2,143000,1.5,130,Diesel,Automatic,FWD,White,71500
+Peugeot,2008,Active,2020,2,113000,1.5,130,Diesel,Automatic,FWD,Red,62000
+Peugeot,207,Active,2012,4,180000,1.6,120,Gasoline,Automatic,FWD,Grey,8000
+Peugeot,208,Premium,2021,1,86568,1.2,130,Gasoline,Automatic,FWD,Blue,55000
+Peugeot,3008,,2020,1,32000,1.2,130,Gasoline,Automatic,FWD,Brown,79000
+Peugeot,3008,,2025,1,14500,1.2,136,Gasoline,Robotic,FWD,Grey,149999
+Peugeot,Boxer,,2022,1,64000,2.2,140,Diesel,Manual,FWD,White,109900
+Peugeot,3008,Premium,2018,2,115000,1.6,165,Gasoline,Automatic,FWD,White,54900
+Peugeot,3008,Premium,2020,1,106000,1.2,130,Gasoline,Automatic,FWD,White,76900
+Peugeot,3008,Premium Pack,2014,3,179000,1.6,156,Gasoline,Automatic,FWD,Bronze,8900
+Peugeot,3008,Active,2020,1,90000,1.2,130,Gasoline,Automatic,FWD,Grey,69900
+Peugeot,Boxer,,2023,2,102000,2.2,140,Diesel,Manual,FWD,White,129900
+Peugeot,2008,Premium,2017,4,94000,1.2,110,Gasoline,Automatic,FWD,White,29900
+Peugeot,308,Active,2015,3,120000,1.2,130,Gasoline,Automatic,FWD,White,16000
+Peugeot,3008,Active,2017,3,95000,1.6,120,Diesel,Automatic,FWD,Silver,55200
+Peugeot,5008,Premium,2021,2,120000,1.6,180,Gasoline,Automatic,FWD,White,77000
+Peugeot,2008,Premium,2021,1,80000,1.2,130,Gasoline,Automatic,FWD,Black,78000
+Peugeot,208,Active,2013,3,124000,1.6,120,Gasoline,Automatic,FWD,Red,19500
+Peugeot,3008,Active Pack,2022,1,26000,1.2,130,Gasoline,Automatic,FWD,White,125000
+Peugeot,3008,,2012,2,102000,1.6,156,Gasoline,Automatic,FWD,Black,15000
+Peugeot,3008,Premium,2018,2,160000,1.6,120,Diesel,Automatic,FWD,Blue,77000
+Peugeot,Rcz,Premium,2012,4,155000,1.6,156,Gasoline,Automatic,FWD,Grey,42000
+Peugeot,2008,Active,2020,2,23000,1.2,130,Gasoline,Automatic,FWD,White,75000
+Peugeot,301,Active,2013,2,192000,1.6,115,Gasoline,Automatic,FWD,Grey,10000
+Peugeot,3008,Active Pack,2021,2,64000,1.5,130,Diesel,Automatic,FWD,White,115500
+Peugeot,208,Active,2015,3,126000,1.6,120,Gasoline,Automatic,FWD,Black,27000
+Peugeot,207,Active,2012,4,94000,1.6,120,Gasoline,Automatic,FWD,White,14000
+Peugeot,3008,,2021,1,103500,1.6,180,Gasoline,Automatic,FWD,White,89800
+Peugeot,2008,Active,2021,1,55000,1.2,130,Gasoline,Automatic,FWD,Silver,80000
+Peugeot,3008,Premium,2019,2,67000,1.2,130,Gasoline,Automatic,FWD,Bronze,65000
+Peugeot,3008,Active,2020,2,86000,1.2,130,Gasoline,Automatic,FWD,Blue,59990
+Peugeot,208,GT,2023,1,39000,1.2,130,Gasoline,Automatic,FWD,Blue,89990
+Peugeot,2008,Active,2016,3,169000,1.2,110,Gasoline,Automatic,FWD,Black,12990
+Peugeot,2008,Active Go,2018,3,95000,1.2,110,Gasoline,Automatic,FWD,Grey,38000
+Peugeot,5008,Active Pack,2024,1,26000,1.2,130,Gasoline,Automatic,FWD,White,124000
+Peugeot,308,Comfort Pack,2009,4,177000,1.6,120,Gasoline,Automatic,FWD,Light Grey,9500
+Peugeot,3008,Active,2021,1,32000,1.5,130,Diesel,Automatic,FWD,White,109990
+Peugeot,208,Access Plus,2017,3,109000,1.2,110,Gasoline,Automatic,FWD,Grey,16490
+Peugeot,308,Access,2012,2,84000,1.6,120,Gasoline,Automatic,FWD,Grey,6000
+Peugeot,301,,2016,2,180000,1.2,82,Gasoline,Robotic,FWD,White,17999
+Peugeot,5008,Active,2018,2,123000,1.6,165,Gasoline,Automatic,FWD,White,59000
+Peugeot,3008,Active,2017,2,179000,1.6,120,Diesel,Automatic,FWD,Grey,38990
+Peugeot,3008,Active Pack,2023,2,97700,1.2,130,Gasoline,Automatic,FWD,Grey,75000
+Peugeot,3008,Active Pack,2021,1,37400,1.5,130,Diesel,Automatic,FWD,Silver,94500
+Peugeot,3008,Premium,2018,4,114200,1.6,120,Diesel,Automatic,FWD,Grey,58000
+Peugeot,508,,2015,3,135000,1.6,156,Gasoline,Automatic,FWD,Silver,17000
+Peugeot,2008,Active Go,2017,3,90000,1.2,110,Gasoline,Automatic,FWD,Red,20000
+Peugeot,107,Trend,2012,3,96480,1.0,68,Gasoline,Robotic,FWD,Blue,11500
+Peugeot,3008,Premium,2021,1,38500,1.2,130,Gasoline,Automatic,FWD,Light Grey,122000
+Peugeot,3008,Premium,2018,3,118000,1.6,120,Diesel,Automatic,FWD,White,80000
+Peugeot,207,Trendy,2011,2,130000,1.6,120,Gasoline,Automatic,FWD,Grey,12500
+Peugeot,208,Active,2015,3,45000,1.2,110,Gasoline,Automatic,FWD,Blue,29000
+Peugeot,307,Base,2005,4,330000,2.0,136,Gasoline,Automatic,FWD,Grey,28000
+Peugeot,207,,2009,2,142675,1.6,120,Gasoline,Automatic,FWD,Silver,6900
+Peugeot,208,Access,2018,2,113000,1.2,110,Gasoline,Automatic,FWD,Grey,32000
+Peugeot,208,Access,2014,2,193000,1.6,120,Gasoline,Automatic,FWD,Grey,15000
+Peugeot,2008,Active,2016,2,75000,1.6,120,Gasoline,Automatic,FWD,White,43000
+Peugeot,206,XS,2002,3,260000,1.6,110,Gasoline,Manual,FWD,Light Grey,16000
+Peugeot,2008,GT,2023,1,39000,1.2,130,Gasoline,Automatic,FWD,White,100000
+Peugeot,208,Active Pro,2017,4,126340,1.2,110,Gasoline,Automatic,FWD,Black,27000
+Peugeot,3008,PHEV GT,2021,1,39000,1.6,300,Plug,Automatic,AWD,Black,159990
+Peugeot,2008,Active Go,2018,2,124000,1.2,110,Gasoline,Automatic,FWD,Grey,38000
+Peugeot,3008,Active Pack,2022,1,109000,1.6,180,Gasoline,Automatic,FWD,Grey,84990
+Peugeot,2008,Premium,2021,1,80640,,136,Electro,Automatic,FWD,Silver,77900
+Peugeot,208,Access,2017,2,147000,1.2,110,Gasoline,Automatic,FWD,Grey,18500
+Peugeot,207,Active,2012,2,88000,1.6,120,Gasoline,Automatic,FWD,Black,11000
+Peugeot,208,,2014,2,130000,1.6,120,Gasoline,Automatic,FWD,Black,14500
+Peugeot,3008,Active,2020,2,58000,1.5,130,Diesel,Automatic,FWD,Grey,89000
+Peugeot,308,Active,2015,2,105000,1.2,130,Gasoline,Automatic,FWD,Black,22000
+Peugeot,5008,Active Pack,2021,1,74000,1.5,130,Diesel,Automatic,FWD,White,100000
+Peugeot,3008,Active Pack,2022,1,61000,1.2,130,Gasoline,Automatic,FWD,White,105700
+Peugeot,3008,Premium,2020,1,125000,1.2,130,Gasoline,Automatic,FWD,White,90000
+Peugeot,308,Active,2016,4,90000,1.2,130,Gasoline,Automatic,FWD,Grey,19000
+Peugeot,2008,Active Go,2020,2,56000,1.2,110,Gasoline,Automatic,FWD,Black,45000
+Peugeot,108,,2017,1,134000,1.0,69,Gasoline,Robotic,FWD,Grey,24000
+Peugeot,3008,Active,2019,2,85000,1.2,130,Gasoline,Automatic,FWD,White,65000
+Peugeot,208,Premium S,2021,1,60300,1.2,130,Gasoline,Automatic,FWD,White,60000
+Peugeot,3008,Active,2017,2,182000,1.6,120,Diesel,Automatic,FWD,Grey,55000
+Peugeot,2008,Premium,2017,2,69000,1.2,110,Gasoline,Automatic,FWD,Red,43000
+Peugeot,3008,Active,2017,2,129000,1.6,120,Diesel,Automatic,FWD,Black,65500
+Peugeot,5008,,2020,3,120000,1.5,130,Diesel,Automatic,FWD,White,100000
+Peugeot,508,,2012,3,170000,1.6,156,Gasoline,Automatic,FWD,Black,5000
+Peugeot,301,Active,2017,2,90000,1.6,115,Gasoline,Automatic,FWD,White,25000
+Peugeot,3008,Premium,2019,3,67000,1.2,130,Gasoline,Automatic,FWD,White,74000
+Peugeot,308,Active,2015,3,180000,1.2,130,Gasoline,Automatic,FWD,Grey,19000
+Peugeot,3008,Active,2020,1,64800,1.2,130,Gasoline,Automatic,FWD,Brown,104000
+Peugeot,208,Premium S,2023,1,10000,1.2,130,Gasoline,Automatic,FWD,Blue,105000
+Peugeot,3008,Premium,2021,1,90000,1.5,130,Diesel,Automatic,FWD,White,117000
+Peugeot,308,Active,2017,2,123000,1.2,130,Gasoline,Automatic,FWD,White,22990
+Peugeot,407,SR,2007,2,213000,2.0,140,Gasoline,Automatic,FWD,Light Grey,5500
+Peugeot,508,Access,2012,3,145000,1.6,156,Gasoline,Automatic,FWD,Blue,7800
+Peugeot,301,Active,2017,2,157000,1.6,115,Gasoline,Automatic,FWD,Grey,15000
+Peugeot,3008,Active,2017,3,120000,1.6,120,Diesel,Automatic,FWD,White,57000
+Peugeot,208,Access Plus,2017,2,109000,1.2,110,Gasoline,Automatic,FWD,Grey,24000
+Peugeot,3008,Premium,2021,1,48000,1.2,130,Gasoline,Automatic,FWD,Red,100000
+Peugeot,3008,Active Pack,2022,2,64500,1.5,130,Diesel,Automatic,FWD,White,124000
+Peugeot,2008,Active,2023,1,22000,1.2,130,Gasoline,Automatic,FWD,Grey,110000
+Peugeot,3008,Premium,2021,1,27000,1.2,130,Gasoline,Automatic,FWD,Grey,129000
+Peugeot,2008,Access,2015,3,150000,1.2,82,Gasoline,Robotic,FWD,Grey,10000
+Peugeot,Boxer,,2019,2,171000,2.2,140,Diesel,Manual,FWD,White,70000
+Peugeot,301,,2013,4,187000,1.6,115,Gasoline,Automatic,FWD,White,9000
+Peugeot,508,GT,2020,3,87000,1.6,225,Gasoline,Automatic,FWD,Red,99000
+Peugeot,3008,,2021,2,90000,1.5,130,Diesel,Automatic,FWD,Blue,109000
+Peugeot,3008,Active,2019,4,97000,1.5,130,Diesel,Automatic,FWD,Black,65000
+Peugeot,107,Active,2013,3,170000,1.0,68,Gasoline,Robotic,FWD,Red,4500
+Peugeot,2008,,2016,1,29890,1.6,120,Gasoline,Automatic,FWD,Grey,32000
+Peugeot,Rcz,Premium,2011,4,350000,1.6,156,Gasoline,Automatic,FWD,Light blue,30000
+Peugeot,301,Active,2015,4,170000,1.2,82,Gasoline,Robotic,FWD,Grey,11000
+Peugeot,208,GT,2023,1,9100,1.2,130,Gasoline,Automatic,FWD,Yellow,119000
+Peugeot,508,Access,2013,3,200000,1.6,156,Gasoline,Automatic,FWD,Grey,8000
+Peugeot,307,XR,2005,3,190000,1.6,109,Gasoline,Automatic,FWD,Blue,3600
+Peugeot,3008,Active,2020,1,37500,1.5,130,Diesel,Automatic,FWD,White,112000
+Peugeot,206,CC,2002,4,166000,1.6,109,Gasoline,Automatic,FWD,White,25000
+Peugeot,3008,Active,2017,4,190000,1.6,120,Diesel,Automatic,FWD,Blue,60000
+Peugeot,3008,Active,2020,1,24000,1.5,130,Diesel,Automatic,FWD,Black,120000
+Peugeot,208,,2014,3,220000,1.2,82,Gasoline,Robotic,FWD,Grey,6000
+Peugeot,3008,Premium,2019,3,48000,1.6,180,Gasoline,Automatic,FWD,Black,100000
+Peugeot,3008,Premium,2020,2,80000,1.2,130,Gasoline,Automatic,FWD,Black,110000
+Peugeot,3008,Premium,2017,3,94000,1.6,165,Gasoline,Automatic,FWD,Black,74000
+Peugeot,308,Comfort Plus,2011,3,104321,1.6,120,Gasoline,Automatic,FWD,Blue,9500
+Peugeot,208,Access Plus,2018,3,115000,1.2,110,Gasoline,Automatic,FWD,Silver,32000
+Peugeot,208,Active Pro,2016,2,163000,1.2,110,Gasoline,Automatic,FWD,Grey,20000
+Peugeot,3008,Active,2020,2,31000,1.6,180,Gasoline,Automatic,FWD,White,95000
+Peugeot,108,,2017,2,86000,1.0,69,Gasoline,Robotic,FWD,Purple,24000
+Peugeot,3008,Active,2018,2,65000,1.6,120,Diesel,Automatic,FWD,Golden,79000
+Peugeot,2008,Premium,2020,1,70000,1.5,130,Diesel,Automatic,FWD,Orange,72000
+Peugeot,3008,Premium Pack,2013,4,162000,1.6,156,Gasoline,Automatic,FWD,Brown,14000
+Peugeot,3008,Premium,2022,1,19200,1.2,130,Gasoline,Automatic,FWD,Black,120000
+Peugeot,3008,Active Pack,2023,1,15500,1.5,130,Diesel,Automatic,FWD,Red,140000
+Peugeot,108,Top Active,2015,2,170000,1.0,69,Gasoline,Robotic,FWD,Grey,19900
+Peugeot,3008,Premium,2020,1,85000,1.5,130,Diesel,Automatic,FWD,Grey,110000
+Peugeot,5008,Premium,2020,2,95000,1.6,180,Gasoline,Automatic,FWD,White,108000
+Peugeot,3008,Active,2019,3,91000,1.5,130,Diesel,Automatic,FWD,Grey,95000
+Peugeot,3008,Active Pack,2021,1,59000,1.2,130,Gasoline,Automatic,FWD,Grey,107000
+Peugeot,208,Active Pro,2016,1,135000,1.2,110,Gasoline,Automatic,FWD,Blue,25000
+Peugeot,208,Access,2016,2,69000,1.2,110,Gasoline,Automatic,FWD,Silver,32000
+Peugeot,5008,Active,2018,2,125000,1.6,165,Gasoline,Automatic,FWD,Black,68000
+Peugeot,3008,Active,2019,2,130000,1.5,130,Diesel,Automatic,FWD,White,101000
+Peugeot,2008,Active Go,2016,4,107000,1.2,110,Gasoline,Automatic,FWD,Black,35000
+Peugeot,3008,Active,2019,3,135000,1.5,130,Diesel,Automatic,FWD,Silver,81000
+Peugeot,3008,Active,2017,1,55300,1.6,120,Diesel,Automatic,FWD,Black,81000
+Peugeot,2008,Access,2015,3,165000,1.2,82,Gasoline,Robotic,FWD,Grey,22000
+Peugeot,3008,Premium,2017,1,57000,1.6,120,Diesel,Automatic,FWD,Grey,88000
+Peugeot,208,Active Pro,2016,2,122000,1.2,110,Gasoline,Automatic,FWD,Grey,27000
+Peugeot,2008,Premium,2020,1,54000,1.5,130,Diesel,Automatic,FWD,White,92000
+Peugeot,5008,Active,2019,1,88000,1.5,130,Diesel,Automatic,FWD,White,95000
+Peugeot,3008,Premium,2019,1,92000,1.6,180,Gasoline,Automatic,FWD,Black,77000
+Peugeot,107,Trend,2011,3,264000,1.0,68,Gasoline,Robotic,FWD,Black,6000
+Peugeot,207,Active,2011,1,36800,1.6,120,Gasoline,Automatic,FWD,Grey,12900
+Peugeot,208,,2015,2,150000,1.6,120,Gasoline,Automatic,FWD,Silver,23000
+Peugeot,5008,Active,2018,2,148500,1.6,165,Gasoline,Automatic,FWD,Light blue,56000
+Peugeot,208,Active Pro,2016,2,150759,1.2,110,Gasoline,Automatic,FWD,Black,24000
+Peugeot,3008,,2019,1,103000,1.2,130,Gasoline,Automatic,FWD,Grey,90000
+Peugeot,301,,2014,3,130000,1.2,72,Gasoline,Manual,FWD,Grey,15000
+Peugeot,508,Access,2017,3,120000,1.6,165,Gasoline,Automatic,FWD,Black,40000
+Peugeot,208,Active,2014,3,105750,1.6,120,Gasoline,Automatic,FWD,Black,17500
+Peugeot,2008,Active Go,2018,2,141000,1.2,110,Gasoline,Automatic,FWD,Grey,37000
+Peugeot,5008,Premium Pack,2012,4,77000,1.6,156,Gasoline,Automatic,FWD,Light blue,15500
+Peugeot,3008,Premium,2019,3,67500,1.2,130,Gasoline,Automatic,FWD,Grey,94000
+Peugeot,3008,Active,2018,2,130000,1.6,165,Gasoline,Automatic,FWD,Green,71000
+Peugeot,208,,2015,3,71000,1.2,82,Gasoline,Manual,FWD,Black,19500
+Peugeot,Boxer,,2013,3,255000,2.2,120,Diesel,Manual,FWD,White,44000
+Peugeot,208,,2015,3,101000,1.6,120,Gasoline,Automatic,FWD,Red,22000
+Peugeot,3008,,2020,2,69000,1.2,130,Gasoline,Automatic,FWD,Brown,89000
+Peugeot,3008,Premium,2021,1,71100,1.6,180,Gasoline,Automatic,FWD,White,120000
+Peugeot,3008,Premium,2018,2,88000,1.6,120,Diesel,Automatic,FWD,White,94000
+Peugeot,3008,Premium,2018,1,132000,1.6,165,Gasoline,Automatic,FWD,White,82000
+Peugeot,2008,Active,2015,2,158000,1.6,120,Gasoline,Automatic,FWD,Beige,18400
+Peugeot,5008,Premium,2020,2,115000,1.6,180,Gasoline,Automatic,FWD,Silver,90000
+Peugeot,3008,Premium,2021,1,42000,1.6,180,Gasoline,Automatic,FWD,Blue,130000
+Peugeot,3008,,2019,2,101000,1.2,130,Gasoline,Automatic,FWD,Brown,69000
+Peugeot,3008,Premium,2021,1,64000,1.5,130,Diesel,Automatic,FWD,Grey,114000
+Peugeot,Boxer,,2016,2,222000,2.2,155,Diesel,Manual,FWD,White,35000
+Peugeot,Boxer,,2019,1,172000,2.2,130,Diesel,Manual,FWD,White,67000
+Peugeot,3008,Premium,2019,2,131000,1.2,130,Gasoline,Automatic,FWD,White,75000
+Peugeot,208,Active,2013,3,124000,1.6,120,Gasoline,Automatic,FWD,Red,19500
+Peugeot,3008,Active Pack,2022,1,26000,1.2,130,Gasoline,Automatic,FWD,White,125000
+Peugeot,3008,,2012,2,102000,1.6,156,Gasoline,Automatic,FWD,Black,15000
+Peugeot,3008,Premium,2018,2,160000,1.6,120,Diesel,Automatic,FWD,Blue,77000
+Peugeot,Rcz,Premium,2012,4,155000,1.6,156,Gasoline,Automatic,FWD,Grey,42000
+Peugeot,2008,Active,2020,2,23000,1.2,130,Gasoline,Automatic,FWD,White,75000
+Peugeot,301,Active,2013,2,192000,1.6,115,Gasoline,Automatic,FWD,Grey,10000
+Peugeot,3008,Active Pack,2021,2,64000,1.5,130,Diesel,Automatic,FWD,White,115500
+Peugeot,208,Active,2015,3,126000,1.6,120,Gasoline,Automatic,FWD,Black,27000
+Peugeot,207,Active,2012,4,94000,1.6,120,Gasoline,Automatic,FWD,White,14000
+Peugeot,308,Comfort Plus,2010,2,101300,1.6,120,Gasoline,Automatic,FWD,Silver,7500
+Peugeot,301,Active,2016,2,60000,1.2,82,Gasoline,Robotic,FWD,Light Grey,21600
+Peugeot,3008,Premium,2020,2,40600,1.2,130,Gasoline,Automatic,FWD,White,114000
+Peugeot,208,Active,2015,3,180000,1.2,110,Gasoline,Automatic,FWD,Grey,20000
+Peugeot,107,Trend,2012,3,96480,1.0,68,Gasoline,Robotic,FWD,Blue,11500
+Peugeot,3008,Premium,2021,1,38500,1.2,130,Gasoline,Automatic,FWD,Light Grey,122000
+Peugeot,3008,Premium,2018,3,118000,1.6,120,Diesel,Automatic,FWD,White,80000
+Peugeot,207,Trendy,2011,2,130000,1.6,120,Gasoline,Automatic,FWD,Grey,12500
+Peugeot,208,Active,2015,3,45000,1.2,110,Gasoline,Automatic,FWD,Blue,29000
+Peugeot,307,Base,2005,4,330000,2.0,136,Gasoline,Automatic,FWD,Grey,28000
+Peugeot,207,,2009,2,142675,1.6,120,Gasoline,Automatic,FWD,Silver,6900
+Peugeot,208,Access,2018,2,113000,1.2,110,Gasoline,Automatic,FWD,Grey,32000
+Peugeot,208,Access,2014,2,193000,1.6,120,Gasoline,Automatic,FWD,Grey,15000
+Peugeot,2008,Active,2016,2,75000,1.6,120,Gasoline,Automatic,FWD,White,43000
+Peugeot,3008,Active Pack,2024,2,3000,1.5,130,Diesel,Automatic,FWD,Grey,175000
+Peugeot,3008,Premium,2017,2,52000,1.6,165,Gasoline,Automatic,FWD,White,95000
+Peugeot,3008,Active,2017,2,182000,1.6,120,Diesel,Automatic,FWD,Grey,55000
+Peugeot,2008,Premium,2017,2,69000,1.2,110,Gasoline,Automatic,FWD,Red,43000
+Peugeot,3008,Active,2017,2,129000,1.6,120,Diesel,Automatic,FWD,Black,65500
+Peugeot,5008,,2020,3,120000,1.5,130,Diesel,Automatic,FWD,White,100000
+Peugeot,508,,2012,3,170000,1.6,156,Gasoline,Automatic,FWD,Black,5000
+Peugeot,301,Active,2017,2,90000,1.6,115,Gasoline,Automatic,FWD,White,25000
+Peugeot,3008,Premium,2019,3,67000,1.2,130,Gasoline,Automatic,FWD,White,74000
+Peugeot,308,Active,2015,3,180000,1.2,130,Gasoline,Automatic,FWD,Grey,19000
+Peugeot,3008,Active,2020,1,64800,1.2,130,Gasoline,Automatic,FWD,Brown,104000
+Peugeot,208,Premium S,2023,1,10000,1.2,130,Gasoline,Automatic,FWD,Blue,105000
+Peugeot,2008,,2021,1,47000,1.5,130,Diesel,Automatic,FWD,Silver,93000
+Peugeot,2008,Premium,2017,2,70000,1.2,110,Gasoline,Automatic,FWD,White,53000
+Peugeot,508,Access,2014,3,100000,1.6,156,Gasoline,Automatic,FWD,White,23000
+Peugeot,3008,Premium,2018,2,90000,1.6,165,Gasoline,Automatic,FWD,Red,90000
+Peugeot,301,Active,2015,4,170000,1.2,82,Gasoline,Robotic,FWD,Grey,11000
+Peugeot,208,GT,2023,1,9100,1.2,130,Gasoline,Automatic,FWD,Yellow,119000
+Peugeot,508,Access,2013,3,200000,1.6,156,Gasoline,Automatic,FWD,Grey,8000
+Peugeot,307,XR,2005,3,190000,1.6,109,Gasoline,Automatic,FWD,Blue,3600
+Peugeot,3008,Active,2020,1,37500,1.5,130,Diesel,Automatic,FWD,White,112000
+Peugeot,206,CC,2002,4,166000,1.6,109,Gasoline,Automatic,FWD,White,25000
+Peugeot,3008,Active,2017,4,190000,1.6,120,Diesel,Automatic,FWD,Blue,60000
+Peugeot,3008,Active,2020,1,24000,1.5,130,Diesel,Automatic,FWD,Black,120000
+Peugeot,208,,2014,3,220000,1.2,82,Gasoline,Robotic,FWD,Grey,6000
+Peugeot,3008,Premium,2019,3,48000,1.6,180,Gasoline,Automatic,FWD,Black,100000
+Peugeot,3008,Active,2019,2,130000,1.5,130,Diesel,Automatic,FWD,White,101000
+Peugeot,2008,Active Go,2016,4,107000,1.2,110,Gasoline,Automatic,FWD,Black,35000
+Peugeot,3008,Active,2019,3,135000,1.5,130,Diesel,Automatic,FWD,Silver,81000
+Peugeot,3008,Active,2017,1,55300,1.6,120,Diesel,Automatic,FWD,Black,81000
+Peugeot,2008,Access,2015,3,165000,1.2,82,Gasoline,Robotic,FWD,Grey,22000
+Peugeot,3008,Premium,2017,1,57000,1.6,120,Diesel,Automatic,FWD,Grey,88000
+Peugeot,208,Active Pro,2016,2,122000,1.2,110,Gasoline,Automatic,FWD,Grey,27000
+Peugeot,2008,Premium,2020,1,54000,1.5,130,Diesel,Automatic,FWD,White,92000
+Peugeot,5008,Active,2019,1,88000,1.5,130,Diesel,Automatic,FWD,White,95000
+Peugeot,208,Active,2014,3,140000,1.6,120,Gasoline,Automatic,FWD,White,15900
+Peugeot,3008,Active,2020,1,89000,1.2,130,Gasoline,Automatic,FWD,Black,64990
+Peugeot,3008,Active Pack,2021,2,54000,1.5,130,Diesel,Automatic,FWD,White,104990
+Peugeot,2008,Active Go,2019,2,128000,1.2,110,Gasoline,Automatic,FWD,White,36500
+Peugeot,Boxer,,2020,2,189000,2.2,130,Diesel,Manual,FWD,White,69990
+Peugeot,3008,Active,2019,2,110000,1.5,130,Diesel,Automatic,FWD,White,72900
+Peugeot,5008,Premium,2018,2,112048,1.6,165,Gasoline,Automatic,FWD,White,69132
+Peugeot,3008,Premium,2023,1,49184,1.5,130,Diesel,Automatic,FWD,White,121280
+Peugeot,3008,Premium,2022,1,54026,1.2,130,Gasoline,Automatic,FWD,White,101165
+Peugeot,3008,Active Pack,2022,1,101590,1.6,180,Gasoline,Automatic,FWD,Silver,93885
+Peugeot,208,Premium S,2023,1,19819,1.2,130,Gasoline,Automatic,FWD,White,90645
+Peugeot,2008,Allure,2024,1,14068,1.2,130,Gasoline,Automatic,FWD,Silver,110525
+Peugeot,2008,Premium,2022,1,82928,1.5,130,Diesel,Automatic,FWD,Silver,81125
+Peugeot,2008,Premium,2022,1,75960,,136,Electro,Automatic,FWD,White,74505
+Peugeot,2008,Active,2021,2,58119,1.2,130,Gasoline,Automatic,FWD,Black,72985
+Peugeot,2008,Active Go,2016,3,115000,1.2,110,Gasoline,Automatic,FWD,White,19999
+Peugeot,5008,Active Pack,2021,1,105000,1.2,130,Gasoline,Automatic,FWD,White,78000
+Peugeot,3008,Active Pack,2022,1,165000,1.5,130,Diesel,Automatic,FWD,Silver,78900
+Peugeot,2008,Active,2022,1,150000,1.5,130,Diesel,Automatic,FWD,White,62000
+Peugeot,3008,Premium,2019,1,92000,1.6,180,Gasoline,Automatic,FWD,Black,77000
+Peugeot,2008,Active,2015,2,158000,1.6,120,Gasoline,Automatic,FWD,Beige,18400
+Peugeot,5008,Premium,2020,2,115000,1.6,180,Gasoline,Automatic,FWD,Silver,90000
+Peugeot,3008,Premium,2021,1,42000,1.6,180,Gasoline,Automatic,FWD,Blue,130000
+Peugeot,3008,,2019,2,101000,1.2,130,Gasoline,Automatic,FWD,Brown,69000
+Peugeot,3008,Premium,2021,1,64000,1.5,130,Diesel,Automatic,FWD,Grey,114000
+Peugeot,Boxer,,2016,2,222000,2.2,155,Diesel,Manual,FWD,White,35000
+Peugeot,Boxer,,2019,1,172000,2.2,130,Diesel,Manual,FWD,White,67000
+Peugeot,3008,Premium,2019,2,131000,1.2,130,Gasoline,Automatic,FWD,White,75000

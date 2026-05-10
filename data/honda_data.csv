@@ -1,181 +1,232 @@
-manufacturer,model,year,price,hand,fuel,engine_liters,horsepower,transmission,mileage
-Honda,Civic,2007,11900,3.0,gasoline,1.8,140,automatic,267000.0
-Honda,Jazz,2017,38800,2.0,gasoline,1.3,102,variable,135000.0
-Honda,Hr V,2018,64900,2.0,gasoline,1.5,130,variable,81000.0
-Honda,Civic,2018,48800,2.0,gasoline,1.0,129,variable,107000.0
-Honda,Civic,2014,27900,2.0,gasoline,1.8,142,automatic,167000.0
-Honda,Cr V,2020,103635,1.0,gasoline,1.5,190,variable,34835.0
-Honda,Civic,2020,90000,2.0,gasoline,1.5,182,variable,70000.0
-Honda,Civic,2009,15000,4.0,gasoline,1.8,140,automatic,224000.0
-Honda,City,2022,66900,1.0,gasoline,1.5,121,variable,109000.0
-Honda,Civic,2010,21900,3.0,gasoline,1.8,140,automatic,191000.0
-Honda,Civic,2007,9500,3.0,gasoline,1.8,140,automatic,295000.0
-Honda,Cr V,2009,32000,4.0,gasoline,2.0,150,automatic,270000.0
-Honda,Civic,2007,9000,4.0,gasoline,1.8,140,automatic,296000.0
-Honda,Civic,2018,50000,2.0,gasoline,1.0,129,variable,130000.0
-Honda,Civic,2011,25200,2.0,gasoline,1.8,140,automatic,130000.0
-Honda,Crosstour,2011,82000,3.0,gasoline,3.5,271,automatic,110000.0
-Honda,Civic,2010,16000,4.0,gasoline,1.8,140,automatic,220000.0
-Honda,Civic,2007,8000,1.0,gasoline,1.8,140,automatic,290000.0
-Honda,Civic,2007,21000,3.0,hybrid,1.3,95,variable,161300.0
-Honda,Civic,2009,20500,4.0,gasoline,1.8,140,automatic,180000.0
-Honda,Accord,2005,10000,2.0,gasoline,2.0,155,automatic,170000.0
-Honda,Accord,2003,12000,4.0,gasoline,2.0,155,automatic,190000.0
-Honda,Civic,2014,25500,4.0,gasoline,1.8,142,automatic,196000.0
-Honda,Civic,2020,58000,2.0,gasoline,1.5,182,variable,159000.0
-Honda,Accord,2015,45000,2.0,gasoline,2.0,156,automatic,197000.0
-Honda,Civic,2010,15600,4.0,gasoline,1.8,140,automatic,225000.0
-Honda,Cr V,2020,83000,2.0,gasoline,1.5,190,variable,160000.0
-Honda,Cr V,2013,35000,3.0,gasoline,2.0,155,automatic,187000.0
-Honda,Jazz,2018,37000,2.0,gasoline,1.3,102,variable,236000.0
-Honda,Civic,2008,7000,4.0,gasoline,1.8,140,automatic,260000.0
-Honda,Accord,2005,10000,2.0,gasoline,2.0,155,automatic,170000.0
-Honda,Accord,2003,12000,4.0,gasoline,2.0,155,automatic,190000.0
-Honda,Jazz Crosstar,2026,149990,,hybrid,1.5,122,automatic,10.0
-Honda,Civic,2014,25500,4.0,gasoline,1.8,142,automatic,196000.0
-Honda,Civic,2020,58000,2.0,gasoline,1.5,182,variable,159000.0
-Honda,Accord,2015,45000,2.0,gasoline,2.0,156,automatic,197000.0
-Honda,Civic,2010,15600,4.0,gasoline,1.8,140,automatic,225000.0
-Honda,Cr V,2020,83000,2.0,gasoline,1.5,190,variable,160000.0
-Honda,Cr V,2013,35000,3.0,gasoline,2.0,155,automatic,187000.0
-Honda,Jazz,2018,37000,2.0,gasoline,1.3,102,variable,236000.0
-Honda,Civic,2008,7000,4.0,gasoline,1.8,140,automatic,260000.0
-Honda,Cr V,2006,19999,3.0,gasoline,2.0,150,automatic,250000.0
-Honda,Civic,2021,92000,2.0,gasoline,1.5,182,variable,56000.0
-Honda,Civic,2019,57000,3.0,gasoline,1.6,125,variable,157000.0
-Honda,Civic,2019,78000,1.0,gasoline,1.5,182,variable,82500.0
-Honda,Fr V,2008,12000,3.0,gasoline,1.8,140,automatic,342000.0
-Honda,Jazz,2020,69000,1.0,hybrid,1.5,98,automatic,130000.0
-Honda,Civic,2008,24500,2.0,gasoline,1.8,140,automatic,101060.0
-Honda,Civic,2007,18500,4.0,gasoline,1.8,140,automatic,180000.0
-Honda,Civic,2018,65000,1.0,gasoline,1.5,182,variable,140000.0
-Honda,Civic,2009,20500,4.0,gasoline,1.8,140,automatic,180000.0
-Honda,Civic,2019,65000,1.0,gasoline,1.0,129,variable,46600.0
-Honda,Civic,2011,17000,4.0,gasoline,1.8,140,automatic,207000.0
-Honda,Civic,2012,14000,2.0,gasoline,1.8,142,automatic,280000.0
-Honda,Accord,2008,26000,2.0,gasoline,2.4,190,automatic,250000.0
-Honda,Civic,2019,81000,1.0,gasoline,1.5,182,variable,109000.0
-Honda,Accord,2008,25000,3.0,gasoline,2.0,155,automatic,270000.0
-Honda,Civic,2006,19000,3.0,gasoline,1.8,140,automatic,249000.0
-Honda,Civic,2009,15500,4.0,hybrid,1.3,95,variable,213000.0
-Honda,Accord,2007,6500,4.0,gasoline,2.0,155,automatic,280000.0
-Honda,Civic,2019,65000,1.0,gasoline,1.0,129,variable,46600.0
-Honda,Civic,2011,17000,4.0,gasoline,1.8,140,automatic,207000.0
-Honda,Civic,2012,14000,2.0,gasoline,1.8,142,automatic,280000.0
-Honda,Accord,2008,26000,2.0,gasoline,2.4,190,automatic,250000.0
-Honda,Civic,2019,81000,1.0,gasoline,1.5,182,variable,109000.0
-Honda,Accord,2008,25000,3.0,gasoline,2.0,155,automatic,270000.0
-Honda,Civic,2006,19000,3.0,gasoline,1.8,140,automatic,249000.0
-Honda,Civic,2009,15500,4.0,hybrid,1.3,95,variable,213000.0
-Honda,Accord,2007,6500,4.0,gasoline,2.0,155,automatic,280000.0
-Honda,Civic,2006,12000,3.0,gasoline,1.8,140,automatic,220000.0
-Honda,Civic,2006,10500,2.0,gasoline,1.8,140,automatic,281000.0
-Honda,Fr V,2007,14500,3.0,gasoline,1.8,140,automatic,267000.0
-Honda,Insight,2011,15000,2.0,hybrid,1.3,88,variable,200000.0
-Honda,Legend,2009,28000,3.0,gasoline,3.7,295,automatic,201000.0
-Honda,Accord,2000,10000,1.0,gasoline,2.0,150,automatic,300000.0
-Honda,Civic,2010,20000,3.0,gasoline,1.8,140,automatic,206000.0
-Honda,Jazz,2005,15000,3.0,gasoline,1.3,83,variable,204300.0
-Honda,Jazz,2009,32000,3.0,gasoline,1.3,100,manual,165000.0
-Honda,Civic,2010,17000,2.0,gasoline,1.8,140,automatic,218500.0
-Honda,Civic,2008,15000,1.0,gasoline,1.8,140,automatic,240000.0
-Honda,Civic,2008,7000,4.0,gasoline,1.8,140,automatic,260000.0
-Honda,Civic,2019,57000,3.0,gasoline,1.6,125,variable,157000.0
-Honda,Civic,2019,78000,1.0,gasoline,1.5,182,variable,82500.0
-Honda,Fr V,2008,12000,3.0,gasoline,1.8,140,automatic,342000.0
-Honda,Jazz,2020,69000,1.0,hybrid,1.5,98,automatic,130000.0
-Honda,Civic,2008,24500,2.0,gasoline,1.8,140,automatic,101060.0
-Honda,Civic,2007,18500,4.0,gasoline,1.8,140,automatic,180000.0
-Honda,Civic,2018,65000,1.0,gasoline,1.5,182,variable,140000.0
-Honda,Civic,2010,16999,4.0,gasoline,1.8,140,automatic,243500.0
-Honda,Cr V,2020,123000,1.0,gasoline,1.5,190,variable,50000.0
-Honda,Civic,2010,16999,4.0,gasoline,1.8,140,automatic,243500.0
-Honda,Cr V,2020,123000,1.0,gasoline,1.5,190,variable,50000.0
-Honda,Cr V,2003,18000,4.0,gasoline,2.0,150,automatic,220000.0
-Honda,Civic,2010,17000,3.0,gasoline,1.8,140,automatic,189000.0
-Honda,Civic,2018,72000,1.0,gasoline,1.5,182,variable,150000.0
-Honda,Accord,2009,20000,1.0,diesel,2.2,150,automatic,275432.0
-Honda,Civic,2014,30000,2.0,gasoline,1.8,142,automatic,143870.0
-Honda,Civic,2017,44000,3.0,gasoline,1.8,142,automatic,150000.0
-Honda,Fr V,2008,17000,3.0,gasoline,1.8,140,automatic,222000.0
-Honda,Civic,2015,35000,1.0,gasoline,1.8,142,automatic,180000.0
-Honda,Civic,2007,15000,4.0,gasoline,1.8,140,automatic,261000.0
-Honda,Civic,2008,9000,2.0,hybrid,1.3,95,variable,452000.0
-Honda,Civic,2012,21500,2.0,gasoline,1.8,142,automatic,223000.0
-Honda,Accord,2020,100000,2.0,hybrid,2.0,212,variable,160000.0
-Honda,Civic,2019,58000,2.0,gasoline,1.0,129,variable,82000.0
-Honda,Civic,2005,5900,4.0,gasoline,1.6,110,automatic,270000.0
-Honda,Civic,2009,16000,4.0,hybrid,1.3,95,variable,216000.0
-Honda,Accord,2010,55000,2.0,gasoline,3.5,271,automatic,113000.0
-Honda,Civic,2016,37700,1.0,gasoline,1.8,142,automatic,186000.0
-Honda,Civic,2006,11500,3.0,gasoline,1.8,140,automatic,220000.0
-Honda,Civic,2012,14000,2.0,gasoline,1.8,142,automatic,280000.0
-Honda,Accord,2008,26000,2.0,gasoline,2.4,190,automatic,250000.0
-Honda,Civic,2019,81000,1.0,gasoline,1.5,182,variable,109000.0
-Honda,Accord,2008,25000,3.0,gasoline,2.0,155,automatic,270000.0
-Honda,Civic,2006,19000,3.0,gasoline,1.8,140,automatic,249000.0
-Honda,Civic,2009,15500,4.0,hybrid,1.3,95,variable,213000.0
-Honda,Accord,2007,6500,4.0,gasoline,2.0,155,automatic,280000.0
-Honda,Civic,2006,12000,3.0,gasoline,1.8,140,automatic,220000.0
-Honda,Civic,2006,10500,2.0,gasoline,1.8,140,automatic,281000.0
-Honda,Fr V,2007,14500,3.0,gasoline,1.8,140,automatic,267000.0
-Honda,Civic,2008,10000,3.0,gasoline,1.8,140,automatic,300000.0
-Honda,Civic,2011,25000,2.0,gasoline,1.8,140,automatic,185000.0
-Honda,Cr V,2013,47500,2.0,gasoline,2.0,155,automatic,150000.0
-Honda,Civic,2012,27000,4.0,gasoline,1.8,142,automatic,188000.0
-Honda,Civic,2016,52900,3.0,gasoline,1.8,142,automatic,94000.0
-Honda,Cr V,2016,70000,1.0,gasoline,2.0,155,manual,165000.0
-Honda,Odyssey Usa,2008,45000,2.0,gasoline,3.5,240,automatic,200000.0
-Honda,Civic,2010,16000,4.0,gasoline,1.8,140,automatic,243500.0
-Honda,Jazz,2018,55000,1.0,gasoline,1.3,102,variable,123500.0
-Honda,Civic,2014,33000,4.0,gasoline,1.8,142,automatic,154000.0
-Honda,Civic,2008,15000,3.0,gasoline,1.8,140,automatic,261123.0
-Honda,Civic,2010,15500,4.0,gasoline,1.8,140,automatic,287000.0
-Honda,Civic,2015,27000,4.0,gasoline,1.8,142,automatic,192000.0
-Honda,Civic,2007,11000,3.0,gasoline,1.8,140,automatic,254000.0
-Honda,Civic,2012,27000,2.0,gasoline,1.8,142,automatic,163920.0
-Honda,Civic,2010,20500,3.0,gasoline,1.8,140,automatic,220000.0
-Honda,Jazz,2017,41000,2.0,gasoline,1.3,102,variable,156000.0
-Honda,Civic,2003,7000,2.0,gasoline,1.6,110,automatic,149100.0
-Honda,Jazz,2014,27000,1.0,hybrid,1.3,88,variable,256000.0
-Honda,Jazz,2012,25000,3.0,hybrid,1.3,88,variable,253000.0
-Honda,Insight,2011,15000,2.0,hybrid,1.3,88,variable,200000.0
-Honda,Legend,2009,28000,3.0,gasoline,3.7,295,automatic,201000.0
-Honda,Accord,2000,10000,1.0,gasoline,2.0,150,automatic,300000.0
-Honda,Civic,2010,20000,3.0,gasoline,1.8,140,automatic,206000.0
-Honda,Jazz,2005,15000,3.0,gasoline,1.3,83,variable,204300.0
-Honda,Jazz,2009,32000,3.0,gasoline,1.3,100,manual,165000.0
-Honda,Civic,2010,17000,2.0,gasoline,1.8,140,automatic,218500.0
-Honda,Civic,2008,15000,1.0,gasoline,1.8,140,automatic,240000.0
-Honda,Civic,2010,16999,4.0,gasoline,1.8,140,automatic,243500.0
-Honda,Cr V,2020,123000,1.0,gasoline,1.5,190,variable,50000.0
-Honda,Civic,2007,12300,4.0,gasoline,1.8,140,automatic,262000.0
-Honda,Civic,2007,12000,3.0,gasoline,1.8,140,automatic,280000.0
-Honda,Accord,2021,168000,1.0,hybrid,2.0,212,variable,173000.0
-Honda,Civic,2011,21000,4.0,gasoline,1.8,140,automatic,217000.0
-Honda,Jazz,2015,50000,2.0,hybrid,1.3,88,variable,82000.0
-Honda,Jazz,2005,10400,2.0,gasoline,1.3,83,variable,197000.0
-Honda,Civic,2002,4000,4.0,gasoline,1.6,110,automatic,274000.0
-Honda,Insight,2014,36000,3.0,hybrid,1.3,88,variable,288325.0
-Honda,Civic,2007,8000,3.0,gasoline,1.8,140,automatic,320000.0
-Honda,Civic,2017,38200,2.0,gasoline,1.8,142,automatic,183000.0
-Honda,Insight,2014,30000,4.0,hybrid,1.3,88,variable,263000.0
-Honda,Cr V,2016,65000,3.0,gasoline,2.0,155,automatic,123000.0
-Honda,Cr V,2018,82000,1.0,gasoline,2.0,155,automatic,121000.0
-Honda,Civic,2006,14000,4.0,gasoline,1.8,140,automatic,280000.0
-Honda,Jazz,2017,53000,3.0,gasoline,1.3,102,variable,82000.0
-Honda,Cr V,2016,65000,4.0,gasoline,2.0,155,automatic,168700.0
-Honda,Civic,2007,12000,3.0,hybrid,1.3,95,variable,300000.0
-Honda,Civic,2008,15000,4.0,gasoline,1.8,140,automatic,269000.0
-Honda,Cr V,2016,70000,2.0,gasoline,2.0,155,automatic,133000.0
-Honda,Civic,2006,13000,3.0,gasoline,1.8,140,automatic,230000.0
-Honda,Cr V,2003,18000,4.0,gasoline,2.0,150,automatic,220000.0
-Honda,Civic,2010,17000,3.0,gasoline,1.8,140,automatic,189000.0
-Honda,Civic,2018,72000,1.0,gasoline,1.5,182,variable,150000.0
-Honda,Accord,2009,20000,1.0,diesel,2.2,150,automatic,275432.0
-Honda,Civic,2014,30000,2.0,gasoline,1.8,142,automatic,143870.0
-Honda,Civic,2017,44000,3.0,gasoline,1.8,142,automatic,150000.0
-Honda,Fr V,2008,17000,3.0,gasoline,1.8,140,automatic,222000.0
-Honda,Civic,2015,35000,1.0,gasoline,1.8,142,automatic,180000.0
-Honda,Civic,2007,15000,4.0,gasoline,1.8,140,automatic,261000.0
-Honda,Civic,2008,9000,2.0,hybrid,1.3,95,variable,
+manufacturer,model,submodel,year,hand,mileage,engine_liters,horsepower,fuel,transmission,drive_type,body_color,price
+Honda,Civic,ES,2007,3,267000,1.8,140,Gasoline,Automatic,FWD,Beige,11900
+Honda,Civic,Comfort,2018,2,107000,1.0,129,Gasoline,Variable,FWD,White,48800
+Honda,Hr V,Comfort,2018,2,81000,1.5,130,Gasoline,Variable,FWD,White,64900
+Honda,Civic,Comfort,2014,2,167000,1.8,142,Gasoline,Automatic,FWD,Ruby,27900
+Honda,Jazz,Trend,2017,2,135000,1.3,102,Gasoline,Variable,FWD,White,38800
+Honda,Jazz,Comfort,2017,2,123000,1.3,102,Gasoline,Variable,FWD,White,40000
+Honda,Civic,5D Sport,2020,2,70000,1.5,182,Gasoline,Variable,FWD,Light Grey,90000
+Honda,Cr V,Elegance,2020,1,34835,1.5,190,Gasoline,Variable,AWD,Red,103635
+Honda,City,Lounge,2022,1,109000,1.5,121,Gasoline,Variable,FWD,Bronze,66900
+Honda,Civic,Comfort,2010,3,191000,1.8,140,Gasoline,Automatic,FWD,Grey,21900
+Honda,Civic,LS,2007,3,295000,1.8,140,Gasoline,Automatic,FWD,Silver,9500
+Honda,Cr V,Comfort,2009,4,270000,2.0,150,Gasoline,Automatic,AWD,Grey,32000
+Honda,Civic,LS,2007,4,296000,1.8,140,Gasoline,Automatic,FWD,Silver,9000
+Honda,Civic,Comfort,2018,2,130000,1.0,129,Gasoline,Variable,FWD,Grey,50000
+Honda,Civic,Sport,2011,2,130000,1.8,140,Gasoline,Automatic,FWD,Light Grey,25200
+Honda,Crosstour,,2011,3,110000,3.5,271,Gasoline,Automatic,AWD,White,82000
+Honda,Civic,Comfort,2010,4,220000,1.8,140,Gasoline,Automatic,FWD,Bronze,16000
+Honda,Civic,LS,2007,1,290000,1.8,140,Gasoline,Automatic,FWD,Beige,8000
+Honda,Civic,Hybrid,2007,3,161300,1.3,95,Hybrid,Variable,FWD,Beige,21000
+Honda,Civic,Comfort,2009,4,180000,1.8,140,Gasoline,Automatic,FWD,Grey,20500
+Honda,Accord,,2005,2,170000,2.0,155,Gasoline,Automatic,FWD,Silver,10000
+Honda,Accord,Comfort,2003,4,190000,2.0,155,Gasoline,Automatic,FWD,Silver,12000
+Honda,Civic,Comfort,2014,4,196000,1.8,142,Gasoline,Automatic,FWD,Grey,25500
+Honda,Civic,5D Sport,2020,2,159000,1.5,182,Gasoline,Variable,FWD,Light Grey,58000
+Honda,Accord,,2015,2,197000,2.0,156,Gasoline,Automatic,FWD,White,45000
+Honda,Civic,Comfort,2010,4,225000,1.8,140,Gasoline,Automatic,FWD,Black,15600
+Honda,Cr V,Elegance,2020,2,160000,1.5,190,Gasoline,Variable,AWD,Black,83000
+Honda,Cr V,Comfort,2013,3,187000,2.0,155,Gasoline,Automatic,AWD,Light Grey,35000
+Honda,Jazz,Comfort,2018,2,236000,1.3,102,Gasoline,Variable,FWD,Black,37000
+Honda,Civic,LS,2008,4,260000,1.8,140,Gasoline,Automatic,FWD,Blue,7000
+Honda,Accord,,2005,2,170000,2.0,155,Gasoline,Automatic,FWD,Silver,10000
+Honda,Accord,Comfort,2003,4,190000,2.0,155,Gasoline,Automatic,FWD,Silver,12000
+Honda,Jazz Crosstar,Advance,2026,0,10,1.5,122,Hybrid,Automatic,FWD,White,149990
+Honda,Civic,Comfort,2014,4,196000,1.8,142,Gasoline,Automatic,FWD,Grey,25500
+Honda,Civic,5D Sport,2020,2,159000,1.5,182,Gasoline,Variable,FWD,Light Grey,58000
+Honda,Accord,,2015,2,197000,2.0,156,Gasoline,Automatic,FWD,White,45000
+Honda,Civic,Comfort,2010,4,225000,1.8,140,Gasoline,Automatic,FWD,Black,15600
+Honda,Cr V,Elegance,2020,2,160000,1.5,190,Gasoline,Variable,AWD,Black,83000
+Honda,Cr V,Comfort,2013,3,187000,2.0,155,Gasoline,Automatic,AWD,Light Grey,35000
+Honda,Jazz,Comfort,2018,2,236000,1.3,102,Gasoline,Variable,FWD,Black,37000
+Honda,Civic,LS,2008,4,260000,1.8,140,Gasoline,Automatic,FWD,Blue,7000
+Honda,Cr V,Executive,2006,3,250000,2.0,150,Gasoline,Automatic,AWD,Beige,19999
+Honda,Civic,5D Sport,2021,2,56000,1.5,182,Gasoline,Variable,FWD,White,92000
+Honda,Civic,,2019,3,157000,1.6,125,Gasoline,Variable,FWD,Grey,57000
+Honda,Civic,Sport,2019,1,82500,1.5,182,Gasoline,Variable,FWD,Red,78000
+Honda,Fr V,Trend,2008,3,342000,1.8,140,Gasoline,Automatic,FWD,Grey,12000
+Honda,Jazz,Elegance,2020,1,130000,1.5,98,Hybrid,Automatic,FWD,White,69000
+Honda,Civic,LS,2008,2,101060,1.8,140,Gasoline,Automatic,FWD,Beige,24500
+Honda,Civic,,2007,4,180000,1.8,140,Gasoline,Automatic,FWD,Blue,18500
+Honda,Civic,Sport,2018,1,140000,1.5,182,Gasoline,Variable,FWD,Grey,65000
+Honda,Civic,Comfort,2009,4,180000,1.8,140,Gasoline,Automatic,FWD,Grey,20500
+Honda,Civic,,2019,1,46600,1.0,129,Gasoline,Variable,FWD,Grey,65000
+Honda,Civic,Sport,2011,4,207000,1.8,140,Gasoline,Automatic,FWD,Red,17000
+Honda,Civic,Comfort,2012,2,280000,1.8,142,Gasoline,Automatic,FWD,Black,14000
+Honda,Accord,,2008,2,250000,2.4,190,Gasoline,Automatic,FWD,Light Grey,26000
+Honda,Civic,Sport,2019,1,109000,1.5,182,Gasoline,Variable,FWD,White,81000
+Honda,Accord,Comfort,2008,3,270000,2.0,155,Gasoline,Automatic,FWD,Grey,25000
+Honda,Civic,,2006,3,249000,1.8,140,Gasoline,Automatic,FWD,Beige,19000
+Honda,Civic,Hybrid,2009,4,213000,1.3,95,Hybrid,Variable,FWD,Blue,15500
+Honda,Accord,Comfort,2007,4,280000,2.0,155,Gasoline,Automatic,FWD,Silver,6500
+Honda,Civic,,2019,1,46600,1.0,129,Gasoline,Variable,FWD,Grey,65000
+Honda,Civic,Sport,2011,4,207000,1.8,140,Gasoline,Automatic,FWD,Red,17000
+Honda,Civic,Comfort,2012,2,280000,1.8,142,Gasoline,Automatic,FWD,Black,14000
+Honda,Accord,,2008,2,250000,2.4,190,Gasoline,Automatic,FWD,Light Grey,26000
+Honda,Civic,Sport,2019,1,109000,1.5,182,Gasoline,Variable,FWD,White,81000
+Honda,Accord,Comfort,2008,3,270000,2.0,155,Gasoline,Automatic,FWD,Grey,25000
+Honda,Civic,,2006,3,249000,1.8,140,Gasoline,Automatic,FWD,Beige,19000
+Honda,Civic,Hybrid,2009,4,213000,1.3,95,Hybrid,Variable,FWD,Blue,15500
+Honda,Accord,Comfort,2007,4,280000,2.0,155,Gasoline,Automatic,FWD,Silver,6500
+Honda,Civic,,2006,3,220000,1.8,140,Gasoline,Automatic,FWD,Blue,12000
+Honda,Civic,LS,2006,2,281000,1.8,140,Gasoline,Automatic,FWD,Blue,10500
+Honda,Fr V,Trend,2007,3,267000,1.8,140,Gasoline,Automatic,FWD,Blue,14500
+Honda,Insight,Comfort,2011,2,200000,1.3,88,Hybrid,Variable,FWD,Black,15000
+Honda,Legend,,2009,3,201000,3.7,295,Gasoline,Automatic,AWD,Bronze,28000
+Honda,Accord,,2000,1,300000,2.0,150,Gasoline,Automatic,FWD,White,10000
+Honda,Civic,,2010,3,206000,1.8,140,Gasoline,Automatic,FWD,White,20000
+Honda,Jazz,LS,2005,3,204300,1.3,83,Gasoline,Variable,FWD,Silver,15000
+Honda,Jazz,,2009,3,165000,1.3,100,Gasoline,Manual,FWD,Silver,32000
+Honda,Civic,Comfort,2010,2,218500,1.8,140,Gasoline,Automatic,FWD,Grey,17000
+Honda,Civic,LS,2008,1,240000,1.8,140,Gasoline,Automatic,FWD,Golden,15000
+Honda,Civic,LS,2008,4,260000,1.8,140,Gasoline,Automatic,FWD,Blue,7000
+Honda,Civic,,2019,3,157000,1.6,125,Gasoline,Variable,FWD,Grey,57000
+Honda,Civic,Sport,2019,1,82500,1.5,182,Gasoline,Variable,FWD,Red,78000
+Honda,Fr V,Trend,2008,3,342000,1.8,140,Gasoline,Automatic,FWD,Grey,12000
+Honda,Jazz,Elegance,2020,1,130000,1.5,98,Hybrid,Automatic,FWD,White,69000
+Honda,Civic,LS,2008,2,101060,1.8,140,Gasoline,Automatic,FWD,Beige,24500
+Honda,Civic,,2007,4,180000,1.8,140,Gasoline,Automatic,FWD,Blue,18500
+Honda,Civic,Sport,2018,1,140000,1.5,182,Gasoline,Variable,FWD,Grey,65000
+Honda,Civic,Executive,2010,4,243500,1.8,140,Gasoline,Automatic,FWD,Blue,16999
+Honda,Cr V,Elegance,2020,1,50000,1.5,190,Gasoline,Variable,AWD,Red,123000
+Honda,Civic,Executive,2010,4,243500,1.8,140,Gasoline,Automatic,FWD,Blue,16999
+Honda,Cr V,Elegance,2020,1,50000,1.5,190,Gasoline,Variable,AWD,Red,123000
+Honda,Cr V,LS,2003,4,220000,2.0,150,Gasoline,Automatic,FWD,Black,18000
+Honda,Civic,Comfort,2010,3,189000,1.8,140,Gasoline,Automatic,FWD,Blue,17000
+Honda,Civic,Sport,2018,1,150000,1.5,182,Gasoline,Variable,FWD,Grey,72000
+Honda,Accord,,2009,1,275432,2.2,150,Diesel,Automatic,FWD,Grey,20000
+Honda,Civic,Comfort,2014,2,143870,1.8,142,Gasoline,Automatic,FWD,Black,30000
+Honda,Civic,Comfort Sedan,2017,3,150000,1.8,142,Gasoline,Automatic,FWD,White,44000
+Honda,Fr V,,2008,3,222000,1.8,140,Gasoline,Automatic,FWD,Grey,17000
+Honda,Civic,Comfort,2015,1,180000,1.8,142,Gasoline,Automatic,FWD,Red,35000
+Honda,Civic,Comfort Hatchback,2007,4,261000,1.8,140,Gasoline,Automatic,FWD,Light blue,15000
+Honda,Civic,,2008,2,452000,1.3,95,Hybrid,Variable,FWD,Silver,9000
+Honda,Civic,Comfort,2012,2,223000,1.8,142,Gasoline,Automatic,FWD,Black,21500
+Honda,Accord,LX,2020,2,160000,2.0,212,Hybrid,Variable,FWD,Black,100000
+Honda,Civic,Comfort,2019,2,82000,1.0,129,Gasoline,Variable,FWD,Black,58000
+Honda,Civic,LS,2005,4,270000,1.6,110,Gasoline,Automatic,FWD,Golden,5900
+Honda,Civic,Hybrid,2009,4,216000,1.3,95,Hybrid,Variable,FWD,Black,16000
+Honda,Accord,,2010,2,113000,3.5,271,Gasoline,Automatic,FWD,White,55000
+Honda,Civic,Comfort Sedan,2016,1,186000,1.8,142,Gasoline,Automatic,FWD,Light Grey,37700
+Honda,Civic,LS,2006,3,220000,1.8,140,Gasoline,Automatic,FWD,Beige,11500
+Honda,Civic,Comfort,2012,2,280000,1.8,142,Gasoline,Automatic,FWD,Black,14000
+Honda,Accord,,2008,2,250000,2.4,190,Gasoline,Automatic,FWD,Light Grey,26000
+Honda,Civic,Sport,2019,1,109000,1.5,182,Gasoline,Variable,FWD,White,81000
+Honda,Accord,Comfort,2008,3,270000,2.0,155,Gasoline,Automatic,FWD,Grey,25000
+Honda,Civic,,2006,3,249000,1.8,140,Gasoline,Automatic,FWD,Beige,19000
+Honda,Civic,Hybrid,2009,4,213000,1.3,95,Hybrid,Variable,FWD,Blue,15500
+Honda,Accord,Comfort,2007,4,280000,2.0,155,Gasoline,Automatic,FWD,Silver,6500
+Honda,Civic,,2006,3,220000,1.8,140,Gasoline,Automatic,FWD,Blue,12000
+Honda,Civic,LS,2006,2,281000,1.8,140,Gasoline,Automatic,FWD,Blue,10500
+Honda,Fr V,Trend,2007,3,267000,1.8,140,Gasoline,Automatic,FWD,Blue,14500
+Honda,Civic,LS,2008,3,300000,1.8,140,Gasoline,Automatic,FWD,Beige,10000
+Honda,Civic,Comfort,2011,2,185000,1.8,140,Gasoline,Automatic,FWD,Bronze,25000
+Honda,Cr V,Comfort,2013,2,150000,2.0,155,Gasoline,Automatic,AWD,Light Grey,47500
+Honda,Civic,Comfort,2012,4,188000,1.8,142,Gasoline,Automatic,FWD,Bronze,27000
+Honda,Civic,,2016,3,94000,1.8,142,Gasoline,Automatic,FWD,Black,52900
+Honda,Cr V,Comfort 2WD,2016,1,165000,2.0,155,Gasoline,Manual,FWD,Bronze,70000
+Honda,Odyssey Usa,,2008,2,200000,3.5,240,Gasoline,Automatic,FWD,Black,45000
+Honda,Civic,Comfort,2010,4,243500,1.8,140,Gasoline,Automatic,FWD,Black,16000
+Honda,Jazz,Comfort,2018,1,123500,1.3,102,Gasoline,Variable,FWD,White,55000
+Honda,Civic,Comfort,2014,4,154000,1.8,142,Gasoline,Automatic,FWD,White,33000
+Honda,Civic,LS,2008,3,261123,1.8,140,Gasoline,Automatic,FWD,Beige,15000
+Honda,Civic,,2010,4,287000,1.8,140,Gasoline,Automatic,FWD,Blue,15500
+Honda,Civic,Comfort,2015,4,192000,1.8,142,Gasoline,Automatic,FWD,White,27000
+Honda,Civic,LS,2007,3,254000,1.8,140,Gasoline,Automatic,FWD,Blue,11000
+Honda,Civic,Comfort,2012,2,163920,1.8,142,Gasoline,Automatic,FWD,Bronze,27000
+Honda,Civic,Executive,2010,3,220000,1.8,140,Gasoline,Automatic,FWD,Ruby,20500
+Honda,Jazz,Trend,2017,2,156000,1.3,102,Gasoline,Variable,FWD,White,41000
+Honda,Civic,LS,2003,2,149100,1.6,110,Gasoline,Automatic,FWD,Beige,7000
+Honda,Jazz,,2014,1,256000,1.3,88,Hybrid,Variable,FWD,Grey,27000
+Honda,Jazz,,2012,3,253000,1.3,88,Hybrid,Variable,FWD,Grey,25000
+Honda,Insight,Comfort,2011,2,200000,1.3,88,Hybrid,Variable,FWD,Black,15000
+Honda,Legend,,2009,3,201000,3.7,295,Gasoline,Automatic,AWD,Bronze,28000
+Honda,Accord,,2000,1,300000,2.0,150,Gasoline,Automatic,FWD,White,10000
+Honda,Civic,,2010,3,206000,1.8,140,Gasoline,Automatic,FWD,White,20000
+Honda,Jazz,LS,2005,3,204300,1.3,83,Gasoline,Variable,FWD,Silver,15000
+Honda,Jazz,,2009,3,165000,1.3,100,Gasoline,Manual,FWD,Silver,32000
+Honda,Civic,Comfort,2010,2,218500,1.8,140,Gasoline,Automatic,FWD,Grey,17000
+Honda,Civic,LS,2008,1,240000,1.8,140,Gasoline,Automatic,FWD,Golden,15000
+Honda,Civic,Executive,2010,4,243500,1.8,140,Gasoline,Automatic,FWD,Blue,16999
+Honda,Cr V,Elegance,2020,1,50000,1.5,190,Gasoline,Variable,AWD,Red,123000
+Honda,Civic,LS,2007,4,262000,1.8,140,Gasoline,Automatic,FWD,Silver,12300
+Honda,Civic,ES,2007,3,280000,1.8,140,Gasoline,Automatic,FWD,Golden,12000
+Honda,Accord,Touring,2021,1,173000,2.0,212,Hybrid,Variable,FWD,White,168000
+Honda,Civic,Comfort,2011,4,217000,1.8,140,Gasoline,Automatic,FWD,Black,21000
+Honda,Jazz,Elegance,2015,2,82000,1.3,88,Hybrid,Variable,FWD,Black,50000
+Honda,Jazz,LS,2005,2,197000,1.3,83,Gasoline,Variable,FWD,Beige,10400
+Honda,Civic,ES,2002,4,274000,1.6,110,Gasoline,Automatic,FWD,Golden,4000
+Honda,Insight,Comfort,2014,3,288325,1.3,88,Hybrid,Variable,FWD,White,36000
+Honda,Civic,LS,2007,3,320000,1.8,140,Gasoline,Automatic,FWD,Blue,8000
+Honda,Civic,Comfort,2017,2,183000,1.8,142,Gasoline,Automatic,FWD,Grey,38200
+Honda,Insight,Comfort,2014,4,263000,1.3,88,Hybrid,Variable,FWD,Grey,30000
+Honda,Cr V,Comfort 4WD,2016,3,123000,2.0,155,Gasoline,Automatic,AWD,White,65000
+Honda,Cr V,Comfort 4WD,2018,1,121000,2.0,155,Gasoline,Automatic,AWD,Grey,82000
+Honda,Civic,LS,2006,4,280000,1.8,140,Gasoline,Automatic,FWD,Beige,14000
+Honda,Jazz,,2017,3,82000,1.3,102,Gasoline,Variable,FWD,Silver,53000
+Honda,Cr V,Elegance 4WD,2016,4,168700,2.0,155,Gasoline,Automatic,AWD,Light Grey,65000
+Honda,Civic,Hybrid,2007,3,300000,1.3,95,Hybrid,Variable,FWD,Bronze,12000
+Honda,Civic,LS,2008,4,269000,1.8,140,Gasoline,Automatic,FWD,Ruby,15000
+Honda,Cr V,Comfort 4WD,2016,2,133000,2.0,155,Gasoline,Automatic,AWD,Black,70000
+Honda,Civic,LS,2006,3,230000,1.8,140,Gasoline,Automatic,FWD,Golden,13000
+Honda,Cr V,LS,2003,4,220000,2.0,150,Gasoline,Automatic,FWD,Black,18000
+Honda,Civic,Comfort,2010,3,189000,1.8,140,Gasoline,Automatic,FWD,Blue,17000
+Honda,Civic,Sport,2018,1,150000,1.5,182,Gasoline,Variable,FWD,Grey,72000
+Honda,Accord,,2009,1,275432,2.2,150,Diesel,Automatic,FWD,Grey,20000
+Honda,Civic,Comfort,2014,2,143870,1.8,142,Gasoline,Automatic,FWD,Black,30000
+Honda,Civic,Comfort Sedan,2017,3,150000,1.8,142,Gasoline,Automatic,FWD,White,44000
+Honda,Fr V,,2008,3,222000,1.8,140,Gasoline,Automatic,FWD,Grey,17000
+Honda,Civic,Comfort,2015,1,180000,1.8,142,Gasoline,Automatic,FWD,Red,35000
+Honda,Civic,Comfort Hatchback,2007,4,261000,1.8,140,Gasoline,Automatic,FWD,Light blue,15000
+Honda,Civic,,2008,2,452000,1.3,95,Hybrid,Variable,FWD,Silver,9000
+Honda,Civic,LS,2007,3,231000,1.8,140,Gasoline,Automatic,FWD,Bronze,11000
+Honda,Civic,LS,2004,3,240000,1.6,110,Gasoline,Automatic,FWD,White,6300
+Honda,Civic,LS,2008,3,220000,1.8,140,Gasoline,Automatic,FWD,Blue,13000
+Honda,Civic,Sport,2018,2,71000,1.5,182,Gasoline,Variable,FWD,Grey,82000
+Honda,Jazz,,2008,3,225000,1.3,83,Gasoline,Variable,FWD,Bronze,22000
+Honda,Civic,Comfort,2010,3,180000,1.8,140,Gasoline,Automatic,FWD,Grey,25000
+Honda,Civic,Sport,2011,3,144000,1.8,140,Gasoline,Automatic,FWD,Light Grey,30000
+Honda,Civic,,2022,1,30000,1.5,182,Gasoline,Variable,FWD,Black,110000
+Honda,Civic,Comfort,2017,2,198000,1.8,142,Gasoline,Automatic,FWD,Light Grey,36900
+Honda,Civic,Comfort Hatchback,2008,4,186000,1.8,140,Gasoline,Robotic,FWD,Silver,13000
+Honda,Civic,Comfort,2014,2,200000,1.8,142,Gasoline,Manual,FWD,Light Grey,22500
+Honda,Jazz,Comfort,2017,2,106000,1.3,102,Gasoline,Variable,FWD,White,52955
+Honda,Hr V,Comfort,2018,1,92205,1.5,130,Gasoline,Variable,FWD,White,67455
+Honda,Jazz,Comfort,2018,1,110000,1.3,102,Gasoline,Variable,FWD,White,55000
+Honda,Cr V,Elegance,2020,1,36000,1.5,190,Gasoline,Variable,AWD,Light Grey,89000
+Honda,Accord,Luxury,2013,2,250000,2.0,156,Gasoline,Automatic,FWD,Grey,38000
+Honda,Jazz,Trend,2017,1,178000,1.3,102,Gasoline,Variable,FWD,Silver,55000
+Honda,Civic,LS,2007,3,130000,1.8,140,Gasoline,Automatic,FWD,Blue,14000
+Honda,Civic,LS,2003,3,260000,1.6,110,Gasoline,Automatic,FWD,Beige,7000
+Honda,Accord,,2014,3,160000,2.0,196,Hybrid,Variable,FWD,Black,65000
+Honda,Civic,Comfort,2012,2,223000,1.8,142,Gasoline,Automatic,FWD,Black,21500
+Honda,Accord,LX,2020,2,160000,2.0,212,Hybrid,Variable,FWD,Black,100000
+Honda,Civic,Comfort,2019,2,82000,1.0,129,Gasoline,Variable,FWD,Black,58000
+Honda,Civic,LS,2005,4,270000,1.6,110,Gasoline,Automatic,FWD,Golden,5900
+Honda,Civic,Hybrid,2009,4,216000,1.3,95,Hybrid,Variable,FWD,Black,16000
+Honda,Accord,,2010,2,113000,3.5,271,Gasoline,Automatic,FWD,White,55000
+Honda,Civic,Comfort Sedan,2016,1,186000,1.8,142,Gasoline,Automatic,FWD,Light Grey,37700
+Honda,Civic,LS,2006,3,220000,1.8,140,Gasoline,Automatic,FWD,Beige,11500
+Honda,Civic,LS,2008,3,300000,1.8,140,Gasoline,Automatic,FWD,Beige,10000
+Honda,Civic,Comfort,2011,2,185000,1.8,140,Gasoline,Automatic,FWD,Bronze,25000
+Honda,Jazz,Comfort,2016,1,97000,1.3,102,Gasoline,Variable,FWD,Silver,37000
+Honda,Hr V,Elegance,2021,2,89600,1.5,130,Gasoline,Variable,FWD,White,79000
+Honda,Odyssey,,2014,1,138000,2.4,248,Gasoline,Automatic,FWD,White,110000
+Honda,Civic,Comfort,2014,2,150000,1.8,142,Gasoline,Automatic,FWD,Black,27500
+Honda,Civic,ES,2006,3,236000,1.8,140,Gasoline,Automatic,FWD,Silver,13000
+Honda,Civic,LS,2007,4,240000,1.8,140,Gasoline,Automatic,FWD,Beige,12000
+Honda,Jazz,LS,2008,2,280000,1.3,83,Gasoline,Manual,FWD,Blue,10000
+Honda,Jazz,ES,2008,3,224000,1.3,83,Gasoline,Variable,FWD,Grey,20000
+Honda,Jazz,LS,2005,3,245000,1.3,83,Gasoline,Variable,FWD,Red,7000
+Honda,Insight,Comfort,2009,2,315000,1.3,88,Hybrid,Variable,FWD,White,16800
+Honda,Civic,LS,2008,4,248000,1.8,140,Gasoline,Automatic,FWD,Beige,15000
+Honda,Cr V,Comfort,2013,2,150000,2.0,155,Gasoline,Automatic,AWD,Light Grey,47500
+Honda,Civic,Comfort,2012,4,188000,1.8,142,Gasoline,Automatic,FWD,Bronze,27000
+Honda,Civic,,2016,3,94000,1.8,142,Gasoline,Automatic,FWD,Black,52900
+Honda,Cr V,Comfort 2WD,2016,1,165000,2.0,155,Gasoline,Manual,FWD,Bronze,70000
+Honda,Odyssey Usa,,2008,2,200000,3.5,240,Gasoline,Automatic,FWD,Black,45000
+Honda,Civic,Comfort,2010,4,243500,1.8,140,Gasoline,Automatic,FWD,Black,16000
+Honda,Jazz,Comfort,2018,1,123500,1.3,102,Gasoline,Variable,FWD,White,55000
+Honda,Civic,Comfort,2014,4,154000,1.8,142,Gasoline,Automatic,FWD,White,33000
+Honda,Civic,LS,2008,3,261123,1.8,140,Gasoline,Automatic,FWD,Beige,15000
+Honda,Civic,,2010,4,287000,1.8,140,Gasoline,Automatic,FWD,Blue,15500

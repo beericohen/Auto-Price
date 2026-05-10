@@ -1,475 +1,478 @@
-manufacturer,model,year,price,hand,fuel,engine_liters,horsepower,transmission,mileage
-Mitsubishi,Asx,2022,94900.0,1,gasoline,2.0,150,variable,94000.0
-Mitsubishi,Lancer,2008,7900.0,3,gasoline,1.6,98,automatic,259000.0
-Mitsubishi,Lancer,2008,8900.0,4,gasoline,1.6,98,automatic,214000.0
-Mitsubishi,Attrage,2016,19800.0,2,gasoline,1.2,80,variable,180000.0
-Mitsubishi,Space Star,2014,22800.0,2,gasoline,1.2,80,variable,133000.0
-Mitsubishi,Asx,2021,76900.0,1,gasoline,2.0,150,variable,
-Mitsubishi,Eclipse Cross,2021,76900.0,2,gasoline,1.5,163,variable,141000.0
-Mitsubishi,Outlander,2015,63500.0,1,gasoline,2.0,150,variable,172000.0
-Mitsubishi,Eclipse Cross,2020,72900.0,1,gasoline,1.5,163,variable,157000.0
-Mitsubishi,Asx,2019,53900.0,2,gasoline,2.0,150,variable,136000.0
-Mitsubishi,Outlander,2021,129900.0,1,gasoline,2.5,181,variable,50000.0
-Mitsubishi,Eclipse Cross,2021,93000.0,2,gasoline,1.5,163,variable,35000.0
-Mitsubishi,Space Star,2017,31900.0,1,gasoline,1.2,80,variable,98000.0
-Mitsubishi,Outlander,2017,62900.0,1,gasoline,2.0,150,variable,209000.0
-Mitsubishi,Space Star,2023,71130.0,2,gasoline,1.2,71,variable,35252.0
-Mitsubishi,Space Star,2023,69605.0,1,gasoline,1.2,71,variable,71667.0
-Mitsubishi,Space Star,2022,66415.0,1,gasoline,1.2,71,variable,66501.0
-Mitsubishi,Outlander,2021,119995.0,2,gasoline,2.0,150,variable,88817.0
-Mitsubishi,Outlander,2020,103740.0,1,gasoline,2.0,150,variable,138200.0
-Mitsubishi,Outlander,2020,105915.0,2,gasoline,2.0,150,variable,78834.0
-Mitsubishi,Asx,2019,48000.0,2,gasoline,2.0,150,variable,185000.0
-Mitsubishi,Space Star,2015,27500.0,3,gasoline,1.2,80,variable,83000.0
-Mitsubishi,Space Star,2022,65000.0,2,gasoline,1.2,71,variable,32000.0
-Mitsubishi,Eclipse Cross,2020,77000.0,2,gasoline,1.5,163,variable,114000.0
-Mitsubishi,Space Star,2022,53000.0,2,gasoline,1.2,71,variable,100000.0
-Mitsubishi,Outlander,2017,70800.0,1,gasoline,2.0,150,variable,170838.0
-Mitsubishi,Outlander,2016,55500.0,2,gasoline,2.0,150,variable,230000.0
-Mitsubishi,Space Star,2018,34000.0,3,gasoline,1.2,80,variable,99500.0
-Mitsubishi,Galant,1996,15000.0,3,gasoline,2.0,170,automatic,188000.0
-Mitsubishi,Asx,2022,92500.0,2,gasoline,2.0,150,variable,139000.0
-Mitsubishi,Eclipse Cross,2022,110825.0,1,gasoline,1.5,150,variable,43035.0
-Mitsubishi,Eclipse Cross,2022,115015.0,1,gasoline,1.5,150,variable,38536.0
-Mitsubishi,Eclipse Cross,2022,114590.0,1,gasoline,1.5,150,variable,20766.0
-Mitsubishi,Eclipse Cross,2020,87405.0,2,gasoline,1.5,163,variable,81555.0
-Mitsubishi,Asx,2023,111760.0,1,gasoline,2.0,150,variable,25492.0
-Mitsubishi,Asx,2023,111975.0,1,gasoline,2.0,150,variable,16411.0
-Mitsubishi,Asx,2022,97397.0,2,gasoline,2.0,150,variable,42491.0
-Mitsubishi,Asx,2021,91625.0,2,gasoline,2.0,150,variable,96000.0
-Mitsubishi,Asx,2020,88680.0,1,gasoline,2.0,150,variable,102240.0
-Mitsubishi,Asx,2019,48000.0,2,gasoline,2.0,150,variable,185000.0
-Mitsubishi,Space Star,2015,27500.0,3,gasoline,1.2,80,variable,83000.0
-Mitsubishi,Space Star,2022,65000.0,2,gasoline,1.2,71,variable,32000.0
-Mitsubishi,Eclipse Cross,2020,77000.0,2,gasoline,1.5,163,variable,114000.0
-Mitsubishi,Outlander,2017,79000.0,2,gasoline,2.0,150,variable,152000.0
-Mitsubishi,Space Star,2022,53000.0,2,gasoline,1.2,71,variable,100000.0
-Mitsubishi,Outlander,2017,70800.0,1,gasoline,2.0,150,variable,170838.0
-Mitsubishi,Space Star,2021,44990.0,3,gasoline,1.2,71,variable,44000.0
-Mitsubishi,Outlander,2009,23900.0,3,gasoline,2.4,170,variable,174000.0
-Mitsubishi,Outlander,2016,55500.0,2,gasoline,2.0,150,variable,230000.0
-Mitsubishi,Outlander,2021,139990.0,1,gasoline,2.5,181,variable,49000.0
-Mitsubishi,Outlander,2015,55000.0,2,gasoline,2.0,150,variable,235000.0
-Mitsubishi,Space Star,2018,28900.0,2,gasoline,1.2,80,variable,150000.0
-Mitsubishi,Outlander,2015,59000.0,3,gasoline,2.0,150,variable,278000.0
-Mitsubishi,L200,2009,45000.0,1,diesel,2.5,136,automatic,138000.0
-Mitsubishi,Space Star,2019,37500.0,4,gasoline,1.2,80,variable,98500.0
-Mitsubishi,Grandis,2010,13000.0,2,gasoline,2.4,165,automatic,245000.0
-Mitsubishi,Asx,2020,73000.0,1,gasoline,2.0,150,variable,115000.0
-Mitsubishi,Grandis,2007,11500.0,3,gasoline,2.4,165,automatic,311111.0
-Mitsubishi,L200,2017,110000.0,1,diesel,2.4,154,automatic,151000.0
-Mitsubishi,Outlander,2021,118000.0,2,gasoline,2.0,150,variable,64000.0
-Mitsubishi,Space Star,2018,34000.0,3,gasoline,1.2,80,variable,99500.0
-Mitsubishi,Galant,1996,15000.0,3,gasoline,2.0,170,automatic,188000.0
-Mitsubishi,Asx,2022,92500.0,2,gasoline,2.0,150,variable,139000.0
-Mitsubishi,Outlander,2023,135000.0,1,gasoline,2.5,181,variable,65000.0
-Mitsubishi,Space Star,2023,71900.0,1,gasoline,1.2,71,variable,21800.0
-Mitsubishi,Eclipse Cross,2018,64000.0,2,gasoline,1.5,163,variable,85500.0
-Mitsubishi,Outlander,2016,72000.0,3,gasoline,2.0,150,variable,136000.0
-Mitsubishi,L200,2014,43000.0,3,diesel,2.5,136,manual,200000.0
-Mitsubishi,Asx,2020,76500.0,4,gasoline,2.0,150,variable,84000.0
-Mitsubishi,Space Star,2013,14500.0,3,gasoline,1.2,80,variable,192000.0
-Mitsubishi,Lancer,2008,13000.0,3,gasoline,1.6,98,automatic,220000.0
-Mitsubishi,Asx,2020,93000.0,2,gasoline,2.0,150,variable,50000.0
-Mitsubishi,Lancer,2017,48000.0,2,gasoline,1.8,140,variable,81000.0
-Mitsubishi,Space Star,2019,58500.0,2,gasoline,1.2,80,variable,33000.0
-Mitsubishi,Asx,2021,68000.0,2,gasoline,2.0,150,variable,132000.0
-Mitsubishi,Outlander,2016,75000.0,1,gasoline,2.0,150,variable,180000.0
-Mitsubishi,Outlander,2015,55000.0,2,gasoline,2.0,150,variable,235000.0
-Mitsubishi,Outlander,2011,27000.0,2,gasoline,2.0,147,variable,230000.0
-Mitsubishi,Space Star,2018,28900.0,2,gasoline,1.2,80,variable,150000.0
-Mitsubishi,L200,2020,119990.0,2,diesel,2.3,150,automatic,159000.0
-Mitsubishi,Outlander,2024,210000.0,1,gasoline,2.5,181,variable,7500.0
-Mitsubishi,Space Star,2022,71000.0,1,gasoline,1.2,71,variable,37000.0
-Mitsubishi,Lancer,2007,7900.0,2,gasoline,1.6,98,automatic,223000.0
-Mitsubishi,Lancer,2009,8500.0,3,gasoline,1.6,98,automatic,189000.0
-Mitsubishi,Outlander,2016,55000.0,2,gasoline,2.0,150,variable,196000.0
-Mitsubishi,Outlander,2012,30000.0,2,gasoline,2.0,147,variable,171000.0
-Mitsubishi,L200,2010,32000.0,1,diesel,2.5,136,automatic,414000.0
-Mitsubishi,Lancer,1994,30000.0,4,gasoline,1.5,110,manual,148000.0
-Mitsubishi,Outlander,2013,52500.0,3,gasoline,2.0,150,variable,158000.0
-Mitsubishi,Outlander,2021,108000.0,2,gasoline,2.0,150,variable,125000.0
-Mitsubishi,Outlander,2015,59000.0,3,gasoline,2.0,150,variable,278000.0
-Mitsubishi,L200,2016,75000.0,2,diesel,2.4,154,automatic,238000.0
-Mitsubishi,Outlander,2017,79990.0,2,plug-in,2.0,121,automatic,165000.0
-Mitsubishi,L200,2009,45000.0,1,diesel,2.5,136,automatic,138000.0
-Mitsubishi,Outlander,2021,80000.0,1,gasoline,2.0,150,variable,153384.0
-Mitsubishi,Space Star,2019,37500.0,4,gasoline,1.2,80,variable,98500.0
-Mitsubishi,Grandis,2010,13000.0,2,gasoline,2.4,165,automatic,245000.0
-Mitsubishi,Asx,2020,73000.0,1,gasoline,2.0,150,variable,115000.0
-Mitsubishi,Grandis,2007,11500.0,3,gasoline,2.4,165,automatic,311111.0
-Mitsubishi,L200,2017,110000.0,1,diesel,2.4,154,automatic,151000.0
-Mitsubishi,Outlander,2021,118000.0,2,gasoline,2.0,150,variable,64000.0
-Mitsubishi,Lancer,2007,11000.0,4,gasoline,1.6,98,automatic,195000.0
-Mitsubishi,Lancer,2009,5100.0,4,gasoline,1.6,98,automatic,301700.0
-Mitsubishi,Space Star,2023,69000.0,1,gasoline,1.2,71,variable,36000.0
-Mitsubishi,Eclipse Cross,2025,117000.0,2,gasoline,1.5,150,variable,11000.0
-Mitsubishi,Outlander,2013,38000.0,3,gasoline,2.0,150,variable,200000.0
-Mitsubishi,Outlander,2024,210000.0,1,gasoline,2.5,181,variable,7500.0
-Mitsubishi,Outlander,2015,54990.0,3,gasoline,2.0,150,variable,224000.0
-Mitsubishi,L200,2015,74990.0,1,diesel,2.4,154,manual,119000.0
-Mitsubishi,Space Star,2022,71000.0,1,gasoline,1.2,71,variable,37000.0
-Mitsubishi,Outlander,2016,68000.0,4,gasoline,2.0,150,variable,185000.0
-Mitsubishi,Lancer,2007,7000.0,2,gasoline,1.6,98,automatic,169500.0
-Mitsubishi,Attrage,2015,15000.0,3,gasoline,1.2,80,variable,227963.0
-Mitsubishi,Outlander,2014,55000.0,3,gasoline,2.0,150,variable,205000.0
-Mitsubishi,Lancer,2007,9500.0,4,gasoline,1.6,98,automatic,230000.0
-Mitsubishi,Eclipse Cross,2019,67500.0,2,gasoline,1.5,163,variable,118000.0
-Mitsubishi,L200,2013,38000.0,4,diesel,2.5,136,manual,272000.0
-Mitsubishi,Outlander,2010,25000.0,2,gasoline,2.0,147,variable,299000.0
-Mitsubishi,Lancer,2008,8000.0,4,gasoline,1.6,98,automatic,218000.0
-Mitsubishi,Outlander,2012,29200.0,2,gasoline,2.0,147,variable,199000.0
-Mitsubishi,Lancer,2007,7900.0,2,gasoline,1.6,98,automatic,223000.0
-Mitsubishi,Asx,2021,78000.0,1,gasoline,2.0,150,variable,100881.0
-Mitsubishi,Outlander,2023,165000.0,1,gasoline,2.5,181,variable,63222.0
-Mitsubishi,Lancer,2009,8500.0,3,gasoline,1.6,98,automatic,189000.0
-Mitsubishi,Outlander,2016,55000.0,2,gasoline,2.0,150,variable,196000.0
-Mitsubishi,L200,2015,78990.0,2,diesel,2.5,178,automatic,195000.0
-Mitsubishi,Lancer,2016,34999.0,2,gasoline,1.8,140,variable,170000.0
-Mitsubishi,Outlander,2012,30000.0,2,gasoline,2.0,147,variable,171000.0
-Mitsubishi,L200,2010,32000.0,1,diesel,2.5,136,automatic,414000.0
-Mitsubishi,Space Star,2021,47900.0,1,gasoline,1.2,71,variable,97000.0
-Mitsubishi,Space Star,2022,49900.0,2,gasoline,1.2,71,variable,80000.0
-Mitsubishi,Lancer,1994,30000.0,4,gasoline,1.5,110,manual,148000.0
-Mitsubishi,Outlander,2013,52500.0,3,gasoline,2.0,150,variable,158000.0
-Mitsubishi,Outlander,2021,108000.0,2,gasoline,2.0,150,variable,125000.0
-Mitsubishi,Pajero,2017,145000.0,3,diesel,3.2,190,automatic,181000.0
-Mitsubishi,Outlander,2016,80000.0,2,gasoline,2.0,150,variable,170000.0
-Mitsubishi,Asx,2020,81000.0,2,gasoline,2.0,150,variable,57000.0
-Mitsubishi,Outlander,2016,68000.0,4,gasoline,2.0,150,variable,185000.0
-Mitsubishi,Lancer,2007,7000.0,2,gasoline,1.6,98,automatic,169500.0
-Mitsubishi,Attrage,2015,15000.0,3,gasoline,1.2,80,variable,227963.0
-Mitsubishi,Outlander,2012,29200.0,2,gasoline,2.0,147,variable,199000.0
-Mitsubishi,Pajero,2004,24999.0,4,diesel,3.2,165,automatic,338000.0
-Mitsubishi,Outlander,2016,64000.0,3,gasoline,2.0,150,variable,200000.0
-Mitsubishi,Pajero,2008,75000.0,3,diesel,3.2,165,automatic,260000.0
-Mitsubishi,Outlander,2008,25000.0,3,gasoline,2.4,170,variable,240000.0
-Mitsubishi,Outlander,2022,183000.0,1,gasoline,2.5,181,variable,14000.0
-Mitsubishi,Space Star,2021,53000.0,2,gasoline,1.2,71,variable,67000.0
-Mitsubishi,Lancer,2008,7500.0,2,gasoline,1.6,98,automatic,270000.0
-Mitsubishi,Outlander,2015,55000.0,2,gasoline,2.0,150,variable,190000.0
-Mitsubishi,Pajero,2011,72000.0,2,diesel,3.2,200,automatic,350000.0
-Mitsubishi,Outlander,2014,55000.0,3,gasoline,2.0,150,variable,205000.0
-Mitsubishi,Lancer,2007,9500.0,4,gasoline,1.6,98,automatic,230000.0
-Mitsubishi,Eclipse Cross,2019,67500.0,2,gasoline,1.5,163,variable,118000.0
-Mitsubishi,L200,2013,38000.0,4,diesel,2.5,136,manual,272000.0
-Mitsubishi,Outlander,2010,25000.0,2,gasoline,2.0,147,variable,299000.0
-Mitsubishi,Lancer,2008,8000.0,4,gasoline,1.6,98,automatic,218000.0
-Mitsubishi,Outlander,2012,29200.0,2,gasoline,2.0,147,variable,199000.0
-Mitsubishi,Pajero,2004,24999.0,4,diesel,3.2,165,automatic,338000.0
-Mitsubishi,Outlander,2016,64000.0,3,gasoline,2.0,150,variable,200000.0
-Mitsubishi,Pajero,2008,75000.0,3,diesel,3.2,165,automatic,260000.0
-Mitsubishi,Outlander,2008,25000.0,3,gasoline,2.4,170,variable,240000.0
-Mitsubishi,Outlander,2022,183000.0,1,gasoline,2.5,181,variable,14000.0
-Mitsubishi,Space Star,2021,53000.0,2,gasoline,1.2,71,variable,67000.0
-Mitsubishi,Lancer,2008,7500.0,2,gasoline,1.6,98,automatic,270000.0
-Mitsubishi,Outlander,2015,55000.0,2,gasoline,2.0,150,variable,190000.0
-Mitsubishi,Pajero,2011,72000.0,2,diesel,3.2,200,automatic,350000.0
-Mitsubishi,Pajero,2001,31000.0,3,diesel,3.2,165,automatic,415000.0
-Mitsubishi,Outlander,2016,75000.0,3,gasoline,2.0,150,variable,200000.0
-Mitsubishi,Space Star,2023,74000.0,2,gasoline,1.2,71,variable,12600.0
-Mitsubishi,Grandis,2009,18000.0,4,gasoline,2.4,165,automatic,344000.0
-Mitsubishi,Lancer,2007,5000.0,3,gasoline,1.6,98,automatic,220000.0
-Mitsubishi,Grandis,2005,10000.0,2,gasoline,2.4,165,automatic,180000.0
-Mitsubishi,Attrage,2016,13000.0,3,gasoline,1.2,80,variable,217000.0
-Mitsubishi,Outlander,2017,69999.0,2,gasoline,2.0,150,variable,210000.0
-Mitsubishi,Grandis,2010,18500.0,2,gasoline,2.4,165,automatic,245000.0
-Mitsubishi,Pajero,2009,67500.0,4,diesel,3.2,170,automatic,280000.0
-Mitsubishi,Lancer,2014,20000.0,3,gasoline,1.8,140,variable,170000.0
-Mitsubishi,L200,2010,20000.0,3,diesel,2.5,136,manual,460000.0
-Mitsubishi,Outlander,2021,129000.0,1,gasoline,2.0,150,variable,38000.0
-Mitsubishi,Outlander,2017,75000.0,1,plug-in,2.0,121,automatic,200000.0
-Mitsubishi,Pajero,1994,28000.0,2,gasoline,3.0,177,automatic,260000.0
-Mitsubishi,Attrage,2016,23000.0,3,gasoline,1.2,80,variable,231000.0
-Mitsubishi,Lancer,2007,5000.0,3,gasoline,1.6,98,automatic,220000.0
-Mitsubishi,Grandis,2005,10000.0,2,gasoline,2.4,165,automatic,180000.0
-Mitsubishi,Attrage,2016,13000.0,3,gasoline,1.2,80,variable,217000.0
-Mitsubishi,Outlander,2017,69999.0,2,gasoline,2.0,150,variable,210000.0
-Mitsubishi,Grandis,2010,18500.0,2,gasoline,2.4,165,automatic,245000.0
-Mitsubishi,Pajero,2009,67500.0,4,diesel,3.2,170,automatic,280000.0
-Mitsubishi,Lancer,2014,20000.0,3,gasoline,1.8,140,variable,170000.0
-Mitsubishi,L200,2010,20000.0,3,diesel,2.5,136,manual,460000.0
-Mitsubishi,Outlander,2021,129000.0,1,gasoline,2.0,150,variable,38000.0
-Mitsubishi,Outlander,2017,75000.0,1,plug-in,2.0,121,automatic,200000.0
-Mitsubishi,Pajero,2001,32000.0,3,diesel,3.2,165,automatic,478000.0
-Mitsubishi,Outlander,2017,90000.0,3,gasoline,2.0,150,variable,180000.0
-Mitsubishi,Asx,2022,103500.0,1,gasoline,2.0,150,variable,29500.0
-Mitsubishi,Outlander,2018,92000.0,1,gasoline,2.0,150,variable,95500.0
-Mitsubishi,Asx,2023,125000.0,1,gasoline,2.0,150,variable,6000.0
-Mitsubishi,Space Star,2018,48000.0,2,gasoline,1.2,80,variable,47000.0
-Mitsubishi,L200,2011,30000.0,3,diesel,2.5,136,manual,300000.0
-Mitsubishi,Outlander,2014,53000.0,3,gasoline,2.0,150,variable,225000.0
-Mitsubishi,Space Star,2021,53000.0,2,gasoline,1.2,71,variable,67000.0
-Mitsubishi,Lancer,2008,7500.0,2,gasoline,1.6,98,automatic,270000.0
-Mitsubishi,Outlander,2015,55000.0,2,gasoline,2.0,150,variable,190000.0
-Mitsubishi,Pajero,2011,72000.0,2,diesel,3.2,200,automatic,350000.0
-Mitsubishi,Pajero,2001,31000.0,3,diesel,3.2,165,automatic,415000.0
-Mitsubishi,Outlander,2016,75000.0,3,gasoline,2.0,150,variable,200000.0
-Mitsubishi,Space Star,2023,74000.0,2,gasoline,1.2,71,variable,12600.0
-Mitsubishi,Grandis,2009,18000.0,4,gasoline,2.4,165,automatic,344000.0
-Mitsubishi,L200,2021,165000.0,2,diesel,2.3,150,automatic,90000.0
-Mitsubishi,Grandis,2005,14000.0,4,gasoline,2.4,165,automatic,277000.0
-Mitsubishi,L200,2021,165000.0,2,diesel,2.3,150,automatic,90000.0
-Mitsubishi,Grandis,2005,14000.0,4,gasoline,2.4,165,automatic,277000.0
-Mitsubishi,Outlander,2016,80000.0,2,gasoline,2.0,150,variable,226000.0
-Mitsubishi,Outlander,2024,200000.0,1,gasoline,2.5,181,variable,10000.0
-Mitsubishi,Lancer,2010,12000.0,3,gasoline,1.5,109,automatic,200000.0
-Mitsubishi,Pajero,2001,25000.0,4,diesel,3.2,165,automatic,433411.0
-Mitsubishi,Outlander,2017,94800.0,1,gasoline,2.0,150,variable,114200.0
-Mitsubishi,Pajero,2001,15000.0,4,diesel,3.2,165,automatic,150000.0
-Mitsubishi,Outlander,2019,105000.0,1,gasoline,2.0,150,variable,59000.0
-Mitsubishi,Outlander,2013,42000.0,4,gasoline,2.0,150,variable,222000.0
-Mitsubishi,Eclipse Cross,2022,118000.0,1,gasoline,1.5,150,variable,49000.0
-Mitsubishi,Outlander,2017,82000.0,1,gasoline,2.0,150,variable,167000.0
-Mitsubishi,Outlander,2019,75000.0,2,gasoline,2.0,150,variable,171000.0
-Mitsubishi,Lancer,2010,20000.0,3,gasoline,1.8,143,variable,147000.0
-Mitsubishi,Pajero,2001,35000.0,4,diesel,3.2,165,automatic,444000.0
-Mitsubishi,Space Star,2014,17900.0,3,gasoline,1.2,80,variable,172000.0
-Mitsubishi,Attrage,2016,24000.0,2,gasoline,1.2,80,variable,270192.0
-Mitsubishi,Outlander,2018,109460.0,2,gasoline,2.0,150,variable,83000.0
-Mitsubishi,L200,2011,32000.0,4,diesel,2.5,136,manual,420000.0
-Mitsubishi,Space Star,2020,50000.0,3,gasoline,1.2,80,variable,35000.0
-Mitsubishi,Lancer,2007,5000.0,3,gasoline,1.6,98,automatic,220000.0
-Mitsubishi,Grandis,2005,10000.0,2,gasoline,2.4,165,automatic,180000.0
-Mitsubishi,Attrage,2016,13000.0,3,gasoline,1.2,80,variable,217000.0
-Mitsubishi,Outlander,2017,69999.0,2,gasoline,2.0,150,variable,210000.0
-Mitsubishi,Grandis,2010,18500.0,2,gasoline,2.4,165,automatic,245000.0
-Mitsubishi,Pajero,2009,67500.0,4,diesel,3.2,170,automatic,280000.0
-Mitsubishi,Lancer,2014,20000.0,3,gasoline,1.8,140,variable,170000.0
-Mitsubishi,L200,2010,20000.0,3,diesel,2.5,136,manual,460000.0
-Mitsubishi,Outlander,2021,129000.0,1,gasoline,2.0,150,variable,38000.0
-Mitsubishi,Outlander,2017,75000.0,1,plug-in,2.0,121,automatic,200000.0
-Mitsubishi,Asx,2019,70000.0,2,gasoline,2.0,150,variable,80000.0
-Mitsubishi,Outlander,2013,40000.0,4,gasoline,2.0,150,variable,200000.0
-Mitsubishi,Outlander,2013,52000.0,3,diesel,2.3,150,automatic,275000.0
-Mitsubishi,Lancer,2011,14500.0,3,gasoline,1.5,109,automatic,40000.0
-Mitsubishi,Outlander,2020,113000.0,1,plug-in,2.4,135,automatic,115800.0
-Mitsubishi,Outlander,2020,103000.0,2,gasoline,2.0,150,variable,140000.0
-Mitsubishi,Outlander,2019,103000.0,1,gasoline,2.0,150,variable,68000.0
-Mitsubishi,Outlander,2019,105000.0,1,gasoline,2.0,150,variable,112000.0
-Mitsubishi,Pajero,2009,65000.0,4,diesel,3.2,170,automatic,290000.0
-Mitsubishi,Outlander,2015,72000.0,2,gasoline,2.0,150,variable,165000.0
-Mitsubishi,Outlander,2016,88000.0,2,gasoline,2.0,150,variable,200000.0
-Mitsubishi,Space Star,2017,26000.0,3,gasoline,1.0,71,manual,75000.0
-Mitsubishi,Pajero,2008,80000.0,2,gasoline,3.8,250,automatic,277000.0
-Mitsubishi,Pajero,2009,90000.0,4,diesel,3.2,170,automatic,200000.0
-Mitsubishi,Lancer,2008,6800.0,3,gasoline,1.6,98,automatic,224000.0
-Mitsubishi,Outlander,2019,110000.0,2,gasoline,2.0,150,variable,158000.0
-Mitsubishi,Outlander,2016,66500.0,2,gasoline,2.0,150,variable,185000.0
-Mitsubishi,Lancer,2012,12500.0,4,gasoline,1.6,117,automatic,250000.0
-Mitsubishi,Lancer,2008,13000.0,4,gasoline,1.6,98,automatic,186990.0
-Mitsubishi,Outlander,2015,75000.0,2,gasoline,2.0,150,variable,250000.0
-Mitsubishi,Pajero,2001,32000.0,3,diesel,3.2,165,automatic,478000.0
-Mitsubishi,Outlander,2017,90000.0,3,gasoline,2.0,150,variable,180000.0
-Mitsubishi,Asx,2022,103500.0,1,gasoline,2.0,150,variable,29500.0
-Mitsubishi,Outlander,2018,92000.0,1,gasoline,2.0,150,variable,95500.0
-Mitsubishi,Asx,2023,125000.0,1,gasoline,2.0,150,variable,6000.0
-Mitsubishi,Space Star,2018,48000.0,2,gasoline,1.2,80,variable,47000.0
-Mitsubishi,L200,2011,30000.0,3,diesel,2.5,136,manual,300000.0
-Mitsubishi,Outlander,2014,53000.0,3,gasoline,2.0,150,variable,225000.0
-Mitsubishi,L200,2021,165000.0,2,diesel,2.3,150,automatic,90000.0
-Mitsubishi,Grandis,2005,14000.0,4,gasoline,2.4,165,automatic,277000.0
-Mitsubishi,Grandis,2009,20550.0,3,gasoline,2.4,165,automatic,317880.0
-Mitsubishi,Pajero,2002,46000.0,3,diesel,3.2,165,automatic,340000.0
-Mitsubishi,Outlander,2015,79000.0,2,gasoline,2.0,150,variable,150000.0
-Mitsubishi,Outlander,2019,101900.0,1,plug-in,2.4,135,automatic,180000.0
-Mitsubishi,Outlander,2017,93000.0,2,gasoline,2.0,150,variable,120000.0
-Mitsubishi,Asx,2021,100000.0,1,gasoline,2.0,150,variable,21000.0
-Mitsubishi,Lancer,2005,6000.0,4,gasoline,1.6,98,automatic,236000.0
-Mitsubishi,Outlander,2018,84000.0,2,gasoline,2.0,150,variable,147000.0
-Mitsubishi,Eclipse Cross,2020,112000.0,1,gasoline,1.5,163,variable,35500.0
-Mitsubishi,Outlander,2016,68000.0,2,gasoline,2.0,150,variable,205000.0
-Mitsubishi,Attrage,2015,24000.0,2,gasoline,1.2,80,variable,175000.0
-Mitsubishi,Outlander,2021,128000.0,1,gasoline,2.0,150,variable,83000.0
-Mitsubishi,Lancer,2008,12000.0,3,gasoline,1.6,98,automatic,109000.0
-Mitsubishi,L200,2021,160900.0,1,diesel,2.3,150,automatic,90000.0
-Mitsubishi,Outlander,2014,60000.0,1,gasoline,2.0,150,variable,167000.0
-Mitsubishi,Outlander,2022,170000.0,2,gasoline,2.5,181,variable,21000.0
-Mitsubishi,Space Star,2021,62500.0,1,gasoline,1.2,71,variable,23250.0
-Mitsubishi,Outlander,2014,62500.0,3,gasoline,2.0,150,variable,190000.0
-Mitsubishi,Outlander,2019,110000.0,3,gasoline,2.0,150,variable,93650.0
-Mitsubishi,Asx,2019,65500.0,1,gasoline,2.0,150,variable,122000.0
-Mitsubishi,Outlander,2016,80000.0,2,gasoline,2.0,150,variable,226000.0
-Mitsubishi,Outlander,2024,200000.0,1,gasoline,2.5,181,variable,10000.0
-Mitsubishi,Lancer,2010,12000.0,3,gasoline,1.5,109,automatic,200000.0
-Mitsubishi,Pajero,2001,25000.0,4,diesel,3.2,165,automatic,433411.0
-Mitsubishi,Outlander,2017,94800.0,1,gasoline,2.0,150,variable,114200.0
-Mitsubishi,Pajero,2001,15000.0,4,diesel,3.2,165,automatic,150000.0
-Mitsubishi,Outlander,2019,105000.0,1,gasoline,2.0,150,variable,59000.0
-Mitsubishi,Outlander,2013,42000.0,4,gasoline,2.0,150,variable,222000.0
-Mitsubishi,Eclipse Cross,2022,118000.0,1,gasoline,1.5,150,variable,49000.0
-Mitsubishi,Outlander,2017,82000.0,1,gasoline,2.0,150,variable,167000.0
-Mitsubishi,L200,2012,35000.0,3,diesel,2.5,136,manual,290000.0
-Mitsubishi,Lancer,2005,9900.0,3,gasoline,1.6,98,automatic,182000.0
-Mitsubishi,L200,2015,70000.0,1,diesel,2.4,181,automatic,330000.0
-Mitsubishi,L200,2017,80000.0,1,diesel,2.4,181,automatic,240000.0
-Mitsubishi,L200,2011,63000.0,4,diesel,2.5,178,automatic,171000.0
-Mitsubishi,Outlander,2015,65000.0,2,gasoline,2.0,150,variable,160000.0
-Mitsubishi,L200,2002,16000.0,3,diesel,2.5,115,manual,300000.0
-Mitsubishi,Eclipse Cross,2021,105000.0,2,gasoline,1.5,163,variable,51000.0
-Mitsubishi,Outlander,2015,123456.0,2,gasoline,2.0,150,variable,168000.0
-Mitsubishi,Outlander,2015,70000.0,3,gasoline,2.0,150,variable,178000.0
-Mitsubishi,Outlander,2018,115000.0,2,gasoline,2.0,150,variable,88000.0
-Mitsubishi,L200,2019,140000.0,1,diesel,2.4,181,automatic,83000.0
-Mitsubishi,Outlander,2018,93900.0,2,gasoline,2.0,150,variable,130000.0
-Mitsubishi,Pajero,2008,85000.0,2,gasoline,3.8,250,automatic,230000.0
-Mitsubishi,Attrage,2015,15000.0,3,gasoline,1.2,80,variable,297000.0
-Mitsubishi,Pajero,2000,46000.0,4,diesel,2.5,116,manual,218000.0
-Mitsubishi,Space Star,2019,48000.0,3,gasoline,1.2,80,variable,100000.0
-Mitsubishi,Outlander,2013,42000.0,4,gasoline,2.0,150,variable,178000.0
-Mitsubishi,Outlander,2007,5000.0,4,gasoline,2.4,160,automatic,293000.0
-Mitsubishi,Lancer,2010,20000.0,2,gasoline,1.8,143,variable,145000.0
-Mitsubishi,Outlander,2019,75000.0,2,gasoline,2.0,150,variable,171000.0
-Mitsubishi,Lancer,2010,20000.0,3,gasoline,1.8,143,variable,147000.0
-Mitsubishi,Pajero,2001,35000.0,4,diesel,3.2,165,automatic,444000.0
-Mitsubishi,Space Star,2014,17900.0,3,gasoline,1.2,80,variable,172000.0
-Mitsubishi,Attrage,2016,24000.0,2,gasoline,1.2,80,variable,270192.0
-Mitsubishi,Outlander,2018,109460.0,2,gasoline,2.0,150,variable,83000.0
-Mitsubishi,L200,2011,32000.0,4,diesel,2.5,136,manual,420000.0
-Mitsubishi,Space Star,2020,50000.0,3,gasoline,1.2,80,variable,35000.0
-Mitsubishi,Asx,2019,70000.0,2,gasoline,2.0,150,variable,80000.0
-Mitsubishi,Outlander,2013,40000.0,4,gasoline,2.0,150,variable,200000.0
-Mitsubishi,Outlander,2016,79000.0,2,gasoline,2.0,150,variable,189000.0
-Mitsubishi,Outlander,2018,108000.0,2,gasoline,2.0,150,variable,75000.0
-Mitsubishi,L200,2016,125000.0,1,diesel,2.4,154,automatic,126000.0
-Mitsubishi,Pajero,2011,130000.0,3,diesel,3.2,200,automatic,230000.0
-Mitsubishi,Lancer,2008,10000.0,2,gasoline,1.6,98,automatic,160000.0
-Mitsubishi,Outlander,2013,54000.0,3,gasoline,2.0,150,variable,168000.0
-Mitsubishi,Outlander,2018,115000.0,2,gasoline,2.0,150,variable,50000.0
-Mitsubishi,Lancer,2008,11000.0,2,gasoline,1.8,143,variable,330000.0
-Mitsubishi,Outlander,2019,102000.0,2,gasoline,2.0,150,variable,107000.0
-Mitsubishi,Outlander,2014,52000.0,2,gasoline,2.0,150,variable,230000.0
-Mitsubishi,Eclipse Cross,2020,102500.0,1,gasoline,1.5,163,variable,40000.0
-Mitsubishi,Outlander,2016,80000.0,2,gasoline,2.0,150,variable,114000.0
-Mitsubishi,Grandis,2009,24000.0,2,gasoline,2.4,165,automatic,196000.0
-Mitsubishi,Eclipse Cross,2018,72000.0,3,gasoline,1.5,163,variable,122600.0
-Mitsubishi,Outlander,2008,25000.0,3,gasoline,2.4,160,automatic,240000.0
-Mitsubishi,Outlander,2019,113000.0,3,gasoline,2.0,150,variable,68500.0
-Mitsubishi,Outlander,2016,87000.0,1,gasoline,2.0,150,variable,109000.0
-Mitsubishi,Grandis,2010,13000.0,3,gasoline,2.4,165,automatic,267826.0
-Mitsubishi,Outlander,2023,190000.0,1,gasoline,2.5,181,variable,15000.0
-Mitsubishi,Attrage,2016,22000.0,3,gasoline,1.2,80,variable,300000.0
-Mitsubishi,Outlander,2013,52000.0,3,diesel,2.3,150,automatic,275000.0
-Mitsubishi,Lancer,2011,14500.0,3,gasoline,1.5,109,automatic,40000.0
-Mitsubishi,Outlander,2020,113000.0,1,plug-in,2.4,135,automatic,115800.0
-Mitsubishi,Outlander,2020,103000.0,2,gasoline,2.0,150,variable,140000.0
-Mitsubishi,Outlander,2019,103000.0,1,gasoline,2.0,150,variable,68000.0
-Mitsubishi,Outlander,2019,105000.0,1,gasoline,2.0,150,variable,112000.0
-Mitsubishi,Pajero,2009,65000.0,4,diesel,3.2,170,automatic,290000.0
-Mitsubishi,Outlander,2015,72000.0,2,gasoline,2.0,150,variable,165000.0
-Mitsubishi,Outlander,2016,88000.0,2,gasoline,2.0,150,variable,200000.0
-Mitsubishi,Space Star,2017,26000.0,3,gasoline,1.0,71,manual,75000.0
-Mitsubishi,Outlander,2016,75500.0,2,gasoline,2.0,150,variable,165000.0
-Mitsubishi,Outlander,2015,65000.0,2,gasoline,2.0,150,variable,162000.0
-Mitsubishi,Space Star,2022,65300.0,1,gasoline,1.2,71,variable,43000.0
-Mitsubishi,Pajero,2016,159955.0,1,diesel,3.2,190,automatic,220000.0
-Mitsubishi,Lancer,2011,12500.0,2,gasoline,1.5,109,automatic,224000.0
-Mitsubishi,Pajero,2002,35000.0,4,diesel,3.2,165,automatic,383000.0
-Mitsubishi,Outlander,2014,61000.0,3,gasoline,2.0,150,variable,203546.0
-Mitsubishi,Pajero,2006,54000.0,1,diesel,3.2,200,automatic,195000.0
-Mitsubishi,Outlander,2016,72000.0,3,gasoline,2.0,150,variable,180000.0
-Mitsubishi,Outlander,2014,55000.0,3,gasoline,2.0,150,variable,225000.0
-Mitsubishi,Lancer,2008,5800.0,4,gasoline,1.6,98,automatic,273000.0
-Mitsubishi,Lancer,2004,10000.0,4,gasoline,1.6,98,automatic,377772.0
-Mitsubishi,Eclipse Cross,2019,80000.0,2,gasoline,1.5,163,variable,101000.0
-Mitsubishi,Outlander,2020,117000.0,1,gasoline,2.0,150,variable,110000.0
-Mitsubishi,Outlander,2016,68000.0,2,gasoline,2.0,150,variable,199000.0
-Mitsubishi,Lancer,2007,6000.0,4,gasoline,1.6,98,automatic,262000.0
-Mitsubishi,Attrage,2016,27000.0,2,gasoline,1.2,80,variable,153000.0
-Mitsubishi,Eclipse Cross,2019,97000.0,1,gasoline,1.5,163,variable,73000.0
-Mitsubishi,Lancer,2009,12500.0,2,gasoline,1.8,143,variable,279000.0
-Mitsubishi,Eclipse Cross,2019,85000.0,2,gasoline,1.5,163,variable,100000.0
-Mitsubishi,Pajero,2008,80000.0,2,gasoline,3.8,250,automatic,277000.0
-Mitsubishi,Pajero,2009,90000.0,4,diesel,3.2,170,automatic,200000.0
-Mitsubishi,Lancer,2008,6800.0,3,gasoline,1.6,98,automatic,224000.0
-Mitsubishi,Outlander,2019,110000.0,2,gasoline,2.0,150,variable,158000.0
-Mitsubishi,Outlander,2016,66500.0,2,gasoline,2.0,150,variable,185000.0
-Mitsubishi,Lancer,2012,12500.0,4,gasoline,1.6,117,automatic,250000.0
-Mitsubishi,Lancer,2008,13000.0,4,gasoline,1.6,98,automatic,186990.0
-Mitsubishi,Outlander,2015,75000.0,2,gasoline,2.0,150,variable,250000.0
-Mitsubishi,Grandis,2009,20550.0,3,gasoline,2.4,165,automatic,317880.0
-Mitsubishi,Pajero,2002,46000.0,3,diesel,3.2,165,automatic,340000.0
-Mitsubishi,Outlander,2015,72000.0,1,gasoline,2.0,150,variable,110000.0
-Mitsubishi,Outlander,2013,53000.0,3,gasoline,2.0,150,variable,176000.0
-Mitsubishi,Space Star,2015,25000.0,4,gasoline,1.2,80,variable,170000.0
-Mitsubishi,Outlander,2014,62000.0,2,gasoline,2.0,150,variable,220000.0
-Mitsubishi,Grandis,2008,25000.0,3,gasoline,2.4,165,automatic,198000.0
-Mitsubishi,Pajero,2003,30000.0,4,diesel,3.2,165,automatic,380000.0
-Mitsubishi,Eclipse Cross,2018,98000.0,2,gasoline,1.5,163,variable,74000.0
-Mitsubishi,Outlander,2018,90000.0,2,gasoline,2.0,150,variable,116800.0
-Mitsubishi,Lancer,2005,6800.0,4,gasoline,1.6,98,automatic,260000.0
-Mitsubishi,Outlander,2010,30000.0,4,gasoline,2.0,147,variable,270000.0
-Mitsubishi,Pajero,2005,39900.0,4,gasoline,3.0,180,automatic,440000.0
-Mitsubishi,Lancer,2009,10000.0,1,gasoline,1.5,109,automatic,339100.0
-Mitsubishi,Asx,2020,101500.0,1,gasoline,2.0,150,variable,9200.0
-Mitsubishi,Outlander,2017,79000.0,1,gasoline,2.0,150,variable,105000.0
-Mitsubishi,Attrage,2015,16900.0,2,gasoline,1.2,80,variable,226000.0
-Mitsubishi,Space Star,2018,40000.0,1,gasoline,1.2,80,variable,90000.0
-Mitsubishi,Outlander,2020,135000.0,1,plug-in,2.4,135,automatic,76000.0
-Mitsubishi,Outlander,2021,145000.0,1,plug-in,2.4,135,automatic,37500.0
-Mitsubishi,Space Star,2015,23000.0,2,gasoline,1.2,80,variable,170000.0
-Mitsubishi,Outlander,2019,100000.0,1,gasoline,2.0,150,variable,142000.0
-Mitsubishi,Outlander,2015,79000.0,2,gasoline,2.0,150,variable,150000.0
-Mitsubishi,Outlander,2019,101900.0,1,plug-in,2.4,135,automatic,180000.0
-Mitsubishi,Outlander,2017,93000.0,2,gasoline,2.0,150,variable,120000.0
-Mitsubishi,Asx,2021,100000.0,1,gasoline,2.0,150,variable,21000.0
-Mitsubishi,Lancer,2005,6000.0,4,gasoline,1.6,98,automatic,236000.0
-Mitsubishi,Outlander,2018,84000.0,2,gasoline,2.0,150,variable,147000.0
-Mitsubishi,Eclipse Cross,2020,112000.0,1,gasoline,1.5,163,variable,35500.0
-Mitsubishi,Outlander,2016,68000.0,2,gasoline,2.0,150,variable,205000.0
-Mitsubishi,Attrage,2015,24000.0,2,gasoline,1.2,80,variable,175000.0
-Mitsubishi,Outlander,2021,128000.0,1,gasoline,2.0,150,variable,83000.0
-Mitsubishi,Lancer,2015,32000.0,2,gasoline,1.8,140,variable,182000.0
-Mitsubishi,Outlander,2015,51900.0,3,gasoline,2.0,150,variable,124000.0
-Mitsubishi,Asx,2021,83900.0,2,gasoline,2.0,150,variable,89000.0
-Mitsubishi,Pajero,2016,120000.0,1,diesel,3.2,190,automatic,400000.0
-Mitsubishi,Eclipse Cross,2018,59900.0,3,gasoline,1.5,163,variable,155000.0
-Mitsubishi,Outlander,2016,63900.0,2,gasoline,2.0,150,variable,210000.0
-Mitsubishi,Outlander,2018,85000.0,1,gasoline,2.0,150,variable,125000.0
-Mitsubishi,Space Star,2014,18000.0,2,gasoline,1.2,80,variable,191000.0
-Mitsubishi,Outlander,2019,81900.0,2,gasoline,2.0,150,variable,200000.0
-Mitsubishi,L200,2019,119900.0,1,diesel,2.4,154,manual,70000.0
-Mitsubishi,Pajero,2014,107900.0,3,diesel,3.2,200,automatic,209000.0
-Mitsubishi,Space Star,2023,66885.0,2,gasoline,1.2,71,variable,35000.0
-Mitsubishi,Space Star,2021,65335.0,2,gasoline,1.2,71,variable,16552.0
-Mitsubishi,Outlander,2016,80655.0,3,gasoline,2.0,150,variable,130000.0
-Mitsubishi,Eclipse Cross,2022,107225.0,1,gasoline,1.5,150,variable,70700.0
-Mitsubishi,Eclipse Cross,2022,97995.0,1,gasoline,1.5,150,variable,120000.0
-Mitsubishi,Asx,2021,96155.0,1,gasoline,2.0,150,variable,43034.0
-Mitsubishi,Asx,2020,88395.0,1,gasoline,2.0,150,variable,71300.0
-Mitsubishi,Outlander,2016,60000.0,3,gasoline,2.0,150,variable,175000.0
-Mitsubishi,Asx,2022,102000.0,1,gasoline,2.0,150,variable,20000.0
-Mitsubishi,Lancer,2008,12000.0,3,gasoline,1.6,98,automatic,109000.0
-Mitsubishi,L200,2021,160900.0,1,diesel,2.3,150,automatic,90000.0
-Mitsubishi,Outlander,2014,60000.0,1,gasoline,2.0,150,variable,167000.0
-Mitsubishi,Outlander,2022,170000.0,2,gasoline,2.5,181,variable,21000.0
-Mitsubishi,Space Star,2021,62500.0,1,gasoline,1.2,71,variable,23250.0
-Mitsubishi,Outlander,2014,62500.0,3,gasoline,2.0,150,variable,190000.0
-Mitsubishi,Outlander,2019,110000.0,3,gasoline,2.0,150,variable,93650.0
-Mitsubishi,Asx,2019,65500.0,1,gasoline,2.0,150,variable,122000.0
-Mitsubishi,L200,2012,35000.0,3,diesel,2.5,136,manual,290000.0
-Mitsubishi,Lancer,2005,9900.0,3,gasoline,1.6,98,automatic,182000.0
-Mitsubishi,Pajero,2001,25000.0,4,diesel,3.2,165,automatic,158000.0
-Mitsubishi,Eclipse Cross,2023,175700.0,1,plug-in,2.4,188,automatic,18000.0
-Mitsubishi,Eclipse Cross,2021,105000.0,1,gasoline,1.5,163,variable,120000.0
-Mitsubishi,Outlander,2016,66000.0,2,gasoline,2.0,150,variable,186000.0
-Mitsubishi,Attrage,2014,20000.0,3,gasoline,1.2,80,variable,162600.0
-Mitsubishi,Outlander,2019,90000.0,2,gasoline,2.0,150,variable,195000.0
-Mitsubishi,Lancer,2006,5500.0,4,gasoline,1.6,98,automatic,304000.0
-Mitsubishi,Outlander,2016,63900.0,3,gasoline,2.0,150,variable,208000.0
-Mitsubishi,Outlander,2013,50000.0,1,gasoline,2.0,150,variable,193000.0
-Mitsubishi,Outlander,2017,80000.0,1,gasoline,2.0,150,variable,185000.0
-Mitsubishi,Outlander,2013,58000.0,2,gasoline,2.0,150,variable,220000.0
-Mitsubishi,Space Star,2015,55000.0,2,gasoline,1.2,80,variable,325500.0
-Mitsubishi,Eclipse Cross,2023,168999.0,2,gasoline,1.5,150,variable,3033.0
-Mitsubishi,Outlander,2019,,4,gasoline,2.0,150,variable,118000.0
-Mitsubishi,L200,2015,70000.0,1,diesel,2.4,181,automatic,330000.0
-Mitsubishi,L200,2017,80000.0,1,diesel,2.4,181,automatic,240000.0
-Mitsubishi,L200,2011,63000.0,4,diesel,2.5,178,automatic,171000.0
-Mitsubishi,Outlander,2015,65000.0,2,gasoline,2.0,150,variable,160000.0
-Mitsubishi,L200,2002,16000.0,3,diesel,2.5,115,manual,300000.0
-Mitsubishi,Eclipse Cross,2021,105000.0,2,gasoline,1.5,163,variable,51000.0
-Mitsubishi,Outlander,2015,123456.0,2,gasoline,2.0,150,variable,168000.0
-Mitsubishi,Outlander,2015,70000.0,3,gasoline,2.0,150,variable,178000.0
-Mitsubishi,Outlander,2018,115000.0,2,gasoline,2.0,150,variable,88000.0
-Mitsubishi,L200,2019,140000.0,1,diesel,2.4,181,automatic,83000.0
+manufacturer,model,submodel,year,hand,mileage,engine_liters,horsepower,fuel,transmission,drive_type,body_color,price
+Mitsubishi,Lancer,Executive,2008,3,259000,1.6,98,Gasoline,Automatic,FWD,Silver,7900
+Mitsubishi,Lancer,Executive,2008,4,214000,1.6,98,Gasoline,Automatic,FWD,Silver,8900
+Mitsubishi,Asx,Intense,2022,1,94000,2.0,150,Gasoline,Variable,FWD,Black,94900
+Mitsubishi,Space Star,Instyle,2017,1,98000,1.2,80,Gasoline,Variable,FWD,Blue,31900
+Mitsubishi,Asx,Instyle,2021,1,80000,2.0,150,Gasoline,Variable,FWD,White,76900
+Mitsubishi,Outlander,Instyle,2015,1,172000,2.0,150,Gasoline,Variable,FWD,White,63500
+Mitsubishi,Eclipse Cross,Instyle,2021,2,141000,1.5,163,Gasoline,Variable,FWD,White,76900
+Mitsubishi,Outlander,,2021,1,50000,2.5,181,Gasoline,Variable,FWD,Blue,129900
+Mitsubishi,Eclipse Cross,Instyle,2021,2,35000,1.5,163,Gasoline,Variable,FWD,Bronze,93000
+Mitsubishi,Eclipse Cross,Instyle,2020,1,157000,1.5,163,Gasoline,Variable,FWD,White,72900
+Mitsubishi,Space Star,Instyle,2014,2,133000,1.2,80,Gasoline,Variable,FWD,Blue,22800
+Mitsubishi,Attrage,Instyle,2016,2,180000,1.2,80,Gasoline,Variable,FWD,White,19800
+Mitsubishi,Outlander,Premium,2017,1,209000,2.0,150,Gasoline,Variable,FWD,White,62900
+Mitsubishi,Space Star,Supreme,2023,2,35252,1.2,71,Gasoline,Variable,FWD,Black,71130
+Mitsubishi,Space Star,Supreme,2023,1,71667,1.2,71,Gasoline,Variable,FWD,White,69605
+Mitsubishi,Space Star,Supreme,2022,1,66501,1.2,71,Gasoline,Variable,FWD,Blue,66415
+Mitsubishi,Outlander,Premium (7 seats),2021,2,88817,2.0,150,Gasoline,Variable,FWD,White,119995
+Mitsubishi,Outlander,Intense (7 seats),2020,2,78834,2.0,150,Gasoline,Variable,FWD,Black,105915
+Mitsubishi,Outlander,Intense (7 seats),2020,1,138200,2.0,150,Gasoline,Variable,FWD,White,103740
+Mitsubishi,Eclipse Cross,Executive,2022,1,70700,1.5,150,Gasoline,Variable,FWD,Silver,107225
+Mitsubishi,Space Star,Instyle,2015,3,83000,1.2,80,Gasoline,Variable,FWD,Blue,26000
+Mitsubishi,Outlander,Instyle,2018,4,130000,2.0,150,Gasoline,Variable,FWD,Black,80500
+Mitsubishi,Asx,Instyle,2019,2,185000,2.0,150,Gasoline,Variable,FWD,White,48000
+Mitsubishi,Space Star,Supreme,2022,2,32000,1.2,71,Gasoline,Variable,FWD,Silver,65000
+Mitsubishi,Eclipse Cross,Intense,2020,2,114000,1.5,163,Gasoline,Variable,FWD,White,77000
+Mitsubishi,Space Star,Supreme,2022,2,100000,1.2,71,Gasoline,Variable,FWD,White,53000
+Mitsubishi,Outlander,Intense,2017,1,170838,2.0,150,Gasoline,Variable,FWD,Black,70800
+Mitsubishi,Outlander,,2016,2,230000,2.0,150,Gasoline,Variable,FWD,Grey,55500
+Mitsubishi,Space Star,Premium,2018,3,99500,1.2,80,Gasoline,Variable,FWD,Grey,34000
+Mitsubishi,Galant,,1996,3,188000,2.0,170,Gasoline,Automatic,FWD,Silver,15000
+Mitsubishi,Eclipse Cross,Executive,2022,1,43035,1.5,150,Gasoline,Variable,FWD,Blue,110825
+Mitsubishi,Eclipse Cross,Executive,2022,1,38536,1.5,150,Gasoline,Variable,FWD,Black,115015
+Mitsubishi,Eclipse Cross,Panoramic,2022,1,20766,1.5,150,Gasoline,Variable,FWD,Red,114590
+Mitsubishi,Eclipse Cross,Instyle,2020,2,81555,1.5,163,Gasoline,Variable,FWD,White,87405
+Mitsubishi,Attrage,Instyle,2019,1,30702,1.2,80,Gasoline,Variable,FWD,Grey,45995
+Mitsubishi,Asx,Panoramic,2023,1,16411,2.0,150,Gasoline,Variable,FWD,White,111975
+Mitsubishi,Asx,Intense,2023,1,25492,2.0,150,Gasoline,Variable,FWD,White,111760
+Mitsubishi,Asx,Instyle,2022,2,42491,2.0,150,Gasoline,Variable,FWD,White,97397
+Mitsubishi,Asx,Instyle,2021,2,96000,2.0,150,Gasoline,Variable,FWD,White,91625
+Mitsubishi,Asx,Instyle,2021,1,43034,2.0,150,Gasoline,Variable,FWD,White,96155
+Mitsubishi,Asx,Premium,2020,1,71300,2.0,150,Gasoline,Variable,FWD,Bronze,88395
+Mitsubishi,Asx,Instyle,2020,1,102240,2.0,150,Gasoline,Variable,FWD,Silver,88680
+Mitsubishi,Space Star,Instyle,2015,3,83000,1.2,80,Gasoline,Variable,FWD,Blue,26000
+Mitsubishi,Outlander,Instyle,2018,4,130000,2.0,150,Gasoline,Variable,FWD,Black,80500
+Mitsubishi,Asx,Instyle,2019,2,185000,2.0,150,Gasoline,Variable,FWD,White,48000
+Mitsubishi,Space Star,Supreme,2022,2,32000,1.2,71,Gasoline,Variable,FWD,Silver,65000
+Mitsubishi,Eclipse Cross,Intense,2020,2,114000,1.5,163,Gasoline,Variable,FWD,White,77000
+Mitsubishi,Outlander,Instyle,2017,2,152000,2.0,150,Gasoline,Variable,FWD,Grey,79000
+Mitsubishi,Space Star,Supreme,2022,2,100000,1.2,71,Gasoline,Variable,FWD,White,53000
+Mitsubishi,Outlander,Intense,2017,1,170838,2.0,150,Gasoline,Variable,FWD,Black,70800
+Mitsubishi,Outlander,,2016,1,180000,2.0,150,Gasoline,Variable,FWD,Grey,75000
+Mitsubishi,Outlander,Instyle,2015,2,235000,2.0,150,Gasoline,Variable,FWD,White,55000
+Mitsubishi,Space Star,Instyle,2018,2,150000,1.2,80,Gasoline,Variable,FWD,Red,28900
+Mitsubishi,Outlander,Instyle,2015,3,278000,2.0,150,Gasoline,Variable,FWD,White,59000
+Mitsubishi,L200,Pro,2009,1,138000,2.5,136,Diesel,Automatic,AWD,Grey,45000
+Mitsubishi,Space Star,Instyle,2019,4,98500,1.2,80,Gasoline,Variable,FWD,White,37500
+Mitsubishi,Grandis,Executive,2010,2,245000,2.4,165,Gasoline,Automatic,FWD,Grey,13000
+Mitsubishi,Asx,Intense,2020,1,115000,2.0,150,Gasoline,Variable,FWD,Silver,73000
+Mitsubishi,Grandis,,2007,3,311111,2.4,165,Gasoline,Automatic,FWD,Beige,11500
+Mitsubishi,L200,Instyle,2017,1,151000,2.4,154,Diesel,Automatic,RWD,White,110000
+Mitsubishi,Space Star,Supreme,2021,3,44000,1.2,71,Gasoline,Variable,FWD,White,44990
+Mitsubishi,Outlander,Sport,2009,3,174000,2.4,170,Gasoline,Variable,AWD,Grey,23900
+Mitsubishi,Outlander,,2016,2,230000,2.0,150,Gasoline,Variable,FWD,Grey,55500
+Mitsubishi,Outlander,Luxury,2021,1,49000,2.5,181,Gasoline,Variable,FWD,White,139990
+Mitsubishi,Space Star,Premium,2018,3,99500,1.2,80,Gasoline,Variable,FWD,Grey,34000
+Mitsubishi,Galant,,1996,3,188000,2.0,170,Gasoline,Automatic,FWD,Silver,15000
+Mitsubishi,Asx,Panoramic,2022,2,139000,2.0,150,Gasoline,Variable,FWD,White,92500
+Mitsubishi,Outlander,Executive,2023,1,65000,2.5,181,Gasoline,Variable,FWD,Silver,135000
+Mitsubishi,Space Star,Supreme,2023,1,21800,1.2,71,Gasoline,Variable,FWD,Grey,71900
+Mitsubishi,Eclipse Cross,Instyle,2018,2,85500,1.5,163,Gasoline,Variable,FWD,White,64000
+Mitsubishi,Outlander,Premium,2016,3,136000,2.0,150,Gasoline,Variable,FWD,Black,72000
+Mitsubishi,L200,GL ESP,2014,3,200000,2.5,136,Diesel,Manual,RWD,White,43000
+Mitsubishi,Asx,Intense,2020,4,84000,2.0,150,Gasoline,Variable,FWD,Grey,76500
+Mitsubishi,Space Star,Instyle,2013,3,192000,1.2,80,Gasoline,Variable,FWD,Silver,14500
+Mitsubishi,Lancer,Executive,2008,3,220000,1.6,98,Gasoline,Automatic,FWD,Grey,13000
+Mitsubishi,Asx,Premium,2020,2,50000,2.0,150,Gasoline,Variable,FWD,Red,93000
+Mitsubishi,Lancer,Sport,2017,2,81000,1.8,140,Gasoline,Variable,FWD,Grey,48000
+Mitsubishi,Space Star,,2019,2,33000,1.2,80,Gasoline,Variable,FWD,White,58500
+Mitsubishi,Asx,Instyle,2021,2,132000,2.0,150,Gasoline,Variable,FWD,White,68000
+Mitsubishi,Outlander,,2016,1,180000,2.0,150,Gasoline,Variable,FWD,Grey,75000
+Mitsubishi,Eclipse Cross,Instyle,2025,2,11000,1.5,150,Gasoline,Variable,FWD,White,117000
+Mitsubishi,Outlander,Instyle,2013,3,200000,2.0,150,Gasoline,Variable,FWD,Silver,38000
+Mitsubishi,Outlander,,2024,1,7500,2.5,181,Gasoline,Variable,FWD,Black,210000
+Mitsubishi,Space Star,Premium,2022,1,37000,1.2,71,Gasoline,Variable,FWD,Purple,71000
+Mitsubishi,Lancer,Executive,2007,2,223000,1.6,98,Gasoline,Automatic,FWD,Silver,7900
+Mitsubishi,Lancer,Executive,2009,3,189000,1.6,98,Gasoline,Automatic,FWD,Grey,8500
+Mitsubishi,Outlander,Intense,2016,2,196000,2.0,150,Gasoline,Variable,FWD,Black,55000
+Mitsubishi,Outlander,Invite,2012,2,171000,2.0,147,Gasoline,Variable,FWD,Silver,30000
+Mitsubishi,L200,GLX,2010,1,414000,2.5,136,Diesel,Automatic,AWD,Black,32000
+Mitsubishi,Lancer,,1994,4,148000,1.5,110,Gasoline,Manual,AWD,Silver,30000
+Mitsubishi,Outlander,Instyle,2015,2,235000,2.0,150,Gasoline,Variable,FWD,White,55000
+Mitsubishi,Outlander,Instyle,2011,2,230000,2.0,147,Gasoline,Variable,FWD,Green,27000
+Mitsubishi,Space Star,Instyle,2018,2,150000,1.2,80,Gasoline,Variable,FWD,Red,28900
+Mitsubishi,L200,Dakar,2020,2,159000,2.3,150,Diesel,Automatic,AWD,White,119990
+Mitsubishi,Outlander,Instyle,2015,3,278000,2.0,150,Gasoline,Variable,FWD,White,59000
+Mitsubishi,L200,Desert,2016,2,238000,2.4,154,Diesel,Automatic,AWD,White,75000
+Mitsubishi,Outlander,Luxury,2017,2,165000,2.0,121,Plug,Automatic,AWD,White,79990
+Mitsubishi,L200,Pro,2009,1,138000,2.5,136,Diesel,Automatic,AWD,Grey,45000
+Mitsubishi,Outlander,Intense,2021,1,153384,2.0,150,Gasoline,Variable,FWD,Black,80000
+Mitsubishi,Space Star,Instyle,2019,4,98500,1.2,80,Gasoline,Variable,FWD,White,37500
+Mitsubishi,Grandis,Executive,2010,2,245000,2.4,165,Gasoline,Automatic,FWD,Grey,13000
+Mitsubishi,Asx,Intense,2020,1,115000,2.0,150,Gasoline,Variable,FWD,Silver,73000
+Mitsubishi,Grandis,,2007,3,311111,2.4,165,Gasoline,Automatic,FWD,Beige,11500
+Mitsubishi,L200,Instyle,2017,1,151000,2.4,154,Diesel,Automatic,RWD,White,110000
+Mitsubishi,Outlander,Instyle (7 seats),2021,2,64000,2.0,150,Gasoline,Variable,FWD,White,118000
+Mitsubishi,Lancer,Premium,2007,4,195000,1.6,98,Gasoline,Automatic,FWD,Silver,11000
+Mitsubishi,Lancer,,2009,4,301700,1.6,98,Gasoline,Automatic,FWD,Silver,5100
+Mitsubishi,Space Star,Supreme,2023,1,36000,1.2,71,Gasoline,Variable,FWD,Black,69000
+Mitsubishi,Eclipse Cross,Instyle,2025,2,11000,1.5,150,Gasoline,Variable,FWD,White,117000
+Mitsubishi,Outlander,Instyle,2013,3,200000,2.0,150,Gasoline,Variable,FWD,Silver,38000
+Mitsubishi,Asx,Intense,2020,2,57000,2.0,150,Gasoline,Variable,FWD,White,81000
+Mitsubishi,Outlander,Premium,2016,4,185000,2.0,150,Gasoline,Variable,FWD,White,68000
+Mitsubishi,Lancer,Executive,2007,2,169500,1.6,98,Gasoline,Automatic,FWD,Silver,7000
+Mitsubishi,Attrage,Instyle,2015,3,227963,1.2,80,Gasoline,Variable,FWD,White,15000
+Mitsubishi,Outlander,Instyle,2014,3,205000,2.0,150,Gasoline,Variable,FWD,Grey,55000
+Mitsubishi,Lancer,Executive,2007,4,230000,1.6,98,Gasoline,Automatic,FWD,Black,9500
+Mitsubishi,Eclipse Cross,Instyle,2019,2,118000,1.5,163,Gasoline,Variable,FWD,White,67500
+Mitsubishi,L200,GL ESP,2013,4,272000,2.5,136,Diesel,Manual,RWD,White,38000
+Mitsubishi,Outlander,Instyle,2010,2,299000,2.0,147,Gasoline,Variable,FWD,Grey,25000
+Mitsubishi,Lancer,,2008,4,218000,1.6,98,Gasoline,Automatic,FWD,Silver,8000
+Mitsubishi,Outlander,,2024,1,7500,2.5,181,Gasoline,Variable,FWD,Black,210000
+Mitsubishi,Outlander,Instyle,2015,3,224000,2.0,150,Gasoline,Variable,FWD,Blue,54990
+Mitsubishi,L200,Intense,2015,1,119000,2.4,154,Diesel,Manual,AWD,White,74990
+Mitsubishi,Space Star,Premium,2022,1,37000,1.2,71,Gasoline,Variable,FWD,Purple,71000
+Mitsubishi,Lancer,Executive,2007,2,223000,1.6,98,Gasoline,Automatic,FWD,Silver,7900
+Mitsubishi,Asx,Instyle,2021,1,100881,2.0,150,Gasoline,Variable,FWD,Silver,78000
+Mitsubishi,Outlander,Instyle,2023,1,63222,2.5,181,Gasoline,Variable,FWD,White,165000
+Mitsubishi,Lancer,Executive,2009,3,189000,1.6,98,Gasoline,Automatic,FWD,Grey,8500
+Mitsubishi,Outlander,Intense,2016,2,196000,2.0,150,Gasoline,Variable,FWD,Black,55000
+Mitsubishi,L200,Dakar,2015,2,195000,2.5,178,Diesel,Automatic,AWD,White,78990
+Mitsubishi,Lancer,Sport,2016,2,170000,1.8,140,Gasoline,Variable,FWD,Silver,34999
+Mitsubishi,Outlander,Invite,2012,2,171000,2.0,147,Gasoline,Variable,FWD,Silver,30000
+Mitsubishi,L200,GLX,2010,1,414000,2.5,136,Diesel,Automatic,AWD,Black,32000
+Mitsubishi,Space Star,Supreme,2021,1,97000,1.2,71,Gasoline,Variable,FWD,White,47900
+Mitsubishi,Space Star,Supreme,2022,2,80000,1.2,71,Gasoline,Variable,FWD,White,49900
+Mitsubishi,Lancer,,1994,4,148000,1.5,110,Gasoline,Manual,AWD,Silver,30000
+Mitsubishi,Outlander,,2013,3,158000,2.0,150,Gasoline,Variable,AWD,Black,52500
+Mitsubishi,Outlander,Intense (7 seats),2021,2,125000,2.0,150,Gasoline,Variable,FWD,White,108000
+Mitsubishi,Pajero,,2017,3,181000,3.2,190,Diesel,Automatic,AWD,White,145000
+Mitsubishi,Outlander,Premium,2016,2,170000,2.0,150,Gasoline,Variable,FWD,Black,80000
+Mitsubishi,L200,GL ESP,2013,4,272000,2.5,136,Diesel,Manual,RWD,White,38000
+Mitsubishi,Outlander,Instyle,2010,2,299000,2.0,147,Gasoline,Variable,FWD,Grey,25000
+Mitsubishi,Lancer,,2008,4,218000,1.6,98,Gasoline,Automatic,FWD,Silver,8000
+Mitsubishi,Outlander,Instyle,2012,2,199000,2.0,147,Gasoline,Variable,FWD,Brown,29200
+Mitsubishi,Pajero,,2004,4,338000,3.2,165,Diesel,Automatic,AWD,White,24999
+Mitsubishi,Outlander,Instyle,2016,3,200000,2.0,150,Gasoline,Variable,FWD,Grey,64000
+Mitsubishi,Pajero,,2008,3,260000,3.2,165,Diesel,Automatic,AWD,Black,75000
+Mitsubishi,Outlander,Limited,2008,3,240000,2.4,170,Gasoline,Variable,AWD,Blue,25000
+Mitsubishi,Outlander,Luxury 4X4 TTH,2022,1,14000,2.5,181,Gasoline,Variable,AWD,Black,183000
+Mitsubishi,Space Star,Supreme,2021,2,67000,1.2,71,Gasoline,Variable,FWD,White,53000
+Mitsubishi,Asx,Intense,2020,2,57000,2.0,150,Gasoline,Variable,FWD,White,81000
+Mitsubishi,Outlander,Premium,2016,4,185000,2.0,150,Gasoline,Variable,FWD,White,68000
+Mitsubishi,Lancer,Executive,2007,2,169500,1.6,98,Gasoline,Automatic,FWD,Silver,7000
+Mitsubishi,Attrage,Instyle,2015,3,227963,1.2,80,Gasoline,Variable,FWD,White,15000
+Mitsubishi,Outlander,Instyle,2014,3,205000,2.0,150,Gasoline,Variable,FWD,Grey,55000
+Mitsubishi,Lancer,Executive,2007,4,230000,1.6,98,Gasoline,Automatic,FWD,Black,9500
+Mitsubishi,Eclipse Cross,Instyle,2019,2,118000,1.5,163,Gasoline,Variable,FWD,White,67500
+Mitsubishi,L200,GL ESP,2013,4,272000,2.5,136,Diesel,Manual,RWD,White,38000
+Mitsubishi,Outlander,Instyle,2010,2,299000,2.0,147,Gasoline,Variable,FWD,Grey,25000
+Mitsubishi,Lancer,,2008,4,218000,1.6,98,Gasoline,Automatic,FWD,Silver,8000
+Mitsubishi,Outlander,Instyle,2012,2,199000,2.0,147,Gasoline,Variable,FWD,Brown,29200
+Mitsubishi,Pajero,,2004,4,338000,3.2,165,Diesel,Automatic,AWD,White,24999
+Mitsubishi,Outlander,Instyle,2016,3,200000,2.0,150,Gasoline,Variable,FWD,Grey,64000
+Mitsubishi,Pajero,,2008,3,260000,3.2,165,Diesel,Automatic,AWD,Black,75000
+Mitsubishi,Outlander,Limited,2008,3,240000,2.4,170,Gasoline,Variable,AWD,Blue,25000
+Mitsubishi,Outlander,Luxury 4X4 TTH,2022,1,14000,2.5,181,Gasoline,Variable,AWD,Black,183000
+Mitsubishi,Space Star,Supreme,2021,2,67000,1.2,71,Gasoline,Variable,FWD,White,53000
+Mitsubishi,Lancer,Executive,2008,2,270000,1.6,98,Gasoline,Automatic,FWD,Light blue,7500
+Mitsubishi,Outlander,Instyle,2015,2,190000,2.0,150,Gasoline,Variable,FWD,Grey,55000
+Mitsubishi,Pajero,Desert,2011,2,350000,3.2,200,Diesel,Automatic,AWD,White,72000
+Mitsubishi,Attrage,Instyle,2016,3,231000,1.2,80,Gasoline,Variable,FWD,Silver,23000
+Mitsubishi,Lancer,,2007,3,220000,1.6,98,Gasoline,Automatic,FWD,Grey,5000
+Mitsubishi,Grandis,Comfort,2005,2,180000,2.4,165,Gasoline,Automatic,FWD,Blue,10000
+Mitsubishi,Attrage,Instyle,2016,3,217000,1.2,80,Gasoline,Variable,FWD,White,13000
+Mitsubishi,Outlander,Instyle,2017,2,210000,2.0,150,Gasoline,Variable,FWD,Silver,69999
+Mitsubishi,Grandis,Executive,2010,2,245000,2.4,165,Gasoline,Automatic,FWD,Grey,18500
+Mitsubishi,Pajero,Desert,2009,4,280000,3.2,170,Diesel,Automatic,AWD,Black,67500
+Mitsubishi,Lancer,,2014,3,170000,1.8,140,Gasoline,Variable,FWD,White,20000
+Mitsubishi,L200,GL,2010,3,460000,2.5,136,Diesel,Manual,AWD,White,20000
+Mitsubishi,Outlander,Instyle (7 seats),2021,1,38000,2.0,150,Gasoline,Variable,FWD,White,129000
+Mitsubishi,Pajero,GLX,2001,3,415000,3.2,165,Diesel,Automatic,AWD,Silver,31000
+Mitsubishi,Outlander,Premium,2016,3,200000,2.0,150,Gasoline,Variable,FWD,Brown,75000
+Mitsubishi,Space Star,Supreme,2023,2,12600,1.2,71,Gasoline,Variable,FWD,Grey,74000
+Mitsubishi,Grandis,,2009,4,344000,2.4,165,Gasoline,Automatic,FWD,Grey,18000
+Mitsubishi,Pajero,,1994,2,260000,3.0,177,Gasoline,Automatic,AWD,Grey,28000
+Mitsubishi,Attrage,Instyle,2016,3,231000,1.2,80,Gasoline,Variable,FWD,Silver,23000
+Mitsubishi,Lancer,,2007,3,220000,1.6,98,Gasoline,Automatic,FWD,Grey,5000
+Mitsubishi,Grandis,Comfort,2005,2,180000,2.4,165,Gasoline,Automatic,FWD,Blue,10000
+Mitsubishi,Attrage,Instyle,2016,3,217000,1.2,80,Gasoline,Variable,FWD,White,13000
+Mitsubishi,Outlander,Instyle,2017,2,210000,2.0,150,Gasoline,Variable,FWD,Silver,69999
+Mitsubishi,Grandis,Executive,2010,2,245000,2.4,165,Gasoline,Automatic,FWD,Grey,18500
+Mitsubishi,Pajero,Desert,2009,4,280000,3.2,170,Diesel,Automatic,AWD,Black,67500
+Mitsubishi,Lancer,,2014,3,170000,1.8,140,Gasoline,Variable,FWD,White,20000
+Mitsubishi,L200,GL,2010,3,460000,2.5,136,Diesel,Manual,AWD,White,20000
+Mitsubishi,Outlander,Instyle (7 seats),2021,1,38000,2.0,150,Gasoline,Variable,FWD,White,129000
+Mitsubishi,Outlander,Supreme,2017,1,200000,2.0,121,Plug,Automatic,AWD,Silver,75000
+Mitsubishi,Pajero,GLX,2001,3,478000,3.2,165,Diesel,Automatic,AWD,Green,32000
+Mitsubishi,Outlander,Instyle,2017,3,180000,2.0,150,Gasoline,Variable,FWD,White,90000
+Mitsubishi,Asx,Instyle,2022,1,29500,2.0,150,Gasoline,Variable,FWD,Black,103500
+Mitsubishi,Outlander,Instyle,2018,1,95500,2.0,150,Gasoline,Variable,FWD,Grey,92000
+Mitsubishi,Outlander,Luxury 4X4 TTH,2022,1,14000,2.5,181,Gasoline,Variable,AWD,Black,183000
+Mitsubishi,Space Star,Supreme,2021,2,67000,1.2,71,Gasoline,Variable,FWD,White,53000
+Mitsubishi,Lancer,Executive,2008,2,270000,1.6,98,Gasoline,Automatic,FWD,Light blue,7500
+Mitsubishi,Outlander,Instyle,2015,2,190000,2.0,150,Gasoline,Variable,FWD,Grey,55000
+Mitsubishi,Pajero,Desert,2011,2,350000,3.2,200,Diesel,Automatic,AWD,White,72000
+Mitsubishi,Asx,Intense,2023,1,6000,2.0,150,Gasoline,Variable,FWD,White,125000
+Mitsubishi,Space Star,,2018,2,47000,1.2,80,Gasoline,Variable,FWD,Red,48000
+Mitsubishi,L200,,2011,3,300000,2.5,136,Diesel,Manual,RWD,White,30000
+Mitsubishi,Outlander,Instyle,2014,3,225000,2.0,150,Gasoline,Variable,FWD,Silver,53000
+Mitsubishi,L200,Dakar SE,2021,2,90000,2.3,150,Diesel,Automatic,AWD,Black,165000
+Mitsubishi,Asx,Intense,2023,1,6000,2.0,150,Gasoline,Variable,FWD,White,125000
+Mitsubishi,Space Star,,2018,2,47000,1.2,80,Gasoline,Variable,FWD,Red,48000
+Mitsubishi,L200,,2011,3,300000,2.5,136,Diesel,Manual,RWD,White,30000
+Mitsubishi,Outlander,Instyle,2014,3,225000,2.0,150,Gasoline,Variable,FWD,Silver,53000
+Mitsubishi,L200,Dakar SE,2021,2,90000,2.3,150,Diesel,Automatic,AWD,Black,165000
+Mitsubishi,Grandis,Comfort,2005,4,277000,2.4,165,Gasoline,Automatic,FWD,White,14000
+Mitsubishi,Outlander,Instyle,2016,2,226000,2.0,150,Gasoline,Variable,FWD,Blue,80000
+Mitsubishi,Outlander,Premium,2024,1,10000,2.5,181,Gasoline,Variable,FWD,Silver,200000
+Mitsubishi,Lancer,Invite,2010,3,200000,1.5,109,Gasoline,Automatic,FWD,Golden,12000
+Mitsubishi,Pajero,GLS,2001,4,433411,3.2,165,Diesel,Automatic,AWD,Silver,25000
+Mitsubishi,Outlander,Premium,2017,1,114200,2.0,150,Gasoline,Variable,FWD,Grey,94800
+Mitsubishi,Pajero,GLS,2001,4,150000,3.2,165,Diesel,Automatic,AWD,Silver,15000
+Mitsubishi,Outlander,Intense,2019,1,59000,2.0,150,Gasoline,Variable,FWD,White,105000
+Mitsubishi,Outlander,Instyle,2013,4,222000,2.0,150,Gasoline,Variable,FWD,Black,42000
+Mitsubishi,Eclipse Cross,Instyle,2022,1,49000,1.5,150,Gasoline,Variable,FWD,Silver,118000
+Mitsubishi,Outlander,,2017,1,167000,2.0,150,Gasoline,Variable,FWD,Grey,82000
+Mitsubishi,Outlander,Intense (7 seats),2019,2,171000,2.0,150,Gasoline,Variable,FWD,Brown,75000
+Mitsubishi,Lancer,,2010,3,147000,1.8,143,Gasoline,Variable,FWD,Grey,20000
+Mitsubishi,Pajero,GLS,2001,4,444000,3.2,165,Diesel,Automatic,AWD,White,35000
+Mitsubishi,Space Star,Instyle,2014,3,172000,1.2,80,Gasoline,Variable,FWD,White,17900
+Mitsubishi,Attrage,Instyle,2016,3,231000,1.2,80,Gasoline,Variable,FWD,Silver,23000
+Mitsubishi,Lancer,,2007,3,220000,1.6,98,Gasoline,Automatic,FWD,Grey,5000
+Mitsubishi,Grandis,Comfort,2005,2,180000,2.4,165,Gasoline,Automatic,FWD,Blue,10000
+Mitsubishi,Attrage,Instyle,2016,3,217000,1.2,80,Gasoline,Variable,FWD,White,13000
+Mitsubishi,Outlander,Instyle,2017,2,210000,2.0,150,Gasoline,Variable,FWD,Silver,69999
+Mitsubishi,Grandis,Executive,2010,2,245000,2.4,165,Gasoline,Automatic,FWD,Grey,18500
+Mitsubishi,Pajero,Desert,2009,4,280000,3.2,170,Diesel,Automatic,AWD,Black,67500
+Mitsubishi,Lancer,,2014,3,170000,1.8,140,Gasoline,Variable,FWD,White,20000
+Mitsubishi,L200,GL,2010,3,460000,2.5,136,Diesel,Manual,AWD,White,20000
+Mitsubishi,Outlander,Instyle (7 seats),2021,1,38000,2.0,150,Gasoline,Variable,FWD,White,129000
+Mitsubishi,Attrage,Instyle,2016,2,270192,1.2,80,Gasoline,Variable,FWD,White,24000
+Mitsubishi,Outlander,Premium (7 seats),2018,2,83000,2.0,150,Gasoline,Variable,FWD,Grey,109460
+Mitsubishi,L200,,2011,4,420000,2.5,136,Diesel,Manual,AWD,White,32000
+Mitsubishi,Space Star,Supreme,2020,3,35000,1.2,80,Gasoline,Variable,FWD,White,50000
+Mitsubishi,Asx,Intense,2019,2,80000,2.0,150,Gasoline,Variable,FWD,Black,70000
+Mitsubishi,Outlander,,2013,4,200000,2.0,150,Gasoline,Variable,AWD,White,40000
+Mitsubishi,Outlander,Limited,2013,3,275000,2.3,150,Diesel,Automatic,AWD,White,52000
+Mitsubishi,Lancer,Invite,2011,3,40000,1.5,109,Gasoline,Automatic,FWD,Grey,14500
+Mitsubishi,Outlander,Luxury,2020,1,115800,2.4,224,Plug,Automatic,AWD,Silver,113000
+Mitsubishi,Outlander,,2020,2,140000,2.0,150,Gasoline,Variable,FWD,Black,103000
+Mitsubishi,Outlander,Intense,2019,1,68000,2.0,150,Gasoline,Variable,FWD,Black,103000
+Mitsubishi,Outlander,Instyle (7 seats),2019,1,112000,2.0,150,Gasoline,Variable,FWD,White,105000
+Mitsubishi,Pajero,,2009,4,290000,3.2,170,Diesel,Automatic,AWD,Black,65000
+Mitsubishi,Outlander,Instyle,2015,2,165000,2.0,150,Gasoline,Variable,FWD,Blue,72000
+Mitsubishi,Outlander,Instyle,2016,2,200000,2.0,150,Gasoline,Variable,FWD,Blue,88000
+Mitsubishi,Space Star,Invite,2017,3,75000,1.0,71,Gasoline,Manual,FWD,Red,26000
+Mitsubishi,Pajero,Limited,2008,2,277000,3.8,250,Gasoline,Automatic,AWD,Golden,80000
+Mitsubishi,Pajero,Dakar,2009,4,200000,3.2,170,Diesel,Automatic,AWD,Black,90000
+Mitsubishi,Lancer,Executive,2008,3,224000,1.6,98,Gasoline,Automatic,FWD,Silver,6800
+Mitsubishi,Outlander,Premium (7 seats),2019,2,158000,2.0,150,Gasoline,Variable,FWD,Grey,110000
+Mitsubishi,Outlander,Supreme,2017,1,200000,2.0,121,Plug,Automatic,AWD,Silver,75000
+Mitsubishi,Pajero,GLX,2001,3,478000,3.2,165,Diesel,Automatic,AWD,Green,32000
+Mitsubishi,Outlander,Instyle,2017,3,180000,2.0,150,Gasoline,Variable,FWD,White,90000
+Mitsubishi,Asx,Instyle,2022,1,29500,2.0,150,Gasoline,Variable,FWD,Black,103500
+Mitsubishi,Outlander,Instyle,2018,1,95500,2.0,150,Gasoline,Variable,FWD,Grey,92000
+Mitsubishi,Asx,Intense,2023,1,6000,2.0,150,Gasoline,Variable,FWD,White,125000
+Mitsubishi,Space Star,,2018,2,47000,1.2,80,Gasoline,Variable,FWD,Red,48000
+Mitsubishi,L200,,2011,3,300000,2.5,136,Diesel,Manual,RWD,White,30000
+Mitsubishi,Outlander,Instyle,2014,3,225000,2.0,150,Gasoline,Variable,FWD,Silver,53000
+Mitsubishi,L200,Dakar SE,2021,2,90000,2.3,150,Diesel,Automatic,AWD,Black,165000
+Mitsubishi,Outlander,Premium,2016,2,185000,2.0,150,Gasoline,Variable,FWD,White,66500
+Mitsubishi,Lancer,Instyle,2012,4,250000,1.6,117,Gasoline,Automatic,FWD,White,12500
+Mitsubishi,Lancer,Executive,2008,4,186990,1.6,98,Gasoline,Automatic,FWD,Silver,13000
+Mitsubishi,Outlander,Instyle,2015,2,250000,2.0,150,Gasoline,Variable,FWD,White,75000
+Mitsubishi,Grandis,Comfort,2009,3,317880,2.4,165,Gasoline,Automatic,FWD,Silver,20550
+Mitsubishi,Pajero,,2002,3,340000,3.2,165,Diesel,Automatic,AWD,Beige,46000
+Mitsubishi,Outlander,Premium,2015,2,150000,2.0,150,Gasoline,Variable,FWD,White,79000
+Mitsubishi,Outlander,Luxury,2019,1,180000,2.4,224,Plug,Automatic,AWD,Grey,101900
+Mitsubishi,Outlander,Premium,2017,2,120000,2.0,150,Gasoline,Variable,FWD,Brown,93000
+Mitsubishi,Asx,Instyle,2021,1,21000,2.0,150,Gasoline,Variable,FWD,Red,100000
+Mitsubishi,Lancer,Executive,2005,4,236000,1.6,98,Gasoline,Automatic,FWD,Silver,6000
+Mitsubishi,Outlander,Intense (7 seats),2018,2,147000,2.0,150,Gasoline,Variable,FWD,White,84000
+Mitsubishi,Eclipse Cross,Premium,2020,1,35500,1.5,163,Gasoline,Variable,FWD,Black,112000
+Mitsubishi,Outlander,Instyle,2016,2,205000,2.0,150,Gasoline,Variable,FWD,White,68000
+Mitsubishi,Attrage,Instyle,2015,2,175000,1.2,80,Gasoline,Variable,FWD,Grey,24000
+Mitsubishi,Outlander,Instyle (7 seats),2021,1,83000,2.0,150,Gasoline,Variable,FWD,Silver,128000
+Mitsubishi,Lancer,Executive,2008,3,109000,1.6,98,Gasoline,Automatic,FWD,Silver,12000
+Mitsubishi,L200,Desert,2021,1,90000,2.3,150,Diesel,Automatic,AWD,Silver,160900
+Mitsubishi,Outlander,Instyle,2014,1,167000,2.0,150,Gasoline,Variable,FWD,White,60000
+Mitsubishi,Outlander,Instyle,2022,2,21000,2.5,181,Gasoline,Variable,FWD,Grey,170000
+Mitsubishi,Grandis,Comfort,2005,4,277000,2.4,165,Gasoline,Automatic,FWD,White,14000
+Mitsubishi,Outlander,Instyle,2016,2,226000,2.0,150,Gasoline,Variable,FWD,Blue,80000
+Mitsubishi,Outlander,Premium,2024,1,10000,2.5,181,Gasoline,Variable,FWD,Silver,200000
+Mitsubishi,Lancer,Invite,2010,3,200000,1.5,109,Gasoline,Automatic,FWD,Golden,12000
+Mitsubishi,Pajero,GLS,2001,4,433411,3.2,165,Diesel,Automatic,AWD,Silver,25000
+Mitsubishi,Outlander,Premium,2017,1,114200,2.0,150,Gasoline,Variable,FWD,Grey,94800
+Mitsubishi,Pajero,GLS,2001,4,150000,3.2,165,Diesel,Automatic,AWD,Silver,15000
+Mitsubishi,Outlander,Intense,2019,1,59000,2.0,150,Gasoline,Variable,FWD,White,105000
+Mitsubishi,Outlander,Instyle,2013,4,222000,2.0,150,Gasoline,Variable,FWD,Black,42000
+Mitsubishi,Eclipse Cross,Instyle,2022,1,49000,1.5,150,Gasoline,Variable,FWD,Silver,118000
+Mitsubishi,Space Star,Instyle,2021,1,23250,1.2,71,Gasoline,Variable,FWD,White,62500
+Mitsubishi,Outlander,Instyle,2014,3,190000,2.0,150,Gasoline,Variable,FWD,White,62500
+Mitsubishi,Outlander,Instyle (7 seats),2019,3,93650,2.0,150,Gasoline,Variable,FWD,Black,110000
+Mitsubishi,Asx,Instyle,2019,1,122000,2.0,150,Gasoline,Variable,FWD,White,65500
+Mitsubishi,L200,GL,2012,3,290000,2.5,136,Diesel,Manual,AWD,White,35000
+Mitsubishi,Lancer,Executive,2005,3,182000,1.6,98,Gasoline,Automatic,FWD,White,9900
+Mitsubishi,L200,Dakar,2015,1,330000,2.4,181,Diesel,Automatic,AWD,White,70000
+Mitsubishi,L200,Supreme,2017,1,240000,2.4,181,Diesel,Automatic,AWD,White,80000
+Mitsubishi,L200,Dakar,2011,4,171000,2.5,178,Diesel,Automatic,AWD,Brown,63000
+Mitsubishi,Outlander,Instyle,2015,2,160000,2.0,150,Gasoline,Variable,FWD,White,65000
+Mitsubishi,L200,GLS,2002,3,300000,2.5,115,Diesel,Manual,AWD,Blue,16000
+Mitsubishi,Eclipse Cross,Instyle,2021,2,51000,1.5,163,Gasoline,Variable,FWD,Black,105000
+Mitsubishi,Outlander,,2015,2,168000,2.0,150,Gasoline,Variable,FWD,Grey,123456
+Mitsubishi,Outlander,Instyle,2015,3,178000,2.0,150,Gasoline,Variable,FWD,Silver,70000
+Mitsubishi,Outlander,Instyle (7 seats),2018,2,88000,2.0,150,Gasoline,Variable,FWD,Grey,115000
+Mitsubishi,L200,Dakar SE,2019,1,83000,2.4,181,Diesel,Automatic,AWD,Silver,140000
+Mitsubishi,Outlander,Instyle,2018,2,130000,2.0,150,Gasoline,Variable,FWD,Grey,93900
+Mitsubishi,Pajero,Dakar,2008,2,230000,3.8,250,Gasoline,Automatic,AWD,Grey,85000
+Mitsubishi,Attrage,Instyle,2015,3,297000,1.2,80,Gasoline,Variable,FWD,Grey,15000
+Mitsubishi,Pajero,GLX,2000,4,218000,2.5,116,Diesel,Manual,AWD,Silver,46000
+Mitsubishi,Outlander,,2017,1,167000,2.0,150,Gasoline,Variable,FWD,Grey,82000
+Mitsubishi,Outlander,Intense (7 seats),2019,2,171000,2.0,150,Gasoline,Variable,FWD,Brown,75000
+Mitsubishi,Lancer,,2010,3,147000,1.8,143,Gasoline,Variable,FWD,Grey,20000
+Mitsubishi,Pajero,GLS,2001,4,444000,3.2,165,Diesel,Automatic,AWD,White,35000
+Mitsubishi,Space Star,Instyle,2014,3,172000,1.2,80,Gasoline,Variable,FWD,White,17900
+Mitsubishi,Attrage,Instyle,2016,2,270192,1.2,80,Gasoline,Variable,FWD,White,24000
+Mitsubishi,Outlander,Premium (7 seats),2018,2,83000,2.0,150,Gasoline,Variable,FWD,Grey,109460
+Mitsubishi,L200,,2011,4,420000,2.5,136,Diesel,Manual,AWD,White,32000
+Mitsubishi,Space Star,Supreme,2020,3,35000,1.2,80,Gasoline,Variable,FWD,White,50000
+Mitsubishi,Asx,Intense,2019,2,80000,2.0,150,Gasoline,Variable,FWD,Black,70000
+Mitsubishi,Space Star,Supreme,2019,3,100000,1.2,80,Gasoline,Variable,FWD,Silver,48000
+Mitsubishi,Outlander,Instyle,2013,4,178000,2.0,150,Gasoline,Variable,FWD,Blue,42000
+Mitsubishi,Outlander,Comfort,2007,4,293000,2.4,160,Gasoline,Automatic,AWD,Silver,5000
+Mitsubishi,Lancer,Sport,2010,2,145000,1.8,143,Gasoline,Variable,FWD,Silver,20000
+Mitsubishi,Outlander,Instyle,2016,2,189000,2.0,150,Gasoline,Variable,FWD,Silver,79000
+Mitsubishi,Outlander,Instyle (7 seats),2018,2,75000,2.0,150,Gasoline,Variable,FWD,White,108000
+Mitsubishi,L200,Desert,2016,1,126000,2.4,154,Diesel,Automatic,AWD,White,125000
+Mitsubishi,Pajero,Dakar,2011,3,230000,3.2,200,Diesel,Automatic,AWD,Black,130000
+Mitsubishi,Lancer,Executive,2008,2,160000,1.6,98,Gasoline,Automatic,FWD,Silver,10000
+Mitsubishi,Outlander,Instyle,2013,3,168000,2.0,150,Gasoline,Variable,FWD,Silver,54000
+Mitsubishi,Outlander,Premium (7 seats),2018,2,50000,2.0,150,Gasoline,Variable,FWD,White,115000
+Mitsubishi,Lancer,Comfort,2008,2,330000,1.8,143,Gasoline,Variable,FWD,Grey,11000
+Mitsubishi,Outlander,Intense (7 seats),2019,2,107000,2.0,150,Gasoline,Variable,FWD,White,102000
+Mitsubishi,Outlander,Instyle,2014,2,230000,2.0,150,Gasoline,Variable,FWD,Black,52000
+Mitsubishi,Eclipse Cross,Instyle,2020,1,40000,1.5,163,Gasoline,Variable,FWD,Blue,102500
+Mitsubishi,Outlander,Premium,2016,2,114000,2.0,150,Gasoline,Variable,FWD,Brown,80000
+Mitsubishi,Grandis,Comfort,2009,2,196000,2.4,165,Gasoline,Automatic,FWD,Silver,24000
+Mitsubishi,Eclipse Cross,Intense,2018,3,122600,1.5,163,Gasoline,Variable,FWD,White,72000
+Mitsubishi,Outlander,,2008,3,240000,2.4,160,Gasoline,Automatic,AWD,Grey,25000
+Mitsubishi,Outlander,Instyle (7 seats),2019,3,68500,2.0,150,Gasoline,Variable,FWD,Grey,113000
+Mitsubishi,Outlander,,2013,4,200000,2.0,150,Gasoline,Variable,AWD,White,40000
+Mitsubishi,Outlander,Limited,2013,3,275000,2.3,150,Diesel,Automatic,AWD,White,52000
+Mitsubishi,Lancer,Invite,2011,3,40000,1.5,109,Gasoline,Automatic,FWD,Grey,14500
+Mitsubishi,Outlander,Luxury,2020,1,115800,2.4,224,Plug,Automatic,AWD,Silver,113000
+Mitsubishi,Outlander,,2020,2,140000,2.0,150,Gasoline,Variable,FWD,Black,103000
+Mitsubishi,Outlander,Intense,2019,1,68000,2.0,150,Gasoline,Variable,FWD,Black,103000
+Mitsubishi,Outlander,Instyle (7 seats),2019,1,112000,2.0,150,Gasoline,Variable,FWD,White,105000
+Mitsubishi,Pajero,,2009,4,290000,3.2,170,Diesel,Automatic,AWD,Black,65000
+Mitsubishi,Outlander,Instyle,2015,2,165000,2.0,150,Gasoline,Variable,FWD,Blue,72000
+Mitsubishi,Outlander,Instyle,2016,2,200000,2.0,150,Gasoline,Variable,FWD,Blue,88000
+Mitsubishi,Outlander,,2016,1,109000,2.0,150,Gasoline,Variable,FWD,White,87000
+Mitsubishi,Grandis,Executive,2010,3,267826,2.4,165,Gasoline,Automatic,FWD,Black,13000
+Mitsubishi,Outlander,Luxury,2023,1,15000,2.5,181,Gasoline,Variable,FWD,White,190000
+Mitsubishi,Attrage,Instyle,2016,3,300000,1.2,80,Gasoline,Variable,FWD,White,22000
+Mitsubishi,Outlander,Premium,2016,2,165000,2.0,150,Gasoline,Variable,FWD,Bronze,75500
+Mitsubishi,Outlander,,2015,2,162000,2.0,150,Gasoline,Variable,FWD,Grey,65000
+Mitsubishi,Space Star,Supreme,2022,1,43000,1.2,71,Gasoline,Variable,FWD,Black,65300
+Mitsubishi,Pajero,Dakar,2016,1,220000,3.2,190,Diesel,Automatic,AWD,White,159955
+Mitsubishi,Lancer,Invite,2011,2,224000,1.5,109,Gasoline,Automatic,FWD,Silver,12500
+Mitsubishi,Pajero,GLS,2002,4,383000,3.2,165,Diesel,Automatic,AWD,White,35000
+Mitsubishi,Outlander,,2014,3,203546,2.0,150,Gasoline,Variable,AWD,White,61000
+Mitsubishi,Pajero,,2006,1,195000,3.2,200,Diesel,Automatic,AWD,Black,54000
+Mitsubishi,Outlander,Instyle,2016,3,180000,2.0,150,Gasoline,Variable,FWD,Brown,72000
+Mitsubishi,Outlander,Elite,2014,3,225000,2.0,150,Gasoline,Variable,AWD,White,55000
+Mitsubishi,Lancer,Executive,2008,4,273000,1.6,98,Gasoline,Automatic,FWD,Light Grey,5800
+Mitsubishi,Lancer,Executive,2004,4,377772,1.6,98,Gasoline,Automatic,FWD,Grey,10000
+Mitsubishi,Eclipse Cross,Intense,2019,2,101000,1.5,163,Gasoline,Variable,FWD,Black,80000
+Mitsubishi,Outlander,Intense (7 seats),2020,1,110000,2.0,150,Gasoline,Variable,FWD,White,117000
+Mitsubishi,Outlander,Instyle,2016,2,199000,2.0,150,Gasoline,Variable,FWD,White,68000
+Mitsubishi,Lancer,Executive,2007,4,262000,1.6,98,Gasoline,Automatic,FWD,Light Grey,6000
+Mitsubishi,Space Star,Invite,2017,3,75000,1.0,71,Gasoline,Manual,FWD,Red,26000
+Mitsubishi,Pajero,Limited,2008,2,277000,3.8,250,Gasoline,Automatic,AWD,Golden,80000
+Mitsubishi,Pajero,Dakar,2009,4,200000,3.2,170,Diesel,Automatic,AWD,Black,90000
+Mitsubishi,Lancer,Executive,2008,3,224000,1.6,98,Gasoline,Automatic,FWD,Silver,6800
+Mitsubishi,Outlander,Premium (7 seats),2019,2,158000,2.0,150,Gasoline,Variable,FWD,Grey,110000
+Mitsubishi,Outlander,Premium,2016,2,185000,2.0,150,Gasoline,Variable,FWD,White,66500
+Mitsubishi,Lancer,Instyle,2012,4,250000,1.6,117,Gasoline,Automatic,FWD,White,12500
+Mitsubishi,Lancer,Executive,2008,4,186990,1.6,98,Gasoline,Automatic,FWD,Silver,13000
+Mitsubishi,Outlander,Instyle,2015,2,250000,2.0,150,Gasoline,Variable,FWD,White,75000
+Mitsubishi,Grandis,Comfort,2009,3,317880,2.4,165,Gasoline,Automatic,FWD,Silver,20550
+Mitsubishi,Attrage,Instyle,2016,2,153000,1.2,80,Gasoline,Variable,FWD,Silver,27000
+Mitsubishi,Eclipse Cross,,2019,1,73000,1.5,163,Gasoline,Variable,FWD,White,97000
+Mitsubishi,Lancer,Sport,2009,2,279000,1.8,143,Gasoline,Variable,FWD,White,12500
+Mitsubishi,Eclipse Cross,Premium,2019,2,100000,1.5,163,Gasoline,Variable,FWD,Black,85000
+Mitsubishi,Outlander,Instyle,2015,1,110000,2.0,150,Gasoline,Variable,FWD,White,72000
+Mitsubishi,Outlander,Instyle,2013,3,176000,2.0,150,Gasoline,Variable,FWD,Black,53000
+Mitsubishi,Space Star,Instyle,2015,4,170000,1.2,80,Gasoline,Variable,FWD,Silver,25000
+Mitsubishi,Outlander,Elite,2014,2,220000,2.0,150,Gasoline,Variable,AWD,White,62000
+Mitsubishi,Grandis,Comfort,2008,3,198000,2.4,165,Gasoline,Automatic,FWD,Grey,25000
+Mitsubishi,Pajero,GLS,2003,4,380000,3.2,165,Diesel,Automatic,AWD,Silver,30000
+Mitsubishi,Eclipse Cross,Premium,2018,2,74000,1.5,163,Gasoline,Variable,FWD,White,98000
+Mitsubishi,Outlander,Intense (7 seats),2018,2,116800,2.0,150,Gasoline,Variable,FWD,White,90000
+Mitsubishi,Lancer,Executive,2005,4,260000,1.6,98,Gasoline,Automatic,FWD,Blue,6800
+Mitsubishi,Outlander,Instyle,2010,4,270000,2.0,147,Gasoline,Variable,FWD,Black,30000
+Mitsubishi,Pajero,,2005,4,440000,3.0,180,Gasoline,Automatic,AWD,Beige,39900
+Mitsubishi,Lancer,Invite,2009,1,339100,1.5,109,Gasoline,Automatic,FWD,White,10000
+Mitsubishi,Asx,Intense,2020,1,9200,2.0,150,Gasoline,Variable,FWD,Red,101500
+Mitsubishi,Outlander,Intense,2017,1,105000,2.0,150,Gasoline,Variable,FWD,Silver,79000
+Mitsubishi,Attrage,Instyle,2015,2,226000,1.2,80,Gasoline,Variable,FWD,Grey,16900
+Mitsubishi,Space Star,Instyle,2018,1,90000,1.2,80,Gasoline,Variable,FWD,Blue,40000
+Mitsubishi,Pajero,,2002,3,340000,3.2,165,Diesel,Automatic,AWD,Beige,46000
+Mitsubishi,Outlander,Premium,2015,2,150000,2.0,150,Gasoline,Variable,FWD,White,79000
+Mitsubishi,Outlander,Luxury,2019,1,180000,2.4,224,Plug,Automatic,AWD,Grey,101900
+Mitsubishi,Outlander,Premium,2017,2,120000,2.0,150,Gasoline,Variable,FWD,Brown,93000
+Mitsubishi,Asx,Instyle,2021,1,21000,2.0,150,Gasoline,Variable,FWD,Red,100000
+Mitsubishi,Lancer,Executive,2005,4,236000,1.6,98,Gasoline,Automatic,FWD,Silver,6000
+Mitsubishi,Outlander,Intense (7 seats),2018,2,147000,2.0,150,Gasoline,Variable,FWD,White,84000
+Mitsubishi,Eclipse Cross,Premium,2020,1,35500,1.5,163,Gasoline,Variable,FWD,Black,112000
+Mitsubishi,Outlander,Instyle,2016,2,205000,2.0,150,Gasoline,Variable,FWD,White,68000
+Mitsubishi,Attrage,Instyle,2015,2,175000,1.2,80,Gasoline,Variable,FWD,Grey,24000
+Mitsubishi,Outlander,Luxury,2020,1,76000,2.4,224,Plug,Automatic,AWD,Black,135000
+Mitsubishi,Outlander,Luxury,2021,1,37500,2.4,224,Plug,Automatic,AWD,White,145000
+Mitsubishi,Space Star,,2015,2,170000,1.2,80,Gasoline,Variable,FWD,Black,23000
+Mitsubishi,Outlander,,2019,1,142000,2.0,150,Gasoline,Variable,FWD,White,100000
+Mitsubishi,Lancer,Sport,2015,2,182000,1.8,140,Gasoline,Variable,FWD,White,32000
+Mitsubishi,Outlander,Instyle,2015,3,124000,2.0,150,Gasoline,Variable,FWD,Grey,51900
+Mitsubishi,Asx,Instyle,2021,2,89000,2.0,150,Gasoline,Variable,FWD,Black,83900
+Mitsubishi,Pajero,Dakar,2016,1,400000,3.2,190,Diesel,Automatic,AWD,White,120000
+Mitsubishi,Eclipse Cross,Instyle,2018,3,155000,1.5,163,Gasoline,Variable,FWD,White,59900
+Mitsubishi,Outlander,Instyle,2016,2,210000,2.0,150,Gasoline,Variable,FWD,Grey,63900
+Mitsubishi,Outlander,Premium (7 seats),2018,1,125000,2.0,150,Gasoline,Variable,FWD,White,85000
+Mitsubishi,Space Star,Instyle,2014,2,191000,1.2,80,Gasoline,Variable,FWD,Silver,18000
+Mitsubishi,Outlander,Instyle (7 seats),2019,2,200000,2.0,150,Gasoline,Variable,FWD,Silver,81900
+Mitsubishi,L200,Intense,2019,1,70000,2.4,154,Diesel,Manual,AWD,White,119900
+Mitsubishi,Pajero,,2014,3,209000,3.2,200,Diesel,Automatic,AWD,White,107900
+Mitsubishi,Space Star,Supreme,2023,1,44304,1.2,71,Gasoline,Variable,FWD,Silver,73165
+Mitsubishi,Space Star,Supreme,2023,2,35000,1.2,71,Gasoline,Variable,FWD,Black,66885
+Mitsubishi,Space Star,Supreme,2021,2,16552,1.2,71,Gasoline,Variable,FWD,White,65335
+Mitsubishi,Space Star,Premium,2017,3,144241,1.2,80,Gasoline,Variable,FWD,Silver,28655
+Mitsubishi,Outlander,Instyle,2016,3,130000,2.0,150,Gasoline,Variable,FWD,Black,80655
+Mitsubishi,Outlander,Instyle (7 seats),2021,1,83000,2.0,150,Gasoline,Variable,FWD,Silver,128000
+Mitsubishi,Lancer,Executive,2008,3,109000,1.6,98,Gasoline,Automatic,FWD,Silver,12000
+Mitsubishi,L200,Desert,2021,1,90000,2.3,150,Diesel,Automatic,AWD,Silver,160900
+Mitsubishi,Outlander,Instyle,2014,1,167000,2.0,150,Gasoline,Variable,FWD,White,60000
+Mitsubishi,Outlander,Instyle,2022,2,21000,2.5,181,Gasoline,Variable,FWD,Grey,170000
+Mitsubishi,Space Star,Instyle,2021,1,23250,1.2,71,Gasoline,Variable,FWD,White,62500
+Mitsubishi,Outlander,Instyle,2014,3,190000,2.0,150,Gasoline,Variable,FWD,White,62500
+Mitsubishi,Outlander,Instyle (7 seats),2019,3,93650,2.0,150,Gasoline,Variable,FWD,Black,110000
+Mitsubishi,Asx,Instyle,2019,1,122000,2.0,150,Gasoline,Variable,FWD,White,65500
+Mitsubishi,L200,GL,2012,3,290000,2.5,136,Diesel,Manual,AWD,White,35000
+Mitsubishi,Eclipse Cross,Panoramic,2022,1,120000,1.5,150,Gasoline,Variable,FWD,White,97995
+Mitsubishi,Outlander,Instyle,2016,3,175000,2.0,150,Gasoline,Variable,FWD,Grey,60000
+Mitsubishi,Asx,Instyle,2022,1,20000,2.0,150,Gasoline,Variable,FWD,Red,102000
+Mitsubishi,Pajero,GLS,2001,4,158000,3.2,165,Diesel,Automatic,AWD,Silver,25000
+Mitsubishi,Eclipse Cross,Luxury,2023,1,18000,2.4,188,Plug,Automatic,AWD,White,175700
+Mitsubishi,Eclipse Cross,Premium,2021,1,120000,1.5,163,Gasoline,Variable,FWD,White,105000
+Mitsubishi,Outlander,Instyle,2016,2,186000,2.0,150,Gasoline,Variable,FWD,White,66000
+Mitsubishi,Attrage,,2014,3,162600,1.2,80,Gasoline,Variable,FWD,Black,20000
+Mitsubishi,Outlander,Intense (7 seats),2019,2,195000,2.0,150,Gasoline,Variable,FWD,Grey,90000
+Mitsubishi,Lancer,Executive,2006,4,304000,1.6,98,Gasoline,Automatic,FWD,Silver,5500
+Mitsubishi,Outlander,Premium,2016,3,208000,2.0,150,Gasoline,Variable,FWD,White,63900
+Mitsubishi,Outlander,Instyle,2013,1,193000,2.0,150,Gasoline,Variable,FWD,White,50000
+Mitsubishi,Outlander,Intense,2017,1,185000,2.0,150,Gasoline,Variable,FWD,White,80000
+Mitsubishi,Outlander,Instyle,2013,2,220000,2.0,150,Gasoline,Variable,FWD,White,58000
+Mitsubishi,Space Star,Instyle,2015,2,325500,1.2,80,Gasoline,Variable,FWD,Blue,55000
+Mitsubishi,Eclipse Cross,Premium,2023,2,3033,1.5,150,Gasoline,Variable,FWD,White,168999
+Mitsubishi,Outlander,Instyle (7 seats),2019,4,118000,2.0,150,Gasoline,Variable,FWD,White,0
+Mitsubishi,Lancer,Executive,2005,3,182000,1.6,98,Gasoline,Automatic,FWD,White,9900
+Mitsubishi,L200,Dakar,2015,1,330000,2.4,181,Diesel,Automatic,AWD,White,70000
+Mitsubishi,L200,Supreme,2017,1,240000,2.4,181,Diesel,Automatic,AWD,White,80000
+Mitsubishi,L200,Dakar,2011,4,171000,2.5,178,Diesel,Automatic,AWD,Brown,63000
+Mitsubishi,Outlander,Instyle,2015,2,160000,2.0,150,Gasoline,Variable,FWD,White,65000
+Mitsubishi,L200,GLS,2002,3,300000,2.5,115,Diesel,Manual,AWD,Blue,16000
+Mitsubishi,Eclipse Cross,Instyle,2021,2,51000,1.5,163,Gasoline,Variable,FWD,Black,105000
+Mitsubishi,Outlander,,2015,2,168000,2.0,150,Gasoline,Variable,FWD,Grey,123456
+Mitsubishi,Outlander,Instyle,2015,3,178000,2.0,150,Gasoline,Variable,FWD,Silver,70000
+Mitsubishi,Outlander,Instyle (7 seats),2018,2,88000,2.0,150,Gasoline,Variable,FWD,Grey,115000

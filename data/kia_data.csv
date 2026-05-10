@@ -1,901 +1,901 @@
-manufacturer,model,year,price,hand,fuel,engine_liters,horsepower,transmission,mileage
-Kia,Picanto,2020,49900,2,gasoline,1.2,84.0,automatic,82000
-Kia,Niro,2020,89900,2,plug-in,1.6,141.0,robotic,110769
-Kia,Sportage,2014,37999,4,gasoline,2.0,163.0,automatic,147000
-Kia,Sportage,2016,44900,2,gasoline,1.6,132.0,automatic,162000
-Kia,Niro,2021,109000,1,plug-in,1.6,141.0,robotic,72256
-Kia,Sportage,2017,58800,3,gasoline,2.0,155.0,automatic,153000
-Kia,Sportage,2021,99900,2,gasoline,1.6,177.0,robotic,78900
-Kia,Niro,2019,74900,2,hybrid,1.6,141.0,robotic,117000
-Kia,Sportage,2016,39800,2,gasoline,1.6,133.0,automatic,155000
-Kia,Picanto,2012,19900,2,gasoline,1.2,85.0,automatic,172000
-Kia,Ceed,2022,69900,1,diesel,1.6,136.0,robotic,127000
-Kia,Rio,2013,23500,2,gasoline,1.4,109.0,automatic,176000
-Kia,Forte,2014,23900,2,gasoline,1.6,130.0,automatic,176000
-Kia,Niro,2025,137900,1,hybrid,1.6,129.0,robotic,21000
-Kia,Forte,2018,28800,2,diesel,1.6,136.0,automatic,260000
-Kia,Sorento,2022,146900,1,gasoline,2.5,180.0,automatic,95000
-Kia,Picanto,2015,24900,2,gasoline,1.2,85.0,automatic,132000
-Kia,Ceed,2013,23900,3,gasoline,1.6,135.0,robotic,176000
-Kia,Sportage,2015,49900,1,gasoline,1.6,133.0,automatic,131000
-Kia,Picanto,2023,69999,1,gasoline,1.2,84.0,robotic,45000
-Kia,Sportage,2018,60000,2,gasoline,1.6,132.0,automatic,123000
-Kia,Rio,2014,21000,3,gasoline,1.4,109.0,automatic,190000
-Kia,Sportage,2015,45000,3,gasoline,1.6,133.0,automatic,148000
-Kia,Niro,2020,100000,3,hybrid,1.6,141.0,robotic,76000
-Kia,Picanto,2020,67000,1,gasoline,1.2,84.0,automatic,75000
-Kia,Sportage,2019,78900,3,gasoline,1.6,177.0,robotic,123000
-Kia,Sportage,2015,38000,1,gasoline,1.6,133.0,automatic,170000
-Kia,Forte,2010,10500,2,gasoline,1.6,126.0,automatic,265000
-Kia,Sorento,2013,37000,1,gasoline,2.4,192.0,automatic,200000
-Kia,Carnival,2016,60000,2,gasoline,3.3,276.0,automatic,306000
-Kia,Sportage,2010,22500,3,gasoline,2.7,175.0,automatic,140000
-Kia,Sportage,2017,58800,3,gasoline,2.0,155.0,automatic,153000
-Kia,Picanto,2012,19900,2,gasoline,1.2,85.0,automatic,172000
-Kia,Sportage,2020,99500,2,gasoline,1.6,177.0,robotic,38000
-Kia,Rio,2020,43800,2,gasoline,1.0,120.0,automatic,210000
-Kia,Seltos,2022,97900,1,gasoline,2.0,149.0,variable,62000
-Kia,Niro,2020,77900,2,hybrid,1.6,141.0,robotic,144800
-Kia,Seltos,2021,89900,1,gasoline,2.0,149.0,variable,74000
-Kia,Sportage,2018,64000,2,gasoline,1.6,132.0,automatic,147000
-Kia,Sportage,2016,52000,2,gasoline,1.6,132.0,automatic,145000
-Kia,Sportage,2021,95900,2,gasoline,1.6,177.0,robotic,59000
-Kia,Sorento,2023,154900,1,gasoline,2.5,180.0,automatic,72500
-Kia,Sportage,2023,117000,1,gasoline,2.0,156.0,automatic,87000
-Kia,Sportage,2015,42900,4,gasoline,1.6,133.0,automatic,130000
-Kia,Niro,2019,79900,3,hybrid,1.6,141.0,robotic,114000
-Kia,Sportage,2020,93000,2,gasoline,1.6,177.0,robotic,77000
-Kia,Stonic,2021,77900,1,gasoline,1.0,100.0,robotic,63000
-Kia,Niro,2018,84990,1,hybrid,1.6,141.0,robotic,69000
-Kia,Sportage,2018,60000,2,gasoline,1.6,132.0,automatic,123000
-Kia,Xceed,2021,77105,2,gasoline,1.4,140.0,robotic,78280
-Kia,Niro,2021,102000,2,plug-in,1.6,141.0,robotic,78000
-Kia,Sportage,2014,35000,2,gasoline,2.0,163.0,automatic,140000
-Kia,Rio,2016,22000,3,gasoline,1.4,109.0,automatic,177000
-Kia,Stonic,2020,68000,1,gasoline,1.0,120.0,robotic,62000
-Kia,Sportage,2017,59000,2,gasoline,1.6,132.0,automatic,114000
-Kia,Picanto,2016,25000,3,gasoline,1.2,85.0,automatic,190000
-Kia,Ceed,2015,20000,3,gasoline,1.6,135.0,robotic,194000
-Kia,Niro,2022,108000,2,plug-in,1.6,141.0,robotic,59480
-Kia,Picanto,2022,75000,1,gasoline,1.2,84.0,robotic,35000
-Kia,Stonic,2020,62600,2,gasoline,1.0,120.0,robotic,82000
-Kia,Xceed,2021,79485,1,gasoline,1.4,140.0,robotic,59035
-Kia,Stonic,2024,101250,1,gasoline,1.4,100.0,automatic,52347
-Kia,Stonic,2024,103455,1,gasoline,1.0,100.0,robotic,44521
-Kia,Stonic,2023,97347,1,gasoline,1.0,100.0,robotic,44738
-Kia,Stonic,2023,100910,1,gasoline,1.4,100.0,automatic,28000
-Kia,Stonic,2022,75442,2,gasoline,1.4,100.0,automatic,96500
-Kia,Stonic,2022,86450,2,gasoline,1.4,100.0,automatic,77555
-Kia,Stonic,2022,91360,1,gasoline,1.0,100.0,robotic,66200
-Kia,Stonic,2022,83155,1,gasoline,1.0,100.0,robotic,104781
-Kia,Stonic,2021,88995,1,gasoline,1.0,100.0,robotic,54000
-Kia,Stonic,2021,87845,1,gasoline,1.0,100.0,robotic,46000
-Kia,Stonic,2020,58585,2,gasoline,1.0,120.0,robotic,94500
-Kia,Stonic,2020,71175,1,gasoline,1.0,120.0,robotic,125600
-Kia,Stonic,2019,71155,1,gasoline,1.0,120.0,robotic,82000
-Kia,Stonic,2018,70455,2,gasoline,1.0,120.0,robotic,93079
-Kia,Sportage,2024,186995,1,hybrid,1.6,230.0,automatic,24475
-Kia,Sportage,2022,168310,1,hybrid,1.6,230.0,automatic,43000
-Kia,Sportage,2024,158575,1,gasoline,1.6,180.0,robotic,42545
-Kia,Sportage,2024,166995,1,gasoline,1.6,180.0,robotic,11000
-Kia,Sportage,2023,135687,1,gasoline,2.0,156.0,automatic,90245
-Kia,Stonic,2020,62600,2,gasoline,1.0,120.0,robotic,82000
-Kia,Sorento,2018,120000,1,diesel,2.2,200.0,automatic,152000
-Kia,Optima,2014,32500,1,diesel,1.6,136.0,automatic,148000
-Kia,Xceed,2021,60000,1,gasoline,1.4,140.0,robotic,142396
-Kia,Picanto,2025,94000,1,gasoline,1.2,79.0,robotic,13000
-Kia,Sorento,2022,150000,1,gasoline,2.5,180.0,automatic,66000
-Kia,Sportage,2012,24000,2,gasoline,2.0,163.0,automatic,150000
-Kia,Niro,2021,115000,1,hybrid,1.6,141.0,robotic,37000
-Kia,Niro,2017,59500,1,hybrid,1.6,141.0,robotic,171000
-Kia,Niro,2019,81000,2,hybrid,1.6,141.0,robotic,220000
-Kia,Sportage,2023,139445,1,gasoline,1.6,180.0,robotic,75665
-Kia,Sportage,2023,147515,1,gasoline,1.6,180.0,robotic,50700
-Kia,Sportage,2023,139895,1,gasoline,2.0,156.0,automatic,35540
-Kia,Sportage,2023,148197,1,gasoline,1.6,180.0,robotic,24000
-Kia,Sportage,2022,117390,2,gasoline,1.6,177.0,robotic,50600
-Kia,Sportage,2022,110335,2,gasoline,1.6,177.0,robotic,41747
-Kia,Sportage,2022,131395,1,gasoline,1.6,180.0,robotic,90000
-Kia,Sportage,2022,108380,1,gasoline,1.6,177.0,robotic,89000
-Kia,Sportage,2022,108465,1,gasoline,1.6,177.0,robotic,70315
-Kia,Sportage,2022,124217,1,gasoline,1.6,180.0,robotic,66795
-Kia,Sportage,2022,126575,1,gasoline,1.6,180.0,robotic,52000
-Kia,Sportage,2022,142540,1,gasoline,1.6,180.0,robotic,37000
-Kia,Sportage,2022,123165,1,gasoline,1.6,177.0,robotic,34576
-Kia,Sportage,2022,129655,1,gasoline,1.6,180.0,robotic,12797
-Kia,Sportage,2022,76675,1,diesel,1.6,136.0,automatic,117588
-Kia,Sportage,2022,108895,1,gasoline,1.6,180.0,robotic,125704
-Kia,Sportage,2021,86745,3,gasoline,2.0,155.0,automatic,79000
-Kia,Sportage,2021,97595,2,gasoline,1.6,177.0,robotic,70336
-Kia,Sportage,2021,107385,2,gasoline,1.6,177.0,robotic,69221
-Kia,Sportage,2021,108070,2,gasoline,1.6,177.0,robotic,62800
-Kia,Sportage,2019,68000,2,diesel,1.6,136.0,robotic,95600
-Kia,Stonic,2023,99500,1,gasoline,1.4,100.0,automatic,42000
-Kia,Niro,2019,83000,3,hybrid,1.6,141.0,robotic,127000
-Kia,Ceed,2014,17000,3,gasoline,1.6,135.0,robotic,191000
-Kia,Sportage,2016,52000,3,gasoline,1.6,132.0,automatic,129632
-Kia,Niro,2020,100000,2,plug-in,1.6,141.0,robotic,77000
-Kia,Seltos,2024,116000,1,gasoline,2.0,149.0,automatic,26000
-Kia,Niro,2021,86000,2,plug-in,1.6,141.0,robotic,147000
-Kia,Niro,2018,79000,1,hybrid,1.6,141.0,robotic,77000
-Kia,Ceed,2012,11950,4,gasoline,1.6,126.0,automatic,186000
-Kia,Sportage,2021,106550,2,gasoline,1.6,177.0,robotic,58518
-Kia,Sportage,2021,103465,2,gasoline,1.6,177.0,robotic,41575
-Kia,Sportage,2021,101475,1,gasoline,1.6,177.0,robotic,87576
-Kia,Sportage,2021,101275,1,gasoline,1.6,177.0,robotic,86553
-Kia,Sportage,2021,104055,1,gasoline,1.6,177.0,robotic,77532
-Kia,Sportage,2021,101334,1,gasoline,1.6,177.0,robotic,75805
-Kia,Sportage,2021,110225,1,gasoline,1.6,177.0,robotic,54000
-Kia,Sportage,2021,96027,1,gasoline,1.6,177.0,robotic,124000
-Kia,Sportage,2021,97525,1,gasoline,1.6,177.0,robotic,116706
-Kia,Sportage,2020,92490,2,gasoline,1.6,177.0,robotic,87368
-Kia,Sportage,2020,92750,2,gasoline,1.6,177.0,robotic,84000
-Kia,Sportage,2020,91500,2,gasoline,1.6,177.0,robotic,81390
-Kia,Sportage,2020,96940,2,gasoline,1.6,177.0,robotic,74595
-Kia,Sportage,2020,94884,2,gasoline,1.6,177.0,robotic,66278
-Kia,Sportage,2020,96120,2,gasoline,1.6,177.0,robotic,52600
-Kia,Sportage,2020,96115,2,gasoline,1.6,177.0,robotic,50900
-Kia,Sportage,2020,78390,2,diesel,1.6,136.0,robotic,136111
-Kia,Sportage,2020,85825,1,gasoline,1.6,177.0,robotic,91785
-Kia,Sportage,2020,100425,1,gasoline,1.6,177.0,robotic,83868
-Kia,Sportage,2020,100115,1,gasoline,2.0,155.0,automatic,73426
-Kia,Sorento,2018,125000,1,gasoline,2.4,188.0,automatic,200000
-Kia,Sportage,2023,160000,1,gasoline,2.0,156.0,automatic,25038
-Kia,Sportage,2020,80500,2,gasoline,1.6,177.0,robotic,94000
-Kia,Picanto,2020,69000,1,gasoline,1.2,84.0,automatic,80000
-Kia,Sportage,2013,34000,4,gasoline,2.0,163.0,automatic,144000
-Kia,Ceed,2019,40000,3,gasoline,1.4,140.0,robotic,209058
-Kia,Sportage,2023,132000,2,gasoline,2.0,156.0,automatic,43000
-Kia,Niro Plus,2022,126000,2,plug-in,1.6,141.0,robotic,20000
-Kia,Niro,2018,67000,2,hybrid,1.6,141.0,robotic,150000
-Kia,Niro,2019,73900,2,hybrid,1.6,141.0,robotic,141000
-Kia,Sportage,2020,106070,1,gasoline,1.6,177.0,robotic,49725
-Kia,Sportage,2019,90835,1,gasoline,2.0,155.0,automatic,112079
-Kia,Sportage,2018,83195,2,gasoline,1.6,177.0,robotic,86960
-Kia,Sportage,2018,71895,2,gasoline,1.6,132.0,automatic,68300
-Kia,Sportage,2018,78365,1,gasoline,1.6,177.0,robotic,115000
-Kia,Sportage,2017,62095,2,gasoline,1.6,132.0,automatic,98145
-Kia,Sportage,2017,66160,2,gasoline,1.6,132.0,automatic,104000
-Kia,Sportage,2016,69750,2,gasoline,1.6,177.0,robotic,93000
-Kia,Sportage,2015,54015,3,gasoline,1.6,133.0,automatic,100000
-Kia,Sportage,2015,51935,2,gasoline,1.6,133.0,automatic,119575
-Kia,Sportage,2015,56470,2,gasoline,1.6,133.0,automatic,101000
-Kia,Sorento,2022,155565,1,gasoline,2.5,180.0,automatic,71434
-Kia,Seltos,2024,103085,2,gasoline,2.0,149.0,automatic,113178
-Kia,Seltos,2024,131195,1,gasoline,2.0,149.0,automatic,32994
-Kia,Seltos,2023,101250,1,gasoline,2.0,149.0,automatic,70151
-Kia,Seltos,2023,114475,1,gasoline,2.0,149.0,automatic,69493
-Kia,Seltos,2023,118555,1,gasoline,2.0,149.0,automatic,58080
-Kia,Seltos,2023,122195,1,gasoline,2.0,149.0,automatic,24000
-Kia,Seltos,2022,101425,1,gasoline,2.0,149.0,variable,92331
-Kia,Seltos,2022,110227,1,gasoline,2.0,149.0,variable,68895
-Kia,Sorento,2023,275000,1,gasoline,2.5,180.0,automatic,63000
-Kia,Sportage,2019,72500,2,diesel,1.6,136.0,robotic,124000
-Kia,Sportage,2015,37000,3,gasoline,1.6,133.0,automatic,166000
-Kia,Sportage,2019,75000,2,diesel,1.6,136.0,robotic,165000
-Kia,Sportage,2017,46500,2,gasoline,1.6,132.0,automatic,188000
-Kia,Picanto,2019,60000,2,gasoline,1.2,84.0,automatic,24500
-Kia,Niro,2020,107000,1,hybrid,1.6,141.0,robotic,92000
-Kia,Sportage,2021,90000,1,gasoline,1.6,177.0,robotic,100000
-Kia,Picanto,2020,65000,3,gasoline,1.2,84.0,automatic,109000
-Kia,Ceed,2016,18000,3,gasoline,1.6,135.0,robotic,195000
-Kia,Seltos,2022,112725,1,gasoline,2.0,149.0,variable,48750
-Kia,Seltos,2022,112425,1,gasoline,2.0,149.0,variable,48303
-Kia,Seltos,2022,111960,1,gasoline,2.0,149.0,variable,40500
-Kia,Seltos,2022,113655,1,gasoline,2.0,149.0,variable,36679
-Kia,Seltos,2022,116399,1,gasoline,2.0,149.0,variable,32810
-Kia,Seltos,2022,123145,1,gasoline,2.0,149.0,variable,21504
-Kia,Seltos,2021,91225,2,gasoline,2.0,149.0,variable,96000
-Kia,Seltos,2021,94085,2,gasoline,2.0,149.0,variable,93000
-Kia,Seltos,2021,93375,1,gasoline,2.0,149.0,variable,74000
-Kia,Seltos,2021,100215,1,gasoline,2.0,149.0,variable,55013
-Kia,Seltos,2020,78185,1,gasoline,2.0,149.0,variable,110184
-Kia,Rio,2021,74755,2,gasoline,1.0,100.0,robotic,92528
-Kia,Rio,2021,80005,1,gasoline,1.0,100.0,robotic,94175
-Kia,Rio,2015,36900,3,gasoline,1.4,109.0,automatic,134000
-Kia,Picanto,2024,79665,2,gasoline,1.2,84.0,robotic,10111
-Kia,Picanto,2025,97625,1,gasoline,1.2,79.0,robotic,9700
-Kia,Picanto,2024,94585,1,gasoline,1.2,84.0,robotic,8400
-Kia,Picanto,2024,91070,1,gasoline,1.2,84.0,robotic,35895
-Kia,Picanto,2024,90142,1,gasoline,1.2,84.0,robotic,30000
-Kia,Picanto,2024,93595,1,gasoline,1.2,84.0,robotic,30000
-Kia,Optima,2019,43800,4,diesel,1.6,136.0,robotic,235000
-Kia,Picanto,2022,53000,1,gasoline,1.2,84.0,robotic,104500
-Kia,Niro,2018,81000,1,hybrid,1.6,141.0,robotic,135000
-Kia,Picanto,2013,21088,2,gasoline,1.2,85.0,automatic,132000
-Kia,Picanto,2021,60000,3,gasoline,1.2,84.0,robotic,90000
-Kia,Sportage,2021,90000,2,gasoline,1.6,177.0,robotic,88000
-Kia,Stonic,2023,95750,2,gasoline,1.0,100.0,robotic,11600
-Kia,Stonic,2019,54000,2,gasoline,1.0,120.0,robotic,79000
-Kia,Stonic,2018,65000,1,gasoline,1.0,120.0,robotic,121500
-Kia,Niro,2021,93000,2,plug-in,1.6,141.0,robotic,107000
-Kia,Picanto,2023,78525,2,gasoline,1.2,84.0,robotic,43000
-Kia,Picanto,2023,71255,2,gasoline,1.2,84.0,robotic,12733
-Kia,Picanto,2023,73745,1,gasoline,1.2,84.0,robotic,66000
-Kia,Picanto,2023,86745,1,gasoline,1.2,84.0,robotic,5500
-Kia,Picanto,2023,81445,1,gasoline,1.2,84.0,robotic,52535
-Kia,Picanto,2023,79510,1,gasoline,1.2,84.0,robotic,44000
-Kia,Picanto,2023,80500,1,gasoline,1.2,84.0,robotic,41247
-Kia,Picanto,2023,79825,1,gasoline,1.2,84.0,robotic,36600
-Kia,Picanto,2023,77400,1,gasoline,1.2,84.0,robotic,33802
-Kia,Picanto,2023,78925,1,gasoline,1.2,84.0,robotic,27077
-Kia,Picanto,2023,82750,1,gasoline,1.2,84.0,robotic,22000
-Kia,Picanto,2023,86510,1,gasoline,1.2,84.0,robotic,17040
-Kia,Picanto,2023,84230,1,gasoline,1.2,84.0,robotic,16800
-Kia,Picanto,2022,61725,2,gasoline,1.2,84.0,robotic,67010
-Kia,Picanto,2022,71145,2,gasoline,1.2,84.0,robotic,45000
-Kia,Picanto,2022,64695,2,gasoline,1.2,84.0,robotic,26500
-Kia,Picanto,2022,71110,2,gasoline,1.2,84.0,robotic,21200
-Kia,Picanto,2022,67260,1,gasoline,1.2,84.0,robotic,82436
-Kia,Picanto,2022,69610,1,gasoline,1.2,84.0,robotic,47000
-Kia,Picanto,2022,76630,1,gasoline,1.2,84.0,robotic,46810
-Kia,Sportage,2017,53000,3,gasoline,2.0,155.0,automatic,193000
-Kia,Seltos,2022,104000,2,gasoline,2.0,149.0,variable,47200
-Kia,Ceed,2010,11000,3,gasoline,1.6,126.0,automatic,288450
-Kia,Niro,2019,79500,2,hybrid,1.6,141.0,robotic,170000
-Kia,Niro Plus,2023,145000,1,hybrid,1.6,141.0,robotic,17000
-Kia,Picanto,2020,71000,1,gasoline,1.2,84.0,automatic,69000
-Kia,Picanto,2022,70800,3,gasoline,1.2,84.0,robotic,31400
-Kia,Carnival,2020,145000,1,gasoline,3.3,276.0,automatic,58000
-Kia,Niro Plus,2022,130000,1,plug-in,1.6,141.0,robotic,150000
-Kia,Sportage,2020,57000,2,diesel,1.6,136.0,robotic,216000
-Kia,Picanto,2022,65565,1,gasoline,1.2,84.0,robotic,38000
-Kia,Picanto,2022,75610,1,gasoline,1.2,84.0,robotic,33255
-Kia,Picanto,2022,71535,1,gasoline,1.2,84.0,robotic,25476
-Kia,Picanto,2022,49775,1,gasoline,1.2,84.0,robotic,144580
-Kia,Picanto,2022,76655,1,gasoline,1.2,84.0,robotic,20770
-Kia,Picanto,2021,61535,3,gasoline,1.2,84.0,robotic,80000
-Kia,Picanto,2021,57940,2,gasoline,1.2,84.0,robotic,72500
-Kia,Picanto,2021,80945,2,gasoline,1.2,84.0,robotic,34330
-Kia,Picanto,2021,59685,2,gasoline,1.2,84.0,robotic,33000
-Kia,Picanto,2021,75845,2,gasoline,1.2,84.0,robotic,26000
-Kia,Picanto,2021,65445,1,gasoline,1.2,84.0,robotic,90000
-Kia,Picanto,2021,74715,1,gasoline,1.2,84.0,robotic,75590
-Kia,Picanto,2021,67225,1,gasoline,1.2,84.0,robotic,62952
-Kia,Picanto,2021,66750,1,gasoline,1.2,84.0,robotic,49300
-Kia,Picanto,2021,78185,1,gasoline,1.2,84.0,robotic,44505
-Kia,Picanto,2021,78890,1,gasoline,1.2,84.0,robotic,27362
-Kia,Picanto,2021,81355,1,gasoline,1.2,84.0,robotic,15762
-Kia,Picanto,2021,68825,1,gasoline,1.2,84.0,robotic,13532
-Kia,Picanto,2021,83070,1,gasoline,1.2,84.0,robotic,13474
-Kia,Picanto,2020,55055,3,gasoline,1.2,84.0,automatic,111224
-Kia,Ev6,2024,225000,1,electro,,,automatic,31000
-Kia,Picanto,2016,35000,3,gasoline,1.2,85.0,automatic,71000
-Kia,Niro,2019,79000,1,hybrid,1.6,141.0,robotic,136000
-Kia,Picanto,2022,75000,1,gasoline,1.2,84.0,robotic,60000
-Kia,Niro,2018,72000,3,hybrid,1.6,141.0,robotic,150000
-Kia,Sportage,2020,103000,2,gasoline,1.6,177.0,robotic,39500
-Kia,Sportage,2021,95000,2,gasoline,1.6,177.0,robotic,82000
-Kia,Picanto,2023,85000,1,gasoline,1.2,84.0,robotic,45000
-Kia,Ceed,2016,11900,2,diesel,1.6,136.0,robotic,580000
-Kia,Niro,2021,86200,2,plug-in,1.6,141.0,robotic,170000
-Kia,Picanto,2021,70070,1,gasoline,1.2,84.0,robotic,113096
-Kia,Picanto,2020,73750,2,gasoline,1.2,84.0,automatic,80995
-Kia,Picanto,2020,71400,2,gasoline,1.2,84.0,automatic,76029
-Kia,Picanto,2020,65525,2,gasoline,1.2,84.0,automatic,66000
-Kia,Picanto,2020,68815,2,gasoline,1.2,84.0,automatic,43260
-Kia,Picanto,2020,61652,1,gasoline,1.2,84.0,automatic,97932
-Kia,Picanto,2020,71525,1,gasoline,1.2,84.0,automatic,74152
-Kia,Picanto,2020,73772,1,gasoline,1.2,84.0,automatic,69600
-Kia,Picanto,2020,69555,1,gasoline,1.2,84.0,automatic,67134
-Kia,Picanto,2020,71885,1,gasoline,1.2,84.0,automatic,67090
-Kia,Picanto,2020,81520,1,gasoline,1.2,84.0,automatic,4109
-Kia,Picanto,2020,75670,1,gasoline,1.2,84.0,automatic,40301
-Kia,Picanto,2020,76685,1,gasoline,1.2,84.0,automatic,33485
-Kia,Picanto,2020,66840,1,gasoline,1.2,84.0,automatic,110700
-Kia,Picanto,2019,49927,3,gasoline,1.2,84.0,automatic,99000
-Kia,Picanto,2020,68385,1,gasoline,1.2,84.0,automatic,102125
-Kia,Picanto,2019,62630,2,gasoline,1.2,84.0,automatic,82176
-Kia,Picanto,2019,68130,2,gasoline,1.2,84.0,automatic,64595
-Kia,Picanto,2019,68630,2,gasoline,1.2,84.0,automatic,59658
-Kia,Picanto,2019,67860,1,gasoline,1.2,84.0,automatic,85604
-Kia,Picanto,2019,59000,2,gasoline,1.2,84.0,automatic,70000
-Kia,Sportage,2017,56000,2,gasoline,1.6,132.0,automatic,110000
-Kia,Sportage,2021,85000,2,diesel,1.6,136.0,robotic,64466
-Kia,Picanto,2023,78000,1,gasoline,1.2,84.0,robotic,30000
-Kia,Picanto,2013,25000,3,gasoline,1.2,85.0,automatic,152000
-Kia,Sportage,2017,57000,2,gasoline,1.6,177.0,robotic,92000
-Kia,Sportage,2015,38000,2,gasoline,1.6,133.0,automatic,201500
-Kia,Sorento,2016,70000,1,gasoline,2.4,188.0,automatic,184000
-Kia,Stonic,2019,67000,2,gasoline,1.0,120.0,robotic,141000
-Kia,Niro,2024,165000,2,electro,,,automatic,8300
-Kia,Picanto,2019,67595,1,gasoline,1.2,84.0,automatic,73606
-Kia,Picanto,2019,67267,1,gasoline,1.2,84.0,automatic,79171
-Kia,Picanto,2019,67130,1,gasoline,1.2,84.0,automatic,70000
-Kia,Picanto,2019,62745,1,gasoline,1.2,84.0,automatic,107075
-Kia,Picanto,2018,56250,2,gasoline,1.2,84.0,automatic,135000
-Kia,Picanto,2018,68305,1,gasoline,1.2,84.0,automatic,33250
-Kia,Picanto,2018,54992,1,gasoline,1.2,84.0,automatic,122000
-Kia,Picanto,2017,47450,2,gasoline,1.2,84.0,automatic,165000
-Kia,Picanto,2017,55150,1,gasoline,1.2,84.0,automatic,85000
-Kia,Picanto,2017,47807,1,gasoline,1.2,85.0,automatic,100455
-Kia,Picanto,2012,31185,2,gasoline,1.2,85.0,automatic,142733
-Kia,Picanto,2014,37255,2,gasoline,1.2,85.0,automatic,126854
-Kia,Niro Plus,2023,109330,1,plug-in,1.6,141.0,robotic,86188
-Kia,Niro Plus,2022,90415,2,plug-in,1.6,141.0,robotic,129862
-Kia,Niro Plus,2022,113382,1,plug-in,1.6,141.0,robotic,95000
-Kia,Niro,2022,132625,1,plug-in,1.6,141.0,robotic,34315
-Kia,Niro,2022,116725,1,plug-in,1.6,141.0,robotic,85000
-Kia,Niro,2022,101992,1,plug-in,1.6,141.0,robotic,123000
-Kia,Niro,2021,96945,2,plug-in,1.6,141.0,robotic,78397
-Kia,Niro,2021,112395,1,plug-in,1.6,141.0,robotic,92266
-Kia,Picanto,2018,55000,1,gasoline,1.2,84.0,automatic,127000
-Kia,Picanto,2017,46000,2,gasoline,1.2,84.0,automatic,99900
-Kia,Picanto,2014,22000,3,gasoline,1.2,85.0,automatic,119589
-Kia,Picanto,2019,55000,2,gasoline,1.2,84.0,automatic,125000
-Kia,Picanto,2022,75000,2,gasoline,1.2,84.0,robotic,35000
-Kia,Optima,2017,33000,3,diesel,1.7,141.0,robotic,250000
-Kia,Niro,2021,110000,2,plug-in,1.6,141.0,robotic,126000
-Kia,Picanto,2022,75000,1,gasoline,1.2,84.0,robotic,24000
-Kia,Ceed,2019,42000,3,gasoline,1.4,140.0,robotic,230000
-Kia,Sportage,2017,57000,2,gasoline,1.6,132.0,automatic,135000
-Kia,Niro,2024,144995,1,hybrid,1.6,141.0,robotic,6000
-Kia,Niro,2024,133635,1,electro,,,automatic,42170
-Kia,Niro,2021,106265,1,hybrid,1.6,141.0,robotic,99000
-Kia,Niro,2021,106835,1,hybrid,1.6,141.0,robotic,87000
-Kia,Niro,2021,108665,1,hybrid,1.6,141.0,robotic,74000
-Kia,Niro,2021,109760,1,hybrid,1.6,141.0,robotic,63889
-Kia,Niro,2019,82375,2,hybrid,1.6,141.0,robotic,119033
-Kia,Niro,2018,72155,3,hybrid,1.6,141.0,robotic,136091
-Kia,Niro,2018,72835,1,hybrid,1.6,141.0,robotic,156000
-Kia,Niro,2018,85465,1,hybrid,1.6,141.0,robotic,116345
-Kia,Niro,2017,74975,1,hybrid,1.6,141.0,robotic,122304
-Kia,Picanto,2013,25000,3,gasoline,1.2,85.0,automatic,280000
-Kia,Niro,2025,145000,1,hybrid,1.6,129.0,robotic,24000
-Kia,Sportage,2019,84000,2,diesel,1.6,136.0,robotic,64000
-Kia,Rio,2014,21000,3,gasoline,1.4,109.0,automatic,190000
-Kia,Sportage,2020,99500,2,gasoline,1.6,177.0,robotic,38000
-Kia,Sportage,2022,132990,1,gasoline,1.6,180.0,robotic,64000
-Kia,Sportage,2016,52000,2,gasoline,1.6,132.0,automatic,145000
-Kia,Carnival,2022,199990,3,gasoline,3.5,272.0,automatic,29000
-Kia,Rio,2017,35000,2,gasoline,1.4,109.0,automatic,95000
-Kia,Rio,2012,23000,4,gasoline,1.4,109.0,automatic,163000
-Kia,Stonic,2022,89990,1,gasoline,1.0,100.0,robotic,26000
-Kia,Stonic,2021,77000,2,gasoline,1.4,100.0,automatic,77000
-Kia,Ceed,2015,35000,2,gasoline,1.6,135.0,robotic,130000
-Kia,Sorento,2022,175000,1,gasoline,2.5,180.0,automatic,30000
-Kia,Niro,2019,60000,2,hybrid,1.6,141.0,robotic,175000
-Kia,Sportage,2018,62000,1,gasoline,1.6,132.0,automatic,166000
-Kia,Sportage,2015,44400,2,gasoline,1.6,133.0,automatic,222000
-Kia,Niro,2022,138000,1,plug-in,1.6,141.0,robotic,55150
-Kia,Niro,2020,105000,2,hybrid,1.6,141.0,robotic,75000
-Kia,Niro,2023,138000,1,plug-in,1.6,183.0,robotic,29300
-Kia,Rio,2015,19990,3,gasoline,1.4,109.0,automatic,220000
-Kia,Sportage,2015,45000,3,gasoline,1.6,133.0,automatic,148000
-Kia,Ceed,2018,25000,2,gasoline,1.6,135.0,robotic,200000
-Kia,Niro,2020,100000,3,hybrid,1.6,141.0,robotic,76000
-Kia,Picanto,2020,67000,1,gasoline,1.2,84.0,automatic,75000
-Kia,Niro,2021,109000,1,plug-in,1.6,141.0,robotic,72256
-Kia,Sportage,2019,78900,3,gasoline,1.6,177.0,robotic,123000
-Kia,Picanto,2016,31900,2,gasoline,1.2,85.0,automatic,143400
-Kia,Sportage,2015,38000,1,gasoline,1.6,133.0,automatic,170000
-Kia,Niro,2019,64900,2,hybrid,1.6,141.0,robotic,149000
-Kia,Niro,2017,51900,3,hybrid,1.6,141.0,robotic,141000
-Kia,Stonic,2020,56900,2,gasoline,1.0,120.0,robotic,124000
-Kia,Picanto,2022,49900,2,gasoline,1.2,84.0,robotic,114000
-Kia,Sportage,2021,86900,2,gasoline,1.6,177.0,robotic,128000
-Kia,Ceed,2010,21500,1,gasoline,1.6,126.0,automatic,109000
-Kia,Picanto,2026,99990,1,gasoline,1.2,79.0,robotic,1500
-Kia,Sportage,2022,129990,1,gasoline,1.6,180.0,robotic,84000
-Kia,Sorento,2013,37500,1,gasoline,2.4,192.0,automatic,182000
-Kia,Forte,2010,10500,2,gasoline,1.6,126.0,automatic,265000
-Kia,Niro,2017,58000,4,hybrid,1.6,141.0,robotic,144000
-Kia,Picanto,2021,52000,2,gasoline,1.2,84.0,robotic,108000
-Kia,Niro,2019,106000,1,hybrid,1.6,141.0,robotic,59400
-Kia,Stonic,2022,93000,1,gasoline,1.4,100.0,automatic,15000
-Kia,Stonic,2022,85000,1,gasoline,1.0,100.0,robotic,53000
-Kia,Rio,2014,15000,3,gasoline,1.4,109.0,automatic,225000
-Kia,Niro,2018,85000,2,hybrid,1.6,141.0,robotic,133000
-Kia,Carens,2005,5500,3,gasoline,2.0,139.0,automatic,304500
-Kia,Stonic,2022,80000,1,gasoline,1.0,100.0,robotic,52000
-Kia,Niro,2017,46500,2,hybrid,1.6,141.0,robotic,276000
-Kia,Ceed,2017,29000,4,gasoline,1.6,135.0,robotic,168000
-Kia,Rio,2017,34900,2,gasoline,1.4,109.0,automatic,94000
-Kia,Picanto,2019,58000,2,gasoline,1.2,84.0,automatic,51783
-Kia,Sportage,2020,84500,2,gasoline,1.6,177.0,robotic,82000
-Kia,Sorento,2013,37000,1,gasoline,2.4,192.0,automatic,200000
-Kia,Sportage,2021,77999,1,gasoline,1.6,177.0,robotic,129000
-Kia,Carnival,2016,60000,2,gasoline,3.3,276.0,automatic,306000
-Kia,Picanto,2021,66000,1,gasoline,1.2,84.0,robotic,69200
-Kia,Sportage,2018,72000,1,gasoline,2.0,155.0,automatic,95500
-Kia,Sportage,2020,78000,2,diesel,1.6,136.0,robotic,157154
-Kia,Niro,2021,110000,1,plug-in,1.6,141.0,robotic,98000
-Kia,Sportage,2021,90000,1,diesel,1.6,136.0,robotic,140000
-Kia,Niro,2019,76000,2,hybrid,1.6,141.0,robotic,150000
-Kia,Niro,2021,102000,2,plug-in,1.6,141.0,robotic,78000
-Kia,Sportage,2014,35000,2,gasoline,2.0,163.0,automatic,140000
-Kia,Niro,2018,55000,2,hybrid,1.6,141.0,robotic,202000
-Kia,Rio,2016,22000,3,gasoline,1.4,109.0,automatic,177000
-Kia,Stonic,2020,68000,1,gasoline,1.0,120.0,robotic,62000
-Kia,Picanto,2014,29990,3,gasoline,1.2,85.0,automatic,119000
-Kia,Stonic,2021,59000,1,gasoline,1.0,100.0,robotic,136000
-Kia,Picanto,2020,67000,1,gasoline,1.2,84.0,automatic,69500
-Kia,Picanto,2015,33000,2,gasoline,1.2,85.0,automatic,91000
-Kia,Sportage,2018,55000,3,gasoline,1.6,132.0,automatic,130000
-Kia,Sportage,2008,17000,4,gasoline,2.7,175.0,automatic,175000
-Kia,Sportage,2021,105000,1,gasoline,2.0,155.0,automatic,52000
-Kia,Niro Plus,2023,145000,1,plug-in,1.6,141.0,robotic,79000
-Kia,Picanto,2018,44000,1,gasoline,1.2,84.0,automatic,146000
-Kia,Sportage,2021,95000,3,gasoline,1.6,177.0,robotic,78000
-Kia,Seltos,2022,116000,1,gasoline,2.0,149.0,variable,51000
-Kia,Niro,2017,70000,2,hybrid,1.6,141.0,robotic,160000
-Kia,Sportage,2017,59000,2,gasoline,1.6,132.0,automatic,114000
-Kia,Picanto,2020,49900,1,gasoline,1.2,84.0,automatic,88000
-Kia,Picanto,2016,25000,3,gasoline,1.2,85.0,automatic,190000
-Kia,Ceed,2015,20000,3,gasoline,1.6,135.0,robotic,194000
-Kia,Picanto,2022,64990,2,gasoline,1.2,84.0,robotic,52000
-Kia,Sportage,2021,79990,3,diesel,1.6,136.0,robotic,104000
-Kia,Picanto,2019,62990,2,gasoline,1.2,84.0,automatic,89000
-Kia,Niro,2022,108000,2,plug-in,1.6,141.0,robotic,59480
-Kia,Picanto,2022,75000,1,gasoline,1.2,84.0,robotic,35000
-Kia,Picanto,2021,57000,1,gasoline,1.2,84.0,robotic,88000
-Kia,Picanto,2021,64000,1,gasoline,1.2,84.0,robotic,73000
-Kia,Sportage,2016,50000,2,gasoline,1.6,132.0,automatic,148000
-Kia,Picanto,2017,33000,2,gasoline,1.2,85.0,automatic,159000
-Kia,Stonic,2020,62600,2,gasoline,1.0,120.0,robotic,82000
-Kia,Sorento,2018,120000,1,diesel,2.2,200.0,automatic,152000
-Kia,Optima,2014,32500,1,diesel,1.6,136.0,automatic,148000
-Kia,Xceed,2021,60000,1,gasoline,1.4,140.0,robotic,142396
-Kia,Picanto,2025,94000,1,gasoline,1.2,79.0,robotic,13000
-Kia,Sorento,2022,150000,1,gasoline,2.5,180.0,automatic,66000
-Kia,Sportage,2012,24000,2,gasoline,2.0,163.0,automatic,150000
-Kia,Sportage,2019,55000,4,gasoline,1.6,132.0,manual,90000
-Kia,Stonic,2023,115000,1,gasoline,1.4,100.0,automatic,9500
-Kia,Forte,2010,18000,4,gasoline,1.6,126.0,automatic,134057
-Kia,Rio,2014,15000,2,gasoline,1.4,90.0,manual,410000
-Kia,Niro,2018,65000,1,hybrid,1.6,141.0,robotic,187000
-Kia,Ceed,2018,38000,3,diesel,1.6,136.0,robotic,166000
-Kia,Picanto,2017,45000,1,gasoline,1.2,85.0,automatic,162000
-Kia,Sportage,2021,115000,1,gasoline,1.6,177.0,robotic,39000
-Kia,Niro,2018,80000,3,hybrid,1.6,141.0,robotic,161000
-Kia,Picanto,2019,69000,1,gasoline,1.2,84.0,automatic,34500
-Kia,Picanto,2019,53000,2,gasoline,1.2,84.0,automatic,87000
-Kia,Sportage,2021,104990,1,gasoline,1.6,177.0,robotic,69000
-Kia,Niro Plus,2023,103000,1,plug-in,1.6,141.0,robotic,105000
-Kia,Niro,2021,115000,1,hybrid,1.6,141.0,robotic,37000
-Kia,Niro,2019,72900,2,hybrid,1.6,141.0,robotic,85000
-Kia,Sportage,2020,77900,3,gasoline,2.0,155.0,automatic,140000
-Kia,Niro,2017,59500,1,hybrid,1.6,141.0,robotic,171000
-Kia,Niro,2018,63500,1,hybrid,1.6,141.0,robotic,192000
-Kia,Niro,2019,81000,2,hybrid,1.6,141.0,robotic,220000
-Kia,Sportage,2019,49900,3,diesel,1.6,136.0,robotic,156400
-Kia,Picanto,2021,56900,2,gasoline,1.2,84.0,robotic,77100
-Kia,Sportage,2015,29000,2,gasoline,1.6,133.0,automatic,259000
-Kia,Seltos,2022,98000,2,gasoline,2.0,149.0,variable,119000
-Kia,Sportage,2019,68000,2,diesel,1.6,136.0,robotic,95600
-Kia,Niro,2017,67000,2,hybrid,1.6,141.0,robotic,149000
-Kia,Sportage,2019,77700,2,diesel,1.6,136.0,robotic,159000
-Kia,Sportage,2016,57900,2,gasoline,1.6,177.0,robotic,150000
-Kia,Stonic,2021,62900,2,gasoline,1.4,100.0,automatic,71000
-Kia,Ceed,2015,19000,2,gasoline,1.6,135.0,robotic,177000
-Kia,Picanto,2018,59900,2,gasoline,1.2,84.0,automatic,36500
-Kia,Forte,2010,18000,4,gasoline,1.6,126.0,automatic,134057
-Kia,Rio,2014,15000,2,gasoline,1.4,90.0,manual,410000
-Kia,Niro,2018,65000,1,hybrid,1.6,141.0,robotic,187000
-Kia,Ceed,2018,38000,3,diesel,1.6,136.0,robotic,166000
-Kia,Picanto,2017,45000,1,gasoline,1.2,85.0,automatic,162000
-Kia,Sportage,2021,115000,1,gasoline,1.6,177.0,robotic,39000
-Kia,Niro,2018,80000,3,hybrid,1.6,141.0,robotic,161000
-Kia,Picanto,2019,69000,1,gasoline,1.2,84.0,automatic,34500
-Kia,Sportage,2019,86000,2,gasoline,1.6,177.0,robotic,104700
-Kia,Niro,2021,121000,1,hybrid,1.6,141.0,robotic,45000
-Kia,Stonic,2023,99500,1,gasoline,1.4,100.0,automatic,42000
-Kia,Niro Plus,2022,119990,1,plug-in,1.6,141.0,robotic,92000
-Kia,Niro,2019,83000,3,hybrid,1.6,141.0,robotic,127000
-Kia,Ceed,2014,17000,3,gasoline,1.6,135.0,robotic,191000
-Kia,Sportage,2016,52000,3,gasoline,1.6,132.0,automatic,129632
-Kia,Niro,2020,100000,2,plug-in,1.6,141.0,robotic,77000
-Kia,Seltos,2024,116000,1,gasoline,2.0,149.0,automatic,26000
-Kia,Niro,2021,86000,2,plug-in,1.6,141.0,robotic,147000
-Kia,Niro,2018,79000,1,hybrid,1.6,141.0,robotic,77000
-Kia,Sportage,2021,85000,2,diesel,1.6,136.0,robotic,129000
-Kia,Ceed,2012,11950,4,gasoline,1.6,126.0,automatic,186000
-Kia,Sorento,2018,125000,1,gasoline,2.4,188.0,automatic,200000
-Kia,Sportage,2023,160000,1,gasoline,2.0,156.0,automatic,25038
-Kia,Sportage,2020,80500,2,gasoline,1.6,177.0,robotic,94000
-Kia,Picanto,2020,69000,1,gasoline,1.2,84.0,automatic,80000
-Kia,Sportage,2013,34000,4,gasoline,2.0,163.0,automatic,144000
-Kia,Ceed,2019,40000,3,gasoline,1.4,140.0,robotic,209058
-Kia,Sportage,2023,132000,2,gasoline,2.0,156.0,automatic,43000
-Kia,Niro Plus,2022,126000,2,plug-in,1.6,141.0,robotic,20000
-Kia,Picanto,2016,29990,2,gasoline,1.2,85.0,automatic,150000
-Kia,Niro,2019,78000,2,hybrid,1.6,141.0,robotic,134000
-Kia,Picanto,2015,31000,3,gasoline,1.2,85.0,automatic,158000
-Kia,Carnival,2022,175800,1,gasoline,3.5,290.0,automatic,155000
-Kia,Niro,2019,90000,2,hybrid,1.6,141.0,robotic,122000
-Kia,Niro,2021,120000,2,hybrid,1.6,141.0,robotic,58200
-Kia,Picanto,2013,28000,2,gasoline,1.2,85.0,automatic,158000
-Kia,Stonic,2022,95000,1,gasoline,1.0,100.0,robotic,25000
-Kia,Picanto,2018,62000,2,gasoline,1.2,84.0,automatic,115000
-Kia,Niro,2022,129000,1,electro,,,automatic,95250
-Kia,Ceed,2018,42000,2,gasoline,1.6,135.0,robotic,170000
-Kia,Carens,2008,6900,3,gasoline,2.0,145.0,automatic,410000
-Kia,Niro,2018,67000,2,hybrid,1.6,141.0,robotic,150000
-Kia,Sportage,2022,110000,2,diesel,1.6,136.0,automatic,50000
-Kia,Niro,2019,73900,2,hybrid,1.6,141.0,robotic,141000
-Kia,Sorento,2023,275000,1,gasoline,2.5,180.0,automatic,63000
-Kia,Picanto,2014,26000,2,gasoline,1.2,85.0,automatic,160000
-Kia,Sportage,2019,72500,2,diesel,1.6,136.0,robotic,124000
-Kia,Sportage,2015,37000,3,gasoline,1.6,133.0,automatic,166000
-Kia,Sportage,2019,75000,2,diesel,1.6,136.0,robotic,165000
-Kia,Sportage,2017,46500,2,gasoline,1.6,132.0,automatic,188000
-Kia,Picanto,2021,67990,2,gasoline,1.2,84.0,robotic,42000
-Kia,Picanto,2019,60000,2,gasoline,1.2,84.0,automatic,24500
-Kia,Niro,2020,107000,1,hybrid,1.6,141.0,robotic,92000
-Kia,Sportage,2021,90000,1,gasoline,1.6,177.0,robotic,100000
-Kia,Sportage,2019,79900,2,gasoline,1.6,177.0,robotic,110000
-Kia,Picanto,2019,59900,2,gasoline,1.2,84.0,automatic,72000
-Kia,Picanto,2020,65000,3,gasoline,1.2,84.0,automatic,109000
-Kia,Stonic,2020,59990,3,gasoline,1.0,120.0,robotic,112000
-Kia,Ceed,2019,30000,2,diesel,1.6,136.0,robotic,270000
-Kia,Ceed,2016,18000,3,gasoline,1.6,135.0,robotic,195000
-Kia,Picanto,2013,28000,2,gasoline,1.2,85.0,automatic,158000
-Kia,Stonic,2022,95000,1,gasoline,1.0,100.0,robotic,25000
-Kia,Picanto,2018,62000,2,gasoline,1.2,84.0,automatic,115000
-Kia,Niro,2022,129000,1,electro,,,automatic,95250
-Kia,Ceed,2018,42000,2,gasoline,1.6,135.0,robotic,170000
-Kia,Sportage,2020,82000,1,diesel,1.6,136.0,robotic,100046
-Kia,Forte,2013,25000,2,gasoline,1.6,130.0,automatic,188000
-Kia,Sportage,2014,59000,3,gasoline,2.0,163.0,automatic,122000
-Kia,Sportage,2023,164000,1,gasoline,2.0,156.0,automatic,20200
-Kia,Ceed,2018,45200,3,gasoline,1.6,135.0,robotic,152000
-Kia,Niro,2017,65000,1,hybrid,1.6,141.0,robotic,199000
-Kia,Optima,2019,43800,4,diesel,1.6,136.0,robotic,235000
-Kia,Sportage,2019,79900,3,gasoline,1.6,177.0,robotic,141500
-Kia,Picanto,2022,53000,1,gasoline,1.2,84.0,robotic,104500
-Kia,Niro,2018,81000,1,hybrid,1.6,141.0,robotic,135000
-Kia,Niro Plus,2023,109900,1,plug-in,1.6,141.0,robotic,115000
-Kia,Sorento,2015,73900,2,gasoline,2.4,188.0,automatic,122000
-Kia,Sportage,2021,87900,2,gasoline,1.6,177.0,robotic,65000
-Kia,Niro,2021,104900,1,hybrid,1.6,141.0,robotic,25000
-Kia,Ceed,2015,22900,3,gasoline,1.6,135.0,robotic,236000
-Kia,Rio,2013,19900,2,gasoline,1.4,109.0,automatic,190000
-Kia,Picanto,2013,21088,2,gasoline,1.2,85.0,automatic,132000
-Kia,Picanto,2021,60000,3,gasoline,1.2,84.0,robotic,90000
-Kia,Sportage,2021,90000,2,gasoline,1.6,177.0,robotic,88000
-Kia,Stonic,2023,95750,2,gasoline,1.0,100.0,robotic,11600
-Kia,Stonic,2019,54000,2,gasoline,1.0,120.0,robotic,79000
-Kia,Stonic,2018,65000,1,gasoline,1.0,120.0,robotic,121500
-Kia,Niro,2021,93000,2,plug-in,1.6,141.0,robotic,107000
-Kia,Sportage,2017,53000,3,gasoline,2.0,155.0,automatic,193000
-Kia,Seltos,2022,104000,2,gasoline,2.0,149.0,variable,47200
-Kia,Niro,2020,74000,2,hybrid,1.6,141.0,robotic,176000
-Kia,Niro,2017,75000,1,hybrid,1.6,141.0,robotic,144000
-Kia,Picanto,2013,18500,3,gasoline,1.0,69.0,manual,120000
-Kia,Picanto,2022,70000,2,gasoline,1.2,84.0,robotic,24500
-Kia,Forte,2011,21000,2,gasoline,1.6,126.0,automatic,164000
-Kia,Picanto,2014,29000,2,gasoline,1.2,85.0,automatic,133000
-Kia,Picanto,2020,69000,1,gasoline,1.2,84.0,automatic,32000
-Kia,Picanto,2020,65500,1,gasoline,1.2,84.0,automatic,74000
-Kia,Ceed,2016,32000,2,gasoline,1.6,135.0,robotic,149000
-Kia,Forte,2012,25000,3,gasoline,1.6,126.0,automatic,140000
-Kia,Ceed,2010,11000,3,gasoline,1.6,126.0,automatic,288450
-Kia,Niro,2019,79500,2,hybrid,1.6,141.0,robotic,170000
-Kia,Niro Plus,2023,145000,1,hybrid,1.6,141.0,robotic,17000
-Kia,Picanto,2020,71000,1,gasoline,1.2,84.0,automatic,69000
-Kia,Picanto,2022,70800,3,gasoline,1.2,84.0,robotic,31400
-Kia,Carnival,2020,145000,1,gasoline,3.3,276.0,automatic,58000
-Kia,Niro Plus,2022,130000,1,plug-in,1.6,141.0,robotic,150000
-Kia,Sportage,2020,57000,2,diesel,1.6,136.0,robotic,216000
-Kia,Ev6,2024,225000,1,electro,,,automatic,31000
-Kia,Picanto,2016,35000,3,gasoline,1.2,85.0,automatic,71000
-Kia,Niro,2019,79000,1,hybrid,1.6,141.0,robotic,136000
-Kia,Picanto,2022,75000,1,gasoline,1.2,84.0,robotic,60000
-Kia,Niro,2018,72000,3,hybrid,1.6,141.0,robotic,150000
-Kia,Sportage,2020,103000,2,gasoline,1.6,177.0,robotic,39500
-Kia,Sportage,2021,95000,2,gasoline,1.6,177.0,robotic,82000
-Kia,Picanto,2023,85000,1,gasoline,1.2,84.0,robotic,45000
-Kia,Ceed,2016,11900,2,diesel,1.6,136.0,robotic,580000
-Kia,Niro,2021,86200,2,plug-in,1.6,141.0,robotic,170000
-Kia,Picanto,2019,59000,2,gasoline,1.2,84.0,automatic,70000
-Kia,Sportage,2017,56000,2,gasoline,1.6,132.0,automatic,110000
-Kia,Sportage,2016,60000,3,gasoline,1.6,133.0,automatic,58000
-Kia,Carnival,2007,17000,2,gasoline,2.7,189.0,automatic,242000
-Kia,Niro,2019,115000,1,hybrid,1.6,141.0,robotic,42000
-Kia,Xceed,2021,95000,1,gasoline,1.4,140.0,robotic,32000
-Kia,Rio,2012,26000,3,gasoline,1.4,109.0,automatic,115000
-Kia,Niro,2020,98500,2,hybrid,1.6,141.0,robotic,119000
-Kia,Sportage,2020,90000,2,diesel,1.6,136.0,robotic,69800
-Kia,Sportage,2016,55000,3,gasoline,1.6,133.0,automatic,100000
-Kia,Rio,2016,23000,2,gasoline,1.4,109.0,automatic,181000
-Kia,Sportage,2018,84500,3,gasoline,2.0,155.0,automatic,140000
-Kia,Sportage,2021,85000,2,diesel,1.6,136.0,robotic,64466
-Kia,Picanto,2023,78000,1,gasoline,1.2,84.0,robotic,30000
-Kia,Picanto,2013,25000,3,gasoline,1.2,85.0,automatic,152000
-Kia,Sportage,2017,57000,2,gasoline,1.6,177.0,robotic,92000
-Kia,Sportage,2015,38000,2,gasoline,1.6,133.0,automatic,201500
-Kia,Sorento,2016,70000,1,gasoline,2.4,188.0,automatic,184000
-Kia,Stonic,2019,67000,2,gasoline,1.0,120.0,robotic,141000
-Kia,Niro,2024,165000,2,electro,,,automatic,8300
-Kia,Picanto,2018,55000,1,gasoline,1.2,84.0,automatic,127000
-Kia,Picanto,2017,46000,2,gasoline,1.2,84.0,automatic,99900
-Kia,Picanto,2014,22000,3,gasoline,1.2,85.0,automatic,119589
-Kia,Picanto,2019,55000,2,gasoline,1.2,84.0,automatic,125000
-Kia,Picanto,2022,75000,2,gasoline,1.2,84.0,robotic,35000
-Kia,Optima,2017,33000,3,diesel,1.7,141.0,robotic,250000
-Kia,Niro,2021,110000,2,plug-in,1.6,141.0,robotic,126000
-Kia,Picanto,2022,75000,1,gasoline,1.2,84.0,robotic,24000
-Kia,Ceed,2019,42000,3,gasoline,1.4,140.0,robotic,230000
-Kia,Sportage,2017,57000,2,gasoline,1.6,132.0,automatic,135000
-Kia,Picanto,2022,71000,1,gasoline,1.2,84.0,robotic,17300
-Kia,Rio,2012,23000,4,gasoline,1.4,109.0,automatic,163000
-Kia,Ceed,2015,19500,3,gasoline,1.6,135.0,robotic,256000
-Kia,Sportage,2009,16000,3,gasoline,2.7,175.0,automatic,172000
-Kia,Niro,2022,132000,1,electro,,,automatic,65500
-Kia,Sportage,2018,71000,1,gasoline,1.6,132.0,automatic,78000
-Kia,Niro,2019,92500,2,hybrid,1.6,141.0,robotic,117000
-Kia,Rio,2009,7100,2,gasoline,1.4,97.0,automatic,245600
-Kia,Sportage,2020,105000,1,gasoline,1.6,177.0,robotic,61000
-Kia,Picanto,2020,60000,1,gasoline,1.2,84.0,automatic,41000
-Kia,Picanto,2013,23999,2,gasoline,1.2,85.0,automatic,150000
-Kia,Picanto,2015,36400,3,gasoline,1.2,85.0,automatic,89500
-Kia,Stonic,2022,89990,1,gasoline,1.0,100.0,robotic,26000
-Kia,Stonic,2021,77000,2,gasoline,1.4,100.0,automatic,77000
-Kia,Ceed,2015,35000,2,gasoline,1.6,135.0,robotic,130000
-Kia,Sorento,2022,175000,1,gasoline,2.5,180.0,automatic,30000
-Kia,Niro,2019,60000,2,hybrid,1.6,141.0,robotic,175000
-Kia,Sportage,2018,62000,1,gasoline,1.6,132.0,automatic,166000
-Kia,Sportage,2015,44400,2,gasoline,1.6,133.0,automatic,222000
-Kia,Niro,2022,138000,1,plug-in,1.6,141.0,robotic,55150
-Kia,Niro,2020,105000,2,hybrid,1.6,141.0,robotic,75000
-Kia,Sorento,2022,148900,2,gasoline,2.5,180.0,automatic,69320
-Kia,Sportage,2021,79000,2,diesel,1.6,136.0,robotic,133000
-Kia,Sportage,2016,75000,2,gasoline,1.6,177.0,robotic,79000
-Kia,Sportage,2013,48000,4,gasoline,2.0,163.0,automatic,150000
-Kia,Sportage,2023,144000,2,gasoline,2.0,156.0,automatic,15000
-Kia,Niro,2017,58000,4,hybrid,1.6,141.0,robotic,144000
-Kia,Picanto,2021,52000,2,gasoline,1.2,84.0,robotic,108000
-Kia,Niro,2019,106000,1,hybrid,1.6,141.0,robotic,59400
-Kia,Stonic,2022,93000,1,gasoline,1.4,100.0,automatic,15000
-Kia,Stonic,2022,85000,1,gasoline,1.0,100.0,robotic,53000
-Kia,Rio,2014,15000,3,gasoline,1.4,109.0,automatic,225000
-Kia,Telluride,2020,275000,1,gasoline,3.8,295.0,automatic,32000
-Kia,Picanto,2017,51000,2,gasoline,1.2,84.0,automatic,81000
-Kia,Niro,2020,114500,1,hybrid,1.6,141.0,robotic,125000
-Kia,Ceed,2011,13100,3,gasoline,1.6,126.0,automatic,240000
-Kia,Sportage,2022,139000,1,gasoline,2.0,156.0,automatic,31000
-Kia,Rio,2018,48000,4,gasoline,1.4,100.0,automatic,150000
-Kia,Optima,2018,35000,1,diesel,1.6,136.0,robotic,355000
-Kia,Picanto,2016,26000,3,gasoline,1.0,65.0,automatic,155000
-Kia,Picanto,2013,29500,3,gasoline,1.2,85.0,automatic,165000
-Kia,Rio,2013,13000,2,gasoline,1.4,109.0,automatic,331000
-Kia,Niro,2018,85000,2,hybrid,1.6,141.0,robotic,133000
-Kia,Carens,2005,5500,3,gasoline,2.0,139.0,automatic,304500
-Kia,Stonic,2022,80000,1,gasoline,1.0,100.0,robotic,52000
-Kia,Niro,2017,46500,2,hybrid,1.6,141.0,robotic,276000
-Kia,Sportage,2022,145000,2,gasoline,1.6,180.0,robotic,33000
-Kia,Picanto,2020,67000,1,gasoline,1.2,84.0,automatic,69500
-Kia,Picanto,2015,33000,2,gasoline,1.2,85.0,automatic,91000
-Kia,Sportage,2018,55000,3,gasoline,1.6,132.0,automatic,130000
-Kia,Sportage,2008,17000,4,gasoline,2.7,175.0,automatic,175000
-Kia,Sportage,2021,105000,1,gasoline,2.0,155.0,automatic,52000
-Kia,Niro Plus,2023,145000,1,plug-in,1.6,141.0,robotic,79000
-Kia,Picanto,2018,44000,1,gasoline,1.2,84.0,automatic,146000
-Kia,Sportage,2021,95000,3,gasoline,1.6,177.0,robotic,78000
-Kia,Seltos,2022,116000,1,gasoline,2.0,149.0,variable,51000
-Kia,Niro,2017,70000,2,hybrid,1.6,141.0,robotic,160000
-Kia,Ceed,2017,17000,4,gasoline,1.6,135.0,robotic,173000
-Kia,Niro,2021,105000,2,plug-in,1.6,141.0,robotic,101800
-Kia,Picanto,2018,50000,2,gasoline,1.2,84.0,automatic,109000
-Kia,Picanto,2020,65000,1,gasoline,1.2,84.0,automatic,44300
-Kia,Sportage,2017,58000,3,gasoline,1.6,132.0,automatic,194000
-Kia,Ev6,2023,240000,1,electro,,,automatic,26000
-Kia,Niro,2020,110000,1,hybrid,1.6,141.0,robotic,100000
-Kia,Picanto,2020,62000,2,gasoline,1.2,84.0,automatic,33000
-Kia,Sportage,2020,95000,2,gasoline,1.6,177.0,robotic,56600
-Kia,Sportage,2018,90200,1,gasoline,2.0,155.0,automatic,61600
-Kia,Sportage,2018,75000,2,gasoline,1.6,132.0,automatic,85000
-Kia,Niro,2017,71000,3,hybrid,1.6,141.0,robotic,124000
-Kia,Picanto,2019,54000,2,gasoline,1.2,84.0,automatic,138000
-Kia,Sportage,2015,54000,2,gasoline,1.6,133.0,automatic,91600
-Kia,Sportage,2019,90000,2,gasoline,2.0,155.0,automatic,114462
-Kia,Sportage,2019,55000,4,gasoline,1.6,132.0,manual,90000
-Kia,Stonic,2023,115000,1,gasoline,1.4,100.0,automatic,9500
-Kia,Forte,2010,18000,4,gasoline,1.6,126.0,automatic,134057
-Kia,Rio,2014,15000,2,gasoline,1.4,90.0,manual,410000
-Kia,Niro,2018,65000,1,hybrid,1.6,141.0,robotic,187000
-Kia,Ceed,2018,38000,3,diesel,1.6,136.0,robotic,166000
-Kia,Picanto,2017,45000,1,gasoline,1.2,85.0,automatic,162000
-Kia,Sportage,2021,115000,1,gasoline,1.6,177.0,robotic,39000
-Kia,Niro,2018,80000,3,hybrid,1.6,141.0,robotic,161000
-Kia,Picanto,2019,69000,1,gasoline,1.2,84.0,automatic,34500
-Kia,Sportage,2019,86000,2,gasoline,1.6,177.0,robotic,104700
-Kia,Niro,2021,121000,1,hybrid,1.6,141.0,robotic,45000
-Kia,Sportage,2017,52000,3,gasoline,1.6,132.0,automatic,118200
-Kia,Niro,2019,109000,1,hybrid,1.6,141.0,robotic,52000
-Kia,Niro,2020,114000,1,hybrid,1.6,141.0,robotic,60000
-Kia,Stonic,2019,75000,1,gasoline,1.0,120.0,robotic,80000
-Kia,Picanto,2015,30000,2,gasoline,1.2,85.0,automatic,140000
-Kia,Sportage,2017,80000,1,gasoline,2.0,155.0,automatic,66000
-Kia,Carnival,2016,86000,2,gasoline,3.3,276.0,automatic,201000
-Kia,Sportage,2021,90000,1,diesel,1.6,136.0,robotic,100000
-Kia,Niro,2019,112000,1,hybrid,1.6,141.0,robotic,16000
-Kia,Sportage,2021,119500,1,gasoline,1.6,177.0,robotic,22500
-Kia,Sportage,2018,74000,2,gasoline,1.6,177.0,robotic,99200
-Kia,Niro,2021,107000,1,hybrid,1.6,141.0,robotic,104800
-Kia,Forte,2013,22000,2,gasoline,1.6,130.0,automatic,212000
-Kia,Forte,2017,42000,2,gasoline,1.6,130.0,automatic,162000
-Kia,Picanto,2019,67500,1,gasoline,1.2,84.0,automatic,69663
-Kia,Sportage,2019,80300,2,gasoline,2.0,155.0,automatic,119400
-Kia,Picanto,2013,21000,2,gasoline,1.2,85.0,automatic,213800
-Kia,Sportage,2019,97777,2,gasoline,2.0,155.0,automatic,80600
-Kia,Sportage,2020,93500,2,diesel,1.6,136.0,robotic,115000
-Kia,Niro,2017,61800,3,hybrid,1.6,141.0,robotic,167000
-Kia,Ceed,2013,13500,4,gasoline,1.6,135.0,robotic,240000
-Kia,Picanto,2014,26900,3,gasoline,1.2,85.0,automatic,153000
-Kia,Sportage,2024,172000,1,gasoline,1.6,160.0,robotic,1200
-Kia,Niro,2019,78000,2,hybrid,1.6,141.0,robotic,134000
-Kia,Picanto,2015,31000,3,gasoline,1.2,85.0,automatic,158000
-Kia,Carnival,2022,175800,1,gasoline,3.5,290.0,automatic,155000
-Kia,Niro,2019,90000,2,hybrid,1.6,141.0,robotic,122000
-Kia,Niro,2021,120000,2,hybrid,1.6,141.0,robotic,58200
-Kia,Picanto,2013,28000,2,gasoline,1.2,85.0,automatic,158000
-Kia,Stonic,2022,95000,1,gasoline,1.0,100.0,robotic,25000
-Kia,Picanto,2018,62000,2,gasoline,1.2,84.0,automatic,115000
-Kia,Niro,2022,129000,1,electro,,,automatic,95250
-Kia,Ceed,2018,42000,2,gasoline,1.6,135.0,robotic,170000
-Kia,Sportage,2020,82000,1,diesel,1.6,136.0,robotic,100046
-Kia,Forte,2013,25000,2,gasoline,1.6,130.0,automatic,188000
-Kia,Sportage,2014,59000,3,gasoline,2.0,163.0,automatic,122000
-Kia,Sportage,2023,164000,1,gasoline,2.0,156.0,automatic,20200
-Kia,Ceed,2018,45200,3,gasoline,1.6,135.0,robotic,152000
-Kia,Picanto,2012,20000,2,gasoline,1.2,85.0,automatic,216000
-Kia,Sportage,2017,61500,2,gasoline,1.6,132.0,automatic,110000
-Kia,Sportage,2016,58500,1,gasoline,1.6,132.0,automatic,111000
-Kia,Niro,2018,105000,1,hybrid,1.6,141.0,robotic,79300
-Kia,Picanto,2017,54000,2,gasoline,1.2,84.0,automatic,36000
-Kia,Forte,2010,15000,4,gasoline,1.6,126.0,automatic,240000
-Kia,Sportage,2016,65000,1,gasoline,2.0,155.0,automatic,122000
-Kia,Niro,2019,93000,2,hybrid,1.6,141.0,robotic,95500
-Kia,Forte,2012,19000,4,gasoline,1.6,126.0,automatic,189000
-Kia,Picanto,2014,26000,2,gasoline,1.2,85.0,automatic,150000
-Kia,Niro,2020,74000,2,hybrid,1.6,141.0,robotic,176000
-Kia,Niro,2017,75000,1,hybrid,1.6,141.0,robotic,144000
-Kia,Picanto,2013,18500,3,gasoline,1.0,69.0,manual,120000
-Kia,Picanto,2022,70000,2,gasoline,1.2,84.0,robotic,24500
-Kia,Forte,2011,21000,2,gasoline,1.6,126.0,automatic,164000
-Kia,Picanto,2014,29000,2,gasoline,1.2,85.0,automatic,133000
-Kia,Picanto,2020,69000,1,gasoline,1.2,84.0,automatic,32000
-Kia,Picanto,2020,65500,1,gasoline,1.2,84.0,automatic,74000
-Kia,Ceed,2016,32000,2,gasoline,1.6,135.0,robotic,149000
-Kia,Forte,2012,25000,3,gasoline,1.6,126.0,automatic,140000
-Kia,Niro,2020,115000,1,hybrid,1.6,141.0,robotic,81000
-Kia,Picanto,2016,35000,3,gasoline,1.2,85.0,manual,150000
-Kia,Forte,2012,25000,3,gasoline,1.6,126.0,automatic,153000
-Kia,Forte,2010,18000,3,gasoline,1.6,126.0,automatic,145000
-Kia,Picanto,2022,73000,2,gasoline,1.2,84.0,robotic,7500
-Kia,Sportage,2021,108000,1,gasoline,2.0,155.0,automatic,47000
-Kia,Sportage,2015,47000,3,gasoline,1.6,133.0,automatic,140000
-Kia,Sportage,2015,51000,3,gasoline,1.6,133.0,automatic,150000
-Kia,Sportage,2016,60000,3,gasoline,1.6,133.0,automatic,58000
-Kia,Carnival,2007,17000,2,gasoline,2.7,189.0,automatic,242000
-Kia,Picanto,2017,53000,2,gasoline,1.2,84.0,automatic,36000
-Kia,Niro,2018,73000,2,hybrid,1.6,141.0,robotic,136000
-Kia,Niro,2022,148000,1,plug-in,1.6,141.0,robotic,39000
-Kia,Ceed,2015,25000,2,gasoline,1.6,135.0,robotic,231000
-Kia,Niro,2017,65000,2,hybrid,1.6,141.0,robotic,274668
-Kia,Sportage,2015,55000,2,gasoline,2.0,166.0,automatic,149000
-Kia,Sorento,2017,75000,2,gasoline,2.4,188.0,automatic,150000
-Kia,Sportage,2015,48000,2,gasoline,1.6,133.0,automatic,120000
-Kia,Ceed,2016,25000,3,gasoline,1.6,135.0,robotic,207000
-Kia,Picanto,2012,14000,2,gasoline,1.0,69.0,manual,193000
-Kia,Niro,2019,115000,1,hybrid,1.6,141.0,robotic,42000
-Kia,Xceed,2021,95000,1,gasoline,1.4,140.0,robotic,32000
-Kia,Rio,2012,26000,3,gasoline,1.4,109.0,automatic,115000
-Kia,Niro,2020,98500,2,hybrid,1.6,141.0,robotic,119000
-Kia,Sportage,2020,90000,2,diesel,1.6,136.0,robotic,69800
-Kia,Sportage,2016,55000,3,gasoline,1.6,133.0,automatic,100000
-Kia,Rio,2016,23000,2,gasoline,1.4,109.0,automatic,181000
-Kia,Sportage,2018,84500,3,gasoline,2.0,155.0,automatic,140000
-Kia,Ceed,2015,19500,3,gasoline,1.6,135.0,robotic,256000
-Kia,Sportage,2009,16000,3,gasoline,2.7,175.0,automatic,172000
-Kia,Niro,2022,132000,1,electro,,,automatic,65500
-Kia,Sportage,2018,71000,1,gasoline,1.6,132.0,automatic,78000
-Kia,Niro,2019,92500,2,hybrid,1.6,141.0,robotic,117000
-Kia,Rio,2009,7100,2,gasoline,1.4,97.0,automatic,245600
-Kia,Sportage,2020,105000,1,gasoline,1.6,177.0,robotic,61000
-Kia,Picanto,2020,60000,1,gasoline,1.2,84.0,automatic,41000
-Kia,Picanto,2013,23999,2,gasoline,1.2,85.0,automatic,150000
-Kia,Picanto,2015,36400,3,gasoline,1.2,85.0,automatic,89500
-Kia,Telluride,2020,275000,1,gasoline,3.8,295.0,automatic,32000
-Kia,Picanto,2017,51000,2,gasoline,1.2,84.0,automatic,81000
-Kia,Ceed,2020,62000,2,gasoline,1.4,140.0,robotic,150000
-Kia,Sportage,2011,28900,3,gasoline,2.0,163.0,automatic,216000
-Kia,Sportage,2018,77000,3,gasoline,1.6,177.0,robotic,134000
-Kia,Sportage,2018,70000,2,gasoline,1.6,132.0,automatic,140000
-Kia,Niro,2020,92500,2,plug-in,1.6,141.0,robotic,160320
-Kia,Picanto,2015,30000,4,gasoline,1.2,85.0,automatic,133000
-Kia,Niro,2021,120000,1,hybrid,1.6,141.0,robotic,47800
-Kia,Picanto,2012,20000,2,gasoline,1.2,85.0,automatic,220000
-Kia,Picanto,2016,38800,3,gasoline,1.2,85.0,automatic,84000
-Kia,Rio,2012,16000,2,gasoline,1.4,97.0,automatic,168000
-Kia,Niro,2020,114500,1,hybrid,1.6,141.0,robotic,125000
-Kia,Ceed,2011,13100,3,gasoline,1.6,126.0,automatic,240000
-Kia,Sportage,2022,139000,1,gasoline,2.0,156.0,automatic,31000
-Kia,Rio,2018,48000,4,gasoline,1.4,100.0,automatic,150000
-Kia,Optima,2018,35000,1,diesel,1.6,136.0,robotic,355000
-Kia,Picanto,2016,26000,3,gasoline,1.0,65.0,automatic,155000
-Kia,Picanto,2013,29500,3,gasoline,1.2,85.0,automatic,165000
-Kia,Rio,2013,13000,2,gasoline,1.4,109.0,automatic,331000
-Kia,Ev6,2023,240000,1,electro,,,automatic,26000
-Kia,Niro,2020,110000,1,hybrid,1.6,141.0,robotic,100000
-Kia,Picanto,2020,62000,2,gasoline,1.2,84.0,automatic,33000
-Kia,Sportage,2020,95000,2,gasoline,1.6,177.0,robotic,56600
-Kia,Sportage,2018,90200,1,gasoline,2.0,155.0,automatic,61600
-Kia,Sportage,2018,75000,2,gasoline,1.6,132.0,automatic,85000
-Kia,Niro,2017,71000,3,hybrid,1.6,141.0,robotic,124000
-Kia,Picanto,2019,54000,2,gasoline,1.2,84.0,automatic,138000
-Kia,Sportage,2015,54000,2,gasoline,1.6,133.0,automatic,91600
-Kia,Sportage,2019,90000,2,gasoline,2.0,155.0,automatic,114462
-Kia,Niro,2019,112000,1,hybrid,1.6,141.0,robotic,16000
-Kia,Sportage,2021,119500,1,gasoline,1.6,177.0,robotic,22500
-Kia,Picanto,2015,33000,2,gasoline,1.2,85.0,automatic,137000
-Kia,Niro,2021,129000,1,plug-in,1.6,141.0,robotic,69000
-Kia,Niro,2017,78500,2,hybrid,1.6,141.0,robotic,161000
-Kia,Sportage,2016,60000,2,gasoline,1.6,177.0,robotic,130000
-Kia,Sportage,2015,57000,1,gasoline,2.0,166.0,automatic,96800
-Kia,Picanto,2019,65000,1,gasoline,1.2,84.0,automatic,85000
-Kia,Picanto,2020,69900,1,gasoline,1.2,84.0,automatic,21000
-Kia,Picanto,2018,59000,1,gasoline,1.2,84.0,automatic,90000
-Kia,Picanto,2015,32000,3,gasoline,1.2,85.0,automatic,108000
-Kia,Picanto,2021,62000,2,gasoline,1.2,84.0,robotic,54000
-Kia,Sportage,2018,74000,2,gasoline,1.6,177.0,robotic,99200
-Kia,Niro,2021,107000,1,hybrid,1.6,141.0,robotic,104800
-Kia,Forte,2013,22000,2,gasoline,1.6,130.0,automatic,212000
-Kia,Forte,2017,42000,2,gasoline,1.6,130.0,automatic,162000
-Kia,Picanto,2019,67500,1,gasoline,1.2,84.0,automatic,69663
-Kia,Sportage,2019,80300,2,gasoline,2.0,155.0,automatic,119400
-Kia,Picanto,2013,21000,2,gasoline,1.2,85.0,automatic,213800
-Kia,Sportage,2019,97777,2,gasoline,2.0,155.0,automatic,80600
-Kia,Picanto,2012,20000,2,gasoline,1.2,85.0,automatic,216000
-Kia,Sportage,2017,61500,2,gasoline,1.6,132.0,automatic,110000
-Kia,Sportage,2016,58500,1,gasoline,1.6,132.0,automatic,111000
-Kia,Niro,2018,105000,1,hybrid,1.6,141.0,robotic,79300
-Kia,Picanto,2017,54000,2,gasoline,1.2,84.0,automatic,36000
-Kia,Forte,2010,15000,4,gasoline,1.6,126.0,automatic,240000
-Kia,Sportage,2016,65000,1,gasoline,2.0,155.0,automatic,122000
-Kia,Niro,2019,93000,2,hybrid,1.6,141.0,robotic,95500
-Kia,Forte,2012,19000,4,gasoline,1.6,126.0,automatic,189000
-Kia,Picanto,2014,26000,2,gasoline,1.2,85.0,automatic,150000
-Kia,Picanto,2017,53000,2,gasoline,1.2,84.0,automatic,36000
-Kia,Niro,2018,73000,2,hybrid,1.6,141.0,robotic,136000
-Kia,Ceed,2015,28000,3,gasoline,1.6,135.0,robotic,210000
-Kia,Picanto,2022,71500,2,gasoline,1.2,84.0,robotic,27000
-Kia,Seltos,2021,106000,2,gasoline,2.0,149.0,variable,37000
-Kia,Sorento,2012,36000,3,gasoline,2.4,174.0,automatic,193000
-Kia,Ceed,2019,52000,2,gasoline,1.4,140.0,robotic,101500
-Kia,Ceed,2010,7300,3,gasoline,1.6,126.0,automatic,283000
-Kia,Sportage,2015,56000,2,gasoline,2.0,166.0,automatic,210000
-Kia,Sportage,2021,115000,1,gasoline,1.6,177.0,robotic,48000
-Kia,Sportage,2021,85000,3,gasoline,1.6,177.0,robotic,66400
-Kia,Rio,2012,17600,2,gasoline,1.4,109.0,automatic,200000
-Kia,Niro,2022,148000,1,plug-in,1.6,141.0,robotic,39000
-Kia,Ceed,2015,25000,2,gasoline,1.6,135.0,robotic,231000
-Kia,Niro,2017,65000,2,hybrid,1.6,141.0,robotic,274668
-Kia,Sportage,2015,55000,2,gasoline,2.0,166.0,automatic,149000
-Kia,Sorento,2017,75000,2,gasoline,2.4,188.0,automatic,150000
-Kia,Sportage,2015,48000,2,gasoline,1.6,133.0,automatic,120000
-Kia,Ceed,2016,25000,3,gasoline,1.6,135.0,robotic,207000
-Kia,Picanto,2012,14000,2,gasoline,1.0,69.0,manual,193000
-Kia,Ceed,2020,62000,2,gasoline,1.4,140.0,robotic,150000
-Kia,Sportage,2011,28900,3,gasoline,2.0,163.0,automatic,216000
-Kia,Sportage,2018,77000,3,gasoline,1.6,177.0,robotic,134000
-Kia,Sportage,2018,70000,2,gasoline,1.6,132.0,automatic,140000
-Kia,Niro,2020,92500,2,plug-in,1.6,141.0,robotic,160320
-Kia,Picanto,2015,30000,4,gasoline,1.2,85.0,automatic,133000
-Kia,Niro,2021,120000,1,hybrid,1.6,141.0,robotic,47800
-Kia,Picanto,2012,20000,2,gasoline,1.2,85.0,automatic,220000
-Kia,Picanto,2016,38800,3,gasoline,1.2,85.0,automatic,84000
-Kia,Rio,2012,16000,2,gasoline,1.4,97.0,automatic,168000
-Kia,Picanto,2015,33000,2,gasoline,1.2,85.0,automatic,137000
-Kia,Niro,2021,129000,1,plug-in,1.6,141.0,robotic,69000
-Kia,Niro,2018,86000,2,hybrid,1.6,141.0,robotic,127000
-Kia,Seltos,2021,107000,1,gasoline,2.0,149.0,variable,32000
-Kia,Sportage,2019,95000,2,gasoline,2.0,155.0,automatic,62000
-Kia,Xceed,2021,95000,2,gasoline,1.4,140.0,robotic,20000
-Kia,Sportage,2017,64000,2,gasoline,1.6,132.0,automatic,77000
-Kia,Xceed,2021,104000,1,gasoline,1.4,140.0,robotic,47800
-Kia,Picanto,2018,65000,1,gasoline,1.2,84.0,automatic,5900
-Kia,Carnival,2008,20000,2,gasoline,2.7,189.0,automatic,230000
-Kia,Stonic,2019,75000,1,gasoline,1.0,120.0,robotic,110000
-Kia,Sportage,2021,105000,1,gasoline,1.6,177.0,robotic,48000
+manufacturer,model,submodel,year,hand,mileage,engine_liters,horsepower,fuel,transmission,drive_type,body_color,price
+Kia,Picanto,LX,2015,2,132000,1.2,85,Gasoline,Automatic,FWD,Red,24900
+Kia,Sportage,Urban,2018,2,147000,1.6,132,Gasoline,Automatic,FWD,Black,64000
+Kia,Niro,EX,2019,2,117000,1.6,141,Hybrid,Robotic,FWD,Silver,74900
+Kia,Sportage,LX,2010,3,140000,2.7,175,Gasoline,Automatic,AWD,White,22500
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,77000,1.6,177,Gasoline,Robotic,FWD,White,93000
+Kia,Sportage,Urban,2016,2,162000,1.6,132,Gasoline,Automatic,FWD,Grey,44900
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,38000,1.6,177,Gasoline,Robotic,FWD,Silver,99500
+Kia,Forte,LX,2018,2,260000,1.6,136,Diesel,Automatic,FWD,White,28800
+Kia,Sportage,Urban,2015,1,131000,1.6,133,Gasoline,Automatic,FWD,Black,49900
+Kia,Ceed,EX,2013,3,176000,1.6,135,Gasoline,Robotic,FWD,Grey,23900
+Kia,Niro,LX,2020,2,110769,1.6,141,Plug,Robotic,FWD,Grey,89900
+Kia,Sportage,Urban,2016,2,145000,1.6,132,Gasoline,Automatic,FWD,White,52000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,2,78900,1.6,177,Gasoline,Robotic,FWD,White,99900
+Kia,Picanto,LX,2020,2,82000,1.2,84,Gasoline,Automatic,FWD,White,49900
+Kia,Sportage,Urban,2015,4,130000,1.6,133,Gasoline,Automatic,FWD,Grey,42900
+Kia,Niro,LX,2021,1,72256,1.6,141,Plug,Robotic,FWD,White,109000
+Kia,Picanto,LX,2023,1,45000,1.2,84,Gasoline,Robotic,FWD,White,69999
+Kia,Sportage,Urban,2016,2,155000,1.6,133,Gasoline,Automatic,FWD,Beige,39800
+Kia,Rio,EX,2013,2,176000,1.4,109,Gasoline,Automatic,FWD,Black,23500
+Kia,Ceed,LX,2017,3,163000,1.6,135,Gasoline,Robotic,FWD,White,25800
+Kia,Niro,EX,2020,3,76600,1.6,141,Hybrid,Robotic,FWD,Grey,98000
+Kia,Picanto,LX,2015,4,159000,1.2,85,Gasoline,Automatic,FWD,Black,22900
+Kia,Sportage,Urban,2017,3,145000,1.6,132,Gasoline,Automatic,FWD,White,55000
+Kia,Sportage,Urban,2018,2,123000,1.6,132,Gasoline,Automatic,FWD,Black,60000
+Kia,Rio,LX,2014,3,190000,1.4,109,Gasoline,Automatic,FWD,Silver,21000
+Kia,Sportage,Urban,2015,3,148000,1.6,133,Gasoline,Automatic,FWD,White,45000
+Kia,Picanto,GT-Line,2020,1,75000,1.2,84,Gasoline,Automatic,FWD,White,67000
+Kia,Sportage,Premium GT,2019,3,123000,1.6,177,Gasoline,Robotic,AWD,White,78900
+Kia,Sportage,Urban,2015,1,170000,1.6,133,Gasoline,Automatic,FWD,Beige,38000
+Kia,Forte,EX,2010,2,265000,1.6,126,Gasoline,Automatic,FWD,Bronze,10500
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,2,78900,1.6,177,Gasoline,Robotic,FWD,White,99900
+Kia,Picanto,LX,2020,2,82000,1.2,84,Gasoline,Automatic,FWD,White,49900
+Kia,Forte,LX,2018,2,260000,1.6,136,Diesel,Automatic,FWD,White,28800
+Kia,Niro,LX,2021,1,72256,1.6,141,Plug,Robotic,FWD,White,109000
+Kia,Niro,EX,2019,3,114000,1.6,141,Hybrid,Robotic,FWD,White,79900
+Kia,Seltos,EX,2021,1,74000,2.0,149,Gasoline,Variable,FWD,White,89900
+Kia,Niro,LX,2020,2,144800,1.6,141,Hybrid,Robotic,FWD,White,77900
+Kia,Ceed,LX,2022,1,127000,1.6,136,Diesel,Robotic,FWD,Silver,69900
+Kia,Forte,LX,2014,2,176000,1.6,130,Gasoline,Automatic,FWD,White,23900
+Kia,Rio,EX,2013,2,176000,1.4,109,Gasoline,Automatic,FWD,Black,23500
+Kia,Seltos,EX Plus,2022,1,62000,2.0,149,Gasoline,Variable,FWD,Black,97900
+Kia,Niro,,2025,1,21000,1.6,129,Hybrid,Robotic,FWD,White,137900
+Kia,Sorento,EX Finish,2022,1,95000,2.5,180,Gasoline,Automatic,FWD,White,146900
+Kia,Stonic,EX,2021,1,63000,1.0,100,Gasoline,Robotic,FWD,White,77900
+Kia,Sorento,Urban,2023,1,72500,2.5,180,Gasoline,Automatic,FWD,White,154900
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,59000,1.6,177,Gasoline,Robotic,FWD,Silver,95900
+Kia,Picanto,LX,2012,2,172000,1.2,85,Gasoline,Automatic,FWD,White,19900
+Kia,Niro,EX,2020,3,76600,1.6,141,Hybrid,Robotic,FWD,Grey,98000
+Kia,Xceed,LX,2021,1,59035,1.4,140,Gasoline,Robotic,FWD,White,79485
+Kia,Stonic,LX,2024,1,52347,1.4,100,Gasoline,Automatic,FWD,Silver,101250
+Kia,Carnival,EX,2016,2,306000,3.3,276,Gasoline,Automatic,FWD,White,60000
+Kia,Picanto,EX,2021,1,69200,1.2,84,Gasoline,Robotic,FWD,Beige,66000
+Kia,Niro,LX,2021,2,78000,1.6,141,Plug,Robotic,FWD,White,102000
+Kia,Sportage,EX,2014,2,140000,2.0,163,Gasoline,Automatic,FWD,White,35000
+Kia,Rio,LX,2016,3,177000,1.4,109,Gasoline,Automatic,FWD,White,22000
+Kia,Stonic,EX,2020,1,62000,1.0,120,Gasoline,Robotic,FWD,Red,68000
+Kia,Sportage,Urban,2017,2,114000,1.6,132,Gasoline,Automatic,FWD,Beige,59000
+Kia,Picanto,LX,2016,3,190000,1.2,85,Gasoline,Automatic,FWD,Silver,25000
+Kia,Ceed,LX,2015,3,194000,1.6,135,Gasoline,Robotic,FWD,White,20000
+Kia,Niro,EX,2022,2,59480,1.6,141,Plug,Robotic,FWD,Light blue,108000
+Kia,Stonic,EX,2024,1,44521,1.0,100,Gasoline,Robotic,FWD,Red,103455
+Kia,Stonic,LX,2023,1,44738,1.0,100,Gasoline,Robotic,FWD,Silver,97347
+Kia,Stonic,LX,2023,1,28000,1.4,100,Gasoline,Automatic,FWD,White,100910
+Kia,Stonic,LX,2022,2,96500,1.4,100,Gasoline,Automatic,FWD,Silver,75442
+Kia,Stonic,LX,2022,2,77555,1.4,100,Gasoline,Automatic,FWD,Grey,86450
+Kia,Stonic,GT-Line,2022,1,66200,1.0,100,Gasoline,Robotic,FWD,White,91360
+Kia,Stonic,EX,2022,1,104781,1.0,100,Gasoline,Robotic,FWD,Grey,83155
+Kia,Stonic,LX,2021,1,98649,1.0,100,Gasoline,Robotic,FWD,Grey,77115
+Kia,Stonic,GT-Line,2021,1,54000,1.0,100,Gasoline,Robotic,FWD,White,88995
+Kia,Stonic,EX,2021,1,46000,1.0,100,Gasoline,Robotic,FWD,White,87845
+Kia,Stonic,GT-Line,2021,1,121355,1.0,100,Gasoline,Robotic,FWD,Grey,77960
+Kia,Stonic,LX,2020,2,94500,1.0,120,Gasoline,Robotic,FWD,White,58585
+Kia,Stonic,Premium,2020,1,125600,1.0,120,Gasoline,Robotic,FWD,White,71175
+Kia,Stonic,EX,2019,1,82000,1.0,120,Gasoline,Robotic,FWD,Black,71155
+Kia,Stonic,Premium,2018,2,93079,1.0,120,Gasoline,Robotic,FWD,Silver,70455
+Kia,Sportage,EX,2024,1,24475,1.6,230,Hybrid,Automatic,FWD,Silver,186995
+Kia,Sportage,EX,2022,1,43000,1.6,230,Hybrid,Automatic,FWD,White,168310
+Kia,Sportage,Premium,2024,1,42545,1.6,180,Gasoline,Robotic,FWD,Silver,158575
+Kia,Sportage,Premium,2024,1,17117,1.6,180,Gasoline,Robotic,FWD,Grey,161240
+Kia,Sportage,Premium,2024,1,11000,1.6,180,Gasoline,Robotic,FWD,White,166995
+Kia,Niro,EX,2022,2,59480,1.6,141,Plug,Robotic,FWD,Light blue,108000
+Kia,Picanto,LX,2022,1,35000,1.2,84,Gasoline,Robotic,FWD,Silver,75000
+Kia,Stonic,LX,2020,2,82000,1.0,120,Gasoline,Robotic,FWD,White,62600
+Kia,Sorento,Premium Diesel,2018,1,152000,2.2,200,Diesel,Automatic,AWD,White,120000
+Kia,Optima,,2014,1,148000,1.6,136,Diesel,Automatic,FWD,White,32500
+Kia,Xceed,LX,2021,1,142396,1.4,140,Gasoline,Robotic,FWD,Silver,60000
+Kia,Picanto,GT-Line,2025,1,13000,1.2,79,Gasoline,Robotic,FWD,White,94000
+Kia,Sorento,EX Finish,2022,1,66000,2.5,180,Gasoline,Automatic,FWD,Silver,150000
+Kia,Sportage,LX,2012,2,150000,2.0,163,Gasoline,Automatic,FWD,Black,24000
+Kia,Niro,Urban,2021,1,37000,1.6,141,Hybrid,Robotic,FWD,White,115000
+Kia,Sportage,Premium,2023,1,90245,2.0,156,Gasoline,Automatic,FWD,Silver,135687
+Kia,Sportage,Premium,2023,1,75665,1.6,180,Gasoline,Robotic,FWD,White,139445
+Kia,Sportage,Premium,2023,1,35540,2.0,156,Gasoline,Automatic,FWD,White,139895
+Kia,Sportage,Premium,2023,1,24000,1.6,180,Gasoline,Robotic,FWD,Silver,148197
+Kia,Sportage,Premium,2022,2,50600,1.6,177,Gasoline,Robotic,FWD,Black,117390
+Kia,Sportage,Urban,2022,2,41747,1.6,177,Gasoline,Robotic,FWD,White,110335
+Kia,Sportage,Premium,2022,1,95000,1.6,177,Gasoline,Robotic,FWD,White,109630
+Kia,Sportage,Premium,2022,1,90000,1.6,180,Gasoline,Robotic,FWD,Black,131395
+Kia,Sportage,Premium,2022,1,89000,1.6,177,Gasoline,Robotic,FWD,Black,108380
+Kia,Sportage,Urban,2022,1,70315,1.6,177,Gasoline,Robotic,FWD,White,108465
+Kia,Sportage,Urban,2022,1,66795,1.6,180,Gasoline,Robotic,FWD,White,124217
+Kia,Sportage,Urban,2022,1,52000,1.6,180,Gasoline,Robotic,FWD,Green,126575
+Kia,Sportage,Urban,2022,1,40000,1.6,180,Gasoline,Robotic,FWD,Black,126340
+Kia,Sportage,Premium,2022,1,37000,1.6,180,Gasoline,Robotic,FWD,Black,142540
+Kia,Sportage,Premium,2022,1,34576,1.6,177,Gasoline,Robotic,FWD,Black,123165
+Kia,Sportage,Urban,2022,1,125704,1.6,180,Gasoline,Robotic,FWD,White,108895
+Kia,Sportage,Urban,2022,1,12797,1.6,180,Gasoline,Robotic,FWD,Black,129655
+Kia,Sportage,Urban,2022,1,117588,1.6,136,Diesel,Automatic,FWD,White,76675
+Kia,Sportage,Urban Top,2021,3,79000,2.0,155,Gasoline,Automatic,FWD,Blue,86745
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,70336,1.6,177,Gasoline,Robotic,FWD,White,97595
+Kia,Niro,EX,2017,1,171000,1.6,141,Hybrid,Robotic,FWD,Silver,59500
+Kia,Niro,LX,2019,2,220000,1.6,141,Hybrid,Robotic,FWD,Light blue,81000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,2,95600,1.6,136,Diesel,Robotic,FWD,Silver,68000
+Kia,Stonic,Urban Plus,2023,1,42000,1.4,100,Gasoline,Automatic,FWD,Black,99500
+Kia,Niro,EX,2019,3,127000,1.6,141,Hybrid,Robotic,FWD,White,83000
+Kia,Ceed,LX,2014,3,191000,1.6,135,Gasoline,Robotic,FWD,Silver,17000
+Kia,Sportage,Urban,2016,3,129632,1.6,132,Gasoline,Automatic,FWD,White,52000
+Kia,Niro,EX,2020,2,77000,1.6,141,Plug,Robotic,FWD,Red,100000
+Kia,Seltos,EX,2024,1,26000,2.0,149,Gasoline,Automatic,FWD,Light blue,116000
+Kia,Niro,LX Plus,2021,2,147000,1.6,141,Plug,Robotic,FWD,Grey,86000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,2,69221,1.6,177,Gasoline,Robotic,FWD,Black,107385
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,2,62800,1.6,177,Gasoline,Robotic,FWD,White,108070
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,2,58518,1.6,177,Gasoline,Robotic,FWD,White,106550
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,41575,1.6,177,Gasoline,Robotic,FWD,White,103465
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,87576,1.6,177,Gasoline,Robotic,FWD,Black,101475
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,86553,1.6,177,Gasoline,Robotic,FWD,Grey,101275
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,77532,1.6,177,Gasoline,Robotic,FWD,White,104055
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,1,75805,1.6,177,Gasoline,Robotic,FWD,Silver,101334
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,70400,1.6,177,Gasoline,Robotic,FWD,White,107990
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,54000,1.6,177,Gasoline,Robotic,FWD,White,110225
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,124000,1.6,177,Gasoline,Robotic,FWD,Silver,96027
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,116706,1.6,177,Gasoline,Robotic,FWD,Black,97525
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,87368,1.6,177,Gasoline,Robotic,FWD,Golden,92490
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,84000,1.6,177,Gasoline,Robotic,FWD,Blue,92750
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,74595,1.6,177,Gasoline,Robotic,FWD,White,96940
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,66278,1.6,177,Gasoline,Robotic,FWD,White,94884
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,2,52600,1.6,177,Gasoline,Robotic,FWD,Grey,96120
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,2,50900,1.6,177,Gasoline,Robotic,FWD,White,96115
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,2,136111,1.6,136,Diesel,Robotic,FWD,White,78390
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,1,91785,1.6,177,Gasoline,Robotic,FWD,White,85825
+Kia,Niro,EX,2018,1,77000,1.6,141,Hybrid,Robotic,FWD,White,79000
+Kia,Ceed,LX,2012,4,186000,1.6,126,Gasoline,Automatic,FWD,White,11950
+Kia,Sorento,Urban,2018,1,200000,2.4,188,Gasoline,Automatic,FWD,White,125000
+Kia,Sportage,Premium,2023,1,25038,2.0,156,Gasoline,Automatic,FWD,White,160000
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,2,94000,1.6,177,Gasoline,Robotic,FWD,Silver,80500
+Kia,Picanto,GT-Line,2020,1,80000,1.2,84,Gasoline,Automatic,FWD,Black,69000
+Kia,Sportage,EX,2013,4,144000,2.0,163,Gasoline,Automatic,FWD,Red,34000
+Kia,Ceed,,2019,3,209058,1.4,140,Gasoline,Robotic,FWD,White,40000
+Kia,Sportage,Premium,2023,2,43000,2.0,156,Gasoline,Automatic,FWD,White,132000
+Kia,Niro Plus,LX,2022,2,20000,1.6,141,Plug,Robotic,FWD,White,126000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,1,83868,1.6,177,Gasoline,Robotic,FWD,White,100425
+Kia,Sportage,Urban,2020,1,73426,2.0,155,Gasoline,Automatic,FWD,Grey,100115
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,1,49725,1.6,177,Gasoline,Robotic,FWD,White,106070
+Kia,Sportage,Urban,2019,1,112079,2.0,155,Gasoline,Automatic,FWD,White,90835
+Kia,Sportage,Premium GT,2018,2,86960,1.6,177,Gasoline,Robotic,AWD,White,83195
+Kia,Sportage,Urban,2018,2,68300,1.6,132,Gasoline,Automatic,FWD,Black,71895
+Kia,Sportage,Premium GT,2018,1,115000,1.6,177,Gasoline,Robotic,AWD,White,78365
+Kia,Sportage,Urban,2017,2,98145,1.6,132,Gasoline,Automatic,FWD,Silver,62095
+Kia,Sportage,Urban,2017,2,104000,1.6,132,Gasoline,Automatic,FWD,White,66160
+Kia,Sportage,Premium GT,2016,2,93000,1.6,177,Gasoline,Robotic,AWD,White,69750
+Kia,Sportage,Urban,2015,3,100000,1.6,133,Gasoline,Automatic,FWD,White,54015
+Kia,Sportage,Urban,2015,2,119575,1.6,133,Gasoline,Automatic,FWD,Grey,51935
+Kia,Sportage,Urban,2015,2,101000,1.6,133,Gasoline,Automatic,FWD,White,56470
+Kia,Sorento,EX Finish,2022,1,71434,2.5,180,Gasoline,Automatic,FWD,Grey,155565
+Kia,Seltos,,2024,2,113178,2.0,149,Gasoline,Automatic,FWD,White,103085
+Kia,Seltos,Premium,2024,1,32994,2.0,149,Gasoline,Automatic,FWD,Light blue,131195
+Kia,Seltos,EX Plus,2023,1,70151,2.0,149,Gasoline,Automatic,FWD,Blue,101250
+Kia,Seltos,EX,2023,1,69493,2.0,149,Gasoline,Automatic,FWD,White,114475
+Kia,Seltos,EX,2023,1,58080,2.0,149,Gasoline,Automatic,FWD,White,118555
+Kia,Seltos,EX Plus,2023,1,24000,2.0,149,Gasoline,Automatic,FWD,White,122195
+Kia,Niro,EX,2018,2,150000,1.6,141,Hybrid,Robotic,FWD,Grey,67000
+Kia,Niro,EX,2019,2,141000,1.6,141,Hybrid,Robotic,FWD,White,73900
+Kia,Sorento,EX Finish,2023,1,63000,2.5,180,Gasoline,Automatic,FWD,Black,275000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,2,124000,1.6,136,Diesel,Robotic,FWD,White,72500
+Kia,Sportage,Urban,2015,3,166000,1.6,133,Gasoline,Automatic,FWD,White,37000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,2,165000,1.6,136,Diesel,Robotic,FWD,Black,75000
+Kia,Sportage,Urban,2017,2,188000,1.6,132,Gasoline,Automatic,FWD,Grey,46500
+Kia,Picanto,LX,2019,2,24500,1.2,84,Gasoline,Automatic,FWD,Silver,60000
+Kia,Niro,EX,2020,1,92000,1.6,141,Hybrid,Robotic,FWD,Light Grey,107000
+Kia,Sportage,Urban,2021,1,100000,1.6,177,Gasoline,Robotic,FWD,Grey,90000
+Kia,Seltos,EX,2022,1,40500,2.0,149,Gasoline,Variable,FWD,Black,111960
+Kia,Seltos,EX Plus,2022,1,36679,2.0,149,Gasoline,Variable,FWD,Black,113655
+Kia,Seltos,EX Plus,2022,1,32810,2.0,149,Gasoline,Variable,FWD,White,116399
+Kia,Seltos,EX Plus,2022,1,21504,2.0,149,Gasoline,Variable,FWD,Light Grey,123145
+Kia,Seltos,EX,2021,2,96000,2.0,149,Gasoline,Variable,FWD,White,91225
+Kia,Seltos,EX,2021,2,93000,2.0,149,Gasoline,Variable,FWD,Grey,94085
+Kia,Seltos,EX,2021,1,74000,2.0,149,Gasoline,Variable,FWD,Orange,93375
+Kia,Seltos,EX,2021,1,55013,2.0,149,Gasoline,Variable,FWD,White,100215
+Kia,Seltos,Urban,2020,1,110184,2.0,149,Gasoline,Variable,FWD,Yellow,78185
+Kia,Rio,GX,2021,2,92528,1.0,100,Gasoline,Robotic,FWD,White,74755
+Kia,Rio,GX,2021,1,94175,1.0,100,Gasoline,Robotic,FWD,Grey,80005
+Kia,Rio,LX,2015,3,134000,1.4,109,Gasoline,Automatic,FWD,White,36900
+Kia,Picanto,GT-Line,2025,1,9700,1.2,79,Gasoline,Robotic,FWD,White,97625
+Kia,Picanto,LX,2024,2,10111,1.2,84,Gasoline,Robotic,FWD,White,79665
+Kia,Picanto,GT-Line,2024,1,8400,1.2,84,Gasoline,Robotic,FWD,Grey,94585
+Kia,Picanto,GT-Line,2024,1,35895,1.2,84,Gasoline,Robotic,FWD,White,91070
+Kia,Picanto,GT-Line,2024,1,30000,1.2,84,Gasoline,Robotic,FWD,White,90142
+Kia,Picanto,GT-Line,2024,1,30000,1.2,84,Gasoline,Robotic,FWD,Black,93595
+Kia,Picanto,GT-Line,2024,1,26200,1.2,84,Gasoline,Robotic,FWD,Black,91510
+Kia,Picanto,GT-Line,2024,1,22000,1.2,84,Gasoline,Robotic,FWD,Black,91355
+Kia,Picanto,EX,2020,3,109000,1.2,84,Gasoline,Automatic,FWD,Black,65000
+Kia,Ceed,LX,2016,3,195000,1.6,135,Gasoline,Robotic,FWD,White,18000
+Kia,Optima,Premium,2019,4,235000,1.6,136,Diesel,Robotic,FWD,White,43800
+Kia,Picanto,LX,2022,1,104500,1.2,84,Gasoline,Robotic,FWD,White,53000
+Kia,Niro,EX,2018,1,135000,1.6,141,Hybrid,Robotic,FWD,Blue,81000
+Kia,Picanto,LX,2013,2,132000,1.2,85,Gasoline,Automatic,FWD,Silver,21088
+Kia,Picanto,LX,2021,3,90000,1.2,84,Gasoline,Robotic,FWD,White,60000
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,88000,1.6,177,Gasoline,Robotic,FWD,White,90000
+Kia,Stonic,LX,2023,2,11600,1.0,100,Gasoline,Robotic,FWD,Grey,95750
+Kia,Stonic,LX,2019,2,79000,1.0,120,Gasoline,Robotic,FWD,Silver,54000
+Kia,Picanto,LX,2023,2,60750,1.2,84,Gasoline,Robotic,FWD,White,66990
+Kia,Picanto,GT-Line,2023,2,43000,1.2,84,Gasoline,Robotic,FWD,White,78525
+Kia,Picanto,LX,2023,2,12733,1.2,84,Gasoline,Robotic,FWD,Grey,71255
+Kia,Picanto,X-Line,2023,1,66000,1.2,84,Gasoline,Robotic,FWD,Grey,73745
+Kia,Picanto,GT-Line,2023,1,5500,1.2,84,Gasoline,Robotic,FWD,White,86745
+Kia,Picanto,GT-Line,2023,1,52535,1.2,84,Gasoline,Robotic,FWD,White,81445
+Kia,Picanto,GT-Line,2023,1,44000,1.2,84,Gasoline,Robotic,FWD,White,79510
+Kia,Picanto,GT-Line,2023,1,41247,1.2,84,Gasoline,Robotic,FWD,White,80500
+Kia,Picanto,GT-Line,2023,1,36600,1.2,84,Gasoline,Robotic,FWD,White,79825
+Kia,Picanto,X-Line,2023,1,33802,1.2,84,Gasoline,Robotic,FWD,Silver,77400
+Kia,Picanto,X-Line,2023,1,27077,1.2,84,Gasoline,Robotic,FWD,Grey,78925
+Kia,Picanto,GT-Line,2023,1,22000,1.2,84,Gasoline,Robotic,FWD,White,82750
+Kia,Picanto,GT-Line,2023,1,17040,1.2,84,Gasoline,Robotic,FWD,Silver,86510
+Kia,Picanto,GT-Line,2023,1,16800,1.2,84,Gasoline,Robotic,FWD,White,84230
+Kia,Picanto,LX,2022,2,67010,1.2,84,Gasoline,Robotic,FWD,Black,61725
+Kia,Picanto,X-Line,2022,2,45000,1.2,84,Gasoline,Robotic,FWD,Grey,71145
+Kia,Picanto,LX,2022,2,31000,1.2,84,Gasoline,Robotic,FWD,White,65720
+Kia,Picanto,LX,2022,2,26500,1.2,84,Gasoline,Robotic,FWD,White,64695
+Kia,Picanto,X-Line,2022,2,21200,1.2,84,Gasoline,Robotic,FWD,Silver,71110
+Kia,Picanto,X-Line,2022,1,82436,1.2,84,Gasoline,Robotic,FWD,Light blue,67260
+Kia,Stonic,EX,2018,1,121500,1.0,120,Gasoline,Robotic,FWD,Grey,65000
+Kia,Niro,LX Plus,2021,2,107000,1.6,141,Plug,Robotic,FWD,Grey,93000
+Kia,Sportage,Urban,2017,3,193000,2.0,155,Gasoline,Automatic,FWD,White,53000
+Kia,Seltos,EX,2022,2,47200,2.0,149,Gasoline,Variable,FWD,Black,104000
+Kia,Ceed,LX,2010,3,288450,1.6,126,Gasoline,Automatic,FWD,White,11000
+Kia,Niro,LX,2019,2,170000,1.6,141,Hybrid,Robotic,FWD,Black,79500
+Kia,Niro Plus,GX,2023,1,17000,1.6,141,Hybrid,Robotic,FWD,White,145000
+Kia,Picanto,LX,2020,1,69000,1.2,84,Gasoline,Automatic,FWD,Grey,71000
+Kia,Picanto,GT-Line,2022,3,31400,1.2,84,Gasoline,Robotic,FWD,White,70800
+Kia,Carnival,LX,2020,1,58000,3.3,276,Gasoline,Automatic,FWD,White,145000
+Kia,Picanto,X-Line,2022,1,47000,1.2,84,Gasoline,Robotic,FWD,Silver,69610
+Kia,Picanto,EX,2022,1,46810,1.2,84,Gasoline,Robotic,FWD,Black,76630
+Kia,Picanto,GT-Line,2022,1,38000,1.2,84,Gasoline,Robotic,FWD,White,65565
+Kia,Picanto,GT-Line,2022,1,33255,1.2,84,Gasoline,Robotic,FWD,White,75610
+Kia,Picanto,X-Line,2022,1,32150,1.2,84,Gasoline,Robotic,FWD,Black,79925
+Kia,Picanto,X-Line,2022,1,25476,1.2,84,Gasoline,Robotic,FWD,White,71535
+Kia,Picanto,GT-Line,2022,1,20770,1.2,84,Gasoline,Robotic,FWD,White,76655
+Kia,Picanto,LX,2022,1,144580,1.2,84,Gasoline,Robotic,FWD,White,49775
+Kia,Picanto,LX,2021,3,80000,1.2,84,Gasoline,Robotic,FWD,White,61535
+Kia,Picanto,LX,2021,2,72500,1.2,84,Gasoline,Robotic,FWD,White,57940
+Kia,Picanto,GT-Line,2021,2,34330,1.2,84,Gasoline,Robotic,FWD,White,80945
+Kia,Picanto,LX,2021,2,33000,1.2,84,Gasoline,Robotic,FWD,Black,59685
+Kia,Picanto,LX,2021,2,26000,1.2,84,Gasoline,Robotic,FWD,White,75845
+Kia,Picanto,EX,2021,1,90000,1.2,84,Gasoline,Robotic,FWD,Yellow,65445
+Kia,Picanto,GT-Line,2021,1,75590,1.2,84,Gasoline,Robotic,FWD,Black,74715
+Kia,Picanto,X-Line,2021,1,62952,1.2,84,Gasoline,Robotic,FWD,White,67225
+Kia,Picanto,X-Line,2021,1,49300,1.2,84,Gasoline,Robotic,FWD,Grey,66750
+Kia,Picanto,EX,2021,1,44505,1.2,84,Gasoline,Robotic,FWD,Silver,78185
+Kia,Picanto,LX,2021,1,27362,1.2,84,Gasoline,Robotic,FWD,White,78890
+Kia,Picanto,EX,2021,1,15762,1.2,84,Gasoline,Robotic,FWD,White,81355
+Kia,Niro Plus,EX,2022,1,150000,1.6,141,Plug,Robotic,FWD,Grey,130000
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,2,216000,1.6,136,Diesel,Robotic,FWD,Silver,57000
+Kia,Ev6,GT Line Top,2024,1,31000,,325,Electro,Automatic,AWD,Grey,225000
+Kia,Picanto,,2016,3,71000,1.2,85,Gasoline,Automatic,FWD,White,35000
+Kia,Niro,LX,2019,1,136000,1.6,141,Hybrid,Robotic,FWD,Blue,79000
+Kia,Picanto,X-Line,2022,1,60000,1.2,84,Gasoline,Robotic,FWD,Silver,75000
+Kia,Niro,EX,2018,3,150000,1.6,141,Hybrid,Robotic,FWD,White,72000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,39500,1.6,177,Gasoline,Robotic,FWD,Black,103000
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,82000,1.6,177,Gasoline,Robotic,FWD,Grey,95000
+Kia,Picanto,GT-Line,2023,1,45000,1.2,84,Gasoline,Robotic,FWD,Grey,85000
+Kia,Picanto,EX,2021,1,13532,1.2,84,Gasoline,Robotic,FWD,Black,68825
+Kia,Picanto,GT-Line,2021,1,13474,1.2,84,Gasoline,Robotic,FWD,Black,83070
+Kia,Picanto,GT-Line,2021,1,113096,1.2,84,Gasoline,Robotic,FWD,Silver,70070
+Kia,Picanto,LX,2020,3,111224,1.2,84,Gasoline,Automatic,FWD,Black,55055
+Kia,Picanto,GT-Line,2020,2,80995,1.2,84,Gasoline,Automatic,FWD,Black,73750
+Kia,Picanto,EX,2020,2,76029,1.2,84,Gasoline,Automatic,FWD,Silver,71400
+Kia,Picanto,LX,2020,2,66000,1.2,84,Gasoline,Automatic,FWD,Black,65525
+Kia,Picanto,LX,2020,2,43260,1.2,84,Gasoline,Automatic,FWD,Silver,68815
+Kia,Picanto,LX,2020,1,97932,1.2,84,Gasoline,Automatic,FWD,Red,61652
+Kia,Picanto,EX,2020,1,74152,1.2,84,Gasoline,Automatic,FWD,Light blue,71525
+Kia,Picanto,EX,2020,1,69600,1.2,84,Gasoline,Automatic,FWD,Black,73772
+Kia,Picanto,EX,2020,1,67134,1.2,84,Gasoline,Automatic,FWD,Silver,69555
+Kia,Picanto,LX,2020,1,67090,1.2,84,Gasoline,Automatic,FWD,Silver,71885
+Kia,Picanto,EX,2020,1,4109,1.2,84,Gasoline,Automatic,FWD,White,81520
+Kia,Picanto,EX,2020,1,33485,1.2,84,Gasoline,Automatic,FWD,Silver,76685
+Kia,Picanto,GT-Line,2020,1,110700,1.2,84,Gasoline,Automatic,FWD,Silver,66840
+Kia,Picanto,X-Line,2020,1,102125,1.2,84,Gasoline,Automatic,FWD,Black,68385
+Kia,Picanto,LX,2019,3,99000,1.2,84,Gasoline,Automatic,FWD,Silver,49927
+Kia,Picanto,EX,2019,2,82176,1.2,84,Gasoline,Automatic,FWD,White,62630
+Kia,Picanto,EX,2019,2,64595,1.2,84,Gasoline,Automatic,FWD,White,68130
+Kia,Ceed,EX,2016,2,580000,1.6,136,Diesel,Robotic,FWD,White,11900
+Kia,Niro,,2021,2,170000,1.6,141,Plug,Robotic,FWD,White,86200
+Kia,Picanto,EX,2019,2,70000,1.2,84,Gasoline,Automatic,FWD,Beige,59000
+Kia,Sportage,,2017,2,110000,1.6,132,Gasoline,Automatic,FWD,White,56000
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,2,64466,1.6,136,Diesel,Robotic,FWD,Silver,85000
+Kia,Picanto,LX,2023,1,30000,1.2,84,Gasoline,Robotic,FWD,Grey,78000
+Kia,Picanto,LX,2013,3,152000,1.2,85,Gasoline,Automatic,FWD,White,25000
+Kia,Sportage,Premium GT,2017,2,92000,1.6,177,Gasoline,Robotic,AWD,White,57000
+Kia,Sportage,,2015,2,201500,1.6,133,Gasoline,Automatic,FWD,Silver,38000
+Kia,Sorento,EX,2016,1,184000,2.4,188,Gasoline,Automatic,FWD,White,70000
+Kia,Picanto,EX,2019,2,59658,1.2,84,Gasoline,Automatic,FWD,Black,68630
+Kia,Picanto,EX,2019,1,85604,1.2,84,Gasoline,Automatic,FWD,White,67860
+Kia,Picanto,GT-Line,2019,1,79171,1.2,84,Gasoline,Automatic,FWD,Silver,67267
+Kia,Picanto,GT-Line,2019,1,73606,1.2,84,Gasoline,Automatic,FWD,Black,67595
+Kia,Picanto,EX,2019,1,70000,1.2,84,Gasoline,Automatic,FWD,White,67130
+Kia,Picanto,GT-Line,2019,1,107075,1.2,84,Gasoline,Automatic,FWD,Black,62745
+Kia,Picanto,EX,2018,2,135000,1.2,84,Gasoline,Automatic,FWD,White,56250
+Kia,Picanto,LX,2018,2,120000,1.2,84,Gasoline,Automatic,FWD,Silver,53915
+Kia,Picanto,GT-Line,2018,1,33250,1.2,84,Gasoline,Automatic,FWD,Black,68305
+Kia,Picanto,EX,2018,1,122000,1.2,84,Gasoline,Automatic,FWD,Red,54992
+Kia,Picanto,EX,2017,2,165000,1.2,84,Gasoline,Automatic,FWD,Beige,47450
+Kia,Picanto,EX,2017,1,85000,1.2,84,Gasoline,Automatic,FWD,Silver,55150
+Kia,Picanto,Top,2017,1,100455,1.2,85,Gasoline,Automatic,FWD,Silver,47807
+Kia,Picanto,Top,2016,2,77407,1.2,85,Gasoline,Automatic,FWD,White,47450
+Kia,Picanto,EX,2014,2,126854,1.2,85,Gasoline,Automatic,FWD,Silver,37255
+Kia,Picanto,EX,2012,2,142733,1.2,85,Gasoline,Automatic,FWD,Silver,31185
+Kia,Niro Plus,LX,2023,1,86188,1.6,141,Plug,Robotic,FWD,Black,109330
+Kia,Niro Plus,EX,2022,2,129862,1.6,141,Plug,Robotic,FWD,Grey,90415
+Kia,Niro Plus,EX,2022,1,95000,1.6,141,Plug,Robotic,FWD,Black,113382
+Kia,Niro,EX,2022,1,98000,1.6,141,Plug,Robotic,FWD,Light Grey,112675
+Kia,Stonic,Premium,2019,2,141000,1.0,120,Gasoline,Robotic,FWD,White,67000
+Kia,Niro,,2024,2,8300,,204,Electro,Automatic,FWD,Black,165000
+Kia,Picanto,GT-Line,2018,1,127000,1.2,84,Gasoline,Automatic,FWD,Silver,55000
+Kia,Picanto,LX,2017,2,99900,1.2,84,Gasoline,Automatic,FWD,White,46000
+Kia,Picanto,EX,2014,3,119589,1.2,85,Gasoline,Automatic,FWD,Silver,22000
+Kia,Picanto,,2019,2,125000,1.2,84,Gasoline,Automatic,FWD,White,55000
+Kia,Picanto,LX,2022,2,35000,1.2,84,Gasoline,Robotic,FWD,Grey,75000
+Kia,Optima,,2017,3,250000,1.7,141,Diesel,Robotic,FWD,White,33000
+Kia,Niro,EX,2021,2,126000,1.6,141,Plug,Robotic,FWD,Blue,110000
+Kia,Picanto,X-Line,2022,1,24000,1.2,84,Gasoline,Robotic,FWD,White,75000
+Kia,Niro,EX,2023,1,42000,1.6,183,Plug,Robotic,FWD,White,126992
+Kia,Niro,EX,2022,1,85000,1.6,141,Plug,Robotic,FWD,White,116725
+Kia,Niro,EX,2022,1,34315,1.6,141,Plug,Robotic,FWD,White,132625
+Kia,Niro,EX,2022,1,123000,1.6,141,Plug,Robotic,FWD,White,101992
+Kia,Niro,LX Plus,2021,2,78397,1.6,141,Plug,Robotic,FWD,White,96945
+Kia,Niro,EX,2021,1,92266,1.6,141,Plug,Robotic,FWD,Silver,112395
+Kia,Niro,,2024,1,6000,1.6,141,Hybrid,Robotic,FWD,Black,144995
+Kia,Niro,Base EV,2024,1,42170,,204,Electro,Automatic,FWD,Black,133635
+Kia,Niro,Urban,2021,1,99000,1.6,141,Hybrid,Robotic,FWD,Black,106265
+Kia,Niro,Urban,2021,1,87000,1.6,141,Hybrid,Robotic,FWD,Black,106835
+Kia,Niro,Urban,2021,1,74000,1.6,141,Hybrid,Robotic,FWD,Black,108665
+Kia,Niro,Urban,2021,1,70347,1.6,141,Hybrid,Robotic,FWD,Silver,116275
+Kia,Niro,Urban,2021,1,63889,1.6,141,Hybrid,Robotic,FWD,Light Grey,109760
+Kia,Niro,EX,2019,2,119033,1.6,141,Hybrid,Robotic,FWD,Silver,82375
+Kia,Niro,EX,2018,3,136091,1.6,141,Hybrid,Robotic,FWD,White,72155
+Kia,Niro,EX,2018,1,156000,1.6,141,Hybrid,Robotic,FWD,White,72835
+Kia,Niro,EX,2018,1,116345,1.6,141,Hybrid,Robotic,FWD,Grey,85465
+Kia,Niro,EX,2017,1,132276,1.6,141,Hybrid,Robotic,FWD,Silver,72660
+Kia,Niro,EX,2017,1,122304,1.6,141,Hybrid,Robotic,FWD,Light blue,74975
+Kia,Forte,LX,2016,3,126600,1.6,130,Gasoline,Automatic,FWD,Black,39995
+Kia,Ceed,LX,2019,3,230000,1.4,140,Gasoline,Robotic,FWD,White,42000
+Kia,Sportage,Urban,2017,2,135000,1.6,132,Gasoline,Automatic,FWD,Silver,57000
+Kia,Picanto,X-Line,2022,1,17300,1.2,84,Gasoline,Robotic,FWD,White,71000
+Kia,Rio,EX,2012,4,163000,1.4,109,Gasoline,Automatic,FWD,Silver,23000
+Kia,Stonic,GT-Line,2022,1,26000,1.0,100,Gasoline,Robotic,FWD,White,89990
+Kia,Stonic,LX,2021,2,77000,1.4,100,Gasoline,Automatic,FWD,White,77000
+Kia,Ceed,,2015,2,130000,1.6,135,Gasoline,Robotic,FWD,Light Grey,35000
+Kia,Sorento,,2022,1,30000,2.5,180,Gasoline,Automatic,FWD,White,175000
+Kia,Niro,LX,2019,2,175000,1.6,141,Hybrid,Robotic,FWD,Silver,60000
+Kia,Sportage,Urban,2018,1,166000,1.6,132,Gasoline,Automatic,FWD,Black,62000
+Kia,Picanto,LX,2015,4,159000,1.2,85,Gasoline,Automatic,FWD,Black,22900
+Kia,Sportage,Urban,2017,3,145000,1.6,132,Gasoline,Automatic,FWD,White,55000
+Kia,Sportage,Urban,2017,2,84500,1.6,132,Gasoline,Automatic,FWD,Beige,63000
+Kia,Niro,EX,2018,1,69000,1.6,141,Hybrid,Robotic,FWD,White,84990
+Kia,Sportage,Urban,2018,2,123000,1.6,132,Gasoline,Automatic,FWD,Black,60000
+Kia,Picanto,LX,2013,3,280000,1.2,85,Gasoline,Automatic,FWD,Silver,25000
+Kia,Niro,EX,2025,1,24000,1.6,129,Hybrid,Robotic,FWD,Blue,145000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,2,64000,1.6,136,Diesel,Robotic,FWD,Silver,84000
+Kia,Rio,LX,2014,3,190000,1.4,109,Gasoline,Automatic,FWD,Silver,21000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,38000,1.6,177,Gasoline,Robotic,FWD,Silver,99500
+Kia,Sportage,Premium,2022,1,64000,1.6,180,Gasoline,Robotic,FWD,Silver,132990
+Kia,Sportage,Urban,2016,2,145000,1.6,132,Gasoline,Automatic,FWD,White,52000
+Kia,Carnival,EX,2022,3,29000,3.5,272,Gasoline,Automatic,FWD,Grey,199990
+Kia,Rio,LX,2017,2,95000,1.4,109,Gasoline,Automatic,FWD,White,35000
+Kia,Niro,EX,2023,1,29300,1.6,183,Plug,Robotic,FWD,White,138000
+Kia,Rio,LX,2015,3,220000,1.4,109,Gasoline,Automatic,FWD,White,19990
+Kia,Sportage,Urban,2015,3,148000,1.6,133,Gasoline,Automatic,FWD,White,45000
+Kia,Ceed,LX,2018,2,200000,1.6,135,Gasoline,Robotic,FWD,White,25000
+Kia,Picanto,GT-Line,2020,1,75000,1.2,84,Gasoline,Automatic,FWD,White,67000
+Kia,Niro,LX,2021,1,72256,1.6,141,Plug,Robotic,FWD,White,109000
+Kia,Sportage,,2013,4,150000,2.0,163,Gasoline,Automatic,FWD,White,48000
+Kia,Sportage,Premium,2023,2,15000,2.0,156,Gasoline,Automatic,FWD,White,144000
+Kia,Niro,EX,2017,4,144000,1.6,141,Hybrid,Robotic,FWD,Silver,58000
+Kia,Picanto,LX,2021,2,108000,1.2,84,Gasoline,Robotic,FWD,White,52000
+Kia,Niro,EX,2019,1,59400,1.6,141,Hybrid,Robotic,FWD,White,106000
+Kia,Stonic,LX,2022,1,15000,1.4,100,Gasoline,Automatic,FWD,Grey,93000
+Kia,Stonic,,2022,1,53000,1.0,100,Gasoline,Robotic,FWD,Grey,85000
+Kia,Rio,LX,2014,3,225000,1.4,109,Gasoline,Automatic,FWD,White,15000
+Kia,Niro,EX,2018,2,133000,1.6,141,Hybrid,Robotic,FWD,White,85000
+Kia,Carens,,2005,3,304500,2.0,139,Gasoline,Automatic,FWD,Silver,5500
+Kia,Sportage,Premium GT,2019,3,123000,1.6,177,Gasoline,Robotic,AWD,White,78900
+Kia,Picanto,LX,2016,2,143400,1.2,85,Gasoline,Automatic,FWD,Silver,31900
+Kia,Sportage,Urban,2015,1,170000,1.6,133,Gasoline,Automatic,FWD,Beige,38000
+Kia,Niro,EX,2019,2,149000,1.6,141,Hybrid,Robotic,FWD,Silver,64900
+Kia,Niro,EX,2017,3,141000,1.6,141,Hybrid,Robotic,FWD,Black,51900
+Kia,Stonic,LX,2020,2,124000,1.0,120,Gasoline,Robotic,FWD,White,56900
+Kia,Picanto,LX,2022,2,114000,1.2,84,Gasoline,Robotic,FWD,Grey,49900
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,2,128000,1.6,177,Gasoline,Robotic,FWD,Black,86900
+Kia,Ceed,EX,2010,1,109000,1.6,126,Gasoline,Automatic,FWD,Silver,21500
+Kia,Picanto,GT-Line,2026,1,1500,1.2,79,Gasoline,Robotic,FWD,Black,99990
+Kia,Sportage,Premium,2022,1,84000,1.6,180,Gasoline,Robotic,FWD,Black,129990
+Kia,Sorento,EX,2013,1,182000,2.4,192,Gasoline,Automatic,RWD,Silver,37500
+Kia,Forte,EX,2010,2,265000,1.6,126,Gasoline,Automatic,FWD,Bronze,10500
+Kia,Ceed,LX,2017,4,168000,1.6,135,Gasoline,Robotic,FWD,Grey,29000
+Kia,Rio,LX,2017,2,94000,1.4,109,Gasoline,Automatic,FWD,White,34900
+Kia,Picanto,GT-Line,2019,2,51783,1.2,84,Gasoline,Automatic,FWD,Black,58000
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,2,82000,1.6,177,Gasoline,Robotic,FWD,Blue,84500
+Kia,Sorento,EX,2013,1,200000,2.4,192,Gasoline,Automatic,RWD,White,37000
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,1,129000,1.6,177,Gasoline,Robotic,FWD,White,77999
+Kia,Carnival,EX,2016,2,306000,3.3,276,Gasoline,Automatic,FWD,White,60000
+Kia,Carens,,2005,3,304500,2.0,139,Gasoline,Automatic,FWD,Silver,5500
+Kia,Stonic,EX,2022,1,52000,1.0,100,Gasoline,Robotic,FWD,Yellow,80000
+Kia,Niro,EX,2017,2,276000,1.6,141,Hybrid,Robotic,FWD,Grey,46500
+Kia,Sportage,Premium,2022,2,33000,1.6,180,Gasoline,Robotic,FWD,Black,145000
+Kia,Picanto,EX,2020,1,69500,1.2,84,Gasoline,Automatic,FWD,Silver,67000
+Kia,Picanto,EX,2015,2,91000,1.2,85,Gasoline,Automatic,FWD,Red,33000
+Kia,Sportage,Urban,2018,3,130000,1.6,132,Gasoline,Automatic,FWD,Silver,55000
+Kia,Sportage,LX,2008,4,175000,2.7,175,Gasoline,Automatic,AWD,Black,17000
+Kia,Sportage,Urban Top,2021,1,52000,2.0,155,Gasoline,Automatic,FWD,Black,105000
+Kia,Niro Plus,EX,2023,1,79000,1.6,141,Plug,Robotic,FWD,White,145000
+Kia,Picanto,EX,2021,1,69200,1.2,84,Gasoline,Robotic,FWD,Beige,66000
+Kia,Sportage,Urban,2018,1,95500,2.0,155,Gasoline,Automatic,FWD,White,72000
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,2,157154,1.6,136,Diesel,Robotic,FWD,Black,78000
+Kia,Niro,LX Plus,2021,1,98000,1.6,141,Plug,Robotic,FWD,Light blue,110000
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,1,140000,1.6,136,Diesel,Robotic,FWD,Black,90000
+Kia,Niro,LX,2019,2,150000,1.6,141,Hybrid,Robotic,FWD,Grey,76000
+Kia,Niro,LX,2021,2,78000,1.6,141,Plug,Robotic,FWD,White,102000
+Kia,Sportage,EX,2014,2,140000,2.0,163,Gasoline,Automatic,FWD,White,35000
+Kia,Niro,EX,2018,2,202000,1.6,141,Hybrid,Robotic,FWD,White,55000
+Kia,Rio,LX,2016,3,177000,1.4,109,Gasoline,Automatic,FWD,White,22000
+Kia,Stonic,EX,2020,1,62000,1.0,120,Gasoline,Robotic,FWD,Red,68000
+Kia,Picanto,LX,2014,3,119000,1.2,85,Gasoline,Automatic,FWD,Green,29990
+Kia,Stonic,LX,2021,1,136000,1.0,100,Gasoline,Robotic,FWD,Silver,59000
+Kia,Sportage,Urban,2017,2,114000,1.6,132,Gasoline,Automatic,FWD,Beige,59000
+Kia,Picanto,LX,2020,1,88000,1.2,84,Gasoline,Automatic,FWD,Silver,49900
+Kia,Picanto,LX,2016,3,190000,1.2,85,Gasoline,Automatic,FWD,Silver,25000
+Kia,Ceed,LX,2015,3,194000,1.6,135,Gasoline,Robotic,FWD,White,20000
+Kia,Picanto,LX,2022,2,52000,1.2,84,Gasoline,Robotic,FWD,Silver,64990
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,3,104000,1.6,136,Diesel,Robotic,FWD,White,79990
+Kia,Picanto,GT-Line,2019,2,89000,1.2,84,Gasoline,Automatic,FWD,White,62990
+Kia,Niro,EX,2017,2,160000,1.6,141,Hybrid,Robotic,FWD,White,70000
+Kia,Ceed,LX,2017,4,173000,1.6,135,Gasoline,Robotic,FWD,White,17000
+Kia,Niro,LX,2021,2,101800,1.6,141,Plug,Robotic,FWD,White,105000
+Kia,Picanto,LX,2018,2,109000,1.2,84,Gasoline,Automatic,FWD,Silver,50000
+Kia,Picanto,GT-Line,2020,1,44300,1.2,84,Gasoline,Automatic,FWD,Grey,65000
+Kia,Sportage,Urban,2017,3,194000,1.6,132,Gasoline,Automatic,FWD,White,58000
+Kia,Sportage,,2019,4,90000,1.6,132,Gasoline,Manual,FWD,Silver,55000
+Kia,Stonic,,2023,1,9500,1.4,100,Gasoline,Automatic,FWD,Light blue,115000
+Kia,Forte,EX,2010,4,134057,1.6,126,Gasoline,Automatic,FWD,Black,18000
+Kia,Rio,,2014,2,410000,1.4,90,Gasoline,Manual,FWD,White,15000
+Kia,Niro,EX,2022,2,59480,1.6,141,Plug,Robotic,FWD,Light blue,108000
+Kia,Picanto,LX,2022,1,35000,1.2,84,Gasoline,Robotic,FWD,Silver,75000
+Kia,Picanto,LX,2021,1,88000,1.2,84,Gasoline,Robotic,FWD,White,57000
+Kia,Picanto,LX,2021,1,73000,1.2,84,Gasoline,Robotic,FWD,Silver,64000
+Kia,Sportage,Urban,2016,2,148000,1.6,132,Gasoline,Automatic,FWD,Black,50000
+Kia,Picanto,LX,2017,2,159000,1.2,85,Gasoline,Automatic,FWD,Silver,33000
+Kia,Stonic,LX,2020,2,82000,1.0,120,Gasoline,Robotic,FWD,White,62600
+Kia,Sorento,Premium Diesel,2018,1,152000,2.2,200,Diesel,Automatic,AWD,White,120000
+Kia,Optima,,2014,1,148000,1.6,136,Diesel,Automatic,FWD,White,32500
+Kia,Xceed,LX,2021,1,142396,1.4,140,Gasoline,Robotic,FWD,Silver,60000
+Kia,Picanto,GT-Line,2025,1,13000,1.2,79,Gasoline,Robotic,FWD,White,94000
+Kia,Sorento,EX Finish,2022,1,66000,2.5,180,Gasoline,Automatic,FWD,Silver,150000
+Kia,Sportage,LX,2012,2,150000,2.0,163,Gasoline,Automatic,FWD,Black,24000
+Kia,Picanto,LX,2019,2,87000,1.2,84,Gasoline,Automatic,FWD,Silver,53000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,69000,1.6,177,Gasoline,Robotic,FWD,Grey,104990
+Kia,Niro Plus,LX,2023,1,105000,1.6,141,Plug,Robotic,FWD,Silver,103000
+Kia,Niro,Urban,2021,1,37000,1.6,141,Hybrid,Robotic,FWD,White,115000
+Kia,Niro,EX,2019,2,85000,1.6,141,Hybrid,Robotic,FWD,Light blue,72900
+Kia,Sportage,Urban,2020,3,140000,2.0,155,Gasoline,Automatic,FWD,White,77900
+Kia,Niro,EX,2017,1,171000,1.6,141,Hybrid,Robotic,FWD,Silver,59500
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,39000,1.6,177,Gasoline,Robotic,FWD,White,115000
+Kia,Niro,,2018,3,161000,1.6,141,Hybrid,Robotic,FWD,White,80000
+Kia,Picanto,EX,2019,1,34500,1.2,84,Gasoline,Automatic,FWD,Red,69000
+Kia,Sportage,Premium GT,2019,2,104700,1.6,177,Gasoline,Robotic,AWD,White,86000
+Kia,Niro,Urban,2021,1,45000,1.6,141,Hybrid,Robotic,FWD,White,121000
+Kia,Sportage,,2017,3,118200,1.6,132,Gasoline,Automatic,FWD,Grey,52000
+Kia,Niro,EX,2019,1,52000,1.6,141,Hybrid,Robotic,FWD,Grey,109000
+Kia,Niro,EX,2020,1,60000,1.6,141,Hybrid,Robotic,FWD,White,114000
+Kia,Stonic,,2019,1,80000,1.0,120,Gasoline,Robotic,FWD,Grey,75000
+Kia,Picanto,LX,2015,2,140000,1.2,85,Gasoline,Automatic,FWD,Silver,30000
+Kia,Niro,,2018,1,192000,1.6,141,Hybrid,Robotic,FWD,White,63500
+Kia,Niro,LX,2019,2,220000,1.6,141,Hybrid,Robotic,FWD,Light blue,81000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,3,156400,1.6,136,Diesel,Robotic,FWD,Silver,49900
+Kia,Picanto,LX,2021,2,77100,1.2,84,Gasoline,Robotic,FWD,Grey,56900
+Kia,Sportage,Urban,2015,2,259000,1.6,133,Gasoline,Automatic,FWD,Grey,29000
+Kia,Seltos,Urban,2022,2,119000,2.0,149,Gasoline,Variable,FWD,Black,98000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,2,95600,1.6,136,Diesel,Robotic,FWD,Silver,68000
+Kia,Niro,EX,2017,2,149000,1.6,141,Hybrid,Robotic,FWD,White,67000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,2,159000,1.6,136,Diesel,Robotic,FWD,Grey,77700
+Kia,Sportage,Premium GT,2016,2,150000,1.6,177,Gasoline,Robotic,AWD,Black,57900
+Kia,Stonic,LX,2021,2,71000,1.4,100,Gasoline,Automatic,FWD,Silver,62900
+Kia,Ceed,LX,2015,2,177000,1.6,135,Gasoline,Robotic,FWD,White,19000
+Kia,Picanto,GT-Line,2018,2,36500,1.2,84,Gasoline,Automatic,FWD,White,59900
+Kia,Stonic,Urban Plus,2023,1,42000,1.4,100,Gasoline,Automatic,FWD,Black,99500
+Kia,Niro Plus,EX,2022,1,92000,1.6,141,Plug,Robotic,FWD,White,119990
+Kia,Niro,EX,2019,3,127000,1.6,141,Hybrid,Robotic,FWD,White,83000
+Kia,Ceed,LX,2014,3,191000,1.6,135,Gasoline,Robotic,FWD,Silver,17000
+Kia,Sportage,Urban,2016,3,129632,1.6,132,Gasoline,Automatic,FWD,White,52000
+Kia,Niro,EX,2020,2,77000,1.6,141,Plug,Robotic,FWD,Red,100000
+Kia,Seltos,EX,2024,1,26000,2.0,149,Gasoline,Automatic,FWD,Light blue,116000
+Kia,Niro,EX,2020,1,60000,1.6,141,Hybrid,Robotic,FWD,White,114000
+Kia,Stonic,,2019,1,80000,1.0,120,Gasoline,Robotic,FWD,Grey,75000
+Kia,Picanto,LX,2015,2,140000,1.2,85,Gasoline,Automatic,FWD,Silver,30000
+Kia,Sportage,Urban,2017,1,66000,2.0,155,Gasoline,Automatic,FWD,White,80000
+Kia,Carnival,EX,2016,2,201000,3.3,276,Gasoline,Automatic,FWD,Grey,86000
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,1,100000,1.6,136,Diesel,Robotic,FWD,Black,90000
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,2,115000,1.6,136,Diesel,Robotic,FWD,Black,93500
+Kia,Niro,,2017,3,167000,1.6,141,Hybrid,Robotic,FWD,Grey,61800
+Kia,Ceed,,2013,4,240000,1.6,135,Gasoline,Robotic,FWD,Grey,13500
+Kia,Picanto,LX,2014,3,153000,1.2,85,Gasoline,Automatic,FWD,Black,26900
+Kia,Niro,LX Plus,2021,2,147000,1.6,141,Plug,Robotic,FWD,Grey,86000
+Kia,Niro,EX,2018,1,77000,1.6,141,Hybrid,Robotic,FWD,White,79000
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,2,129000,1.6,136,Diesel,Robotic,FWD,Black,85000
+Kia,Ceed,LX,2012,4,186000,1.6,126,Gasoline,Automatic,FWD,White,11950
+Kia,Sorento,Urban,2018,1,200000,2.4,188,Gasoline,Automatic,FWD,White,125000
+Kia,Sportage,Premium,2023,1,25038,2.0,156,Gasoline,Automatic,FWD,White,160000
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,2,94000,1.6,177,Gasoline,Robotic,FWD,Silver,80500
+Kia,Picanto,GT-Line,2020,1,80000,1.2,84,Gasoline,Automatic,FWD,Black,69000
+Kia,Sportage,EX,2013,4,144000,2.0,163,Gasoline,Automatic,FWD,Red,34000
+Kia,Ceed,,2019,3,209058,1.4,140,Gasoline,Robotic,FWD,White,40000
+Kia,Sportage,Premium,2023,2,43000,2.0,156,Gasoline,Automatic,FWD,White,132000
+Kia,Niro Plus,LX,2022,2,20000,1.6,141,Plug,Robotic,FWD,White,126000
+Kia,Picanto,Top,2016,2,150000,1.2,85,Gasoline,Automatic,FWD,Beige,29990
+Kia,Carens,,2008,3,410000,2.0,145,Gasoline,Automatic,FWD,White,6900
+Kia,Niro,EX,2018,2,150000,1.6,141,Hybrid,Robotic,FWD,Grey,67000
+Kia,Sportage,Urban,2022,2,50000,1.6,136,Diesel,Automatic,FWD,White,110000
+Kia,Niro,EX,2019,2,141000,1.6,141,Hybrid,Robotic,FWD,White,73900
+Kia,Sorento,EX Finish,2023,1,63000,2.5,180,Gasoline,Automatic,FWD,Black,275000
+Kia,Picanto,LX,2014,2,160000,1.2,85,Gasoline,Automatic,FWD,Silver,26000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,2,124000,1.6,136,Diesel,Robotic,FWD,White,72500
+Kia,Stonic,GT-Line,2022,1,25000,1.0,100,Gasoline,Robotic,FWD,Black,95000
+Kia,Picanto,GT-Line,2018,2,115000,1.2,84,Gasoline,Automatic,FWD,White,62000
+Kia,Niro,Electro,2022,1,95250,,204,Electro,Automatic,FWD,Blue,129000
+Kia,Ceed,LX,2018,2,170000,1.6,135,Gasoline,Robotic,FWD,White,42000
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,1,100046,1.6,136,Diesel,Robotic,FWD,White,82000
+Kia,Forte,LX,2013,2,188000,1.6,130,Gasoline,Automatic,FWD,White,25000
+Kia,Sportage,Premium,2014,3,122000,2.0,163,Gasoline,Automatic,AWD,Black,59000
+Kia,Sportage,Premium,2023,1,20200,2.0,156,Gasoline,Automatic,FWD,Silver,164000
+Kia,Ceed,LX,2018,3,152000,1.6,135,Gasoline,Robotic,FWD,White,45200
+Kia,Niro,LX,2020,2,176000,1.6,141,Hybrid,Robotic,FWD,Silver,74000
+Kia,Sportage,Urban,2015,3,166000,1.6,133,Gasoline,Automatic,FWD,White,37000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,2,165000,1.6,136,Diesel,Robotic,FWD,Black,75000
+Kia,Sportage,Urban,2017,2,188000,1.6,132,Gasoline,Automatic,FWD,Grey,46500
+Kia,Picanto,LX,2021,2,42000,1.2,84,Gasoline,Robotic,FWD,White,67990
+Kia,Picanto,LX,2019,2,24500,1.2,84,Gasoline,Automatic,FWD,Silver,60000
+Kia,Niro,EX,2020,1,92000,1.6,141,Hybrid,Robotic,FWD,Light Grey,107000
+Kia,Sportage,Urban,2021,1,100000,1.6,177,Gasoline,Robotic,FWD,Grey,90000
+Kia,Sportage,Premium GT,2019,2,110000,1.6,177,Gasoline,Robotic,AWD,Grey,79900
+Kia,Picanto,EX,2019,2,72000,1.2,84,Gasoline,Automatic,FWD,Black,59900
+Kia,Picanto,EX,2020,3,109000,1.2,84,Gasoline,Automatic,FWD,Black,65000
+Kia,Stonic,LX,2020,3,112000,1.0,120,Gasoline,Robotic,FWD,Black,59990
+Kia,Ceed,LX,2019,2,270000,1.6,136,Diesel,Robotic,FWD,White,30000
+Kia,Ceed,LX,2016,3,195000,1.6,135,Gasoline,Robotic,FWD,White,18000
+Kia,Niro,EX,2017,1,199000,1.6,141,Hybrid,Robotic,FWD,Black,65000
+Kia,Optima,Premium,2019,4,235000,1.6,136,Diesel,Robotic,FWD,White,43800
+Kia,Sportage,Premium GT,2019,3,141500,1.6,177,Gasoline,Robotic,AWD,White,79900
+Kia,Picanto,LX,2022,1,104500,1.2,84,Gasoline,Robotic,FWD,White,53000
+Kia,Niro,EX,2018,1,135000,1.6,141,Hybrid,Robotic,FWD,Blue,81000
+Kia,Niro Plus,LX,2023,1,115000,1.6,141,Plug,Robotic,FWD,Black,109900
+Kia,Sorento,EX,2015,2,122000,2.4,188,Gasoline,Automatic,AWD,White,73900
+Kia,Sportage,Premium,2014,3,122000,2.0,163,Gasoline,Automatic,AWD,Black,59000
+Kia,Sportage,Premium,2023,1,20200,2.0,156,Gasoline,Automatic,FWD,Silver,164000
+Kia,Ceed,LX,2018,3,152000,1.6,135,Gasoline,Robotic,FWD,White,45200
+Kia,Niro,LX,2020,2,176000,1.6,141,Hybrid,Robotic,FWD,Silver,74000
+Kia,Niro,EX,2017,1,144000,1.6,141,Hybrid,Robotic,FWD,Grey,75000
+Kia,Picanto,EX,2013,3,120000,1.0,69,Gasoline,Manual,FWD,Silver,18500
+Kia,Picanto,LX,2022,2,24500,1.2,84,Gasoline,Robotic,FWD,White,70000
+Kia,Forte,LX,2011,2,164000,1.6,126,Gasoline,Automatic,FWD,Light Grey,21000
+Kia,Picanto,Sport,2014,2,133000,1.2,85,Gasoline,Automatic,FWD,Red,29000
+Kia,Picanto,LX,2020,1,32000,1.2,84,Gasoline,Automatic,FWD,White,69000
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,65000,1.6,177,Gasoline,Robotic,FWD,White,87900
+Kia,Niro,Urban,2021,1,25000,1.6,141,Hybrid,Robotic,FWD,Light Grey,104900
+Kia,Ceed,LX,2015,3,236000,1.6,135,Gasoline,Robotic,FWD,White,22900
+Kia,Rio,LX,2013,2,190000,1.4,109,Gasoline,Automatic,FWD,Silver,19900
+Kia,Picanto,LX,2013,2,132000,1.2,85,Gasoline,Automatic,FWD,Silver,21088
+Kia,Picanto,LX,2021,3,90000,1.2,84,Gasoline,Robotic,FWD,White,60000
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,88000,1.6,177,Gasoline,Robotic,FWD,White,90000
+Kia,Stonic,LX,2023,2,11600,1.0,100,Gasoline,Robotic,FWD,Grey,95750
+Kia,Stonic,LX,2019,2,79000,1.0,120,Gasoline,Robotic,FWD,Silver,54000
+Kia,Stonic,EX,2018,1,121500,1.0,120,Gasoline,Robotic,FWD,Grey,65000
+Kia,Niro,LX Plus,2021,2,107000,1.6,141,Plug,Robotic,FWD,Grey,93000
+Kia,Sportage,Urban,2017,3,193000,2.0,155,Gasoline,Automatic,FWD,White,53000
+Kia,Seltos,EX,2022,2,47200,2.0,149,Gasoline,Variable,FWD,Black,104000
+Kia,Ceed,LX,2010,3,288450,1.6,126,Gasoline,Automatic,FWD,White,11000
+Kia,Niro,LX,2019,2,170000,1.6,141,Hybrid,Robotic,FWD,Black,79500
+Kia,Niro Plus,GX,2023,1,17000,1.6,141,Hybrid,Robotic,FWD,White,145000
+Kia,Picanto,LX,2020,1,69000,1.2,84,Gasoline,Automatic,FWD,Grey,71000
+Kia,Picanto,GT-Line,2022,3,31400,1.2,84,Gasoline,Robotic,FWD,White,70800
+Kia,Carnival,LX,2020,1,58000,3.3,276,Gasoline,Automatic,FWD,White,145000
+Kia,Niro Plus,EX,2022,1,150000,1.6,141,Plug,Robotic,FWD,Grey,130000
+Kia,Forte,LX,2012,3,153000,1.6,126,Gasoline,Automatic,FWD,White,25000
+Kia,Forte,,2010,3,145000,1.6,126,Gasoline,Automatic,FWD,Silver,18000
+Kia,Picanto,LX,2022,2,7500,1.2,84,Gasoline,Robotic,FWD,White,73000
+Kia,Sportage,Urban Top,2021,1,47000,2.0,155,Gasoline,Automatic,FWD,Silver,108000
+Kia,Sportage,Urban,2015,3,140000,1.6,133,Gasoline,Automatic,FWD,Silver,47000
+Kia,Sportage,Urban,2015,3,150000,1.6,133,Gasoline,Automatic,FWD,White,51000
+Kia,Sportage,Urban,2016,3,58000,1.6,133,Gasoline,Automatic,FWD,Black,60000
+Kia,Carnival,,2007,2,242000,2.7,189,Gasoline,Automatic,FWD,Grey,17000
+Kia,Niro,EX,2019,1,42000,1.6,141,Hybrid,Robotic,FWD,White,115000
+Kia,Xceed,,2021,1,32000,1.4,140,Gasoline,Robotic,FWD,Grey,95000
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,2,216000,1.6,136,Diesel,Robotic,FWD,Silver,57000
+Kia,Ev6,GT Line Top,2024,1,31000,,325,Electro,Automatic,AWD,Grey,225000
+Kia,Picanto,,2016,3,71000,1.2,85,Gasoline,Automatic,FWD,White,35000
+Kia,Niro,LX,2019,1,136000,1.6,141,Hybrid,Robotic,FWD,Blue,79000
+Kia,Picanto,X-Line,2022,1,60000,1.2,84,Gasoline,Robotic,FWD,Silver,75000
+Kia,Niro,EX,2018,3,150000,1.6,141,Hybrid,Robotic,FWD,White,72000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,39500,1.6,177,Gasoline,Robotic,FWD,Black,103000
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,82000,1.6,177,Gasoline,Robotic,FWD,Grey,95000
+Kia,Picanto,GT-Line,2023,1,45000,1.2,84,Gasoline,Robotic,FWD,Grey,85000
+Kia,Ceed,EX,2016,2,580000,1.6,136,Diesel,Robotic,FWD,White,11900
+Kia,Niro,,2021,2,170000,1.6,141,Plug,Robotic,FWD,White,86200
+Kia,Picanto,EX,2019,2,70000,1.2,84,Gasoline,Automatic,FWD,Beige,59000
+Kia,Sportage,,2017,2,110000,1.6,132,Gasoline,Automatic,FWD,White,56000
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,2,64466,1.6,136,Diesel,Robotic,FWD,Silver,85000
+Kia,Picanto,LX,2023,1,30000,1.2,84,Gasoline,Robotic,FWD,Grey,78000
+Kia,Picanto,LX,2013,3,152000,1.2,85,Gasoline,Automatic,FWD,White,25000
+Kia,Sportage,Premium GT,2017,2,92000,1.6,177,Gasoline,Robotic,AWD,White,57000
+Kia,Sportage,,2015,2,201500,1.6,133,Gasoline,Automatic,FWD,Silver,38000
+Kia,Sorento,EX,2016,1,184000,2.4,188,Gasoline,Automatic,FWD,White,70000
+Kia,Stonic,Premium,2019,2,141000,1.0,120,Gasoline,Robotic,FWD,White,67000
+Kia,Rio,LX,2016,2,181000,1.4,109,Gasoline,Automatic,FWD,White,23000
+Kia,Sportage,,2018,3,140000,2.0,155,Gasoline,Automatic,FWD,Black,84500
+Kia,Ceed,LX,2015,3,256000,1.6,135,Gasoline,Robotic,FWD,White,19500
+Kia,Sportage,LX,2009,3,172000,2.7,175,Gasoline,Automatic,AWD,Black,16000
+Kia,Niro,Electro,2022,1,65500,,204,Electro,Automatic,FWD,Light Grey,132000
+Kia,Sportage,Urban,2018,1,78000,1.6,132,Gasoline,Automatic,FWD,Black,71000
+Kia,Niro,LX,2019,2,117000,1.6,141,Hybrid,Robotic,FWD,Black,92500
+Kia,Rio,EX,2009,2,245600,1.4,97,Gasoline,Automatic,FWD,Blue,7100
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,1,61000,1.6,177,Gasoline,Robotic,FWD,White,105000
+Kia,Picanto,LX,2020,1,41000,1.2,84,Gasoline,Automatic,FWD,Bronze,60000
+Kia,Niro,,2024,2,8300,,204,Electro,Automatic,FWD,Black,165000
+Kia,Picanto,GT-Line,2018,1,127000,1.2,84,Gasoline,Automatic,FWD,Silver,55000
+Kia,Picanto,LX,2017,2,99900,1.2,84,Gasoline,Automatic,FWD,White,46000
+Kia,Picanto,EX,2014,3,119589,1.2,85,Gasoline,Automatic,FWD,Silver,22000
+Kia,Picanto,,2019,2,125000,1.2,84,Gasoline,Automatic,FWD,White,55000
+Kia,Picanto,LX,2022,2,35000,1.2,84,Gasoline,Robotic,FWD,Grey,75000
+Kia,Optima,,2017,3,250000,1.7,141,Diesel,Robotic,FWD,White,33000
+Kia,Niro,EX,2021,2,126000,1.6,141,Plug,Robotic,FWD,Blue,110000
+Kia,Picanto,X-Line,2022,1,24000,1.2,84,Gasoline,Robotic,FWD,White,75000
+Kia,Ceed,LX,2019,3,230000,1.4,140,Gasoline,Robotic,FWD,White,42000
+Kia,Sportage,Urban,2017,2,135000,1.6,132,Gasoline,Automatic,FWD,Silver,57000
+Kia,Picanto,X-Line,2022,1,17300,1.2,84,Gasoline,Robotic,FWD,White,71000
+Kia,Rio,EX,2012,4,163000,1.4,109,Gasoline,Automatic,FWD,Silver,23000
+Kia,Stonic,GT-Line,2022,1,26000,1.0,100,Gasoline,Robotic,FWD,White,89990
+Kia,Stonic,LX,2021,2,77000,1.4,100,Gasoline,Automatic,FWD,White,77000
+Kia,Ceed,,2015,2,130000,1.6,135,Gasoline,Robotic,FWD,Light Grey,35000
+Kia,Sorento,,2022,1,30000,2.5,180,Gasoline,Automatic,FWD,White,175000
+Kia,Niro,LX,2019,2,175000,1.6,141,Hybrid,Robotic,FWD,Silver,60000
+Kia,Sportage,Urban,2018,1,166000,1.6,132,Gasoline,Automatic,FWD,Black,62000
+Kia,Sportage,Urban,2015,2,222000,1.6,133,Gasoline,Automatic,FWD,Grey,44400
+Kia,Picanto,LX,2013,2,150000,1.2,85,Gasoline,Automatic,FWD,White,23999
+Kia,Picanto,EX,2015,3,89500,1.2,85,Gasoline,Automatic,FWD,Red,36400
+Kia,Telluride,,2020,1,32000,3.8,295,Gasoline,Automatic,AWD,Black,275000
+Kia,Picanto,EX,2017,2,81000,1.2,84,Gasoline,Automatic,FWD,Red,51000
+Kia,Niro,EX,2020,1,125000,1.6,141,Hybrid,Robotic,FWD,Light blue,114500
+Kia,Ceed,LX,2011,3,240000,1.6,126,Gasoline,Automatic,FWD,White,13100
+Kia,Sportage,Urban,2022,1,31000,2.0,156,Gasoline,Automatic,FWD,Green,139000
+Kia,Rio,GX,2018,4,150000,1.4,100,Gasoline,Automatic,FWD,Black,48000
+Kia,Optima,,2018,1,355000,1.6,136,Diesel,Robotic,FWD,White,35000
+Kia,Picanto,LX,2016,3,155000,1.0,65,Gasoline,Automatic,FWD,Silver,26000
+Kia,Niro,,2022,1,55150,1.6,141,Plug,Robotic,FWD,Grey,138000
+Kia,Niro,EX,2020,2,75000,1.6,141,Hybrid,Robotic,FWD,Grey,105000
+Kia,Sorento,Urban,2022,2,69320,2.5,180,Gasoline,Automatic,FWD,Light blue,148900
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,2,133000,1.6,136,Diesel,Robotic,FWD,White,79000
+Kia,Sportage,Premium GT,2016,2,79000,1.6,177,Gasoline,Robotic,AWD,Beige,75000
+Kia,Sportage,,2013,4,150000,2.0,163,Gasoline,Automatic,FWD,White,48000
+Kia,Sportage,Premium,2023,2,15000,2.0,156,Gasoline,Automatic,FWD,White,144000
+Kia,Niro,EX,2017,4,144000,1.6,141,Hybrid,Robotic,FWD,Silver,58000
+Kia,Picanto,LX,2021,2,108000,1.2,84,Gasoline,Robotic,FWD,White,52000
+Kia,Niro,EX,2019,1,59400,1.6,141,Hybrid,Robotic,FWD,White,106000
+Kia,Stonic,LX,2022,1,15000,1.4,100,Gasoline,Automatic,FWD,Grey,93000
+Kia,Stonic,,2022,1,53000,1.0,100,Gasoline,Robotic,FWD,Grey,85000
+Kia,Rio,LX,2014,3,225000,1.4,109,Gasoline,Automatic,FWD,White,15000
+Kia,Niro,EX,2018,2,133000,1.6,141,Hybrid,Robotic,FWD,White,85000
+Kia,Carens,,2005,3,304500,2.0,139,Gasoline,Automatic,FWD,Silver,5500
+Kia,Stonic,EX,2022,1,52000,1.0,100,Gasoline,Robotic,FWD,Yellow,80000
+Kia,Niro,EX,2017,2,276000,1.6,141,Hybrid,Robotic,FWD,Grey,46500
+Kia,Sportage,Premium,2022,2,33000,1.6,180,Gasoline,Robotic,FWD,Black,145000
+Kia,Picanto,EX,2020,1,69500,1.2,84,Gasoline,Automatic,FWD,Silver,67000
+Kia,Picanto,EX,2015,2,91000,1.2,85,Gasoline,Automatic,FWD,Red,33000
+Kia,Picanto,EX,2013,3,165000,1.2,85,Gasoline,Automatic,FWD,Silver,29500
+Kia,Rio,LX,2013,2,331000,1.4,109,Gasoline,Automatic,FWD,Grey,13000
+Kia,Ev6,GT Line Top,2023,1,26000,,325,Electro,Automatic,AWD,Black,240000
+Kia,Niro,EX,2020,1,100000,1.6,141,Hybrid,Robotic,FWD,White,110000
+Kia,Picanto,LX,2020,2,33000,1.2,84,Gasoline,Automatic,FWD,Silver,62000
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,2,56600,1.6,177,Gasoline,Robotic,FWD,White,95000
+Kia,Sportage,,2018,1,61600,2.0,155,Gasoline,Automatic,FWD,Silver,90200
+Kia,Sportage,Urban,2018,2,85000,1.6,132,Gasoline,Automatic,FWD,Black,75000
+Kia,Niro,EX,2017,3,124000,1.6,141,Hybrid,Robotic,FWD,Blue,71000
+Kia,Picanto,EX,2019,2,138000,1.2,84,Gasoline,Automatic,FWD,White,54000
+Kia,Sportage,Urban,2018,3,130000,1.6,132,Gasoline,Automatic,FWD,Silver,55000
+Kia,Sportage,LX,2008,4,175000,2.7,175,Gasoline,Automatic,AWD,Black,17000
+Kia,Sportage,Urban Top,2021,1,52000,2.0,155,Gasoline,Automatic,FWD,Black,105000
+Kia,Niro Plus,EX,2023,1,79000,1.6,141,Plug,Robotic,FWD,White,145000
+Kia,Picanto,LX,2018,1,146000,1.2,84,Gasoline,Automatic,FWD,Silver,44000
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,3,78000,1.6,177,Gasoline,Robotic,FWD,Grey,95000
+Kia,Seltos,EX Plus,2022,1,51000,2.0,149,Gasoline,Variable,FWD,White,116000
+Kia,Niro,EX,2017,2,160000,1.6,141,Hybrid,Robotic,FWD,White,70000
+Kia,Ceed,LX,2017,4,173000,1.6,135,Gasoline,Robotic,FWD,White,17000
+Kia,Niro,LX,2021,2,101800,1.6,141,Plug,Robotic,FWD,White,105000
+Kia,Picanto,LX,2018,2,109000,1.2,84,Gasoline,Automatic,FWD,Silver,50000
+Kia,Picanto,GT-Line,2020,1,44300,1.2,84,Gasoline,Automatic,FWD,Grey,65000
+Kia,Sportage,Urban,2017,3,194000,1.6,132,Gasoline,Automatic,FWD,White,58000
+Kia,Sportage,,2019,4,90000,1.6,132,Gasoline,Manual,FWD,Silver,55000
+Kia,Stonic,,2023,1,9500,1.4,100,Gasoline,Automatic,FWD,Light blue,115000
+Kia,Forte,EX,2010,4,134057,1.6,126,Gasoline,Automatic,FWD,Black,18000
+Kia,Rio,,2014,2,410000,1.4,90,Gasoline,Manual,FWD,White,15000
+Kia,Niro,EX,2018,1,187000,1.6,141,Hybrid,Robotic,FWD,Silver,65000
+Kia,Ceed,,2018,3,166000,1.6,136,Diesel,Robotic,FWD,White,38000
+Kia,Picanto,,2017,1,162000,1.2,85,Gasoline,Automatic,FWD,White,45000
+Kia,Sportage,Urban,2015,2,91600,1.6,133,Gasoline,Automatic,FWD,Black,54000
+Kia,Sportage,Urban,2019,2,114462,2.0,155,Gasoline,Automatic,FWD,Silver,90000
+Kia,Niro,EX,2019,1,16000,1.6,141,Hybrid,Robotic,FWD,White,112000
+Kia,Sportage,,2021,1,22500,1.6,177,Gasoline,Robotic,FWD,White,119500
+Kia,Sportage,Premium GT,2018,2,99200,1.6,177,Gasoline,Robotic,AWD,Grey,74000
+Kia,Niro,Urban,2021,1,104800,1.6,141,Hybrid,Robotic,FWD,Light blue,107000
+Kia,Forte,LX,2013,2,212000,1.6,130,Gasoline,Automatic,FWD,Silver,22000
+Kia,Forte,LX,2017,2,162000,1.6,130,Gasoline,Automatic,FWD,White,42000
+Kia,Picanto,,2019,1,69663,1.2,84,Gasoline,Automatic,FWD,Black,67500
+Kia,Sportage,Urban,2019,2,119400,2.0,155,Gasoline,Automatic,FWD,Silver,80300
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,39000,1.6,177,Gasoline,Robotic,FWD,White,115000
+Kia,Niro,,2018,3,161000,1.6,141,Hybrid,Robotic,FWD,White,80000
+Kia,Picanto,EX,2019,1,34500,1.2,84,Gasoline,Automatic,FWD,Red,69000
+Kia,Sportage,Premium GT,2019,2,104700,1.6,177,Gasoline,Robotic,AWD,White,86000
+Kia,Niro,Urban,2021,1,45000,1.6,141,Hybrid,Robotic,FWD,White,121000
+Kia,Sportage,,2017,3,118200,1.6,132,Gasoline,Automatic,FWD,Grey,52000
+Kia,Niro,EX,2019,1,52000,1.6,141,Hybrid,Robotic,FWD,Grey,109000
+Kia,Niro,EX,2020,1,60000,1.6,141,Hybrid,Robotic,FWD,White,114000
+Kia,Stonic,,2019,1,80000,1.0,120,Gasoline,Robotic,FWD,Grey,75000
+Kia,Picanto,LX,2015,2,140000,1.2,85,Gasoline,Automatic,FWD,Silver,30000
+Kia,Sportage,Urban,2017,1,66000,2.0,155,Gasoline,Automatic,FWD,White,80000
+Kia,Carnival,EX,2016,2,201000,3.3,276,Gasoline,Automatic,FWD,Grey,86000
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,1,100000,1.6,136,Diesel,Robotic,FWD,Black,90000
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,2,115000,1.6,136,Diesel,Robotic,FWD,Black,93500
+Kia,Niro,,2017,3,167000,1.6,141,Hybrid,Robotic,FWD,Grey,61800
+Kia,Ceed,,2013,4,240000,1.6,135,Gasoline,Robotic,FWD,Grey,13500
+Kia,Picanto,LX,2014,3,153000,1.2,85,Gasoline,Automatic,FWD,Black,26900
+Kia,Sportage,,2024,1,1200,1.6,160,Gasoline,Robotic,FWD,White,172000
+Kia,Niro,LX,2019,2,134000,1.6,141,Hybrid,Robotic,FWD,White,78000
+Kia,Picanto,LX,2015,3,158000,1.2,85,Gasoline,Automatic,FWD,Red,31000
+Kia,Picanto,Sport,2013,2,213800,1.2,85,Gasoline,Automatic,FWD,White,21000
+Kia,Sportage,Urban,2019,2,80600,2.0,155,Gasoline,Automatic,FWD,Black,97777
+Kia,Picanto,EX,2012,2,216000,1.2,85,Gasoline,Automatic,FWD,Silver,20000
+Kia,Sportage,Urban,2017,2,110000,1.6,132,Gasoline,Automatic,FWD,White,61500
+Kia,Sportage,Urban,2016,1,111000,1.6,132,Gasoline,Automatic,FWD,White,58500
+Kia,Niro,EX,2018,1,79300,1.6,141,Hybrid,Robotic,FWD,Light blue,105000
+Kia,Picanto,EX,2017,2,36000,1.2,84,Gasoline,Automatic,FWD,Silver,54000
+Kia,Forte,EX,2010,4,240000,1.6,126,Gasoline,Automatic,FWD,White,15000
+Kia,Sportage,LX,2016,1,122000,2.0,155,Gasoline,Automatic,FWD,Black,65000
+Kia,Niro,EX,2019,2,95500,1.6,141,Hybrid,Robotic,FWD,Black,93000
+Kia,Carnival,,2022,1,155000,3.5,290,Gasoline,Automatic,FWD,Grey,175800
+Kia,Niro,EX,2019,2,122000,1.6,141,Hybrid,Robotic,FWD,White,90000
+Kia,Niro,,2021,2,58200,1.6,141,Hybrid,Robotic,FWD,White,120000
+Kia,Picanto,EX,2013,2,158000,1.2,85,Gasoline,Automatic,FWD,Silver,28000
+Kia,Stonic,GT-Line,2022,1,25000,1.0,100,Gasoline,Robotic,FWD,Black,95000
+Kia,Picanto,GT-Line,2018,2,115000,1.2,84,Gasoline,Automatic,FWD,White,62000
+Kia,Niro,Electro,2022,1,95250,,204,Electro,Automatic,FWD,Blue,129000
+Kia,Ceed,LX,2018,2,170000,1.6,135,Gasoline,Robotic,FWD,White,42000
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,1,100046,1.6,136,Diesel,Robotic,FWD,White,82000
+Kia,Forte,LX,2013,2,188000,1.6,130,Gasoline,Automatic,FWD,White,25000
+Kia,Sportage,Premium,2014,3,122000,2.0,163,Gasoline,Automatic,AWD,Black,59000
+Kia,Sportage,Premium,2023,1,20200,2.0,156,Gasoline,Automatic,FWD,Silver,164000
+Kia,Ceed,LX,2018,3,152000,1.6,135,Gasoline,Robotic,FWD,White,45200
+Kia,Niro,LX,2020,2,176000,1.6,141,Hybrid,Robotic,FWD,Silver,74000
+Kia,Niro,EX,2017,1,144000,1.6,141,Hybrid,Robotic,FWD,Grey,75000
+Kia,Picanto,EX,2013,3,120000,1.0,69,Gasoline,Manual,FWD,Silver,18500
+Kia,Picanto,LX,2022,2,24500,1.2,84,Gasoline,Robotic,FWD,White,70000
+Kia,Forte,LX,2011,2,164000,1.6,126,Gasoline,Automatic,FWD,Light Grey,21000
+Kia,Picanto,Sport,2014,2,133000,1.2,85,Gasoline,Automatic,FWD,Red,29000
+Kia,Picanto,LX,2020,1,32000,1.2,84,Gasoline,Automatic,FWD,White,69000
+Kia,Forte,LX,2012,4,189000,1.6,126,Gasoline,Automatic,FWD,Grey,19000
+Kia,Picanto,LX,2014,2,150000,1.2,85,Gasoline,Automatic,FWD,Silver,26000
+Kia,Picanto,EX,2017,2,36000,1.2,84,Gasoline,Automatic,FWD,Red,53000
+Kia,Niro,EX,2018,2,136000,1.6,141,Hybrid,Robotic,FWD,Black,73000
+Kia,Niro,EX,2022,1,39000,1.6,141,Plug,Robotic,FWD,Light Grey,148000
+Kia,Ceed,LX,2015,2,231000,1.6,135,Gasoline,Robotic,FWD,Silver,25000
+Kia,Niro,EX,2017,2,274668,1.6,141,Hybrid,Robotic,FWD,Blue,65000
+Kia,Sportage,EX,2015,2,149000,2.0,166,Gasoline,Automatic,FWD,Beige,55000
+Kia,Sorento,Urban,2017,2,150000,2.4,188,Gasoline,Automatic,FWD,Silver,75000
+Kia,Sportage,Urban,2015,2,120000,1.6,133,Gasoline,Automatic,FWD,Silver,48000
+Kia,Picanto,EX,2020,1,74000,1.2,84,Gasoline,Automatic,FWD,Grey,65500
+Kia,Ceed,LX,2016,2,149000,1.6,135,Gasoline,Robotic,FWD,Silver,32000
+Kia,Forte,LX,2012,3,140000,1.6,126,Gasoline,Automatic,FWD,Silver,25000
+Kia,Niro,EX,2020,1,81000,1.6,141,Hybrid,Robotic,FWD,Blue,115000
+Kia,Picanto,,2016,3,150000,1.2,85,Gasoline,Manual,FWD,Black,35000
+Kia,Forte,LX,2012,3,153000,1.6,126,Gasoline,Automatic,FWD,White,25000
+Kia,Forte,,2010,3,145000,1.6,126,Gasoline,Automatic,FWD,Silver,18000
+Kia,Picanto,LX,2022,2,7500,1.2,84,Gasoline,Robotic,FWD,White,73000
+Kia,Sportage,Urban Top,2021,1,47000,2.0,155,Gasoline,Automatic,FWD,Silver,108000
+Kia,Sportage,Urban,2015,3,140000,1.6,133,Gasoline,Automatic,FWD,Silver,47000
+Kia,Sportage,Urban,2015,3,150000,1.6,133,Gasoline,Automatic,FWD,White,51000
+Kia,Sportage,Urban,2016,3,58000,1.6,133,Gasoline,Automatic,FWD,Black,60000
+Kia,Carnival,,2007,2,242000,2.7,189,Gasoline,Automatic,FWD,Grey,17000
+Kia,Niro,EX,2019,1,42000,1.6,141,Hybrid,Robotic,FWD,White,115000
+Kia,Xceed,,2021,1,32000,1.4,140,Gasoline,Robotic,FWD,Grey,95000
+Kia,Rio,EX,2012,3,115000,1.4,109,Gasoline,Automatic,FWD,Black,26000
+Kia,Niro,LX,2020,2,119000,1.6,141,Hybrid,Robotic,FWD,White,98500
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,2,69800,1.6,136,Diesel,Robotic,FWD,White,90000
+Kia,Sportage,Urban,2016,3,100000,1.6,133,Gasoline,Automatic,FWD,Grey,55000
+Kia,Rio,LX,2016,2,181000,1.4,109,Gasoline,Automatic,FWD,White,23000
+Kia,Ceed,LX,2016,3,207000,1.6,135,Gasoline,Robotic,FWD,White,25000
+Kia,Picanto,EX,2012,2,193000,1.0,69,Gasoline,Manual,FWD,Silver,14000
+Kia,Ceed,LX,2020,2,150000,1.4,140,Gasoline,Robotic,FWD,Silver,62000
+Kia,Sportage,LX,2011,3,216000,2.0,163,Gasoline,Automatic,FWD,Black,28900
+Kia,Sportage,Premium GT,2018,3,134000,1.6,177,Gasoline,Robotic,AWD,Black,77000
+Kia,Sportage,Urban,2018,2,140000,1.6,132,Gasoline,Automatic,FWD,White,70000
+Kia,Niro,,2020,2,160320,1.6,141,Plug,Robotic,FWD,White,92500
+Kia,Picanto,EX,2015,4,133000,1.2,85,Gasoline,Automatic,FWD,Beige,30000
+Kia,Niro,Urban,2021,1,47800,1.6,141,Hybrid,Robotic,FWD,Blue,120000
+Kia,Picanto,LX,2012,2,220000,1.2,85,Gasoline,Automatic,FWD,White,20000
+Kia,Sportage,,2018,3,140000,2.0,155,Gasoline,Automatic,FWD,Black,84500
+Kia,Ceed,LX,2015,3,256000,1.6,135,Gasoline,Robotic,FWD,White,19500
+Kia,Sportage,LX,2009,3,172000,2.7,175,Gasoline,Automatic,AWD,Black,16000
+Kia,Niro,Electro,2022,1,65500,,204,Electro,Automatic,FWD,Light Grey,132000
+Kia,Sportage,Urban,2018,1,78000,1.6,132,Gasoline,Automatic,FWD,Black,71000
+Kia,Niro,LX,2019,2,117000,1.6,141,Hybrid,Robotic,FWD,Black,92500
+Kia,Rio,EX,2009,2,245600,1.4,97,Gasoline,Automatic,FWD,Blue,7100
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,1,61000,1.6,177,Gasoline,Robotic,FWD,White,105000
+Kia,Picanto,LX,2020,1,41000,1.2,84,Gasoline,Automatic,FWD,Bronze,60000
+Kia,Picanto,LX,2013,2,150000,1.2,85,Gasoline,Automatic,FWD,White,23999
+Kia,Picanto,EX,2015,3,89500,1.2,85,Gasoline,Automatic,FWD,Red,36400
+Kia,Telluride,,2020,1,32000,3.8,295,Gasoline,Automatic,AWD,Black,275000
+Kia,Picanto,EX,2017,2,81000,1.2,84,Gasoline,Automatic,FWD,Red,51000
+Kia,Niro,EX,2020,1,125000,1.6,141,Hybrid,Robotic,FWD,Light blue,114500
+Kia,Ceed,LX,2011,3,240000,1.6,126,Gasoline,Automatic,FWD,White,13100
+Kia,Sportage,Urban,2022,1,31000,2.0,156,Gasoline,Automatic,FWD,Green,139000
+Kia,Rio,GX,2018,4,150000,1.4,100,Gasoline,Automatic,FWD,Black,48000
+Kia,Optima,,2018,1,355000,1.6,136,Diesel,Robotic,FWD,White,35000
+Kia,Picanto,LX,2016,3,155000,1.0,65,Gasoline,Automatic,FWD,Silver,26000
+Kia,Picanto,EX,2013,3,165000,1.2,85,Gasoline,Automatic,FWD,Silver,29500
+Kia,Picanto,,2016,3,84000,1.2,85,Gasoline,Automatic,FWD,Silver,38800
+Kia,Rio,EX,2012,2,168000,1.4,97,Gasoline,Automatic,FWD,White,16000
+Kia,Picanto,LX,2015,2,137000,1.2,85,Gasoline,Automatic,FWD,Silver,33000
+Kia,Niro,EX,2021,1,69000,1.6,141,Plug,Robotic,FWD,White,129000
+Kia,Niro,EX,2017,2,161000,1.6,141,Hybrid,Robotic,FWD,White,78500
+Kia,Sportage,Premium GT,2016,2,130000,1.6,177,Gasoline,Robotic,AWD,White,60000
+Kia,Sportage,,2015,1,96800,2.0,166,Gasoline,Automatic,FWD,Beige,57000
+Kia,Picanto,EX,2019,1,85000,1.2,84,Gasoline,Automatic,FWD,White,65000
+Kia,Picanto,EX,2020,1,21000,1.2,84,Gasoline,Automatic,FWD,Yellow,69900
+Kia,Picanto,EX,2018,1,90000,1.2,84,Gasoline,Automatic,FWD,White,59000
+Kia,Rio,LX,2013,2,331000,1.4,109,Gasoline,Automatic,FWD,Grey,13000
+Kia,Ev6,GT Line Top,2023,1,26000,,325,Electro,Automatic,AWD,Black,240000
+Kia,Niro,EX,2020,1,100000,1.6,141,Hybrid,Robotic,FWD,White,110000
+Kia,Picanto,LX,2020,2,33000,1.2,84,Gasoline,Automatic,FWD,Silver,62000
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,2,56600,1.6,177,Gasoline,Robotic,FWD,White,95000
+Kia,Sportage,,2018,1,61600,2.0,155,Gasoline,Automatic,FWD,Silver,90200
+Kia,Sportage,Urban,2018,2,85000,1.6,132,Gasoline,Automatic,FWD,Black,75000
+Kia,Niro,EX,2017,3,124000,1.6,141,Hybrid,Robotic,FWD,Blue,71000
+Kia,Picanto,EX,2019,2,138000,1.2,84,Gasoline,Automatic,FWD,White,54000
+Kia,Sportage,Urban,2015,2,91600,1.6,133,Gasoline,Automatic,FWD,Black,54000
+Kia,Sportage,Urban,2019,2,114462,2.0,155,Gasoline,Automatic,FWD,Silver,90000
+Kia,Niro,EX,2019,1,16000,1.6,141,Hybrid,Robotic,FWD,White,112000
+Kia,Sportage,,2021,1,22500,1.6,177,Gasoline,Robotic,FWD,White,119500
+Kia,Sportage,Premium GT,2018,2,99200,1.6,177,Gasoline,Robotic,AWD,Grey,74000
+Kia,Niro,Urban,2021,1,104800,1.6,141,Hybrid,Robotic,FWD,Light blue,107000
+Kia,Forte,LX,2013,2,212000,1.6,130,Gasoline,Automatic,FWD,Silver,22000
+Kia,Forte,LX,2017,2,162000,1.6,130,Gasoline,Automatic,FWD,White,42000
+Kia,Picanto,,2019,1,69663,1.2,84,Gasoline,Automatic,FWD,Black,67500
+Kia,Sportage,Urban,2019,2,119400,2.0,155,Gasoline,Automatic,FWD,Silver,80300
+Kia,Picanto,Sport,2013,2,213800,1.2,85,Gasoline,Automatic,FWD,White,21000
+Kia,Picanto,LX,2015,3,108000,1.2,85,Gasoline,Automatic,FWD,Beige,32000
+Kia,Picanto,LX,2021,2,54000,1.2,84,Gasoline,Robotic,FWD,White,62000
+Kia,Ceed,LX,2015,3,210000,1.6,135,Gasoline,Robotic,FWD,Blue,28000
+Kia,Picanto,LX,2022,2,27000,1.2,84,Gasoline,Robotic,FWD,White,71500
+Kia,Seltos,EX,2021,2,37000,2.0,149,Gasoline,Variable,FWD,White,106000
+Kia,Sorento,EX,2012,3,193000,2.4,174,Gasoline,Automatic,AWD,Black,36000
+Kia,Ceed,LX,2019,2,101500,1.4,140,Gasoline,Robotic,FWD,Grey,52000
+Kia,Ceed,LX,2010,3,283000,1.6,126,Gasoline,Automatic,FWD,Blue,7300
+Kia,Sportage,EX,2015,2,210000,2.0,166,Gasoline,Automatic,FWD,Black,56000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,48000,1.6,177,Gasoline,Robotic,FWD,Black,115000
+Kia,Sportage,Urban,2019,2,80600,2.0,155,Gasoline,Automatic,FWD,Black,97777
+Kia,Picanto,EX,2012,2,216000,1.2,85,Gasoline,Automatic,FWD,Silver,20000
+Kia,Sportage,Urban,2017,2,110000,1.6,132,Gasoline,Automatic,FWD,White,61500
+Kia,Sportage,Urban,2016,1,111000,1.6,132,Gasoline,Automatic,FWD,White,58500
+Kia,Niro,EX,2018,1,79300,1.6,141,Hybrid,Robotic,FWD,Light blue,105000
+Kia,Picanto,EX,2017,2,36000,1.2,84,Gasoline,Automatic,FWD,Silver,54000
+Kia,Forte,EX,2010,4,240000,1.6,126,Gasoline,Automatic,FWD,White,15000
+Kia,Sportage,LX,2016,1,122000,2.0,155,Gasoline,Automatic,FWD,Black,65000
+Kia,Niro,EX,2019,2,95500,1.6,141,Hybrid,Robotic,FWD,Black,93000
+Kia,Forte,LX,2012,4,189000,1.6,126,Gasoline,Automatic,FWD,Grey,19000
+Kia,Picanto,LX,2014,2,150000,1.2,85,Gasoline,Automatic,FWD,Silver,26000
+Kia,Picanto,EX,2017,2,36000,1.2,84,Gasoline,Automatic,FWD,Red,53000
+Kia,Niro,EX,2018,2,136000,1.6,141,Hybrid,Robotic,FWD,Black,73000
+Kia,Niro,EX,2022,1,39000,1.6,141,Plug,Robotic,FWD,Light Grey,148000
+Kia,Ceed,LX,2015,2,231000,1.6,135,Gasoline,Robotic,FWD,Silver,25000
+Kia,Niro,EX,2017,2,274668,1.6,141,Hybrid,Robotic,FWD,Blue,65000
+Kia,Sportage,EX,2015,2,149000,2.0,166,Gasoline,Automatic,FWD,Beige,55000
+Kia,Sorento,Urban,2017,2,150000,2.4,188,Gasoline,Automatic,FWD,Silver,75000
+Kia,Sportage,Urban,2015,2,120000,1.6,133,Gasoline,Automatic,FWD,Silver,48000
+Kia,Ceed,LX,2016,3,207000,1.6,135,Gasoline,Robotic,FWD,White,25000
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,3,66400,1.6,177,Gasoline,Robotic,FWD,White,85000
+Kia,Rio,LX,2012,2,200000,1.4,109,Gasoline,Automatic,FWD,Silver,17600
+Kia,Niro,EX,2018,2,127000,1.6,141,Hybrid,Robotic,FWD,White,86000
+Kia,Seltos,EX,2021,1,32000,2.0,149,Gasoline,Variable,FWD,Black,107000
+Kia,Sportage,Urban,2019,2,62000,2.0,155,Gasoline,Automatic,FWD,Black,95000
+Kia,Xceed,,2021,2,20000,1.4,140,Gasoline,Robotic,FWD,White,95000
+Kia,Sportage,Urban,2017,2,77000,1.6,132,Gasoline,Automatic,FWD,White,64000
+Kia,Xceed,EX,2021,1,47800,1.4,140,Gasoline,Robotic,FWD,White,104000
+Kia,Picanto,EX,2018,1,5900,1.2,84,Gasoline,Automatic,FWD,White,65000
+Kia,Carnival,LX,2008,2,230000,2.7,189,Gasoline,Automatic,FWD,White,20000

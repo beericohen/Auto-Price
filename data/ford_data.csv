@@ -1,286 +1,286 @@
-manufacturer,model,year,price,hand,fuel,engine_liters,horsepower,transmission,mileage
-Ford,Focus,2012,10900,3,gasoline,1.6,125.0,robotic,196000
-Ford,Focus,2011,12900,3,gasoline,1.6,125.0,robotic,192000
-Ford,Focus,2012,9800,3,gasoline,1.6,125.0,robotic,175000
-Ford,Kuga,2017,45900,2,gasoline,1.5,182.0,automatic,114000
-Ford,Focus,2021,60000,2,gasoline,1.5,182.0,automatic,174000
-Ford,Kuga,2016,29900,2,gasoline,1.5,182.0,automatic,136000
-Ford,Puma,2023,88952,1,gasoline,1.0,125.0,robotic,57500
-Ford,Kuga,2014,38000,2,gasoline,1.6,182.0,automatic,99550
-Ford,S Max,2013,15300,4,gasoline,2.0,203.0,robotic,195600
-Ford,Kuga,2016,30000,3,gasoline,1.5,182.0,automatic,177000
-Ford,Focus,2020,40000,2,gasoline,1.5,182.0,automatic,163000
-Ford,Focus,2017,25500,1,gasoline,1.5,150.0,automatic,98000
-Ford,Focus,2009,4500,4,gasoline,1.6,100.0,automatic,236000
-Ford,Kuga,2020,52500,2,gasoline,1.5,175.0,automatic,129000
-Ford,Focus,2014,14900,3,gasoline,1.6,125.0,robotic,160000
-Ford,Explorer,2021,163900,1,gasoline,2.3,300.0,automatic,78000
-Ford,Focus,2012,15000,2,gasoline,1.6,125.0,robotic,230000
-Ford,Focus,2012,10000,3,gasoline,1.6,125.0,robotic,160000
-Ford,Mustang Mach E,2023,209000,1,electro,,,automatic,85000
-Ford,Edge,2011,37500,3,gasoline,3.5,285.0,automatic,232000
-Ford,Transit,2017,40000,1,diesel,2.0,130.0,manual,550000
-Ford,Mustang,2022,244000,1,gasoline,5.0,460.0,automatic,34000
-Ford,Mondeo,2009,5000,3,gasoline,2.3,161.0,automatic,256000
-Ford,Tourneo Connect,2009,13500,2,diesel,1.8,90.0,manual,250000
-Ford,Focus,2012,13900,3,gasoline,1.6,125.0,robotic,142600
-Ford,Focus,2012,15500,2,gasoline,1.6,125.0,manual,250000
-Ford,Focus,2010,7500,2,gasoline,1.6,100.0,automatic,285000
-Ford,Mondeo,2012,20000,3,gasoline,2.0,202.0,robotic,202000
-Ford,Focus,2011,12500,3,gasoline,1.6,125.0,robotic,287000
-Ford,Focus,2012,8500,2,gasoline,1.6,125.0,robotic,179000
-Ford,Transit,2017,40000,1,diesel,2.0,130.0,manual,550000
-Ford,Mustang,2022,244000,1,gasoline,5.0,460.0,automatic,34000
-Ford,Edge,2012,36990,2,gasoline,3.5,285.0,automatic,166000
-Ford,Focus,2012,10000,3,gasoline,1.6,125.0,robotic,150000
-Ford,Kuga,2019,49990,2,gasoline,1.5,175.0,automatic,129000
-Ford,Focus,2017,9990,3,gasoline,1.5,150.0,automatic,263000
-Ford,Mondeo,2009,5000,3,gasoline,2.3,161.0,automatic,256000
-Ford,Focus,2021,59900,1,gasoline,1.5,182.0,automatic,123000
-Ford,Edge,2016,49900,3,gasoline,3.5,285.0,automatic,175500
-Ford,Tourneo Connect,2009,13500,2,diesel,1.8,90.0,manual,250000
-Ford,Focus,2012,13900,3,gasoline,1.6,125.0,robotic,142600
-Ford,Focus,2012,15500,2,gasoline,1.6,125.0,manual,250000
-Ford,Focus,2010,7500,2,gasoline,1.6,100.0,automatic,285000
-Ford,F 350,2019,84990,3,diesel,6.7,440.0,automatic,212000
-Ford,Mustang,2019,145000,3,gasoline,2.3,310.0,automatic,138000
-Ford,Mondeo,2012,20000,3,gasoline,2.0,202.0,robotic,202000
-Ford,Mustang,2021,185000,2,gasoline,2.3,310.0,automatic,95000
-Ford,Kuga,2017,46900,2,gasoline,1.5,182.0,automatic,113000
-Ford,Edge,2017,64900,2,gasoline,3.5,285.0,automatic,167900
-Ford,Explorer,2016,64900,2,gasoline,3.5,290.0,automatic,188000
-Ford,Focus,2011,12500,3,gasoline,1.6,125.0,robotic,287000
-Ford,Focus,2012,8500,2,gasoline,1.6,125.0,robotic,179000
-Ford,Focus,2013,10000,4,gasoline,1.6,125.0,robotic,165500
-Ford,Focus,2013,11000,3,gasoline,2.0,170.0,robotic,230000
-Ford,Focus,2007,4000,2,gasoline,1.6,100.0,automatic,150000
-Ford,Focus,2011,10000,3,gasoline,1.6,125.0,robotic,340000
-Ford,Fiesta,2013,10000,4,gasoline,1.6,105.0,robotic,195000
-Ford,Focus,2011,32000,3,gasoline,1.6,125.0,robotic,170000
-Ford,Mondeo,2011,17000,3,gasoline,2.3,161.0,automatic,151810
-Ford,S Max,2013,25000,3,gasoline,2.0,203.0,robotic,230000
-Ford,Focus,2011,12500,3,gasoline,1.6,125.0,robotic,287000
-Ford,Focus,2012,8500,2,gasoline,1.6,125.0,robotic,179000
-Ford,Focus,2013,10000,4,gasoline,1.6,125.0,robotic,165500
-Ford,Focus,2013,11000,3,gasoline,2.0,170.0,robotic,230000
-Ford,Focus,2007,4000,2,gasoline,1.6,100.0,automatic,150000
-Ford,Explorer,2018,109900,3,gasoline,3.5,290.0,automatic,84500
-Ford,Focus,2014,13500,2,gasoline,1.6,125.0,robotic,237000
-Ford,Kuga,2015,34900,4,gasoline,1.5,182.0,automatic,160000
-Ford,Focus,2011,10000,3,gasoline,1.6,125.0,robotic,340000
-Ford,Fiesta,2013,10000,4,gasoline,1.6,105.0,robotic,195000
-Ford,Focus,2011,32000,3,gasoline,1.6,125.0,robotic,170000
-Ford,Mondeo,2011,17000,3,gasoline,2.3,161.0,automatic,151810
-Ford,S Max,2013,25000,3,gasoline,2.0,203.0,robotic,230000
-Ford,Focus,2012,13000,3,gasoline,1.6,125.0,robotic,200000
-Ford,Focus,2011,10500,3,gasoline,1.6,125.0,robotic,167000
-Ford,Kuga,2018,49000,3,gasoline,1.5,182.0,automatic,113400
-Ford,Focus,2013,15000,3,gasoline,1.6,125.0,robotic,184000
-Ford,Kuga,2019,50000,2,gasoline,1.5,175.0,automatic,145000
-Ford,Kuga,2013,32000,1,gasoline,1.6,182.0,automatic,202000
-Ford,Mondeo,2011,8000,4,gasoline,2.3,161.0,automatic,230000
-Ford,Focus,2012,13000,3,gasoline,2.0,170.0,robotic,225000
-Ford,Mondeo,2008,7500,4,gasoline,2.3,161.0,automatic,195000
-Ford,Focus,2014,16000,4,gasoline,1.6,125.0,robotic,194000
-Ford,Galaxy,2015,34500,3,gasoline,2.0,203.0,robotic,202200
-Ford,Mondeo,2010,6000,4,gasoline,2.3,161.0,automatic,265471
-Ford,Focus,2012,14000,3,gasoline,1.6,125.0,robotic,116000
-Ford,Fiesta,2011,7500,4,gasoline,1.4,96.0,automatic,202000
-Ford,Focus,2013,15000,4,gasoline,2.0,170.0,robotic,188000
-Ford,Edge,2014,30000,1,gasoline,2.0,240.0,automatic,220000
-Ford,Kuga,2018,57000,2,gasoline,1.5,182.0,automatic,85000
-Ford,Galaxy,2010,13500,2,gasoline,2.3,161.0,automatic,160000
-Ford,Explorer,2015,57000,3,gasoline,3.5,290.0,automatic,204000
-Ford,Focus,2012,13000,3,gasoline,2.0,170.0,robotic,225000
-Ford,Mondeo,2008,7500,4,gasoline,2.3,161.0,automatic,195000
-Ford,Focus,2014,16000,4,gasoline,1.6,125.0,robotic,194000
-Ford,Galaxy,2015,34500,3,gasoline,2.0,203.0,robotic,202200
-Ford,Mondeo,2010,6000,4,gasoline,2.3,161.0,automatic,265471
-Ford,Focus,2012,14000,3,gasoline,1.6,125.0,robotic,116000
-Ford,Fiesta,2011,7500,4,gasoline,1.4,96.0,automatic,202000
-Ford,Focus,2013,15000,4,gasoline,2.0,170.0,robotic,188000
-Ford,Edge,2014,30000,1,gasoline,2.0,240.0,automatic,220000
-Ford,Kuga,2018,57000,2,gasoline,1.5,182.0,automatic,85000
-Ford,Kuga,2017,55000,2,gasoline,1.5,182.0,automatic,170000
-Ford,Focus,2012,15000,4,gasoline,2.0,170.0,robotic,167479
-Ford,Focus,2008,6500,2,gasoline,1.6,100.0,automatic,235000
-Ford,Focus,2011,9000,3,gasoline,1.6,125.0,robotic,188000
-Ford,Focus,2013,15555,3,gasoline,1.6,125.0,robotic,221145
-Ford,Focus,2010,8500,2,gasoline,1.6,100.0,automatic,230000
-Ford,Focus,2012,11000,1,gasoline,1.6,125.0,robotic,180000
-Ford,Edge,2013,29800,4,gasoline,3.5,285.0,automatic,248968
-Ford,Kuga,2018,49000,3,gasoline,1.5,182.0,automatic,113400
-Ford,Focus,2013,15000,3,gasoline,1.6,125.0,robotic,184000
-Ford,Kuga,2019,50000,2,gasoline,1.5,175.0,automatic,145000
-Ford,Kuga,2013,32000,1,gasoline,1.6,182.0,automatic,202000
-Ford,Mondeo,2011,8000,4,gasoline,2.3,161.0,automatic,230000
-Ford,S Max,2012,9000,2,gasoline,2.0,203.0,robotic,130000
-Ford,Focus,2013,12000,4,gasoline,1.6,125.0,robotic,256000
-Ford,Focus,2013,9500,3,gasoline,1.6,125.0,robotic,230000
-Ford,Focus,2016,25000,2,gasoline,1.5,150.0,automatic,185000
-Ford,Focus,2013,17000,2,gasoline,1.6,125.0,robotic,199000
-Ford,S Max,2012,9000,2,gasoline,2.0,203.0,robotic,130000
-Ford,Focus,2013,12000,4,gasoline,1.6,125.0,robotic,256000
-Ford,Focus,2013,9500,3,gasoline,1.6,125.0,robotic,230000
-Ford,Focus,2016,25000,2,gasoline,1.5,150.0,automatic,185000
-Ford,Focus,2013,17000,2,gasoline,1.6,125.0,robotic,199000
-Ford,Tourneo Connect,2009,15000,2,diesel,1.8,90.0,manual,334000
-Ford,Fiesta,2011,13000,1,gasoline,1.4,96.0,automatic,180000
-Ford,Explorer,2019,169000,3,gasoline,3.5,294.0,automatic,67000
-Ford,Kuga,2020,82750,1,gasoline,1.5,175.0,automatic,97000
-Ford,S Max,2012,15000,4,gasoline,2.0,203.0,robotic,205000
-Ford,Focus,2012,16200,2,gasoline,1.6,125.0,robotic,159900
-Ford,Mondeo,2008,8000,4,gasoline,2.3,161.0,automatic,180000
-Ford,Focus,2012,13500,2,gasoline,1.6,125.0,robotic,194000
-Ford,Mustang,2009,80000,4,gasoline,4.0,210.0,automatic,150000
-Ford,Focus,2012,20000,3,gasoline,1.6,125.0,robotic,139000
-Ford,Mustang,2020,205000,3,gasoline,2.3,330.0,automatic,80000
-Ford,Focus,2013,13000,4,gasoline,1.6,125.0,robotic,200000
-Ford,Focus,2013,13500,4,gasoline,1.6,125.0,robotic,226020
-Ford,Fiesta,2012,9500,3,gasoline,1.2,82.0,manual,165000
-Ford,Edge,2016,68100,1,gasoline,2.0,245.0,automatic,193000
-Ford,Galaxy,2015,34500,3,gasoline,2.0,203.0,robotic,202200
-Ford,Mondeo,2010,6000,4,gasoline,2.3,161.0,automatic,265471
-Ford,Focus,2012,14000,3,gasoline,1.6,125.0,robotic,116000
-Ford,Fiesta,2011,7500,4,gasoline,1.4,96.0,automatic,202000
-Ford,Focus,2013,15000,4,gasoline,2.0,170.0,robotic,188000
-Ford,Edge,2014,30000,1,gasoline,2.0,240.0,automatic,220000
-Ford,Kuga,2018,57000,2,gasoline,1.5,182.0,automatic,85000
-Ford,Kuga,2017,55000,2,gasoline,1.5,182.0,automatic,170000
-Ford,Focus,2012,15000,4,gasoline,2.0,170.0,robotic,167479
-Ford,Focus,2008,6500,2,gasoline,1.6,100.0,automatic,235000
-Ford,Fiesta,2014,13100,2,gasoline,1.6,105.0,robotic,230000
-Ford,Mustang,2023,340000,1,gasoline,3.7,305.0,automatic,15000
-Ford,Focus,2011,12000,2,gasoline,1.6,100.0,automatic,130000
-Ford,Focus,2007,8200,3,gasoline,1.6,100.0,automatic,290000
-Ford,Explorer,2013,70000,4,gasoline,3.5,290.0,automatic,190000
-Ford,Edge,2017,86000,2,gasoline,2.0,245.0,automatic,113000
-Ford,Focus,2013,10000,2,gasoline,1.6,125.0,robotic,225000
-Ford,Mustang,2019,175000,3,gasoline,2.3,310.0,automatic,90000
-Ford,Mustang,2018,165000,2,gasoline,2.3,310.0,automatic,80000
-Ford,F 350,2016,70000,1,diesel,6.7,440.0,automatic,198000
-Ford,Focus,2008,11111,3,gasoline,1.6,100.0,automatic,293000
-Ford,Focus,2016,23000,2,gasoline,1.5,150.0,automatic,212000
-Ford,Galaxy,2011,17000,2,gasoline,2.3,161.0,automatic,159000
-Ford,Fiesta,2009,7000,3,gasoline,1.4,96.0,automatic,190000
-Ford,Focus,2006,5800,3,gasoline,1.6,100.0,automatic,179000
-Ford,Focus,2022,93000,1,gasoline,1.5,182.0,automatic,11500
-Ford,Explorer,2012,62000,2,gasoline,3.5,290.0,automatic,260000
-Ford,Mondeo,2011,17500,4,gasoline,2.0,240.0,robotic,150200
-Ford,Explorer,2014,81000,2,gasoline,3.5,290.0,automatic,160000
-Ford,Focus,2017,32000,2,gasoline,1.5,150.0,automatic,142000
-Ford,Focus,2011,9000,3,gasoline,1.6,125.0,robotic,188000
-Ford,Focus,2013,15555,3,gasoline,1.6,125.0,robotic,221145
-Ford,Focus,2010,8500,2,gasoline,1.6,100.0,automatic,230000
-Ford,Focus,2012,11000,1,gasoline,1.6,125.0,robotic,180000
-Ford,Edge,2013,29800,4,gasoline,3.5,285.0,automatic,248968
-Ford,S Max,2012,9000,2,gasoline,2.0,203.0,robotic,130000
-Ford,Focus,2013,12000,4,gasoline,1.6,125.0,robotic,256000
-Ford,Focus,2013,9500,3,gasoline,1.6,125.0,robotic,230000
-Ford,Focus,2016,25000,2,gasoline,1.5,150.0,automatic,185000
-Ford,Focus,2013,17000,2,gasoline,1.6,125.0,robotic,199000
-Ford,Kuga,2013,28000,3,gasoline,1.5,182.0,automatic,133000
-Ford,Focus,2007,5000,3,gasoline,1.6,100.0,automatic,214000
-Ford,Focus,2013,10000,2,gasoline,1.6,125.0,robotic,185000
-Ford,Focus,2013,11000,2,gasoline,1.6,125.0,robotic,230000
-Ford,Focus,2008,7000,3,gasoline,1.6,100.0,automatic,290000
-Ford,F 350,2018,100000,2,diesel,6.7,440.0,automatic,300000
-Ford,Focus,2012,15000,3,gasoline,1.6,125.0,robotic,145000
-Ford,Focus,2008,8300,4,gasoline,1.6,100.0,automatic,162000
-Ford,S Max,2011,17000,2,gasoline,2.3,161.0,automatic,256000
-Ford,Focus,2014,13000,3,gasoline,1.6,125.0,robotic,186000
-Ford,Edge,2016,90000,1,gasoline,3.5,285.0,automatic,125000
-Ford,Focus,2012,7000,3,gasoline,1.6,125.0,robotic,223000
-Ford,Kuga,2018,60000,2,gasoline,1.5,182.0,automatic,127000
-Ford,Focus,2008,5900,3,gasoline,1.6,100.0,automatic,280000
-Ford,Fiesta,2014,18000,1,gasoline,1.6,105.0,robotic,185000
-Ford,Edge,2017,97000,1,gasoline,2.0,245.0,automatic,54000
-Ford,Focus,2012,11500,3,gasoline,1.6,125.0,robotic,220000
-Ford,Galaxy,2014,18500,2,gasoline,2.0,203.0,robotic,261000
-Ford,F 250,2020,160000,2,diesel,,,automatic,135000
-Ford,Focus,2008,8500,2,gasoline,1.6,100.0,automatic,225000
-Ford,Tourneo Connect,2009,15000,2,diesel,1.8,90.0,manual,334000
-Ford,Fiesta,2011,13000,1,gasoline,1.4,96.0,automatic,180000
-Ford,Explorer,2019,169000,3,gasoline,3.5,294.0,automatic,67000
-Ford,Kuga,2020,82750,1,gasoline,1.5,175.0,automatic,97000
-Ford,S Max,2012,15000,4,gasoline,2.0,203.0,robotic,205000
-Ford,Focus,2012,16200,2,gasoline,1.6,125.0,robotic,159900
-Ford,Mondeo,2008,8000,4,gasoline,2.3,161.0,automatic,180000
-Ford,Focus,2012,13500,2,gasoline,1.6,125.0,robotic,194000
-Ford,Mustang,2009,80000,4,gasoline,4.0,210.0,automatic,150000
-Ford,Focus,2012,20000,3,gasoline,1.6,125.0,robotic,139000
-Ford,Kuga,2017,45000,2,gasoline,1.5,182.0,automatic,177000
-Ford,Focus,2011,10000,2,gasoline,1.6,125.0,robotic,189964
-Ford,Mondeo,2013,15900,3,gasoline,2.0,200.0,robotic,203900
-Ford,Edge,2011,45000,2,gasoline,3.5,285.0,automatic,160000
-Ford,Focus,2009,8500,1,gasoline,1.6,100.0,automatic,190000
-Ford,S Max,2014,23100,4,gasoline,2.0,203.0,robotic,228000
-Ford,Focus,2008,9500,3,gasoline,1.6,100.0,automatic,195000
-Ford,Focus,2016,32000,3,gasoline,1.5,150.0,automatic,180000
-Ford,F 350,2017,100000,1,diesel,6.7,440.0,automatic,230000
-Ford,Edge,2018,120000,2,gasoline,3.5,285.0,automatic,107000
-Ford,Edge,2019,120000,1,gasoline,2.0,245.0,automatic,100000
-Ford,Mustang,2022,265000,1,gasoline,2.3,310.0,automatic,7000
-Ford,Edge,2017,99000,2,gasoline,3.5,285.0,automatic,93124
-Ford,Kuga,2017,43000,3,gasoline,1.5,182.0,automatic,186000
-Ford,Mondeo,2008,6000,4,gasoline,2.3,161.0,automatic,150000
-Ford,Kuga,2018,51000,2,gasoline,1.5,182.0,automatic,152000
-Ford,Focus,2012,17000,1,gasoline,2.0,170.0,robotic,176000
-Ford,Focus,2014,11000,3,gasoline,1.6,125.0,robotic,237000
-Ford,Focus,2006,7000,3,gasoline,1.6,100.0,automatic,197100
-Ford,Fiesta,2013,14970,3,gasoline,1.6,105.0,robotic,185000
-Ford,Mustang,2020,205000,3,gasoline,2.3,330.0,automatic,80000
-Ford,Focus,2013,13000,4,gasoline,1.6,125.0,robotic,200000
-Ford,Focus,2013,13500,4,gasoline,1.6,125.0,robotic,226020
-Ford,Fiesta,2012,9500,3,gasoline,1.2,82.0,manual,165000
-Ford,Edge,2016,68100,1,gasoline,2.0,245.0,automatic,193000
-Ford,Fiesta,2014,13100,2,gasoline,1.6,105.0,robotic,230000
-Ford,Mustang,2023,340000,1,gasoline,3.7,305.0,automatic,15000
-Ford,Focus,2011,12000,2,gasoline,1.6,100.0,automatic,130000
-Ford,Focus,2007,8200,3,gasoline,1.6,100.0,automatic,290000
-Ford,Explorer,2013,70000,4,gasoline,3.5,290.0,automatic,190000
-Ford,Mondeo,2010,11000,3,gasoline,2.3,161.0,automatic,240000
-Ford,Fiesta,2009,10500,3,gasoline,1.4,96.0,automatic,182000
-Ford,Focus,2011,16000,3,gasoline,1.6,125.0,robotic,180000
-Ford,Focus,2012,14000,3,gasoline,1.6,125.0,robotic,199000
-Ford,Focus,2013,17200,2,gasoline,2.0,170.0,robotic,159000
-Ford,Explorer,2017,120000,1,gasoline,3.5,290.0,automatic,179269
-Ford,Explorer,2016,105000,2,gasoline,3.5,290.0,automatic,119000
-Ford,Focus,2016,35500,2,gasoline,1.5,150.0,automatic,170000
-Ford,Kuga,2019,72500,1,gasoline,1.5,175.0,automatic,60000
-Ford,Galaxy,2009,5000,3,gasoline,2.3,161.0,automatic,243000
-Ford,Focus,2016,19500,2,gasoline,1.5,150.0,automatic,240000
-Ford,Mustang,2016,159900,1,gasoline,2.3,309.0,manual,99000
-Ford,Fiesta,2010,11000,3,gasoline,1.4,96.0,automatic,166000
-Ford,Explorer,2016,79900,3,gasoline,3.5,290.0,automatic,130000
-Ford,Fiesta,2013,22000,1,gasoline,1.6,105.0,robotic,140000
-Ford,Focus,2013,4000,3,gasoline,1.6,125.0,robotic,340000
-Ford,Focus,2006,4000,3,gasoline,1.6,100.0,automatic,210000
-Ford,Focus,2003,20000,2,gasoline,1.6,102.0,automatic,200000
-Ford,Focus,2013,11500,4,gasoline,1.6,125.0,robotic,251000
-Ford,Focus,2013,7000,3,gasoline,1.6,125.0,robotic,148000
-Ford,Edge,2017,86000,2,gasoline,2.0,245.0,automatic,113000
-Ford,Focus,2013,10000,2,gasoline,1.6,125.0,robotic,225000
-Ford,Mustang,2019,175000,3,gasoline,2.3,310.0,automatic,90000
-Ford,Mustang,2018,165000,2,gasoline,2.3,310.0,automatic,80000
-Ford,F 350,2016,70000,1,diesel,6.7,440.0,automatic,198000
-Ford,Focus,2008,11111,3,gasoline,1.6,100.0,automatic,293000
-Ford,Focus,2016,23000,2,gasoline,1.5,150.0,automatic,212000
-Ford,Galaxy,2011,17000,2,gasoline,2.3,161.0,automatic,159000
-Ford,Fiesta,2009,7000,3,gasoline,1.4,96.0,automatic,190000
-Ford,Focus,2006,5800,3,gasoline,1.6,100.0,automatic,179000
-Ford,Focus,2010,7500,2,gasoline,1.6,100.0,automatic,330000
-Ford,Edge,2009,27000,2,gasoline,3.5,265.0,automatic,70000
-Ford,Focus,2008,8000,1,gasoline,1.6,100.0,automatic,153000
-Ford,Focus,2013,19000,3,gasoline,1.6,125.0,robotic,207000
-Ford,Puma,2021,82800,1,gasoline,1.0,125.0,robotic,42000
-Ford,Focus,2022,93000,1,gasoline,1.5,182.0,automatic,11500
-Ford,Explorer,2012,62000,2,gasoline,3.5,290.0,automatic,260000
-Ford,Mondeo,2011,17500,4,gasoline,2.0,240.0,robotic,150200
-Ford,Explorer,2014,81000,2,gasoline,3.5,290.0,automatic,160000
-Ford,Focus,2017,32000,2,gasoline,1.5,150.0,automatic,142000
-Ford,Kuga,2013,28000,3,gasoline,1.5,182.0,automatic,133000
-Ford,Focus,2007,5000,3,gasoline,1.6,100.0,automatic,214000
-Ford,Focus,2013,10000,2,gasoline,1.6,125.0,robotic,185000
-Ford,Focus,2013,11000,2,gasoline,1.6,125.0,robotic,230000
-Ford,Focus,2008,7000,3,gasoline,1.6,100.0,automatic,290000
+manufacturer,model,submodel,year,hand,mileage,engine_liters,horsepower,fuel,transmission,drive_type,body_color,price
+Ford,Focus,Trend,2011,3,192000,1.6,125,Gasoline,Robotic,FWD,Black,12900
+Ford,Focus,Trend,2012,3,196000,1.6,125,Gasoline,Robotic,FWD,White,10900
+Ford,Focus,Trend,2012,3,175000,1.6,125,Gasoline,Robotic,FWD,Silver,9800
+Ford,Kuga,Trend X,2017,2,114000,1.5,182,Gasoline,Automatic,FWD,Grey,45900
+Ford,Kuga,Titanium,2014,2,99550,1.6,182,Gasoline,Automatic,AWD,White,38000
+Ford,Kuga,Trend,2016,2,136000,1.5,182,Gasoline,Automatic,FWD,Grey,29900
+Ford,Puma,,2023,1,57500,1.0,125,Gasoline,Robotic,FWD,White,88952
+Ford,Focus,Trend,2014,3,187000,1.6,125,Gasoline,Robotic,FWD,Grey,21000
+Ford,S Max,Trend,2013,4,195600,2.0,203,Gasoline,Robotic,FWD,Silver,15300
+Ford,Focus,ST-Line,2021,2,174000,1.5,182,Gasoline,Automatic,FWD,Black,60000
+Ford,Focus,Active Tourer,2020,2,163000,1.5,182,Gasoline,Automatic,FWD,Black,40000
+Ford,Focus,Titanium,2017,1,98000,1.5,150,Gasoline,Automatic,FWD,Grey,25500
+Ford,Focus,Trend,2009,4,236000,1.6,100,Gasoline,Automatic,FWD,White,4500
+Ford,Kuga,Trend X,2020,2,129000,1.5,175,Gasoline,Automatic,FWD,White,52500
+Ford,Focus,Trend,2014,3,160000,1.6,125,Gasoline,Robotic,FWD,Black,14900
+Ford,Explorer,Limited 7 Seats,2021,1,78000,2.3,300,Gasoline,Automatic,RWD,Black,163900
+Ford,Focus,Trend,2012,2,230000,1.6,125,Gasoline,Robotic,FWD,Grey,15000
+Ford,Focus,Trend,2012,3,160000,1.6,125,Gasoline,Robotic,FWD,Silver,10000
+Ford,Mustang Mach E,,2023,1,85000,,294,Electro,Automatic,RWD,White,209000
+Ford,Edge,SEL,2011,3,232000,3.5,285,Gasoline,Automatic,AWD,Blue,37500
+Ford,Transit,,2017,1,550000,2.0,130,Diesel,Manual,FWD,White,40000
+Ford,Mustang,,2022,1,34000,5.0,460,Gasoline,Automatic,RWD,Silver,244000
+Ford,Mondeo,Trend,2009,3,256000,2.3,161,Gasoline,Automatic,FWD,Silver,5000
+Ford,Tourneo Connect,S,2009,2,250000,1.8,90,Diesel,Manual,FWD,Silver,13500
+Ford,Focus,Trend,2012,3,142600,1.6,125,Gasoline,Robotic,FWD,Silver,13900
+Ford,Focus,,2012,2,250000,1.6,125,Gasoline,Manual,FWD,Silver,15500
+Ford,Focus,Trend,2010,2,285000,1.6,100,Gasoline,Automatic,FWD,White,7500
+Ford,Mondeo,Trend,2012,3,202000,2.0,202,Gasoline,Robotic,FWD,Grey,20000
+Ford,Focus,Trend,2011,3,287000,1.6,125,Gasoline,Robotic,FWD,White,12500
+Ford,Focus,Trend,2012,2,179000,1.6,125,Gasoline,Robotic,FWD,Grey,8500
+Ford,Transit,,2017,1,550000,2.0,130,Diesel,Manual,FWD,White,40000
+Ford,Mustang,,2022,1,34000,5.0,460,Gasoline,Automatic,RWD,Silver,244000
+Ford,Edge,SEL Plus,2012,2,166000,3.5,285,Gasoline,Automatic,AWD,White,36990
+Ford,Focus,Trend,2012,3,150000,1.6,125,Gasoline,Robotic,FWD,Blue,10000
+Ford,Kuga,Titanium,2019,2,129000,1.5,175,Gasoline,Automatic,FWD,White,49990
+Ford,Focus,Trend,2017,3,263000,1.5,150,Gasoline,Automatic,FWD,White,9990
+Ford,Mondeo,Trend,2009,3,256000,2.3,161,Gasoline,Automatic,FWD,Silver,5000
+Ford,Focus,Active Tourer,2021,1,123000,1.5,182,Gasoline,Automatic,FWD,Grey,59900
+Ford,Edge,Titanium Plus,2016,3,175500,3.5,285,Gasoline,Automatic,AWD,Bronze,49900
+Ford,Tourneo Connect,S,2009,2,250000,1.8,90,Diesel,Manual,FWD,Silver,13500
+Ford,Focus,Trend,2012,3,142600,1.6,125,Gasoline,Robotic,FWD,Silver,13900
+Ford,Focus,,2012,2,250000,1.6,125,Gasoline,Manual,FWD,Silver,15500
+Ford,Focus,Trend,2010,2,285000,1.6,100,Gasoline,Automatic,FWD,White,7500
+Ford,F 350,,2019,3,212000,6.7,440,Diesel,Automatic,AWD,Grey,84990
+Ford,Mustang,,2019,3,138000,2.3,310,Gasoline,Automatic,RWD,Black,145000
+Ford,Mondeo,Trend,2012,3,202000,2.0,202,Gasoline,Robotic,FWD,Grey,20000
+Ford,Mustang,Ecoboost Coupe,2021,2,95000,2.3,310,Gasoline,Automatic,RWD,Black,185000
+Ford,Kuga,Trend X,2017,2,113000,1.5,182,Gasoline,Automatic,FWD,Grey,46900
+Ford,Edge,Titanium Plus,2017,2,167900,3.5,285,Gasoline,Automatic,AWD,Black,64900
+Ford,Explorer,Limited Premium,2016,2,188000,3.5,290,Gasoline,Automatic,AWD,Black,64900
+Ford,Focus,Trend,2011,3,287000,1.6,125,Gasoline,Robotic,FWD,White,12500
+Ford,Focus,Trend,2012,2,179000,1.6,125,Gasoline,Robotic,FWD,Grey,8500
+Ford,Focus,Trend,2013,4,165500,1.6,125,Gasoline,Robotic,FWD,Silver,10000
+Ford,Focus,,2013,3,230000,2.0,170,Gasoline,Robotic,FWD,Silver,11000
+Ford,Focus,Trend,2007,2,150000,1.6,100,Gasoline,Automatic,FWD,Light blue,4000
+Ford,Focus,Trend,2011,3,340000,1.6,125,Gasoline,Robotic,FWD,Blue,10000
+Ford,Fiesta,Trend,2013,4,195000,1.6,105,Gasoline,Robotic,FWD,Blue,10000
+Ford,Focus,Sport,2011,3,170000,1.6,125,Gasoline,Robotic,FWD,Black,32000
+Ford,Mondeo,Trend X,2011,3,151810,2.3,161,Gasoline,Automatic,FWD,Black,17000
+Ford,S Max,Trend,2013,3,230000,2.0,203,Gasoline,Robotic,FWD,Silver,25000
+Ford,Focus,Trend,2011,3,287000,1.6,125,Gasoline,Robotic,FWD,White,12500
+Ford,Focus,Trend,2012,2,179000,1.6,125,Gasoline,Robotic,FWD,Grey,8500
+Ford,Focus,Trend,2013,4,165500,1.6,125,Gasoline,Robotic,FWD,Silver,10000
+Ford,Focus,,2013,3,230000,2.0,170,Gasoline,Robotic,FWD,Silver,11000
+Ford,Focus,Trend,2007,2,150000,1.6,100,Gasoline,Automatic,FWD,Light blue,4000
+Ford,Explorer,Limited Luxury,2018,3,84500,3.5,290,Gasoline,Automatic,FWD,White,109900
+Ford,Focus,Trend,2014,2,237000,1.6,125,Gasoline,Robotic,FWD,Grey,13500
+Ford,Kuga,Titanium,2015,4,160000,1.5,182,Gasoline,Automatic,AWD,White,34900
+Ford,Focus,Trend,2011,3,340000,1.6,125,Gasoline,Robotic,FWD,Blue,10000
+Ford,Fiesta,Trend,2013,4,195000,1.6,105,Gasoline,Robotic,FWD,Blue,10000
+Ford,Focus,Sport,2011,3,170000,1.6,125,Gasoline,Robotic,FWD,Black,32000
+Ford,Mondeo,Trend X,2011,3,151810,2.3,161,Gasoline,Automatic,FWD,Black,17000
+Ford,S Max,Trend,2013,3,230000,2.0,203,Gasoline,Robotic,FWD,Silver,25000
+Ford,Focus,Sport,2012,3,200000,1.6,125,Gasoline,Robotic,FWD,Silver,13000
+Ford,Focus,Sport,2011,3,167000,1.6,125,Gasoline,Robotic,FWD,Black,10500
+Ford,Kuga,Trend X,2018,3,113400,1.5,182,Gasoline,Automatic,FWD,Black,49000
+Ford,Focus,Trend,2013,3,184000,1.6,125,Gasoline,Robotic,FWD,Grey,15000
+Ford,Kuga,Trend X,2019,2,145000,1.5,175,Gasoline,Automatic,FWD,Black,50000
+Ford,Kuga,Titanium,2013,1,202000,1.6,182,Gasoline,Automatic,AWD,Silver,32000
+Ford,Mondeo,Trend,2011,4,230000,2.3,161,Gasoline,Automatic,FWD,Grey,8000
+Ford,Focus,Trend,2012,3,225000,2.0,170,Gasoline,Robotic,FWD,Grey,13000
+Ford,Mondeo,Trend,2008,4,195000,2.3,161,Gasoline,Automatic,FWD,Silver,7500
+Ford,Focus,Trend,2014,4,194000,1.6,125,Gasoline,Robotic,FWD,Silver,16000
+Ford,Galaxy,Titanium,2015,3,202200,2.0,203,Gasoline,Robotic,FWD,Silver,34500
+Ford,Mondeo,Trend,2010,4,265471,2.3,161,Gasoline,Automatic,FWD,Silver,6000
+Ford,Focus,Trend,2012,3,116000,1.6,125,Gasoline,Robotic,FWD,Grey,14000
+Ford,Fiesta,Trend,2011,4,202000,1.4,96,Gasoline,Automatic,FWD,Blue,7500
+Ford,Focus,Titanium,2013,4,188000,2.0,170,Gasoline,Robotic,FWD,Grey,15000
+Ford,Edge,SEL Plus,2014,1,220000,2.0,240,Gasoline,Automatic,FWD,Bronze,30000
+Ford,Kuga,Titanium X,2018,2,85000,1.5,182,Gasoline,Automatic,FWD,White,57000
+Ford,Galaxy,Ghia,2010,2,160000,2.3,161,Gasoline,Automatic,FWD,Grey,13500
+Ford,Explorer,XLT,2015,3,204000,3.5,290,Gasoline,Automatic,AWD,White,57000
+Ford,Focus,Trend,2012,3,225000,2.0,170,Gasoline,Robotic,FWD,Grey,13000
+Ford,Mondeo,Trend,2008,4,195000,2.3,161,Gasoline,Automatic,FWD,Silver,7500
+Ford,Focus,Trend,2014,4,194000,1.6,125,Gasoline,Robotic,FWD,Silver,16000
+Ford,Galaxy,Titanium,2015,3,202200,2.0,203,Gasoline,Robotic,FWD,Silver,34500
+Ford,Mondeo,Trend,2010,4,265471,2.3,161,Gasoline,Automatic,FWD,Silver,6000
+Ford,Focus,Trend,2012,3,116000,1.6,125,Gasoline,Robotic,FWD,Grey,14000
+Ford,Fiesta,Trend,2011,4,202000,1.4,96,Gasoline,Automatic,FWD,Blue,7500
+Ford,Focus,Titanium,2013,4,188000,2.0,170,Gasoline,Robotic,FWD,Grey,15000
+Ford,Edge,SEL Plus,2014,1,220000,2.0,240,Gasoline,Automatic,FWD,Bronze,30000
+Ford,Kuga,Titanium X,2018,2,85000,1.5,182,Gasoline,Automatic,FWD,White,57000
+Ford,Kuga,Titanium X AWD,2017,2,170000,1.5,182,Gasoline,Automatic,AWD,White,55000
+Ford,Focus,Trend,2012,4,167479,2.0,170,Gasoline,Robotic,FWD,Blue,15000
+Ford,Focus,,2008,2,235000,1.6,100,Gasoline,Automatic,FWD,Blue,6500
+Ford,Focus,Trend,2011,3,188000,1.6,125,Gasoline,Robotic,FWD,Purple,9000
+Ford,Focus,,2013,3,221145,1.6,125,Gasoline,Robotic,FWD,Black,15555
+Ford,Focus,Trend,2010,2,230000,1.6,100,Gasoline,Automatic,FWD,Blue,8500
+Ford,Focus,Trend,2012,1,180000,1.6,125,Gasoline,Robotic,FWD,Grey,11000
+Ford,Edge,SEL Plus,2013,4,248968,3.5,285,Gasoline,Automatic,AWD,White,29800
+Ford,Kuga,Trend X,2018,3,113400,1.5,182,Gasoline,Automatic,FWD,Black,49000
+Ford,Focus,Trend,2013,3,184000,1.6,125,Gasoline,Robotic,FWD,Grey,15000
+Ford,Kuga,Trend X,2019,2,145000,1.5,175,Gasoline,Automatic,FWD,Black,50000
+Ford,Kuga,Titanium,2013,1,202000,1.6,182,Gasoline,Automatic,AWD,Silver,32000
+Ford,Mondeo,Trend,2011,4,230000,2.3,161,Gasoline,Automatic,FWD,Grey,8000
+Ford,S Max,Trend,2012,2,130000,2.0,203,Gasoline,Robotic,FWD,Silver,9000
+Ford,Focus,Trend,2013,4,256000,1.6,125,Gasoline,Robotic,FWD,White,12000
+Ford,Focus,Trend,2013,3,230000,1.6,125,Gasoline,Robotic,FWD,Grey,9500
+Ford,Focus,,2016,2,185000,1.5,150,Gasoline,Automatic,FWD,Grey,25000
+Ford,Focus,Trend,2013,2,199000,1.6,125,Gasoline,Robotic,FWD,Silver,17000
+Ford,S Max,Trend,2012,2,130000,2.0,203,Gasoline,Robotic,FWD,Silver,9000
+Ford,Focus,Trend,2013,4,256000,1.6,125,Gasoline,Robotic,FWD,White,12000
+Ford,Focus,Trend,2013,3,230000,1.6,125,Gasoline,Robotic,FWD,Grey,9500
+Ford,Focus,,2016,2,185000,1.5,150,Gasoline,Automatic,FWD,Grey,25000
+Ford,Focus,Trend,2013,2,199000,1.6,125,Gasoline,Robotic,FWD,Silver,17000
+Ford,Tourneo Connect,S,2009,2,334000,1.8,90,Diesel,Manual,FWD,White,15000
+Ford,Fiesta,,2011,1,180000,1.4,96,Gasoline,Automatic,FWD,Blue,13000
+Ford,Explorer,Limited Premium,2019,3,67000,3.5,294,Gasoline,Automatic,AWD,White,169000
+Ford,Kuga,Titanium,2020,1,97000,1.5,175,Gasoline,Automatic,FWD,White,82750
+Ford,S Max,Trend,2012,4,205000,2.0,203,Gasoline,Robotic,FWD,White,15000
+Ford,Focus,Trend,2012,2,159900,1.6,125,Gasoline,Robotic,FWD,Blue,16200
+Ford,Mondeo,,2008,4,180000,2.3,161,Gasoline,Automatic,FWD,Grey,8000
+Ford,Focus,Trend,2012,2,194000,1.6,125,Gasoline,Robotic,FWD,Grey,13500
+Ford,Mustang,,2009,4,150000,4.0,210,Gasoline,Automatic,RWD,Black,80000
+Ford,Focus,Sport,2012,3,139000,1.6,125,Gasoline,Robotic,FWD,Silver,20000
+Ford,Mustang,,2020,3,80000,2.3,330,Gasoline,Automatic,RWD,Green,205000
+Ford,Focus,Trend,2013,4,200000,1.6,125,Gasoline,Robotic,FWD,Silver,13000
+Ford,Focus,Trend,2013,4,226020,1.6,125,Gasoline,Robotic,FWD,Grey,13500
+Ford,Fiesta,Ambiente,2012,3,165000,1.2,82,Gasoline,Manual,FWD,Black,9500
+Ford,Edge,Sel,2016,1,193000,2.0,245,Gasoline,Automatic,FWD,White,68100
+Ford,Galaxy,Titanium,2015,3,202200,2.0,203,Gasoline,Robotic,FWD,Silver,34500
+Ford,Mondeo,Trend,2010,4,265471,2.3,161,Gasoline,Automatic,FWD,Silver,6000
+Ford,Focus,Trend,2012,3,116000,1.6,125,Gasoline,Robotic,FWD,Grey,14000
+Ford,Fiesta,Trend,2011,4,202000,1.4,96,Gasoline,Automatic,FWD,Blue,7500
+Ford,Focus,Titanium,2013,4,188000,2.0,170,Gasoline,Robotic,FWD,Grey,15000
+Ford,Edge,SEL Plus,2014,1,220000,2.0,240,Gasoline,Automatic,FWD,Bronze,30000
+Ford,Kuga,Titanium X,2018,2,85000,1.5,182,Gasoline,Automatic,FWD,White,57000
+Ford,Kuga,Titanium X AWD,2017,2,170000,1.5,182,Gasoline,Automatic,AWD,White,55000
+Ford,Focus,Trend,2012,4,167479,2.0,170,Gasoline,Robotic,FWD,Blue,15000
+Ford,Focus,,2008,2,235000,1.6,100,Gasoline,Automatic,FWD,Blue,6500
+Ford,Fiesta,Trend,2014,2,230000,1.6,105,Gasoline,Robotic,FWD,Blue,13100
+Ford,Mustang,,2023,1,15000,3.7,305,Gasoline,Automatic,RWD,White,340000
+Ford,Focus,Trend,2011,2,130000,1.6,100,Gasoline,Automatic,FWD,White,12000
+Ford,Focus,Trend,2007,3,290000,1.6,100,Gasoline,Automatic,FWD,Blue,8200
+Ford,Explorer,Limited,2013,4,190000,3.5,290,Gasoline,Automatic,AWD,White,70000
+Ford,Edge,Titanium,2017,2,113000,2.0,245,Gasoline,Automatic,FWD,Black,86000
+Ford,Focus,,2013,2,225000,1.6,125,Gasoline,Robotic,FWD,Grey,10000
+Ford,Mustang,Ecoboost,2019,3,90000,2.3,310,Gasoline,Automatic,RWD,Black,175000
+Ford,Mustang,,2018,2,80000,2.3,310,Gasoline,Automatic,RWD,White,165000
+Ford,F 350,,2016,1,198000,6.7,440,Diesel,Automatic,AWD,White,70000
+Ford,Focus,Trend,2008,3,293000,1.6,100,Gasoline,Automatic,FWD,Grey,11111
+Ford,Focus,Trend,2016,2,212000,1.5,150,Gasoline,Automatic,FWD,Silver,23000
+Ford,Galaxy,Titanium,2011,2,159000,2.3,161,Gasoline,Automatic,FWD,Silver,17000
+Ford,Fiesta,Trend,2009,3,190000,1.4,96,Gasoline,Automatic,FWD,Black,7000
+Ford,Focus,Trend,2006,3,179000,1.6,100,Gasoline,Automatic,FWD,Silver,5800
+Ford,Focus,ST-Line,2022,1,11500,1.5,182,Gasoline,Automatic,FWD,Silver,93000
+Ford,Explorer,XLT,2012,2,260000,3.5,290,Gasoline,Automatic,AWD,White,62000
+Ford,Mondeo,Titanium,2011,4,150200,2.0,240,Gasoline,Robotic,FWD,Grey,17500
+Ford,Explorer,XLT,2014,2,160000,3.5,290,Gasoline,Automatic,AWD,White,81000
+Ford,Focus,Trend,2017,2,142000,1.5,150,Gasoline,Automatic,FWD,Silver,32000
+Ford,Focus,Trend,2011,3,188000,1.6,125,Gasoline,Robotic,FWD,Purple,9000
+Ford,Focus,,2013,3,221145,1.6,125,Gasoline,Robotic,FWD,Black,15555
+Ford,Focus,Trend,2010,2,230000,1.6,100,Gasoline,Automatic,FWD,Blue,8500
+Ford,Focus,Trend,2012,1,180000,1.6,125,Gasoline,Robotic,FWD,Grey,11000
+Ford,Edge,SEL Plus,2013,4,248968,3.5,285,Gasoline,Automatic,AWD,White,29800
+Ford,S Max,Trend,2012,2,130000,2.0,203,Gasoline,Robotic,FWD,Silver,9000
+Ford,Focus,Trend,2013,4,256000,1.6,125,Gasoline,Robotic,FWD,White,12000
+Ford,Focus,Trend,2013,3,230000,1.6,125,Gasoline,Robotic,FWD,Grey,9500
+Ford,Focus,,2016,2,185000,1.5,150,Gasoline,Automatic,FWD,Grey,25000
+Ford,Focus,Trend,2013,2,199000,1.6,125,Gasoline,Robotic,FWD,Silver,17000
+Ford,Kuga,Trend,2013,3,133000,1.5,182,Gasoline,Automatic,AWD,White,28000
+Ford,Focus,Trend,2007,3,214000,1.6,100,Gasoline,Automatic,FWD,Light Grey,5000
+Ford,Focus,Trend,2013,2,185000,1.6,125,Gasoline,Robotic,FWD,Black,10000
+Ford,Focus,Trend,2013,2,230000,1.6,125,Gasoline,Robotic,FWD,Blue,11000
+Ford,Focus,Trend,2008,3,290000,1.6,100,Gasoline,Automatic,FWD,Silver,7000
+Ford,F 350,,2018,2,300000,6.7,440,Diesel,Automatic,AWD,Bronze,100000
+Ford,Focus,,2012,3,145000,1.6,125,Gasoline,Robotic,FWD,Blue,15000
+Ford,Focus,Trend,2008,4,162000,1.6,100,Gasoline,Automatic,FWD,Blue,8300
+Ford,S Max,Trend,2011,2,256000,2.3,161,Gasoline,Automatic,FWD,Grey,17000
+Ford,Focus,Trend,2014,3,186000,1.6,125,Gasoline,Robotic,FWD,Silver,13000
+Ford,Edge,,2016,1,125000,3.5,285,Gasoline,Automatic,AWD,Silver,90000
+Ford,Focus,Trend,2012,3,223000,1.6,125,Gasoline,Robotic,FWD,White,7000
+Ford,Kuga,Trend X,2018,2,127000,1.5,182,Gasoline,Automatic,FWD,Silver,60000
+Ford,Focus,Trend,2008,3,280000,1.6,100,Gasoline,Automatic,FWD,Silver,5900
+Ford,Fiesta,Trend,2014,1,185000,1.6,105,Gasoline,Robotic,FWD,Silver,18000
+Ford,Edge,Titanium,2017,1,54000,2.0,245,Gasoline,Automatic,FWD,Grey,97000
+Ford,Focus,Trend,2012,3,220000,1.6,125,Gasoline,Robotic,FWD,Blue,11500
+Ford,Galaxy,Trend,2014,2,261000,2.0,203,Gasoline,Robotic,FWD,Silver,18500
+Ford,F 250,Lariat,2020,2,135000,,475,Diesel,Automatic,AWD,White,160000
+Ford,Focus,Trend,2008,2,225000,1.6,100,Gasoline,Automatic,FWD,White,8500
+Ford,Tourneo Connect,S,2009,2,334000,1.8,90,Diesel,Manual,FWD,White,15000
+Ford,Fiesta,,2011,1,180000,1.4,96,Gasoline,Automatic,FWD,Blue,13000
+Ford,Explorer,Limited Premium,2019,3,67000,3.5,294,Gasoline,Automatic,AWD,White,169000
+Ford,Kuga,Titanium,2020,1,97000,1.5,175,Gasoline,Automatic,FWD,White,82750
+Ford,S Max,Trend,2012,4,205000,2.0,203,Gasoline,Robotic,FWD,White,15000
+Ford,Focus,Trend,2012,2,159900,1.6,125,Gasoline,Robotic,FWD,Blue,16200
+Ford,Mondeo,,2008,4,180000,2.3,161,Gasoline,Automatic,FWD,Grey,8000
+Ford,Focus,Trend,2012,2,194000,1.6,125,Gasoline,Robotic,FWD,Grey,13500
+Ford,Mustang,,2009,4,150000,4.0,210,Gasoline,Automatic,RWD,Black,80000
+Ford,Focus,Sport,2012,3,139000,1.6,125,Gasoline,Robotic,FWD,Silver,20000
+Ford,Kuga,Titanium,2017,2,177000,1.5,182,Gasoline,Automatic,FWD,Grey,45000
+Ford,Focus,Trend,2011,2,189964,1.6,125,Gasoline,Robotic,FWD,White,10000
+Ford,Mondeo,Trend,2013,3,203900,2.0,200,Gasoline,Robotic,FWD,Silver,15900
+Ford,Edge,SEL,2011,2,160000,3.5,285,Gasoline,Automatic,AWD,White,45000
+Ford,Focus,Trend,2009,1,190000,1.6,100,Gasoline,Automatic,FWD,Silver,8500
+Ford,S Max,Trend,2014,4,228000,2.0,203,Gasoline,Robotic,FWD,Grey,23100
+Ford,Focus,Trend,2008,3,195000,1.6,100,Gasoline,Automatic,FWD,Blue,9500
+Ford,Focus,Titanium,2016,3,180000,1.5,150,Gasoline,Automatic,FWD,Grey,32000
+Ford,F 350,,2017,1,230000,6.7,440,Diesel,Automatic,AWD,White,100000
+Ford,Edge,,2018,2,107000,3.5,285,Gasoline,Automatic,AWD,White,120000
+Ford,Edge,Titanium,2019,1,100000,2.0,245,Gasoline,Automatic,FWD,White,120000
+Ford,Mustang,Ecoboost Coupe,2022,1,7000,2.3,310,Gasoline,Automatic,RWD,Black,265000
+Ford,Edge,Titanium Plus,2017,2,93124,3.5,285,Gasoline,Automatic,AWD,White,99000
+Ford,Kuga,Titanium X,2017,3,186000,1.5,182,Gasoline,Automatic,FWD,Blue,43000
+Ford,Mondeo,Trend,2008,4,150000,2.3,161,Gasoline,Automatic,FWD,Grey,6000
+Ford,Kuga,Titanium,2018,2,152000,1.5,182,Gasoline,Automatic,FWD,Silver,51000
+Ford,Focus,Titanium,2012,1,176000,2.0,170,Gasoline,Robotic,FWD,Blue,17000
+Ford,Focus,Trend,2014,3,237000,1.6,125,Gasoline,Robotic,FWD,Grey,11000
+Ford,Focus,Trend,2006,3,197100,1.6,100,Gasoline,Automatic,FWD,Silver,7000
+Ford,Fiesta,Trend,2013,3,185000,1.6,105,Gasoline,Robotic,FWD,Blue,14970
+Ford,Mustang,,2020,3,80000,2.3,330,Gasoline,Automatic,RWD,Green,205000
+Ford,Focus,Trend,2013,4,200000,1.6,125,Gasoline,Robotic,FWD,Silver,13000
+Ford,Focus,Trend,2013,4,226020,1.6,125,Gasoline,Robotic,FWD,Grey,13500
+Ford,Fiesta,Ambiente,2012,3,165000,1.2,82,Gasoline,Manual,FWD,Black,9500
+Ford,Edge,Sel,2016,1,193000,2.0,245,Gasoline,Automatic,FWD,White,68100
+Ford,Fiesta,Trend,2014,2,230000,1.6,105,Gasoline,Robotic,FWD,Blue,13100
+Ford,Mustang,,2023,1,15000,3.7,305,Gasoline,Automatic,RWD,White,340000
+Ford,Focus,Trend,2011,2,130000,1.6,100,Gasoline,Automatic,FWD,White,12000
+Ford,Focus,Trend,2007,3,290000,1.6,100,Gasoline,Automatic,FWD,Blue,8200
+Ford,Explorer,Limited,2013,4,190000,3.5,290,Gasoline,Automatic,AWD,White,70000
+Ford,Mondeo,Trend,2010,3,240000,2.3,161,Gasoline,Automatic,FWD,Silver,11000
+Ford,Fiesta,Trend,2009,3,182000,1.4,96,Gasoline,Automatic,FWD,Blue,10500
+Ford,Focus,,2011,3,180000,1.6,125,Gasoline,Robotic,FWD,Black,16000
+Ford,Focus,Sport,2012,3,199000,1.6,125,Gasoline,Robotic,FWD,Black,14000
+Ford,Focus,Trend,2013,2,159000,2.0,170,Gasoline,Robotic,FWD,Silver,17200
+Ford,Explorer,Limited,2017,1,179269,3.5,290,Gasoline,Automatic,FWD,Silver,120000
+Ford,Explorer,Limited Luxury,2016,2,119000,3.5,290,Gasoline,Automatic,FWD,White,105000
+Ford,Focus,Trend,2016,2,170000,1.5,150,Gasoline,Automatic,FWD,Black,35500
+Ford,Kuga,Trend X,2019,1,60000,1.5,175,Gasoline,Automatic,FWD,Black,72500
+Ford,Galaxy,Ghia,2009,3,243000,2.3,161,Gasoline,Automatic,FWD,Purple,5000
+Ford,Focus,Titanium,2016,2,240000,1.5,150,Gasoline,Automatic,FWD,Silver,19500
+Ford,Mustang,,2016,1,99000,2.3,309,Gasoline,Manual,RWD,Black,159900
+Ford,Fiesta,,2010,3,166000,1.4,96,Gasoline,Automatic,FWD,Purple,11000
+Ford,Explorer,Limited Luxury,2016,3,130000,3.5,290,Gasoline,Automatic,FWD,White,79900
+Ford,Fiesta,Trend,2013,1,140000,1.6,105,Gasoline,Robotic,FWD,Yellow,22000
+Ford,Focus,Trend,2013,3,340000,1.6,125,Gasoline,Robotic,FWD,Silver,4000
+Ford,Focus,Trend,2006,3,210000,1.6,100,Gasoline,Automatic,FWD,White,4000
+Ford,Focus,LX,2003,2,200000,1.6,102,Gasoline,Automatic,FWD,Light blue,20000
+Ford,Focus,Trend,2013,4,251000,1.6,125,Gasoline,Robotic,FWD,Silver,11500
+Ford,Focus,Trend,2013,3,148000,1.6,125,Gasoline,Robotic,FWD,Grey,7000
+Ford,Edge,Titanium,2017,2,113000,2.0,245,Gasoline,Automatic,FWD,Black,86000
+Ford,Focus,,2013,2,225000,1.6,125,Gasoline,Robotic,FWD,Grey,10000
+Ford,Mustang,Ecoboost,2019,3,90000,2.3,310,Gasoline,Automatic,RWD,Black,175000
+Ford,Mustang,,2018,2,80000,2.3,310,Gasoline,Automatic,RWD,White,165000
+Ford,F 350,,2016,1,198000,6.7,440,Diesel,Automatic,AWD,White,70000
+Ford,Focus,Trend,2008,3,293000,1.6,100,Gasoline,Automatic,FWD,Grey,11111
+Ford,Focus,Trend,2016,2,212000,1.5,150,Gasoline,Automatic,FWD,Silver,23000
+Ford,Galaxy,Titanium,2011,2,159000,2.3,161,Gasoline,Automatic,FWD,Silver,17000
+Ford,Fiesta,Trend,2009,3,190000,1.4,96,Gasoline,Automatic,FWD,Black,7000
+Ford,Focus,Trend,2006,3,179000,1.6,100,Gasoline,Automatic,FWD,Silver,5800
+Ford,Focus,Trend,2010,2,330000,1.6,100,Gasoline,Automatic,FWD,Grey,7500
+Ford,Edge,SEL,2009,2,70000,3.5,265,Gasoline,Automatic,AWD,Blue,27000
+Ford,Focus,Trend X,2008,1,153000,1.6,100,Gasoline,Automatic,FWD,Light blue,8000
+Ford,Focus,Trend,2013,3,207000,1.6,125,Gasoline,Robotic,FWD,White,19000
+Ford,Puma,Titanium,2021,1,42000,1.0,125,Gasoline,Robotic,FWD,White,82800
+Ford,Focus,ST-Line,2022,1,11500,1.5,182,Gasoline,Automatic,FWD,Silver,93000
+Ford,Explorer,XLT,2012,2,260000,3.5,290,Gasoline,Automatic,AWD,White,62000
+Ford,Mondeo,Titanium,2011,4,150200,2.0,240,Gasoline,Robotic,FWD,Grey,17500
+Ford,Explorer,XLT,2014,2,160000,3.5,290,Gasoline,Automatic,AWD,White,81000
+Ford,Focus,Trend,2017,2,142000,1.5,150,Gasoline,Automatic,FWD,Silver,32000
+Ford,Kuga,Trend,2013,3,133000,1.5,182,Gasoline,Automatic,AWD,White,28000
+Ford,Focus,Trend,2007,3,214000,1.6,100,Gasoline,Automatic,FWD,Light Grey,5000
+Ford,Focus,Trend,2013,2,185000,1.6,125,Gasoline,Robotic,FWD,Black,10000
+Ford,Focus,Trend,2013,2,230000,1.6,125,Gasoline,Robotic,FWD,Blue,11000
+Ford,Focus,Trend,2008,3,290000,1.6,100,Gasoline,Automatic,FWD,Silver,7000
