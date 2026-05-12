@@ -51,11 +51,6 @@ def cleanData():
     df = df.drop(columns=['body_color'])
     print(f'After cleaning: {len(df)} rows')
 
-    # Instead of 3, use 20 minimum appearances
-    submodel_counts = df['submodel'].value_counts()
-    rare_submodels = submodel_counts[submodel_counts < 20].index.tolist()
-    df['submodel'] = df['submodel'].apply(lambda x: 'Other' if x in rare_submodels else x)
-
     # Saving
     clean_path = os.path.join(DATA_DIR, 'autoboom_clean.csv')
     df.to_csv(clean_path, index=False)
