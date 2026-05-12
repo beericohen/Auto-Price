@@ -224,4 +224,5 @@ def tuning():
 
     print("\nDone!")
 
-tuning()
+if __name__ == '__main__':
+    tuning()

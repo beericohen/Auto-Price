@@ -61,4 +61,5 @@ def models():
 
     print("\nAll models saved to Auto-Price/Models/")
 
-models()
+if __name__ == '__main__':
+    models()

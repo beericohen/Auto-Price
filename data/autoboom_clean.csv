@@ -1,0 +1,2697 @@
+manufacturer,model,submodel,year,hand,mileage,engine_liters,horsepower,fuel,transmission,drive_type,price
+Toyota,Camry,XLE,2021,2,115000.0,2.5,218,Hybrid,Variable,FWD,121000
+Toyota,Corolla,Space,2022,1,150000.0,1.8,98,Hybrid,Variable,FWD,77000
+Toyota,Corolla,Sun,2019,2,81000.0,1.8,121,Hybrid,Variable,FWD,79900
+Toyota,C Hr,C-Lub,2019,4,88000.0,1.8,122,Hybrid,Automatic,FWD,88900
+Toyota,Corolla,Space,2022,1,81000.0,1.8,98,Hybrid,Variable,FWD,85900
+Toyota,Corolla,Sense,2020,1,84000.0,1.8,121,Hybrid,Variable,FWD,84900
+Toyota,Rav4,GLI,2016,2,173000.0,2.0,152,Gasoline,Variable,AWD,65500
+Toyota,Corolla,Sense,2021,1,82000.0,1.8,121,Hybrid,Variable,FWD,83900
+Toyota,Corolla,Sun,2022,1,73000.0,1.8,121,Hybrid,Variable,FWD,89900
+Toyota,Corolla,Sun,2022,1,114000.0,1.8,121,Hybrid,Variable,FWD,99000
+Toyota,Corolla,Sun,2022,1,36000.0,1.8,121,Hybrid,Variable,FWD,106900
+Toyota,Corolla,Sun,2019,3,145000.0,1.8,121,Hybrid,Variable,FWD,68800
+Toyota,Auris,Estate TS,2017,2,240000.0,1.8,136,Hybrid,Variable,FWD,45000
+Toyota,Corolla,Sense,2020,2,122000.0,1.8,121,Hybrid,Variable,FWD,85000
+Toyota,Corolla,Sun,2021,2,100000.0,1.8,121,Hybrid,Variable,FWD,85000
+Toyota,Rav4,GLI,2015,4,151000.0,2.0,151,Gasoline,Variable,AWD,42200
+Toyota,Yaris,Style H,2021,2,76114.0,1.5,100,Hybrid,Variable,FWD,97995
+Toyota,Yaris,Sol,2018,2,170000.0,1.5,112,Gasoline,Variable,FWD,52045
+Toyota,Corolla,Sun,2022,1,87051.0,1.8,121,Hybrid,Variable,FWD,97045
+Toyota,Corolla,Sense,2019,2,99000.0,1.8,121,Hybrid,Variable,FWD,91915
+Toyota,Corolla,Sun,2021,2,129800.0,1.8,121,Hybrid,Variable,FWD,89690
+Toyota,Corolla Cross,Dynamic,2024,1,41899.0,1.8,140,Hybrid,Variable,FWD,164610
+Toyota,Corolla Cross,Active,2023,1,76907.0,1.8,140,Hybrid,Variable,FWD,141995
+Toyota,C Hr,C-Hic,2022,1,87000.0,1.8,122,Hybrid,Variable,FWD,126635
+Toyota,C Hr,C-Hic,2021,1,85986.0,1.8,122,Hybrid,Variable,FWD,120915
+Toyota,C Hr,C-Lub,2019,2,156730.0,1.8,122,Hybrid,Automatic,FWD,76975
+Toyota,C Hr,C-Ity,2019,1,144000.0,1.8,122,Hybrid,Automatic,FWD,87495
+Toyota,C Hr,C-Hic,2018,1,126425.0,1.8,122,Hybrid,Automatic,FWD,91480
+Toyota,Aygo,Pulse,2023,1,63596.0,1.0,72,Gasoline,Variable,FWD,80675
+Toyota,Corolla,Sun,2015,2,220000.0,1.6,132,Gasoline,Variable,FWD,33000
+Toyota,C Hr,C-Hic,2023,1,30500.0,1.8,122,Hybrid,Variable,FWD,136000
+Toyota,Corolla,Sun,2022,2,97000.0,1.8,121,Hybrid,Variable,FWD,87000
+Toyota,Camry,XLE,2020,2,178000.0,2.5,218,Hybrid,Variable,FWD,99000
+Toyota,Aygo,Pulse,2023,1,46045.0,1.0,72,Gasoline,Variable,FWD,80740
+Toyota,Aygo,Pulse,2023,1,35802.0,1.0,72,Gasoline,Variable,FWD,81490
+Toyota,Aygo,Pulse,2023,1,31153.0,1.0,72,Gasoline,Variable,FWD,81945
+Toyota,Aygo,Pulse,2023,1,25266.0,1.0,72,Gasoline,Variable,FWD,83060
+Toyota,Yaris,Sol,2019,2,103111.0,1.5,112,Gasoline,Variable,FWD,59000
+Toyota,Corolla,Limited,2021,1,57000.0,1.8,98,Hybrid,Variable,FWD,114990
+Toyota,C Hr,C-Lub,2018,2,179000.0,1.8,122,Hybrid,Automatic,FWD,69990
+Toyota,Corolla,Comfort,2021,1,88000.0,1.8,121,Hybrid,Variable,FWD,89000
+Toyota,Rav4,E-motion Sky,2021,2,113000.0,2.5,218,Hybrid,Automatic,FWD,185000
+Toyota,Yaris Cross,Hybrid Urban,2022,1,76000.0,1.5,116,Hybrid,Variable,FWD,110000
+Toyota,C Hr,C-Ity,2021,2,37000.0,1.8,122,Hybrid,Variable,FWD,115000
+Toyota,Corolla,Sun,2019,2,158000.0,1.8,121,Hybrid,Variable,FWD,74000
+Toyota,Corolla,Sun,2021,2,155000.0,1.8,121,Hybrid,Variable,FWD,72000
+Toyota,Corolla,Limited,2020,2,79000.0,1.8,121,Hybrid,Variable,FWD,94990
+Toyota,Camry,XLE,2022,1,160000.0,2.5,218,Hybrid,Variable,FWD,125000
+Toyota,Corolla Cross,Dynamic,2023,1,11000.0,1.8,140,Hybrid,Variable,FWD,142000
+Toyota,Corolla,Sense,2020,1,177000.0,1.8,121,Hybrid,Variable,FWD,85000
+Toyota,Corolla,Sun,2015,3,187000.0,1.6,132,Gasoline,Variable,FWD,40000
+Toyota,Corolla,Sense,2021,1,39500.0,1.8,121,Hybrid,Variable,FWD,114000
+Toyota,Yaris,Eco,2022,2,95372.0,1.5,100,Hybrid,Variable,FWD,96000
+Toyota,Rav4,E-Xclusive,2025,1,1300.0,2.5,222,Hybrid,Variable,AWD,278000
+Toyota,Corolla,Comfort,2021,4,59000.0,1.8,121,Hybrid,Variable,FWD,90000
+Toyota,Corolla,Space,2021,2,186000.0,1.8,98,Hybrid,Variable,FWD,70000
+Toyota,C Hr,C-Lub,2019,2,115000.0,1.8,122,Hybrid,Automatic,FWD,88000
+Toyota,Hilux,Active,2018,2,359000.0,2.4,150,Diesel,Automatic,RWD,124990
+Toyota,Corolla,Sun,2018,2,124000.0,1.6,132,Gasoline,Variable,FWD,55000
+Toyota,Yaris,Eco,2021,1,159000.0,1.5,100,Hybrid,Variable,FWD,74990
+Toyota,Aygo,Pulse,2022,2,44000.0,1.0,72,Gasoline,Variable,FWD,68990
+Toyota,Rav4,E-motion,2021,1,78000.0,2.5,218,Hybrid,Automatic,FWD,169000
+Toyota,Rav4,E-motion Sky,2021,2,81000.0,2.5,218,Hybrid,Automatic,FWD,173000
+Toyota,Corolla Cross,Active,2026,1,15.0,1.8,140,Hybrid,Variable,FWD,159900
+Toyota,Aygo,Pulse,2023,2,57000.0,1.0,72,Gasoline,Variable,FWD,73000
+Toyota,Corolla,Limited,2021,2,120000.0,1.8,121,Hybrid,Variable,FWD,110000
+Toyota,Corolla,Limited,2023,1,29000.0,1.8,98,Hybrid,Variable,FWD,140000
+Toyota,C Hr,C-Ity,2018,2,149000.0,1.8,122,Hybrid,Automatic,FWD,68000
+Toyota,C Hr,C-Ity,2020,2,113000.0,1.8,122,Hybrid,Variable,FWD,85000
+Toyota,Corolla,Sun,2022,2,130000.0,1.8,121,Hybrid,Variable,FWD,99200
+Toyota,Corolla,Sun,2019,3,165000.0,1.8,121,Hybrid,Variable,FWD,69500
+Toyota,Corolla,Sense,2019,2,87000.0,1.8,121,Hybrid,Variable,FWD,99990
+Toyota,Corolla,Sun,2017,2,161831.0,1.6,132,Gasoline,Variable,FWD,43000
+Toyota,Camry,XLE,2021,1,175000.0,2.5,218,Hybrid,Variable,FWD,129000
+Toyota,Corolla Cross,Active,2025,1,9000.0,1.8,140,Hybrid,Variable,FWD,161000
+Toyota,Corolla,Sun,2021,2,65000.0,1.8,121,Hybrid,Variable,FWD,94990
+Toyota,Corolla,Sense,2020,1,114000.0,1.8,121,Hybrid,Variable,FWD,99990
+Toyota,Corolla,Sun,2016,3,181000.0,1.6,132,Gasoline,Variable,FWD,44000
+Toyota,Corolla,Sense,2021,2,58000.0,1.8,121,Hybrid,Variable,FWD,108000
+Toyota,Corolla,Sun,2017,4,232000.0,1.6,132,Gasoline,Variable,FWD,46000
+Toyota,Rav4,E-volve,2022,1,45544.0,2.5,218,Hybrid,Automatic,FWD,170000
+Toyota,Land Cruiser,Luxury,2025,1,24285.0,2.8,205,Diesel,Automatic,AWD,410000
+Toyota,Camry,XLE,2023,1,77000.0,2.5,218,Hybrid,Variable,FWD,149900
+Toyota,Corolla,Limited,2020,1,115000.0,1.8,121,Hybrid,Variable,FWD,97900
+Toyota,C Hr,C-Hic,2018,1,83900.0,1.8,122,Hybrid,Automatic,FWD,85000
+Toyota,Highlander,E-Xclusive,2023,2,61000.0,2.4,186,Hybrid,Variable,AWD,260000
+Toyota,Corolla,Sun,2015,3,160000.0,1.6,132,Gasoline,Variable,FWD,39000
+Toyota,Corolla,Sun,2018,3,81000.0,1.6,132,Gasoline,Variable,FWD,68000
+Toyota,Corolla Cross,Dynamic,2024,1,9800.0,1.8,140,Hybrid,Variable,FWD,175000
+Toyota,Yaris Cross,Hybrid Urban,2023,1,42000.0,1.5,116,Hybrid,Variable,FWD,133000
+Toyota,Auris,Estate TS,2017,2,142200.0,1.8,136,Hybrid,Variable,FWD,64000
+Toyota,Corolla,Sense,2021,1,151000.0,1.8,121,Hybrid,Variable,FWD,105000
+Toyota,Corolla,Sun,2021,2,140000.0,1.8,121,Hybrid,Variable,FWD,99999
+Toyota,Corolla,Sun,2019,2,116000.0,1.8,121,Hybrid,Variable,FWD,86000
+Toyota,Corolla,Sun,2020,2,106000.0,1.8,121,Hybrid,Variable,FWD,93000
+Toyota,Rav4,E-volve,2021,1,99400.0,2.5,218,Hybrid,Automatic,FWD,150000
+Toyota,Corolla,Sun,2021,1,140000.0,1.8,121,Hybrid,Variable,FWD,105000
+Toyota,Rav4,E-motion,2020,1,62600.0,2.5,218,Hybrid,Automatic,FWD,160000
+Toyota,Corolla,Sun,2021,1,77000.0,1.8,121,Hybrid,Variable,FWD,99000
+Toyota,Corolla,Sun,2019,2,104650.0,1.8,121,Hybrid,Variable,FWD,89000
+Toyota,Rav4,Limited,2018,3,118000.0,2.5,200,Hybrid,Variable,FWD,125000
+Toyota,Corolla,Comfort,2020,2,191000.0,1.8,121,Hybrid,Variable,FWD,80000
+Toyota,Corolla,Sense,2019,2,54000.0,1.8,121,Hybrid,Variable,FWD,98000
+Toyota,Rav4,E-motion,2020,3,79840.0,2.5,218,Hybrid,Automatic,FWD,165000
+Toyota,C Hr,C-Hic,2017,3,147000.0,1.8,122,Hybrid,Automatic,FWD,76800
+Toyota,Corolla,Space,2020,2,257000.0,1.8,122,Hybrid,Variable,FWD,63000
+Toyota,Yaris,Style H,2021,1,47000.0,1.5,100,Hybrid,Variable,FWD,98000
+Toyota,Yaris Cross,Hybrid Urban,2022,1,25000.0,1.5,116,Hybrid,Variable,FWD,126000
+Toyota,Corolla,Limited,2019,1,89650.0,1.8,121,Hybrid,Variable,FWD,114000
+Toyota,Corolla,Sun,2021,2,126000.0,1.8,121,Hybrid,Variable,FWD,105000
+Toyota,Corolla,Sun,2019,3,119000.0,1.6,132,Gasoline,Variable,FWD,67000
+Toyota,C Hr,C-Hic,2021,1,78000.0,1.8,122,Hybrid,Variable,FWD,125000
+Toyota,Corolla,Sun,2019,2,99000.0,1.8,121,Hybrid,Variable,FWD,105000
+Toyota,Corolla,Sun,2018,4,140000.0,1.6,132,Gasoline,Variable,FWD,60000
+Toyota,Camry,XLE,2020,2,59000.0,2.5,218,Hybrid,Variable,FWD,130000
+Toyota,Rav4,E-motion,2021,1,59000.0,2.5,218,Hybrid,Automatic,FWD,180000
+Toyota,Rav4,E-xperience,2019,1,113000.0,2.0,175,Gasoline,Variable,FWD,122000
+Toyota,Corolla,Sun,2019,4,165000.0,1.8,121,Hybrid,Variable,FWD,88000
+Toyota,Corolla,Sun,2021,2,124000.0,1.8,121,Hybrid,Variable,FWD,111000
+Toyota,C Hr,Vision,2024,1,13000.0,1.8,140,Hybrid,Variable,FWD,160000
+Toyota,Rav4,Premium,2015,1,149000.0,2.0,152,Gasoline,Variable,AWD,70000
+Toyota,Aygo,Pulse,2022,1,25500.0,1.0,72,Gasoline,Variable,FWD,73000
+Toyota,Corolla,Limited,2021,2,50000.0,1.8,98,Hybrid,Variable,FWD,135000
+Toyota,Yaris,Style,2023,1,36000.0,1.5,116,Hybrid,Variable,FWD,120000
+Toyota,Corolla,Limited,2019,3,40000.0,1.8,121,Hybrid,Variable,FWD,127000
+Toyota,Corolla,Sun,2016,3,197000.0,1.6,132,Gasoline,Variable,FWD,55000
+Toyota,Corolla,Sense,2020,1,160000.0,1.8,121,Hybrid,Variable,FWD,86000
+Toyota,Corolla,Sense,2021,1,23500.0,1.8,121,Hybrid,Variable,FWD,125000
+Toyota,C Hr,C-Hic,2018,2,98000.0,1.8,122,Hybrid,Automatic,FWD,98000
+Toyota,Corolla,Sense,2021,2,182000.0,1.8,121,Hybrid,Variable,FWD,69500
+Toyota,C Hr,C-Hic,2019,1,70000.0,1.8,122,Hybrid,Automatic,FWD,110000
+Toyota,C Hr,C-Hic,2018,2,72000.0,1.8,122,Hybrid,Automatic,FWD,110000
+Toyota,Yaris,Style H,2018,2,139000.0,1.5,100,Hybrid,Variable,FWD,72000
+Toyota,Rav4,GLI,2015,1,190000.0,2.0,151,Gasoline,Variable,AWD,64000
+Toyota,C Hr,C-Hic,2020,1,90000.0,1.8,122,Hybrid,Variable,FWD,110000
+Toyota,Corolla,Sun,2020,2,130000.0,1.8,121,Hybrid,Variable,FWD,87500
+Toyota,Corolla,Sun,2020,2,52000.0,1.8,121,Hybrid,Variable,FWD,110000
+Toyota,Corolla,Sense,2019,3,82000.0,1.8,121,Hybrid,Variable,FWD,102000
+Toyota,Corolla,Lounge,2019,4,72000.0,1.8,121,Hybrid,Variable,FWD,95000
+Toyota,Corolla,Sun,2017,2,158000.0,1.6,132,Gasoline,Variable,FWD,55000
+Toyota,Corolla,Sun,2015,3,182000.0,1.6,132,Gasoline,Variable,FWD,52000
+Toyota,Rav4,E-xperience,2021,1,71000.0,2.5,218,Hybrid,Automatic,FWD,159000
+Toyota,Rav4,Premium,2018,2,95000.0,2.5,200,Hybrid,Variable,FWD,120000
+Toyota,C Hr,C-Ity,2021,2,102000.0,1.8,122,Hybrid,Variable,FWD,120000
+Toyota,Rav4,Premium,2015,3,140000.0,2.0,151,Gasoline,Variable,AWD,72500
+Toyota,Bz4X,Vision,2023,1,53000.0,,217,Electro,Automatic,AWD,235200
+Toyota,Corolla,Sun,2020,3,200000.0,1.8,121,Hybrid,Variable,FWD,110000
+Toyota,Corolla,Sun,2021,1,88000.0,1.8,121,Hybrid,Variable,FWD,100000
+Toyota,Rav4,Limited,2018,2,115000.0,2.5,200,Hybrid,Variable,FWD,129900
+Toyota,Hilux,Active,2021,2,81400.0,2.4,150,Diesel,Automatic,AWD,250000
+Toyota,Corolla,Sun,2015,2,185000.0,1.6,132,Gasoline,Variable,FWD,50000
+Toyota,Corolla,GLI,2016,1,67000.0,1.6,132,Gasoline,Variable,FWD,75000
+Toyota,Corolla,Sun,2017,2,124800.0,1.6,132,Gasoline,Variable,FWD,60000
+Toyota,Corolla,GLI,2016,1,260000.0,1.6,132,Gasoline,Variable,FWD,57000
+Toyota,C Hr,C-Hic,2018,1,55000.0,1.8,122,Hybrid,Automatic,FWD,100000
+Toyota,Land Cruiser,Luxury,2015,2,125000.0,3.0,190,Diesel,Automatic,AWD,250000
+Toyota,Corolla,Comfort,2020,2,122000.0,1.8,121,Hybrid,Variable,FWD,95000
+Toyota,Corolla,Limited,2023,1,6350.0,1.8,98,Hybrid,Variable,FWD,165000
+Toyota,Highlander,E-Xclusive,2021,1,57000.0,2.5,248,Hybrid,Automatic,AWD,250000
+Toyota,Yaris,Style H,2019,1,220000.0,1.5,100,Hybrid,Variable,FWD,62999
+Toyota,Auris,Estate TS,2017,2,176000.0,1.8,136,Hybrid,Variable,FWD,56000
+Toyota,Rav4,E-motion,2024,1,3000.0,2.5,218,Hybrid,Automatic,FWD,240000
+Toyota,Corolla,Limited,2021,1,15900.0,1.8,121,Hybrid,Variable,FWD,135000
+Toyota,Corolla,Sun,2019,2,135000.0,1.6,132,Gasoline,Variable,FWD,85000
+Toyota,Corolla,Sun,2015,2,131000.0,1.6,132,Gasoline,Variable,FWD,59000
+Toyota,Corolla,Lounge,2019,2,98500.0,1.8,121,Hybrid,Variable,FWD,95000
+Toyota,Corolla,Sun,2019,2,105000.0,1.8,121,Hybrid,Variable,FWD,90000
+Toyota,Rav4,E-xperience,2021,1,120000.0,2.5,218,Hybrid,Automatic,FWD,145000
+Toyota,Bz4X,Vision,2023,1,20000.0,,217,Electro,Automatic,AWD,195000
+Toyota,C Hr,C-Lub,2019,3,86000.0,1.8,122,Hybrid,Automatic,FWD,96000
+Toyota,Auris,Estate TS,2018,2,160000.0,1.8,136,Hybrid,Variable,FWD,70000
+Toyota,C Hr,C-Hic,2021,1,55000.0,1.8,122,Hybrid,Variable,FWD,131000
+Toyota,C Hr,C-Ity,2017,1,67000.0,1.8,122,Hybrid,Automatic,FWD,85000
+Toyota,Corolla,Sun,2015,3,127000.0,1.6,132,Gasoline,Variable,FWD,51000
+Toyota,Corolla,Sense,2019,2,67000.0,1.8,121,Hybrid,Variable,FWD,108500
+Toyota,Corolla,Sun,2015,1,138000.0,1.6,132,Gasoline,Variable,FWD,55000
+Toyota,Corolla,Sun,2019,2,138000.0,1.8,121,Hybrid,Variable,FWD,85000
+Toyota,Land Cruiser,Limited,2019,1,200000.0,2.8,177,Diesel,Automatic,AWD,245000
+Toyota,Corolla,Sense,2019,1,102000.0,1.8,121,Hybrid,Variable,FWD,105000
+Toyota,Corolla,Comfort,2021,1,30000.0,1.8,121,Hybrid,Variable,FWD,120000
+Toyota,Corolla,Sun,2020,2,150000.0,1.8,121,Hybrid,Variable,FWD,80000
+Toyota,Corolla,Sense,2021,1,38000.0,1.8,121,Hybrid,Variable,FWD,124000
+Toyota,Corolla,Sun,2017,2,190000.0,1.6,132,Gasoline,Variable,FWD,60000
+Toyota,Rav4,E-xperience,2020,3,80000.0,2.5,218,Hybrid,Automatic,FWD,141000
+Toyota,Corolla,Sense,2022,1,16500.0,1.8,121,Hybrid,Variable,FWD,132000
+Toyota,Corolla,Sun,2019,2,78000.0,1.8,121,Hybrid,Variable,FWD,99000
+Toyota,Rav4,Premium,2015,4,136200.0,2.0,152,Gasoline,Variable,AWD,70000
+Toyota,Corolla,Sun,2019,2,150000.0,1.8,121,Hybrid,Variable,FWD,78000
+Toyota,Corolla,Limited,2020,1,47000.0,1.8,121,Hybrid,Variable,FWD,105000
+Toyota,Corolla,Limited,2021,1,114000.0,1.8,98,Hybrid,Variable,FWD,126000
+Toyota,Corolla,Space,2020,2,49000.0,1.8,122,Hybrid,Variable,FWD,90000
+Toyota,C Hr,C-Hic,2017,3,156000.0,1.8,122,Hybrid,Automatic,FWD,80000
+Toyota,C Hr,Lounge,2020,1,25000.0,1.8,122,Hybrid,Variable,FWD,124000
+Toyota,Corolla,GLI,2015,2,170000.0,1.6,132,Gasoline,Variable,FWD,54500
+Toyota,Corolla,Sun,2017,2,192000.0,1.6,132,Gasoline,Variable,FWD,55000
+Toyota,Corolla,Sense,2022,1,85000.0,1.8,121,Hybrid,Variable,FWD,110000
+Toyota,Rav4,E-motion Sky,2024,1,1500.0,2.5,218,Hybrid,Automatic,FWD,245500
+Toyota,Corolla,Sense,2020,1,69000.0,1.8,121,Hybrid,Variable,FWD,122000
+Toyota,Corolla,Space,2019,2,75000.0,1.8,122,Hybrid,Variable,FWD,98000
+Toyota,Corolla,Limited,2020,1,31000.0,1.8,121,Hybrid,Variable,FWD,125000
+Toyota,Land Cruiser,Luxury,2015,2,327000.0,2.8,177,Diesel,Automatic,AWD,160000
+Toyota,Yaris,Sol,2015,3,193645.0,1.3,99,Gasoline,Variable,FWD,36500
+Toyota,Corolla,Sun,2019,1,47000.0,1.8,121,Hybrid,Variable,FWD,99000
+Toyota,Corolla,Sense,2021,1,100000.0,1.8,121,Hybrid,Variable,FWD,108000
+Toyota,Yaris,Sol,2015,3,113000.0,1.3,99,Gasoline,Variable,FWD,43000
+Toyota,Corolla,GLI,2018,2,73000.0,1.6,132,Gasoline,Variable,FWD,85000
+Toyota,Corolla,Sun,2020,2,105000.0,1.8,121,Hybrid,Variable,FWD,100000
+Toyota,Corolla,GLI,2015,2,135000.0,1.6,132,Gasoline,Variable,FWD,55000
+Toyota,Corolla,Sense,2021,2,50000.0,1.8,121,Hybrid,Variable,FWD,120000
+Toyota,Yaris,Style,2016,2,150000.0,1.5,100,Hybrid,Variable,FWD,60000
+Toyota,Corolla,Sun,2015,2,155000.0,1.6,132,Gasoline,Variable,FWD,49000
+Toyota,Yaris,Eco,2018,2,134000.0,1.5,100,Hybrid,Variable,FWD,70000
+Toyota,C Hr,C-Hic,2023,1,12000.0,1.8,122,Hybrid,Variable,FWD,154000
+Toyota,Rav4,E-xperience,2019,2,93000.0,2.5,218,Hybrid,Automatic,FWD,140000
+Toyota,C Hr,C-Hic,2018,1,130000.0,1.8,122,Hybrid,Automatic,FWD,100000
+Toyota,Auris,Estate TS,2016,2,207000.0,1.8,136,Hybrid,Variable,FWD,49700
+Toyota,Corolla,Limited,2021,1,39500.0,1.8,98,Hybrid,Variable,FWD,125000
+Toyota,Corolla,Sun,2015,2,164000.0,1.6,132,Gasoline,Variable,FWD,47000
+Toyota,Corolla,Sun,2019,2,115000.0,1.8,121,Hybrid,Variable,FWD,95000
+Toyota,Corolla,Sun,2019,4,121100.0,1.8,121,Hybrid,Variable,FWD,84900
+Toyota,Corolla,Sun,2019,2,130000.0,1.6,132,Gasoline,Variable,FWD,65000
+Toyota,Corolla,Space,2019,2,138170.0,1.8,122,Hybrid,Variable,FWD,72415
+Toyota,Corolla,Limited,2021,2,104500.0,1.8,98,Hybrid,Variable,FWD,109945
+Toyota,Corolla,Limited,2020,2,110000.0,1.8,121,Hybrid,Variable,FWD,98155
+Toyota,C Hr,C-Ity,2021,1,108350.0,1.8,122,Hybrid,Variable,FWD,108695
+Toyota,C Hr,C-Hic,2020,1,33500.0,1.8,122,Hybrid,Variable,FWD,113685
+Toyota,C Hr,C-Hic,2017,2,160000.0,1.8,122,Hybrid,Automatic,FWD,83882
+Toyota,Rav4,E-volve,2022,2,92000.0,2.5,218,Hybrid,Automatic,FWD,175000
+Toyota,Corolla,Sun,2016,3,140000.0,1.6,132,Gasoline,Variable,FWD,42000
+Toyota,Rav4,E-xperience,2021,2,88000.0,2.5,218,Hybrid,Automatic,FWD,152000
+Toyota,Corolla,GLI,2015,2,180000.0,1.6,132,Gasoline,Variable,FWD,49999
+Toyota,Corolla,Sun,2020,1,103000.0,1.8,121,Hybrid,Variable,FWD,90000
+Toyota,Yaris Cross,Hybrid Urban,2022,1,52000.0,1.5,116,Hybrid,Variable,FWD,115000
+Toyota,Corolla,Sense,2021,1,109400.0,1.5,125,Gasoline,Variable,FWD,100000
+Toyota,Yaris,Eco,2019,2,142000.0,1.5,100,Hybrid,Variable,FWD,55000
+Toyota,Corolla,Sense,2019,1,126000.0,1.8,121,Hybrid,Variable,FWD,100000
+Toyota,C Hr,C-Hic,2017,1,74000.0,1.8,122,Hybrid,Automatic,FWD,99000
+Hyundai,I30,Inspire,2017,1,82000.0,1.4,100,Gasoline,Manual,FWD,38500
+Hyundai,I10,Open Sky,2019,2,50000.0,1.2,84,Gasoline,Robotic,FWD,46900
+Hyundai,I25,Inspire,2018,2,175025.0,1.4,100,Gasoline,Automatic,FWD,35800
+Hyundai,I10,Prime,2020,2,59000.0,1.2,84,Gasoline,Robotic,FWD,55800
+Hyundai,I20,Prestige,2019,1,44000.0,1.0,100,Gasoline,Robotic,FWD,55900
+Hyundai,Tucson,Prime Plus,2018,2,198000.0,2.0,155,Gasoline,Robotic,FWD,57000
+Hyundai,Elantra,Supreme,2022,1,30000.0,1.6,139,Hybrid,Robotic,FWD,123900
+Hyundai,Tucson,Luxury,2019,1,200000.0,1.6,177,Gasoline,Robotic,FWD,79000
+Hyundai,Accent,Inspire,2022,1,120000.0,1.6,123,Gasoline,Automatic,FWD,62800
+Hyundai,Tucson,Prime Plus,2019,2,139000.0,2.0,155,Gasoline,Automatic,FWD,73900
+Hyundai,Accent,Inspire,2021,1,135000.0,1.4,100,Gasoline,Automatic,FWD,61900
+Hyundai,Elantra,Premium,2023,1,125000.0,1.6,139,Hybrid,Robotic,FWD,109000
+Hyundai,I10,Prime,2022,1,49000.0,1.2,84,Gasoline,Robotic,FWD,59900
+Hyundai,I20,Prime,2019,3,190000.0,1.0,100,Gasoline,Robotic,FWD,60000
+Hyundai,Tucson,Panoramic,2019,3,52000.0,2.0,155,Gasoline,Automatic,FWD,92000
+Hyundai,Ix35,Open Sky,2015,4,135000.0,2.0,154,Gasoline,Automatic,FWD,40000
+Hyundai,Accent,Inspire,2021,1,64000.0,1.6,123,Gasoline,Automatic,FWD,60000
+Hyundai,Bayon,Supreme,2023,1,30000.0,1.0,120,Gasoline,Robotic,FWD,115000
+Hyundai,Bayon,Prime Plus,2022,2,49450.0,1.0,100,Gasoline,Robotic,FWD,88500
+Hyundai,Tucson,Open Sky,2017,1,68000.0,2.0,155,Gasoline,Robotic,FWD,72000
+Hyundai,Ioniq,Premium,2021,2,108000.0,1.6,141,Hybrid,Robotic,FWD,85800
+Hyundai,Accent,Inspire 1.6,2020,3,109000.0,1.4,123,Gasoline,Automatic,FWD,55900
+Hyundai,Venue,Inspire,2025,1,21000.0,1.6,123,Gasoline,Variable,FWD,99000
+Hyundai,Accent,Inspire,2023,1,54000.0,1.6,123,Gasoline,Automatic,FWD,79000
+Hyundai,I20,Prime Plus,2023,1,85000.0,1.0,100,Gasoline,Robotic,FWD,82999
+Hyundai,Tucson,Luxury,2018,1,75000.0,1.6,177,Gasoline,Robotic,FWD,82000
+Hyundai,I35,Inspire,2015,2,117000.0,1.6,132,Gasoline,Automatic,FWD,38800
+Hyundai,I10,Prime,2018,2,97934.0,1.2,87,Gasoline,Automatic,FWD,39800
+Hyundai,I20,Prime,2023,1,45000.0,1.0,100,Gasoline,Robotic,FWD,84900
+Hyundai,Sonata,Premium,2018,3,195000.0,2.0,193,Hybrid,Automatic,FWD,49500
+Hyundai,Kona,Premium,2025,1,40000.0,1.6,139,Hybrid,Robotic,FWD,142000
+Hyundai,Kona,Prestige,2024,1,17000.0,1.6,139,Hybrid,Robotic,FWD,144900
+Hyundai,I25,Inspire,2015,3,180000.0,1.6,124,Gasoline,Automatic,FWD,26500
+Hyundai,Sonata,Limited,2023,1,48800.0,2.0,192,Hybrid,Automatic,FWD,160000
+Hyundai,Ioniq,Premium,2018,2,169000.0,1.6,141,Hybrid,Robotic,FWD,65000
+Hyundai,I20,Prime,2019,3,144500.0,1.0,100,Gasoline,Robotic,FWD,51000
+Hyundai,I10,Insight,2015,2,180000.0,1.0,67,Gasoline,Manual,FWD,17000
+Hyundai,I10,Insight,2015,4,116000.0,1.0,67,Gasoline,Automatic,FWD,27800
+Hyundai,I10,Open Sky,2019,2,88000.0,1.2,84,Gasoline,Robotic,FWD,42900
+Hyundai,Tucson,Premium,2017,1,147000.0,2.0,155,Gasoline,Robotic,FWD,69900
+Hyundai,I20,Prime,2020,2,75000.0,1.0,100,Gasoline,Robotic,FWD,65900
+Hyundai,Ioniq,Premium,2021,2,97000.0,1.6,141,Hybrid,Robotic,FWD,94900
+Hyundai,Tucson,Panoramic,2022,2,68000.0,1.6,180,Gasoline,Robotic,FWD,110000
+Hyundai,Ioniq,Premium,2020,2,114000.0,1.6,141,Hybrid,Robotic,FWD,83999
+Hyundai,Tucson,Elite,2023,2,58579.0,1.6,180,Gasoline,Robotic,FWD,148690
+Hyundai,Tucson,Luxury,2023,1,35552.0,1.6,180,Gasoline,Robotic,FWD,151135
+Hyundai,Tucson,Elite,2023,2,46888.0,1.6,180,Gasoline,Robotic,FWD,144995
+Hyundai,Tucson,Prestige,2023,1,100000.0,1.6,180,Gasoline,Robotic,FWD,122740
+Hyundai,Tucson,Panoramic,2022,2,97333.0,1.6,180,Gasoline,Robotic,FWD,110330
+Hyundai,Tucson,Premium,2022,3,93000.0,2.0,156,Gasoline,Automatic,FWD,99000
+Hyundai,Elantra,Premium,2024,1,37000.0,1.6,139,Hybrid,Robotic,FWD,130000
+Hyundai,I20,Intense,2020,2,127000.0,1.0,100,Gasoline,Robotic,FWD,57500
+Hyundai,I20,Inspire,2016,2,107000.0,1.4,100,Gasoline,Automatic,FWD,50000
+Hyundai,I10,Prime,2021,2,90000.0,1.2,84,Gasoline,Robotic,FWD,58000
+Hyundai,Ioniq,Premium,2018,2,178000.0,1.6,141,Hybrid,Robotic,FWD,56000
+Hyundai,Sonata,Premium,2021,3,118700.0,2.0,192,Hybrid,Automatic,FWD,101000
+Hyundai,Tucson,Premium,2022,2,89500.0,2.0,156,Gasoline,Automatic,FWD,111704
+Hyundai,Tucson,Elite,2022,2,54723.0,1.6,180,Gasoline,Robotic,FWD,136335
+Hyundai,Tucson,Luxury,2022,2,36952.0,1.6,180,Gasoline,Robotic,FWD,140485
+Hyundai,Tucson,Elite,2022,1,90000.0,1.6,180,Gasoline,Robotic,FWD,132365
+Hyundai,Tucson,Luxury,2022,1,65222.0,1.6,180,Gasoline,Robotic,FWD,134960
+Hyundai,Tucson,Luxury,2022,1,62350.0,1.6,180,Gasoline,Robotic,FWD,136530
+Hyundai,Tucson,Elite,2022,1,58000.0,1.6,180,Gasoline,Robotic,FWD,143175
+Hyundai,Tucson,Prestige,2022,1,56616.0,1.6,180,Gasoline,Robotic,FWD,129960
+Hyundai,Tucson,Panoramic,2022,1,48930.0,1.6,180,Gasoline,Robotic,FWD,130827
+Hyundai,Tucson,Luxury,2022,1,47482.0,1.6,180,Gasoline,Robotic,FWD,138134
+Hyundai,Tucson,Elite,2022,1,33500.0,1.6,180,Gasoline,Robotic,FWD,145400
+Hyundai,Tucson,Luxury,2021,2,95973.0,1.6,180,Gasoline,Robotic,FWD,124675
+Hyundai,Tucson,Elite,2021,2,51052.0,1.6,180,Gasoline,Robotic,FWD,132875
+Hyundai,Tucson,Luxury,2021,1,68115.0,1.6,180,Gasoline,Robotic,FWD,129685
+Hyundai,Tucson,Prestige,2021,1,66226.0,1.6,180,Gasoline,Robotic,FWD,119985
+Hyundai,Tucson,Prestige,2021,1,64050.0,1.6,180,Gasoline,Robotic,FWD,119525
+Hyundai,Tucson,Luxury,2021,1,39252.0,1.6,180,Gasoline,Robotic,FWD,133785
+Hyundai,Tucson,Luxury,2021,1,26744.0,1.6,180,Gasoline,Robotic,FWD,135185
+Hyundai,Tucson,Panoramic,2020,2,58513.0,2.0,155,Gasoline,Automatic,FWD,109070
+Hyundai,I20,Intense,2021,1,190000.0,1.0,100,Gasoline,Robotic,FWD,50000
+Hyundai,Tucson,Prestige,2023,1,62734.0,1.6,180,Gasoline,Robotic,FWD,127400
+Hyundai,Ioniq,Premium,2019,2,198000.0,1.6,141,Hybrid,Robotic,FWD,50000
+Hyundai,Tucson,Prime Plus,2018,3,160000.0,2.0,155,Gasoline,Robotic,FWD,65000
+Hyundai,Tucson,Luxury,2018,2,96052.0,1.6,177,Gasoline,Robotic,FWD,87865
+Hyundai,Tucson,Panoramic,2018,2,79443.0,2.0,155,Gasoline,Automatic,FWD,83135
+Hyundai,Tucson,Premium,2017,2,130300.0,2.0,155,Gasoline,Robotic,FWD,76165
+Hyundai,Tucson,Prime,2016,2,138778.0,1.6,132,Gasoline,Automatic,FWD,63570
+Hyundai,Sonata,Prestige,2022,1,113873.0,2.0,192,Hybrid,Automatic,FWD,111775
+Hyundai,Kona,Prestige,2022,1,94665.0,1.6,139,Hybrid,Robotic,FWD,116865
+Hyundai,Kona,Prime Plus,2024,1,14500.0,1.6,198,Gasoline,Robotic,FWD,139735
+Hyundai,Kona,Prestige,2019,2,125681.0,1.6,177,Gasoline,Robotic,FWD,71995
+Hyundai,Ioniq 5,Elite,2022,1,49000.0,,305,Electro,Automatic,AWD,137995
+Hyundai,Ioniq,Premium,2022,2,90284.0,1.6,141,Hybrid,Robotic,FWD,93995
+Hyundai,Ioniq,Premium,2020,3,122590.0,1.6,141,Hybrid,Robotic,FWD,81350
+Hyundai,Ioniq,Premium,2020,2,98621.0,1.6,141,Hybrid,Robotic,FWD,85800
+Hyundai,Ioniq,Premium,2020,2,109000.0,1.6,141,Hybrid,Robotic,FWD,82840
+Hyundai,I20,Prestige,2023,1,9423.0,1.0,100,Gasoline,Robotic,FWD,102960
+Hyundai,I20,Prime Plus,2023,1,68786.0,1.0,100,Gasoline,Robotic,FWD,86237
+Hyundai,I20,Supreme,2023,1,35000.0,1.0,100,Gasoline,Robotic,FWD,91520
+Hyundai,I20,Prime,2022,2,41680.0,1.0,100,Gasoline,Robotic,FWD,88805
+Hyundai,Tucson,Elite,2023,1,21400.0,1.6,180,Gasoline,Robotic,FWD,145000
+Hyundai,Ioniq,Supreme,2020,1,47000.0,1.6,141,Hybrid,Robotic,FWD,120000
+Hyundai,Tucson,Executive,2025,1,3500.0,1.6,235,Hybrid,Robotic,AWD,218000
+Hyundai,Ioniq,Premium,2021,2,149000.0,1.6,141,Hybrid,Robotic,FWD,83000
+Hyundai,I10,Inspire,2016,2,129000.0,1.0,67,Gasoline,Automatic,FWD,32000
+Hyundai,I20,Prime,2022,1,51971.0,1.0,100,Gasoline,Robotic,FWD,91900
+Hyundai,I20,Intense,2021,3,43097.0,1.0,100,Gasoline,Robotic,FWD,72545
+Hyundai,I20,Intense,2021,2,118000.0,1.0,100,Gasoline,Robotic,FWD,69917
+Hyundai,I20,Supreme,2021,1,131448.0,1.0,100,Gasoline,Robotic,FWD,58550
+Hyundai,I20,Prime Plus,2020,2,54324.0,1.0,100,Gasoline,Robotic,FWD,76730
+Hyundai,I20,Prime Plus,2020,2,33454.0,1.0,100,Gasoline,Robotic,FWD,81650
+Hyundai,I20,Prime Plus,2020,2,130000.0,1.0,100,Gasoline,Robotic,FWD,62730
+Hyundai,I20,Intense,2020,2,129238.0,1.0,100,Gasoline,Robotic,FWD,61540
+Hyundai,I20,Prestige,2020,2,129000.0,1.0,100,Gasoline,Robotic,FWD,68860
+Hyundai,I20,Prime Plus,2020,2,107712.0,1.0,100,Gasoline,Robotic,FWD,65045
+Hyundai,I20,Prime,2020,2,115829.0,1.0,100,Gasoline,Robotic,FWD,63825
+Hyundai,I20,Prestige,2020,1,17658.0,1.0,100,Gasoline,Robotic,FWD,88655
+Hyundai,I20,Prestige,2019,2,71624.0,1.0,100,Gasoline,Robotic,FWD,71345
+Hyundai,I20,Prime,2019,2,126809.0,1.0,100,Gasoline,Robotic,FWD,60175
+Hyundai,I10,Prime,2024,2,35714.0,1.2,84,Gasoline,Robotic,FWD,81600
+Hyundai,I10,Prime,2024,2,29225.0,1.2,84,Gasoline,Robotic,FWD,82155
+Hyundai,I10,Supreme,2023,1,8686.0,1.2,84,Gasoline,Robotic,FWD,87445
+Hyundai,I10,Prime Plus,2022,2,26671.0,1.2,84,Gasoline,Robotic,FWD,71985
+Hyundai,I10,Prime,2022,1,8729.0,1.2,84,Gasoline,Robotic,FWD,81750
+Hyundai,I10,Supreme,2022,1,49504.0,1.2,84,Gasoline,Robotic,FWD,73715
+Hyundai,Kona Ev,EV,2023,1,107000.0,,136,Electro,Automatic,FWD,100000
+Hyundai,Sonata,Limited,2017,4,140000.0,2.0,193,Hybrid,Automatic,FWD,63900
+Hyundai,Ioniq,Supreme,2019,3,175000.0,1.6,141,Hybrid,Robotic,FWD,65000
+Hyundai,I10,Prime,2021,3,50000.0,1.2,84,Gasoline,Robotic,FWD,49600
+Hyundai,I20,Inspire,2016,2,168000.0,1.4,100,Gasoline,Automatic,FWD,35000
+Hyundai,Tucson,Luxury,2021,1,75000.0,1.6,180,Gasoline,Robotic,FWD,123000
+Hyundai,Tucson,Panoramic,2022,2,100000.0,1.6,180,Gasoline,Robotic,FWD,113500
+Hyundai,Tucson,Elite,2021,2,49400.0,1.6,180,Gasoline,Robotic,FWD,135000
+Hyundai,I10,Prime,2021,2,75968.0,1.2,84,Gasoline,Robotic,FWD,55455
+Hyundai,I10,Prime,2021,2,61850.0,1.2,84,Gasoline,Robotic,FWD,67625
+Hyundai,I10,Prime,2021,2,64930.0,1.2,84,Gasoline,Robotic,FWD,67645
+Hyundai,I10,Supreme,2021,1,23903.0,1.2,84,Gasoline,Robotic,FWD,74870
+Hyundai,I10,Prime,2020,1,80042.0,1.2,84,Gasoline,Robotic,FWD,65095
+Hyundai,I10,Open Sky,2019,2,96629.0,1.2,84,Gasoline,Robotic,FWD,59370
+Hyundai,I10,Prime,2019,2,92244.0,1.2,87,Gasoline,Automatic,FWD,58235
+Hyundai,I10,Prime,2019,2,60000.0,1.2,87,Gasoline,Automatic,FWD,63255
+Hyundai,I10,Prime,2019,2,100750.0,1.2,87,Gasoline,Automatic,FWD,55030
+Hyundai,I10,Prime,2018,2,131011.0,1.2,87,Gasoline,Automatic,FWD,50735
+Hyundai,I10,Premium,2017,2,131180.0,1.0,66,Gasoline,Automatic,FWD,40495
+Hyundai,I10,Inspire,2016,3,81618.0,1.0,67,Gasoline,Automatic,FWD,33192
+Hyundai,Elantra,Premium,2023,1,107261.0,1.6,139,Hybrid,Robotic,FWD,101457
+Hyundai,Elantra,Premium,2022,2,82000.0,1.6,139,Hybrid,Robotic,FWD,115395
+Hyundai,Elantra,Premium,2022,2,32684.0,1.6,139,Hybrid,Robotic,FWD,127355
+Hyundai,Elantra,Supreme,2022,1,109490.0,1.6,139,Hybrid,Robotic,FWD,111645
+Hyundai,Elantra,Supreme,2022,1,106505.0,1.6,139,Hybrid,Robotic,FWD,115145
+Hyundai,Elantra,Supreme,2023,1,31000.0,1.6,139,Hybrid,Robotic,FWD,134685
+Hyundai,Venue,Intense,2021,2,90000.0,1.6,123,Gasoline,Variable,FWD,64900
+Hyundai,I10,Supreme,2023,3,14000.0,1.2,84,Gasoline,Robotic,FWD,70000
+Hyundai,I10,Inspire,2018,2,88000.0,1.2,87,Gasoline,Automatic,FWD,45000
+Hyundai,I10,Premium,2016,3,185000.0,1.0,67,Gasoline,Automatic,FWD,25000
+Hyundai,Ioniq,Premium,2020,2,138900.0,1.6,141,Hybrid,Robotic,FWD,75000
+Hyundai,I10,Inspire,2017,2,113000.0,1.0,66,Gasoline,Automatic,FWD,37900
+Hyundai,Ioniq,Premium,2017,2,180000.0,1.6,141,Hybrid,Robotic,FWD,65000
+Hyundai,Bayon,Premium,2023,1,50865.0,1.0,100,Gasoline,Robotic,FWD,99255
+Hyundai,Bayon,Supreme,2023,1,46227.0,1.0,120,Gasoline,Robotic,FWD,105375
+Hyundai,Bayon,Supreme,2023,1,46618.0,1.0,120,Gasoline,Robotic,FWD,107325
+Hyundai,Bayon,Premium,2023,1,29170.0,1.0,100,Gasoline,Robotic,FWD,99785
+Hyundai,Bayon,Premium,2023,1,25165.0,1.0,100,Gasoline,Robotic,FWD,99255
+Hyundai,Bayon,Prime Plus,2023,1,23000.0,1.0,100,Gasoline,Robotic,FWD,106455
+Hyundai,Bayon,Supreme,2023,1,21003.0,1.0,120,Gasoline,Robotic,FWD,108785
+Hyundai,Ioniq,Premium,2019,2,259000.0,1.6,141,Hybrid,Robotic,FWD,49990
+Hyundai,Tucson,Elite,2024,2,49048.0,1.6,180,Gasoline,Robotic,FWD,134000
+Hyundai,I25,Inspire,2017,2,153000.0,1.4,100,Gasoline,Automatic,FWD,35000
+Hyundai,Tucson,Panoramic,2019,2,112000.0,2.0,155,Gasoline,Automatic,FWD,85000
+Hyundai,Tucson,Luxury,2021,1,63000.0,1.6,180,Gasoline,Robotic,FWD,125000
+Hyundai,I35,Inspire,2015,2,174000.0,1.6,132,Gasoline,Automatic,FWD,28000
+Hyundai,Kona,Prestige,2021,1,55000.0,1.6,198,Gasoline,Robotic,FWD,93000
+Hyundai,I10,Insight,2016,2,150000.0,1.0,67,Gasoline,Manual,FWD,21000
+Hyundai,Tucson,Luxury,2021,1,93000.0,1.6,180,Gasoline,Robotic,FWD,122000
+Hyundai,Ioniq,Premium,2019,2,112000.0,1.6,141,Hybrid,Robotic,FWD,79999
+Hyundai,Tucson,Open Sky,2016,3,155000.0,2.0,155,Gasoline,Robotic,FWD,56900
+Hyundai,Tucson,Premium,2016,2,213000.0,2.0,155,Gasoline,Robotic,FWD,45000
+Hyundai,Ioniq,Premium,2017,3,250000.0,1.6,141,Hybrid,Robotic,FWD,65000
+Hyundai,Ioniq,Premium,2017,3,167000.0,1.6,141,Hybrid,Robotic,FWD,53000
+Hyundai,Ix35,Elite,2015,3,167000.0,2.4,177,Gasoline,Automatic,AWD,40000
+Hyundai,Tucson,Prestige,2022,1,36000.0,1.6,180,Gasoline,Robotic,FWD,150000
+Hyundai,Sonata,Limited,2023,1,23000.0,2.0,192,Hybrid,Automatic,FWD,160000
+Hyundai,Ioniq,Premium,2017,4,240000.0,1.6,141,Hybrid,Robotic,FWD,51000
+Hyundai,Ioniq,Premium,2020,2,145000.0,1.6,141,Hybrid,Robotic,FWD,85000
+Hyundai,I20,Prestige,2022,1,49700.0,1.0,100,Gasoline,Robotic,FWD,87500
+Hyundai,Tucson,Luxury,2019,3,100000.0,1.6,177,Gasoline,Robotic,FWD,87000
+Hyundai,Elantra,Supreme,2023,1,92000.0,1.6,139,Hybrid,Robotic,FWD,125999
+Hyundai,I20,Prime,2019,2,100000.0,1.0,100,Gasoline,Robotic,FWD,62000
+Hyundai,Accent,Inspire,2021,1,107500.0,1.4,100,Gasoline,Automatic,FWD,59000
+Hyundai,Sonata,Premium,2021,1,126000.0,2.0,192,Hybrid,Automatic,FWD,113999
+Hyundai,I20,Prime,2020,4,62000.0,1.0,100,Gasoline,Robotic,FWD,59990
+Hyundai,I20,Prime Plus,2020,1,84000.0,1.0,100,Gasoline,Robotic,FWD,55000
+Hyundai,Ioniq,Premium,2021,3,101000.0,1.6,141,Hybrid,Robotic,FWD,92000
+Hyundai,I20,Prestige,2019,1,140000.0,1.0,100,Gasoline,Robotic,FWD,67000
+Hyundai,I20,Prime Plus,2020,2,130000.0,1.0,100,Gasoline,Robotic,FWD,57000
+Hyundai,Venue,Premium,2024,1,4631.0,1.6,123,Gasoline,Variable,FWD,125000
+Hyundai,Sonata,Premium,2016,3,138000.0,2.0,193,Hybrid,Automatic,FWD,49000
+Hyundai,Ioniq 5,Elite,2024,1,25300.0,,305,Electro,Automatic,AWD,183000
+Hyundai,Santa Fe,Supreme,2022,3,75000.0,2.2,230,Diesel,Robotic,FWD,154990
+Hyundai,I10,Prime,2021,2,12000.0,1.2,84,Gasoline,Robotic,FWD,66990
+Hyundai,I10,Premium,2016,3,150000.0,1.0,67,Gasoline,Automatic,FWD,32000
+Hyundai,Ioniq,Premium,2017,2,187700.0,1.6,141,Hybrid,Robotic,FWD,55000
+Hyundai,Tucson,Luxury,2023,1,76000.0,1.6,180,Gasoline,Robotic,FWD,134000
+Hyundai,I10,Prime,2019,2,168000.0,1.2,87,Gasoline,Automatic,FWD,42000
+Hyundai,Ioniq,Premium,2020,2,126500.0,1.6,141,Hybrid,Robotic,FWD,90000
+Hyundai,I20,Prime Plus,2021,2,82000.0,1.0,100,Gasoline,Robotic,FWD,68000
+Hyundai,Ioniq,Premium,2020,1,66900.0,1.6,141,Hybrid,Robotic,FWD,115000
+Hyundai,I25,Inspire,2016,1,170000.0,1.6,124,Gasoline,Automatic,FWD,32000
+Hyundai,Elantra,Supreme,2022,2,100000.0,1.6,139,Hybrid,Robotic,FWD,120000
+Hyundai,I10,Insight,2015,4,202574.0,1.0,67,Gasoline,Automatic,FWD,21000
+Hyundai,I20,Prime Plus,2022,2,65500.0,1.0,100,Gasoline,Robotic,FWD,78000
+Hyundai,Tucson,Premium,2022,2,94000.0,2.0,156,Gasoline,Automatic,FWD,113990
+Hyundai,Ioniq,Premium,2022,2,73000.0,1.6,141,Hybrid,Robotic,FWD,99990
+Hyundai,I25,Inspire,2017,2,195000.0,1.4,100,Gasoline,Automatic,FWD,28900
+Hyundai,Tucson,Elite,2019,1,116000.0,2.0,155,Gasoline,Automatic,FWD,90000
+Hyundai,Ioniq,Supreme,2017,4,178000.0,1.6,141,Hybrid,Robotic,FWD,64500
+Hyundai,Elantra,Supreme,2022,1,82000.0,1.6,139,Hybrid,Robotic,FWD,119990
+Hyundai,Sonata,Premium,2021,1,114483.0,2.0,192,Hybrid,Automatic,FWD,107000
+Hyundai,Kona,Prestige,2022,2,38000.0,1.6,139,Hybrid,Robotic,FWD,110000
+Hyundai,Kona,Premium,2019,1,99000.0,1.6,177,Gasoline,Robotic,FWD,73000
+Hyundai,Tucson,Luxury,2021,0,105000.0,1.6,180,Gasoline,Robotic,FWD,125000
+Hyundai,I25,Inspire,2016,3,150000.0,1.4,100,Gasoline,Automatic,FWD,25000
+Hyundai,Elantra,Supreme,2022,1,72500.0,1.6,139,Hybrid,Robotic,FWD,130000
+Hyundai,Sonata,Premium,2018,3,107000.0,2.0,193,Hybrid,Automatic,FWD,69000
+Hyundai,Sonata,Premium,2016,2,200000.0,2.0,193,Hybrid,Automatic,FWD,55000
+Hyundai,I20,Inspire,2018,3,155000.0,1.4,100,Gasoline,Automatic,FWD,43000
+Hyundai,I25,Inspire,2017,4,180000.0,1.6,124,Gasoline,Automatic,FWD,31000
+Hyundai,Ioniq 5,Luxury,2024,1,17000.0,,217,Electro,Automatic,RWD,195000
+Hyundai,Elantra,Inspire,2017,2,163000.0,1.6,128,Gasoline,Automatic,FWD,47000
+Hyundai,Sonata,Limited,2018,4,104000.0,2.0,193,Hybrid,Automatic,FWD,87000
+Hyundai,Ioniq,Premium,2020,1,123000.0,1.6,141,Hybrid,Robotic,FWD,85000
+Hyundai,I20,Supreme,2022,1,26000.0,1.0,100,Gasoline,Robotic,FWD,98000
+Hyundai,Ioniq 5,Prestige,2022,2,137000.0,,217,Electro,Automatic,RWD,104990
+Hyundai,I10,Prime Plus,2021,2,88000.0,1.2,84,Gasoline,Robotic,FWD,63990
+Hyundai,Kona,Premium,2022,1,91759.0,1.6,139,Hybrid,Robotic,FWD,110000
+Hyundai,I10,Prime,2023,1,25000.0,1.2,84,Gasoline,Robotic,FWD,73000
+Hyundai,Elantra,Inspire,2016,4,207000.0,1.6,128,Gasoline,Automatic,FWD,23000
+Hyundai,Sonata,Limited,2017,2,130000.0,2.0,193,Hybrid,Automatic,FWD,77000
+Hyundai,Sonata,Limited,2017,1,122000.0,2.0,193,Hybrid,Automatic,FWD,75000
+Hyundai,Sonata,Limited,2021,2,69200.0,2.0,192,Hybrid,Automatic,FWD,138000
+Hyundai,Ioniq,Supreme,2018,1,113000.0,1.6,141,Hybrid,Robotic,FWD,78000
+Hyundai,Tucson,Elite,2023,1,43000.0,1.6,180,Gasoline,Robotic,FWD,160000
+Hyundai,Ioniq,Premium,2018,2,174000.0,1.6,141,Hybrid,Robotic,FWD,60000
+Hyundai,Ioniq,Premium,2019,4,157000.0,1.6,141,Hybrid,Robotic,FWD,68000
+Hyundai,I35,Supreme,2015,2,198000.0,1.6,132,Gasoline,Automatic,FWD,29950
+Hyundai,Ioniq,Supreme,2020,1,118000.0,1.6,141,Hybrid,Robotic,FWD,93000
+Hyundai,Tucson,Prime,2016,2,71000.0,1.6,132,Gasoline,Automatic,FWD,55900
+Hyundai,Ioniq 5,Luxury,2024,1,15200.0,,305,Electro,Automatic,AWD,184900
+Hyundai,Ioniq 5,Luxury,2024,1,10000.0,,217,Electro,Automatic,RWD,171900
+Hyundai,Elantra,Premium,2023,1,50000.0,1.6,139,Hybrid,Robotic,FWD,109900
+Hyundai,I25,Inspire,2017,4,176000.0,1.6,124,Gasoline,Automatic,FWD,31000
+Hyundai,Kona Ev,EV,2023,1,77000.0,,136,Electro,Automatic,FWD,106000
+Hyundai,I10,Inspire,2017,1,119550.0,1.0,66,Gasoline,Automatic,FWD,37000
+Hyundai,Tucson,Luxury,2021,2,124000.0,1.6,180,Gasoline,Robotic,FWD,96000
+Hyundai,I20,Supreme,2022,1,33000.0,1.0,100,Gasoline,Robotic,FWD,96000
+Hyundai,Ioniq,Premium,2017,3,194500.0,1.6,141,Hybrid,Robotic,FWD,50000
+Hyundai,Tucson,Premium,2015,2,105000.0,2.0,155,Gasoline,Robotic,FWD,58500
+Hyundai,Ioniq 5,Elite,2022,2,85000.0,,217,Electro,Automatic,RWD,136000
+Hyundai,Ioniq,Premium,2020,2,120000.0,1.6,141,Hybrid,Robotic,FWD,95500
+Hyundai,Elantra,Inspire,2016,3,205000.0,1.6,128,Gasoline,Automatic,FWD,38000
+Hyundai,I10,Insight,2015,3,168000.0,1.0,67,Gasoline,Manual,FWD,15900
+Hyundai,Ioniq 5,Prestige,2023,1,12500.0,,217,Electro,Automatic,RWD,160000
+Hyundai,Ioniq,Premium,2018,3,220000.0,1.6,141,Hybrid,Robotic,FWD,51000
+Hyundai,Ix35,Prime,2015,3,124700.0,2.0,154,Gasoline,Automatic,FWD,46500
+Hyundai,Ioniq,Premium,2021,2,71500.0,1.6,141,Hybrid,Robotic,FWD,89000
+Hyundai,I10,Inspire,2015,4,160000.0,1.0,67,Gasoline,Manual,FWD,19000
+Hyundai,Sonata,Premium,2020,2,126000.0,2.0,192,Hybrid,Automatic,FWD,115000
+Hyundai,Ioniq,Premium,2019,2,93500.0,1.6,141,Hybrid,Robotic,FWD,72000
+Hyundai,Elantra,Supreme,2022,2,34000.0,1.6,139,Hybrid,Robotic,FWD,128500
+Hyundai,Ioniq 5,Supreme,2022,2,120000.0,,217,Electro,Automatic,RWD,127000
+Hyundai,Ioniq,Premium,2020,2,159000.0,1.6,141,Hybrid,Robotic,FWD,77000
+Hyundai,Venue,Supreme,2021,2,15000.0,1.6,123,Gasoline,Variable,FWD,93000
+Hyundai,Ioniq,Premium,2018,2,146000.0,1.6,141,Hybrid,Robotic,FWD,65000
+Hyundai,Ioniq,Premium,2018,2,105000.0,1.6,141,Hybrid,Robotic,FWD,75000
+Hyundai,Ioniq,Premium,2017,2,134100.0,1.6,141,Hybrid,Robotic,FWD,65000
+Hyundai,Kona,Prime,2021,2,65000.0,1.6,198,Gasoline,Robotic,FWD,86000
+Hyundai,Sonata,Limited,2021,1,33000.0,2.0,192,Hybrid,Automatic,FWD,140000
+Hyundai,Tucson,Luxury,2021,1,70000.0,1.6,180,Gasoline,Robotic,FWD,135000
+Hyundai,Ioniq,Premium,2019,3,112000.0,1.6,141,Hybrid,Robotic,FWD,70000
+Hyundai,I20,Prestige,2022,1,24000.0,1.0,100,Gasoline,Robotic,FWD,91000
+Hyundai,I25,Inspire,2016,2,200000.0,1.6,124,Gasoline,Automatic,FWD,30000
+Hyundai,I10,Premium,2016,3,180000.0,1.0,67,Gasoline,Automatic,FWD,30000
+Hyundai,I30,Premium,2018,2,140000.0,1.4,140,Gasoline,Robotic,FWD,54900
+Hyundai,I30,Premium,2015,3,176000.0,1.6,135,Gasoline,Automatic,FWD,33000
+Hyundai,Ioniq,Supreme,2020,1,88000.0,1.6,141,Hybrid,Robotic,FWD,115000
+Hyundai,Elantra,Supreme,2023,1,25000.0,1.6,139,Hybrid,Robotic,FWD,143200
+Hyundai,Tucson,Prime,2016,3,119500.0,1.6,132,Gasoline,Automatic,FWD,53000
+Hyundai,Ioniq,Supreme,2019,2,86000.0,1.6,141,Hybrid,Robotic,FWD,95000
+Hyundai,I20,Prestige,2019,1,32000.0,1.0,100,Gasoline,Robotic,FWD,78000
+Hyundai,I35,Supreme,2015,3,178000.0,1.6,132,Gasoline,Automatic,FWD,37750
+Hyundai,Sonata,Premium,2016,2,170000.0,2.0,193,Hybrid,Automatic,FWD,54000
+Hyundai,Tucson,Premium,2017,2,67000.0,2.0,155,Gasoline,Robotic,FWD,78000
+Hyundai,Sonata,Prestige,2022,1,85750.0,2.0,192,Hybrid,Automatic,FWD,137000
+Hyundai,Ioniq,Premium,2018,2,102000.0,1.6,141,Hybrid,Robotic,FWD,74000
+Hyundai,I10,Prime,2022,2,39000.0,1.2,84,Gasoline,Robotic,FWD,70000
+Hyundai,Tucson,Panoramic,2021,2,38000.0,2.0,156,Gasoline,Automatic,FWD,115000
+Hyundai,Ioniq 5,Elite,2022,2,88000.0,,217,Electro,Automatic,RWD,190000
+Hyundai,Sonata,Limited,2020,1,74000.0,2.0,192,Hybrid,Automatic,FWD,143000
+Hyundai,I25,Inspire,2018,2,140000.0,1.4,100,Gasoline,Automatic,FWD,45000
+Hyundai,Sonata,Premium,2019,2,177800.0,2.0,193,Hybrid,Automatic,FWD,85000
+Hyundai,I10,Inspire,2016,4,90000.0,1.0,67,Gasoline,Automatic,FWD,33995
+Hyundai,I10,Prime,2018,2,48000.0,1.2,87,Gasoline,Automatic,FWD,47000
+Hyundai,Ioniq,Premium,2021,1,95000.0,1.6,141,Hybrid,Robotic,FWD,90000
+Hyundai,Tucson,Panoramic,2021,3,50000.0,1.6,180,Gasoline,Robotic,FWD,124000
+Hyundai,I10,Prime,2018,2,69198.0,1.2,87,Gasoline,Automatic,FWD,35000
+Hyundai,Ioniq,Premium,2020,2,150000.0,1.6,141,Hybrid,Robotic,FWD,92000
+Hyundai,Sonata,Limited,2018,3,160000.0,2.0,193,Hybrid,Automatic,FWD,73000
+Hyundai,Ioniq,Premium,2021,4,80200.0,1.6,141,Hybrid,Robotic,FWD,105000
+Hyundai,Ioniq,Premium,2019,2,144000.0,1.6,141,Hybrid,Robotic,FWD,70000
+Hyundai,Ioniq,Supreme,2019,1,115000.0,1.6,141,Hybrid,Robotic,FWD,90000
+Hyundai,Tucson,Supreme,2017,3,187000.0,2.0,155,Gasoline,Robotic,FWD,82500
+Hyundai,I35,Supreme,2015,1,108600.0,1.6,132,Gasoline,Automatic,FWD,45000
+Hyundai,Sonata,Limited,2022,1,66000.0,2.0,192,Hybrid,Automatic,FWD,155000
+Hyundai,Tucson,Supreme,2016,3,122255.0,2.0,155,Gasoline,Robotic,FWD,82000
+Hyundai,Kona Ev,EV,2022,1,56000.0,,136,Electro,Automatic,FWD,114000
+Hyundai,Tucson,Premium,2017,2,112000.0,2.0,155,Gasoline,Automatic,FWD,74000
+Hyundai,I10,Prime,2020,1,38000.0,1.2,84,Gasoline,Robotic,FWD,68000
+Hyundai,Sonata,Limited,2016,3,220221.0,2.0,193,Hybrid,Automatic,FWD,70000
+Hyundai,I25,Inspire,2016,2,238000.0,1.4,100,Gasoline,Automatic,FWD,30000
+Hyundai,Tucson,Open Sky,2016,2,121000.0,2.0,155,Gasoline,Robotic,FWD,75000
+Hyundai,Tucson,Open Sky,2016,1,189000.0,2.0,155,Gasoline,Robotic,FWD,69000
+Hyundai,Elantra,Supreme,2022,1,46000.0,1.6,139,Hybrid,Robotic,FWD,122000
+Hyundai,I10,Prime,2021,1,70000.0,1.2,84,Gasoline,Robotic,FWD,61000
+Hyundai,I10,Premium,2015,4,209727.0,1.0,67,Gasoline,Automatic,FWD,24150
+Hyundai,Tucson,Luxury,2022,1,53000.0,1.6,180,Gasoline,Robotic,FWD,137000
+Hyundai,Ioniq,Premium,2019,1,146000.0,1.6,141,Hybrid,Robotic,FWD,78000
+Hyundai,Tucson,Premium,2016,3,113000.0,2.0,155,Gasoline,Robotic,FWD,65000
+Hyundai,I10,Prime,2021,1,30032.0,1.2,84,Gasoline,Robotic,FWD,67000
+Hyundai,Santa Fe,Premium,2015,3,79000.0,2.4,192,Gasoline,Automatic,AWD,80000
+Hyundai,Bayon,Supreme,2023,2,10600.0,1.0,120,Gasoline,Robotic,FWD,120000
+Hyundai,Tucson,Premium,2016,1,138000.0,2.0,155,Gasoline,Robotic,FWD,63000
+Hyundai,I10,Prime,2018,2,173000.0,1.2,87,Gasoline,Automatic,FWD,40000
+Hyundai,Kona Ev,EV,2022,1,52000.0,,136,Electro,Automatic,FWD,116000
+Hyundai,Tucson,Elite,2020,3,75000.0,2.0,155,Gasoline,Automatic,FWD,110000
+Hyundai,Elantra,Supreme,2022,1,59000.0,1.6,139,Hybrid,Robotic,FWD,124000
+Hyundai,I10,Inspire,2020,1,58000.0,1.2,84,Gasoline,Robotic,FWD,63000
+Hyundai,Ioniq,Premium,2017,1,149000.0,1.6,141,Hybrid,Robotic,FWD,65000
+Hyundai,I25,Inspire,2016,2,210000.0,1.4,100,Gasoline,Automatic,FWD,30000
+Hyundai,Ioniq,Premium,2020,1,151000.0,1.6,141,Hybrid,Robotic,FWD,82000
+Hyundai,Tucson,Panoramic,2018,3,85000.0,2.0,155,Gasoline,Automatic,FWD,87000
+Hyundai,Santa Fe,Supreme,2015,3,105000.0,2.4,192,Gasoline,Automatic,AWD,78999
+Hyundai,Ioniq,Premium,2020,2,62000.0,1.6,141,Hybrid,Robotic,FWD,115000
+Hyundai,Ioniq,Premium,2019,1,108000.0,1.6,141,Hybrid,Robotic,FWD,77000
+Hyundai,I20,Inspire,2015,3,192000.0,1.4,100,Gasoline,Automatic,FWD,30000
+Hyundai,I20,Intense,2021,3,73300.0,1.0,100,Gasoline,Robotic,FWD,65000
+Hyundai,Tucson,Luxury,2018,2,103000.0,1.6,177,Gasoline,Robotic,FWD,93000
+Hyundai,Ioniq,Premium,2017,2,145000.0,1.6,141,Hybrid,Robotic,FWD,70000
+Hyundai,Sonata,Limited,2017,3,144000.0,2.0,193,Hybrid,Automatic,FWD,78000
+Hyundai,Ioniq,Premium,2019,2,179000.0,1.6,141,Hybrid,Robotic,FWD,79000
+Hyundai,I20,Prestige,2022,2,15000.0,1.0,100,Gasoline,Robotic,FWD,97000
+Hyundai,Ioniq,Premium,2019,2,129000.0,1.6,141,Hybrid,Robotic,FWD,80000
+Hyundai,Tucson,Prime Plus,2018,3,118000.0,2.0,155,Gasoline,Robotic,FWD,71000
+Hyundai,Ioniq,Premium,2019,2,157000.0,1.6,141,Hybrid,Robotic,FWD,78000
+Hyundai,Tucson,Prime,2016,1,120000.0,1.6,132,Gasoline,Automatic,FWD,68000
+Hyundai,I25,Inspire,2015,4,177000.0,1.6,124,Gasoline,Automatic,FWD,31500
+Hyundai,I10,Prime,2021,1,70000.0,1.2,84,Gasoline,Robotic,FWD,60000
+Hyundai,Sonata,Limited,2017,3,125000.0,2.0,193,Hybrid,Automatic,FWD,85000
+Hyundai,Tucson,Luxury,2019,2,130000.0,1.6,177,Gasoline,Robotic,FWD,100000
+Hyundai,Ioniq,Premium,2018,2,96000.0,1.6,141,Hybrid,Robotic,FWD,85000
+Hyundai,Accent,Inspire 1.6,2020,1,81000.0,1.4,123,Gasoline,Automatic,FWD,67000
+Hyundai,Sonata,Premium,2018,2,200000.0,2.0,193,Hybrid,Automatic,FWD,85000
+Hyundai,Tucson,Luxury,2018,2,95000.0,1.6,177,Gasoline,Robotic,FWD,95000
+Hyundai,Tucson,Prime Plus,2019,2,31500.0,2.0,155,Gasoline,Automatic,FWD,92000
+Hyundai,Ioniq,Premium,2022,2,66000.0,1.6,141,Hybrid,Robotic,FWD,105000
+Hyundai,I20,Supreme,2020,1,80000.0,1.0,100,Gasoline,Robotic,FWD,73000
+Hyundai,Bayon,Premium,2023,1,19000.0,1.0,100,Gasoline,Robotic,FWD,113000
+Hyundai,Sonata,Limited,2016,2,68900.0,2.0,193,Hybrid,Automatic,FWD,79500
+Hyundai,Venue,Premium,2021,2,63000.0,1.6,123,Gasoline,Variable,FWD,80000
+Hyundai,I10,Prime,2018,2,100000.0,1.2,87,Gasoline,Automatic,FWD,42000
+Hyundai,I25,Inspire,2018,2,150000.0,1.4,100,Gasoline,Automatic,FWD,50000
+Hyundai,I10,Inspire,2018,2,57000.0,1.2,87,Gasoline,Automatic,FWD,55400
+Hyundai,I10,Prime,2018,2,129800.0,1.2,87,Gasoline,Automatic,FWD,45000
+Hyundai,I10,Supreme,2016,4,114000.0,1.2,87,Gasoline,Automatic,FWD,32000
+Hyundai,Ioniq,Premium,2018,2,124000.0,1.6,141,Hybrid,Robotic,FWD,75000
+Hyundai,Ioniq,Premium,2019,1,123000.0,1.6,141,Hybrid,Robotic,FWD,78000
+Hyundai,Ioniq,Premium,2020,3,100000.0,1.6,141,Hybrid,Robotic,FWD,100000
+Hyundai,Tucson,Prime,2016,1,185000.0,1.6,132,Gasoline,Automatic,FWD,58000
+Hyundai,Tucson,Panoramic,2020,2,16000.0,2.0,155,Gasoline,Automatic,FWD,120000
+Hyundai,Ioniq,Supreme,2019,2,125000.0,1.6,141,Hybrid,Robotic,FWD,82000
+Hyundai,Ioniq,Premium,2020,1,130000.0,1.6,141,Hybrid,Robotic,FWD,113000
+Hyundai,Ioniq,Premium,2017,3,192000.0,1.6,141,Hybrid,Robotic,FWD,56000
+Hyundai,Sonata,Limited,2020,1,83000.0,2.0,192,Hybrid,Automatic,FWD,136000
+Hyundai,Ioniq,Premium,2018,2,159000.0,1.6,141,Hybrid,Robotic,FWD,69000
+Hyundai,Tucson,Elite,2019,2,102000.0,2.0,155,Gasoline,Automatic,FWD,90400
+Hyundai,Ioniq,Premium,2019,2,140000.0,1.6,141,Hybrid,Robotic,FWD,78000
+Hyundai,Accent,Inspire 1.6,2019,2,149000.0,1.4,123,Gasoline,Automatic,FWD,58000
+Hyundai,Tucson,Panoramic,2019,3,53000.0,2.0,155,Gasoline,Automatic,FWD,95000
+Kia,Picanto,LX,2015,2,132000.0,1.2,85,Gasoline,Automatic,FWD,24900
+Kia,Sportage,Urban,2018,2,147000.0,1.6,132,Gasoline,Automatic,FWD,64000
+Kia,Niro,EX,2019,2,117000.0,1.6,141,Hybrid,Robotic,FWD,74900
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,77000.0,1.6,177,Gasoline,Robotic,FWD,93000
+Kia,Sportage,Urban,2016,2,162000.0,1.6,132,Gasoline,Automatic,FWD,44900
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,38000.0,1.6,177,Gasoline,Robotic,FWD,99500
+Kia,Forte,LX,2018,2,260000.0,1.6,136,Diesel,Automatic,FWD,28800
+Kia,Sportage,Urban,2015,1,131000.0,1.6,133,Gasoline,Automatic,FWD,49900
+Kia,Niro,LX,2020,2,110769.0,1.6,141,Plug,Robotic,FWD,89900
+Kia,Sportage,Urban,2016,2,145000.0,1.6,132,Gasoline,Automatic,FWD,52000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,2,78900.0,1.6,177,Gasoline,Robotic,FWD,99900
+Kia,Picanto,LX,2020,2,82000.0,1.2,84,Gasoline,Automatic,FWD,49900
+Kia,Sportage,Urban,2015,4,130000.0,1.6,133,Gasoline,Automatic,FWD,42900
+Kia,Niro,LX,2021,1,72256.0,1.6,141,Plug,Robotic,FWD,109000
+Kia,Picanto,LX,2023,1,45000.0,1.2,84,Gasoline,Robotic,FWD,69999
+Kia,Sportage,Urban,2016,2,155000.0,1.6,133,Gasoline,Automatic,FWD,39800
+Kia,Ceed,LX,2017,3,163000.0,1.6,135,Gasoline,Robotic,FWD,25800
+Kia,Niro,EX,2020,3,76600.0,1.6,141,Hybrid,Robotic,FWD,98000
+Kia,Picanto,LX,2015,4,159000.0,1.2,85,Gasoline,Automatic,FWD,22900
+Kia,Sportage,Urban,2017,3,145000.0,1.6,132,Gasoline,Automatic,FWD,55000
+Kia,Sportage,Urban,2018,2,123000.0,1.6,132,Gasoline,Automatic,FWD,60000
+Kia,Sportage,Urban,2015,3,148000.0,1.6,133,Gasoline,Automatic,FWD,45000
+Kia,Picanto,GT-Line,2020,1,75000.0,1.2,84,Gasoline,Automatic,FWD,67000
+Kia,Sportage,Premium GT,2019,3,123000.0,1.6,177,Gasoline,Robotic,AWD,78900
+Kia,Sportage,Urban,2015,1,170000.0,1.6,133,Gasoline,Automatic,FWD,38000
+Kia,Niro,EX,2019,3,114000.0,1.6,141,Hybrid,Robotic,FWD,79900
+Kia,Seltos,EX,2021,1,74000.0,2.0,149,Gasoline,Variable,FWD,89900
+Kia,Niro,LX,2020,2,144800.0,1.6,141,Hybrid,Robotic,FWD,77900
+Kia,Ceed,LX,2022,1,127000.0,1.6,136,Diesel,Robotic,FWD,69900
+Kia,Seltos,EX Plus,2022,1,62000.0,2.0,149,Gasoline,Variable,FWD,97900
+Kia,Sorento,EX Finish,2022,1,95000.0,2.5,180,Gasoline,Automatic,FWD,146900
+Kia,Stonic,EX,2021,1,63000.0,1.0,100,Gasoline,Robotic,FWD,77900
+Kia,Sorento,Urban,2023,1,72500.0,2.5,180,Gasoline,Automatic,FWD,154900
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,59000.0,1.6,177,Gasoline,Robotic,FWD,95900
+Kia,Xceed,LX,2021,1,59035.0,1.4,140,Gasoline,Robotic,FWD,79485
+Kia,Stonic,LX,2024,1,52347.0,1.4,100,Gasoline,Automatic,FWD,101250
+Kia,Carnival,EX,2016,2,306000.0,3.3,276,Gasoline,Automatic,FWD,60000
+Kia,Picanto,EX,2021,1,69200.0,1.2,84,Gasoline,Robotic,FWD,66000
+Kia,Niro,LX,2021,2,78000.0,1.6,141,Plug,Robotic,FWD,102000
+Kia,Rio,LX,2016,3,177000.0,1.4,109,Gasoline,Automatic,FWD,22000
+Kia,Stonic,EX,2020,1,62000.0,1.0,120,Gasoline,Robotic,FWD,68000
+Kia,Sportage,Urban,2017,2,114000.0,1.6,132,Gasoline,Automatic,FWD,59000
+Kia,Picanto,LX,2016,3,190000.0,1.2,85,Gasoline,Automatic,FWD,25000
+Kia,Ceed,LX,2015,3,194000.0,1.6,135,Gasoline,Robotic,FWD,20000
+Kia,Niro,EX,2022,2,59480.0,1.6,141,Plug,Robotic,FWD,108000
+Kia,Stonic,EX,2024,1,44521.0,1.0,100,Gasoline,Robotic,FWD,103455
+Kia,Stonic,LX,2023,1,44738.0,1.0,100,Gasoline,Robotic,FWD,97347
+Kia,Stonic,LX,2023,1,28000.0,1.4,100,Gasoline,Automatic,FWD,100910
+Kia,Stonic,LX,2022,2,96500.0,1.4,100,Gasoline,Automatic,FWD,75442
+Kia,Stonic,LX,2022,2,77555.0,1.4,100,Gasoline,Automatic,FWD,86450
+Kia,Stonic,GT-Line,2022,1,66200.0,1.0,100,Gasoline,Robotic,FWD,91360
+Kia,Stonic,EX,2022,1,104781.0,1.0,100,Gasoline,Robotic,FWD,83155
+Kia,Stonic,LX,2021,1,98649.0,1.0,100,Gasoline,Robotic,FWD,77115
+Kia,Stonic,GT-Line,2021,1,54000.0,1.0,100,Gasoline,Robotic,FWD,88995
+Kia,Stonic,EX,2021,1,46000.0,1.0,100,Gasoline,Robotic,FWD,87845
+Kia,Stonic,GT-Line,2021,1,121355.0,1.0,100,Gasoline,Robotic,FWD,77960
+Kia,Stonic,LX,2020,2,94500.0,1.0,120,Gasoline,Robotic,FWD,58585
+Kia,Stonic,Premium,2020,1,125600.0,1.0,120,Gasoline,Robotic,FWD,71175
+Kia,Stonic,EX,2019,1,82000.0,1.0,120,Gasoline,Robotic,FWD,71155
+Kia,Stonic,Premium,2018,2,93079.0,1.0,120,Gasoline,Robotic,FWD,70455
+Kia,Sportage,EX,2024,1,24475.0,1.6,230,Hybrid,Automatic,FWD,186995
+Kia,Sportage,EX,2022,1,43000.0,1.6,230,Hybrid,Automatic,FWD,168310
+Kia,Sportage,Premium,2024,1,42545.0,1.6,180,Gasoline,Robotic,FWD,158575
+Kia,Sportage,Premium,2024,1,17117.0,1.6,180,Gasoline,Robotic,FWD,161240
+Kia,Sportage,Premium,2024,1,11000.0,1.6,180,Gasoline,Robotic,FWD,166995
+Kia,Picanto,LX,2022,1,35000.0,1.2,84,Gasoline,Robotic,FWD,75000
+Kia,Stonic,LX,2020,2,82000.0,1.0,120,Gasoline,Robotic,FWD,62600
+Kia,Xceed,LX,2021,1,142396.0,1.4,140,Gasoline,Robotic,FWD,60000
+Kia,Picanto,GT-Line,2025,1,13000.0,1.2,79,Gasoline,Robotic,FWD,94000
+Kia,Sorento,EX Finish,2022,1,66000.0,2.5,180,Gasoline,Automatic,FWD,150000
+Kia,Niro,Urban,2021,1,37000.0,1.6,141,Hybrid,Robotic,FWD,115000
+Kia,Sportage,Premium,2023,1,90245.0,2.0,156,Gasoline,Automatic,FWD,135687
+Kia,Sportage,Premium,2023,1,75665.0,1.6,180,Gasoline,Robotic,FWD,139445
+Kia,Sportage,Premium,2023,1,35540.0,2.0,156,Gasoline,Automatic,FWD,139895
+Kia,Sportage,Premium,2023,1,24000.0,1.6,180,Gasoline,Robotic,FWD,148197
+Kia,Sportage,Premium,2022,2,50600.0,1.6,177,Gasoline,Robotic,FWD,117390
+Kia,Sportage,Urban,2022,2,41747.0,1.6,177,Gasoline,Robotic,FWD,110335
+Kia,Sportage,Premium,2022,1,95000.0,1.6,177,Gasoline,Robotic,FWD,109630
+Kia,Sportage,Premium,2022,1,90000.0,1.6,180,Gasoline,Robotic,FWD,131395
+Kia,Sportage,Premium,2022,1,89000.0,1.6,177,Gasoline,Robotic,FWD,108380
+Kia,Sportage,Urban,2022,1,70315.0,1.6,177,Gasoline,Robotic,FWD,108465
+Kia,Sportage,Urban,2022,1,66795.0,1.6,180,Gasoline,Robotic,FWD,124217
+Kia,Sportage,Urban,2022,1,52000.0,1.6,180,Gasoline,Robotic,FWD,126575
+Kia,Sportage,Urban,2022,1,40000.0,1.6,180,Gasoline,Robotic,FWD,126340
+Kia,Sportage,Premium,2022,1,37000.0,1.6,180,Gasoline,Robotic,FWD,142540
+Kia,Sportage,Premium,2022,1,34576.0,1.6,177,Gasoline,Robotic,FWD,123165
+Kia,Sportage,Urban,2022,1,125704.0,1.6,180,Gasoline,Robotic,FWD,108895
+Kia,Sportage,Urban,2022,1,12797.0,1.6,180,Gasoline,Robotic,FWD,129655
+Kia,Sportage,Urban,2022,1,117588.0,1.6,136,Diesel,Automatic,FWD,76675
+Kia,Sportage,Urban Top,2021,3,79000.0,2.0,155,Gasoline,Automatic,FWD,86745
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,70336.0,1.6,177,Gasoline,Robotic,FWD,97595
+Kia,Niro,EX,2017,1,171000.0,1.6,141,Hybrid,Robotic,FWD,59500
+Kia,Niro,LX,2019,2,220000.0,1.6,141,Hybrid,Robotic,FWD,81000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,2,95600.0,1.6,136,Diesel,Robotic,FWD,68000
+Kia,Niro,EX,2019,3,127000.0,1.6,141,Hybrid,Robotic,FWD,83000
+Kia,Sportage,Urban,2016,3,129632.0,1.6,132,Gasoline,Automatic,FWD,52000
+Kia,Niro,EX,2020,2,77000.0,1.6,141,Plug,Robotic,FWD,100000
+Kia,Seltos,EX,2024,1,26000.0,2.0,149,Gasoline,Automatic,FWD,116000
+Kia,Niro,LX Plus,2021,2,147000.0,1.6,141,Plug,Robotic,FWD,86000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,2,69221.0,1.6,177,Gasoline,Robotic,FWD,107385
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,2,62800.0,1.6,177,Gasoline,Robotic,FWD,108070
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,2,58518.0,1.6,177,Gasoline,Robotic,FWD,106550
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,41575.0,1.6,177,Gasoline,Robotic,FWD,103465
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,87576.0,1.6,177,Gasoline,Robotic,FWD,101475
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,86553.0,1.6,177,Gasoline,Robotic,FWD,101275
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,77532.0,1.6,177,Gasoline,Robotic,FWD,104055
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,1,75805.0,1.6,177,Gasoline,Robotic,FWD,101334
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,70400.0,1.6,177,Gasoline,Robotic,FWD,107990
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,54000.0,1.6,177,Gasoline,Robotic,FWD,110225
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,124000.0,1.6,177,Gasoline,Robotic,FWD,96027
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,116706.0,1.6,177,Gasoline,Robotic,FWD,97525
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,87368.0,1.6,177,Gasoline,Robotic,FWD,92490
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,84000.0,1.6,177,Gasoline,Robotic,FWD,92750
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,74595.0,1.6,177,Gasoline,Robotic,FWD,96940
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,66278.0,1.6,177,Gasoline,Robotic,FWD,94884
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,2,52600.0,1.6,177,Gasoline,Robotic,FWD,96120
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,2,50900.0,1.6,177,Gasoline,Robotic,FWD,96115
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,2,136111.0,1.6,136,Diesel,Robotic,FWD,78390
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,1,91785.0,1.6,177,Gasoline,Robotic,FWD,85825
+Kia,Niro,EX,2018,1,77000.0,1.6,141,Hybrid,Robotic,FWD,79000
+Kia,Sorento,Urban,2018,1,200000.0,2.4,188,Gasoline,Automatic,FWD,125000
+Kia,Sportage,Premium,2023,1,25038.0,2.0,156,Gasoline,Automatic,FWD,160000
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,2,94000.0,1.6,177,Gasoline,Robotic,FWD,80500
+Kia,Picanto,GT-Line,2020,1,80000.0,1.2,84,Gasoline,Automatic,FWD,69000
+Kia,Sportage,Premium,2023,2,43000.0,2.0,156,Gasoline,Automatic,FWD,132000
+Kia,Niro Plus,LX,2022,2,20000.0,1.6,141,Plug,Robotic,FWD,126000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,1,83868.0,1.6,177,Gasoline,Robotic,FWD,100425
+Kia,Sportage,Urban,2020,1,73426.0,2.0,155,Gasoline,Automatic,FWD,100115
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,1,49725.0,1.6,177,Gasoline,Robotic,FWD,106070
+Kia,Sportage,Urban,2019,1,112079.0,2.0,155,Gasoline,Automatic,FWD,90835
+Kia,Sportage,Premium GT,2018,2,86960.0,1.6,177,Gasoline,Robotic,AWD,83195
+Kia,Sportage,Urban,2018,2,68300.0,1.6,132,Gasoline,Automatic,FWD,71895
+Kia,Sportage,Premium GT,2018,1,115000.0,1.6,177,Gasoline,Robotic,AWD,78365
+Kia,Sportage,Urban,2017,2,98145.0,1.6,132,Gasoline,Automatic,FWD,62095
+Kia,Sportage,Urban,2017,2,104000.0,1.6,132,Gasoline,Automatic,FWD,66160
+Kia,Sportage,Premium GT,2016,2,93000.0,1.6,177,Gasoline,Robotic,AWD,69750
+Kia,Sportage,Urban,2015,3,100000.0,1.6,133,Gasoline,Automatic,FWD,54015
+Kia,Sportage,Urban,2015,2,119575.0,1.6,133,Gasoline,Automatic,FWD,51935
+Kia,Sportage,Urban,2015,2,101000.0,1.6,133,Gasoline,Automatic,FWD,56470
+Kia,Sorento,EX Finish,2022,1,71434.0,2.5,180,Gasoline,Automatic,FWD,155565
+Kia,Seltos,Premium,2024,1,32994.0,2.0,149,Gasoline,Automatic,FWD,131195
+Kia,Seltos,EX Plus,2023,1,70151.0,2.0,149,Gasoline,Automatic,FWD,101250
+Kia,Seltos,EX,2023,1,69493.0,2.0,149,Gasoline,Automatic,FWD,114475
+Kia,Seltos,EX,2023,1,58080.0,2.0,149,Gasoline,Automatic,FWD,118555
+Kia,Seltos,EX Plus,2023,1,24000.0,2.0,149,Gasoline,Automatic,FWD,122195
+Kia,Niro,EX,2018,2,150000.0,1.6,141,Hybrid,Robotic,FWD,67000
+Kia,Niro,EX,2019,2,141000.0,1.6,141,Hybrid,Robotic,FWD,73900
+Kia,Sorento,EX Finish,2023,1,63000.0,2.5,180,Gasoline,Automatic,FWD,275000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,2,124000.0,1.6,136,Diesel,Robotic,FWD,72500
+Kia,Sportage,Urban,2015,3,166000.0,1.6,133,Gasoline,Automatic,FWD,37000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,2,165000.0,1.6,136,Diesel,Robotic,FWD,75000
+Kia,Sportage,Urban,2017,2,188000.0,1.6,132,Gasoline,Automatic,FWD,46500
+Kia,Picanto,LX,2019,2,24500.0,1.2,84,Gasoline,Automatic,FWD,60000
+Kia,Niro,EX,2020,1,92000.0,1.6,141,Hybrid,Robotic,FWD,107000
+Kia,Sportage,Urban,2021,1,100000.0,1.6,177,Gasoline,Robotic,FWD,90000
+Kia,Seltos,EX,2022,1,40500.0,2.0,149,Gasoline,Variable,FWD,111960
+Kia,Seltos,EX Plus,2022,1,36679.0,2.0,149,Gasoline,Variable,FWD,113655
+Kia,Seltos,EX Plus,2022,1,32810.0,2.0,149,Gasoline,Variable,FWD,116399
+Kia,Seltos,EX Plus,2022,1,21504.0,2.0,149,Gasoline,Variable,FWD,123145
+Kia,Seltos,EX,2021,2,96000.0,2.0,149,Gasoline,Variable,FWD,91225
+Kia,Seltos,EX,2021,2,93000.0,2.0,149,Gasoline,Variable,FWD,94085
+Kia,Seltos,EX,2021,1,74000.0,2.0,149,Gasoline,Variable,FWD,93375
+Kia,Seltos,EX,2021,1,55013.0,2.0,149,Gasoline,Variable,FWD,100215
+Kia,Seltos,Urban,2020,1,110184.0,2.0,149,Gasoline,Variable,FWD,78185
+Kia,Rio,GX,2021,2,92528.0,1.0,100,Gasoline,Robotic,FWD,74755
+Kia,Rio,GX,2021,1,94175.0,1.0,100,Gasoline,Robotic,FWD,80005
+Kia,Rio,LX,2015,3,134000.0,1.4,109,Gasoline,Automatic,FWD,36900
+Kia,Picanto,GT-Line,2025,1,9700.0,1.2,79,Gasoline,Robotic,FWD,97625
+Kia,Picanto,LX,2024,2,10111.0,1.2,84,Gasoline,Robotic,FWD,79665
+Kia,Picanto,GT-Line,2024,1,8400.0,1.2,84,Gasoline,Robotic,FWD,94585
+Kia,Picanto,GT-Line,2024,1,35895.0,1.2,84,Gasoline,Robotic,FWD,91070
+Kia,Picanto,GT-Line,2024,1,30000.0,1.2,84,Gasoline,Robotic,FWD,90142
+Kia,Picanto,GT-Line,2024,1,30000.0,1.2,84,Gasoline,Robotic,FWD,93595
+Kia,Picanto,GT-Line,2024,1,26200.0,1.2,84,Gasoline,Robotic,FWD,91510
+Kia,Picanto,GT-Line,2024,1,22000.0,1.2,84,Gasoline,Robotic,FWD,91355
+Kia,Picanto,EX,2020,3,109000.0,1.2,84,Gasoline,Automatic,FWD,65000
+Kia,Ceed,LX,2016,3,195000.0,1.6,135,Gasoline,Robotic,FWD,18000
+Kia,Picanto,LX,2022,1,104500.0,1.2,84,Gasoline,Robotic,FWD,53000
+Kia,Niro,EX,2018,1,135000.0,1.6,141,Hybrid,Robotic,FWD,81000
+Kia,Picanto,LX,2021,3,90000.0,1.2,84,Gasoline,Robotic,FWD,60000
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,88000.0,1.6,177,Gasoline,Robotic,FWD,90000
+Kia,Stonic,LX,2023,2,11600.0,1.0,100,Gasoline,Robotic,FWD,95750
+Kia,Stonic,LX,2019,2,79000.0,1.0,120,Gasoline,Robotic,FWD,54000
+Kia,Picanto,LX,2023,2,60750.0,1.2,84,Gasoline,Robotic,FWD,66990
+Kia,Picanto,GT-Line,2023,2,43000.0,1.2,84,Gasoline,Robotic,FWD,78525
+Kia,Picanto,LX,2023,2,12733.0,1.2,84,Gasoline,Robotic,FWD,71255
+Kia,Picanto,X-Line,2023,1,66000.0,1.2,84,Gasoline,Robotic,FWD,73745
+Kia,Picanto,GT-Line,2023,1,5500.0,1.2,84,Gasoline,Robotic,FWD,86745
+Kia,Picanto,GT-Line,2023,1,52535.0,1.2,84,Gasoline,Robotic,FWD,81445
+Kia,Picanto,GT-Line,2023,1,44000.0,1.2,84,Gasoline,Robotic,FWD,79510
+Kia,Picanto,GT-Line,2023,1,41247.0,1.2,84,Gasoline,Robotic,FWD,80500
+Kia,Picanto,GT-Line,2023,1,36600.0,1.2,84,Gasoline,Robotic,FWD,79825
+Kia,Picanto,X-Line,2023,1,33802.0,1.2,84,Gasoline,Robotic,FWD,77400
+Kia,Picanto,X-Line,2023,1,27077.0,1.2,84,Gasoline,Robotic,FWD,78925
+Kia,Picanto,GT-Line,2023,1,22000.0,1.2,84,Gasoline,Robotic,FWD,82750
+Kia,Picanto,GT-Line,2023,1,17040.0,1.2,84,Gasoline,Robotic,FWD,86510
+Kia,Picanto,GT-Line,2023,1,16800.0,1.2,84,Gasoline,Robotic,FWD,84230
+Kia,Picanto,LX,2022,2,67010.0,1.2,84,Gasoline,Robotic,FWD,61725
+Kia,Picanto,X-Line,2022,2,45000.0,1.2,84,Gasoline,Robotic,FWD,71145
+Kia,Picanto,LX,2022,2,31000.0,1.2,84,Gasoline,Robotic,FWD,65720
+Kia,Picanto,LX,2022,2,26500.0,1.2,84,Gasoline,Robotic,FWD,64695
+Kia,Picanto,X-Line,2022,2,21200.0,1.2,84,Gasoline,Robotic,FWD,71110
+Kia,Picanto,X-Line,2022,1,82436.0,1.2,84,Gasoline,Robotic,FWD,67260
+Kia,Stonic,EX,2018,1,121500.0,1.0,120,Gasoline,Robotic,FWD,65000
+Kia,Niro,LX Plus,2021,2,107000.0,1.6,141,Plug,Robotic,FWD,93000
+Kia,Sportage,Urban,2017,3,193000.0,2.0,155,Gasoline,Automatic,FWD,53000
+Kia,Seltos,EX,2022,2,47200.0,2.0,149,Gasoline,Variable,FWD,104000
+Kia,Niro,LX,2019,2,170000.0,1.6,141,Hybrid,Robotic,FWD,79500
+Kia,Niro Plus,GX,2023,1,17000.0,1.6,141,Hybrid,Robotic,FWD,145000
+Kia,Picanto,LX,2020,1,69000.0,1.2,84,Gasoline,Automatic,FWD,71000
+Kia,Picanto,GT-Line,2022,3,31400.0,1.2,84,Gasoline,Robotic,FWD,70800
+Kia,Carnival,LX,2020,1,58000.0,3.3,276,Gasoline,Automatic,FWD,145000
+Kia,Picanto,X-Line,2022,1,47000.0,1.2,84,Gasoline,Robotic,FWD,69610
+Kia,Picanto,EX,2022,1,46810.0,1.2,84,Gasoline,Robotic,FWD,76630
+Kia,Picanto,GT-Line,2022,1,38000.0,1.2,84,Gasoline,Robotic,FWD,65565
+Kia,Picanto,GT-Line,2022,1,33255.0,1.2,84,Gasoline,Robotic,FWD,75610
+Kia,Picanto,X-Line,2022,1,32150.0,1.2,84,Gasoline,Robotic,FWD,79925
+Kia,Picanto,X-Line,2022,1,25476.0,1.2,84,Gasoline,Robotic,FWD,71535
+Kia,Picanto,GT-Line,2022,1,20770.0,1.2,84,Gasoline,Robotic,FWD,76655
+Kia,Picanto,LX,2022,1,144580.0,1.2,84,Gasoline,Robotic,FWD,49775
+Kia,Picanto,LX,2021,3,80000.0,1.2,84,Gasoline,Robotic,FWD,61535
+Kia,Picanto,LX,2021,2,72500.0,1.2,84,Gasoline,Robotic,FWD,57940
+Kia,Picanto,GT-Line,2021,2,34330.0,1.2,84,Gasoline,Robotic,FWD,80945
+Kia,Picanto,LX,2021,2,33000.0,1.2,84,Gasoline,Robotic,FWD,59685
+Kia,Picanto,LX,2021,2,26000.0,1.2,84,Gasoline,Robotic,FWD,75845
+Kia,Picanto,EX,2021,1,90000.0,1.2,84,Gasoline,Robotic,FWD,65445
+Kia,Picanto,GT-Line,2021,1,75590.0,1.2,84,Gasoline,Robotic,FWD,74715
+Kia,Picanto,X-Line,2021,1,62952.0,1.2,84,Gasoline,Robotic,FWD,67225
+Kia,Picanto,X-Line,2021,1,49300.0,1.2,84,Gasoline,Robotic,FWD,66750
+Kia,Picanto,EX,2021,1,44505.0,1.2,84,Gasoline,Robotic,FWD,78185
+Kia,Picanto,LX,2021,1,27362.0,1.2,84,Gasoline,Robotic,FWD,78890
+Kia,Picanto,EX,2021,1,15762.0,1.2,84,Gasoline,Robotic,FWD,81355
+Kia,Niro Plus,EX,2022,1,150000.0,1.6,141,Plug,Robotic,FWD,130000
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,2,216000.0,1.6,136,Diesel,Robotic,FWD,57000
+Kia,Niro,LX,2019,1,136000.0,1.6,141,Hybrid,Robotic,FWD,79000
+Kia,Picanto,X-Line,2022,1,60000.0,1.2,84,Gasoline,Robotic,FWD,75000
+Kia,Niro,EX,2018,3,150000.0,1.6,141,Hybrid,Robotic,FWD,72000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2020,2,39500.0,1.6,177,Gasoline,Robotic,FWD,103000
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,82000.0,1.6,177,Gasoline,Robotic,FWD,95000
+Kia,Picanto,GT-Line,2023,1,45000.0,1.2,84,Gasoline,Robotic,FWD,85000
+Kia,Picanto,EX,2021,1,13532.0,1.2,84,Gasoline,Robotic,FWD,68825
+Kia,Picanto,GT-Line,2021,1,13474.0,1.2,84,Gasoline,Robotic,FWD,83070
+Kia,Picanto,GT-Line,2021,1,113096.0,1.2,84,Gasoline,Robotic,FWD,70070
+Kia,Picanto,LX,2020,3,111224.0,1.2,84,Gasoline,Automatic,FWD,55055
+Kia,Picanto,GT-Line,2020,2,80995.0,1.2,84,Gasoline,Automatic,FWD,73750
+Kia,Picanto,EX,2020,2,76029.0,1.2,84,Gasoline,Automatic,FWD,71400
+Kia,Picanto,LX,2020,2,66000.0,1.2,84,Gasoline,Automatic,FWD,65525
+Kia,Picanto,LX,2020,2,43260.0,1.2,84,Gasoline,Automatic,FWD,68815
+Kia,Picanto,LX,2020,1,97932.0,1.2,84,Gasoline,Automatic,FWD,61652
+Kia,Picanto,EX,2020,1,74152.0,1.2,84,Gasoline,Automatic,FWD,71525
+Kia,Picanto,EX,2020,1,69600.0,1.2,84,Gasoline,Automatic,FWD,73772
+Kia,Picanto,EX,2020,1,67134.0,1.2,84,Gasoline,Automatic,FWD,69555
+Kia,Picanto,LX,2020,1,67090.0,1.2,84,Gasoline,Automatic,FWD,71885
+Kia,Picanto,EX,2020,1,4109.0,1.2,84,Gasoline,Automatic,FWD,81520
+Kia,Picanto,EX,2020,1,33485.0,1.2,84,Gasoline,Automatic,FWD,76685
+Kia,Picanto,GT-Line,2020,1,110700.0,1.2,84,Gasoline,Automatic,FWD,66840
+Kia,Picanto,X-Line,2020,1,102125.0,1.2,84,Gasoline,Automatic,FWD,68385
+Kia,Picanto,LX,2019,3,99000.0,1.2,84,Gasoline,Automatic,FWD,49927
+Kia,Picanto,EX,2019,2,82176.0,1.2,84,Gasoline,Automatic,FWD,62630
+Kia,Picanto,EX,2019,2,64595.0,1.2,84,Gasoline,Automatic,FWD,68130
+Kia,Picanto,EX,2019,2,70000.0,1.2,84,Gasoline,Automatic,FWD,59000
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,2,64466.0,1.6,136,Diesel,Robotic,FWD,85000
+Kia,Picanto,LX,2023,1,30000.0,1.2,84,Gasoline,Robotic,FWD,78000
+Kia,Sportage,Premium GT,2017,2,92000.0,1.6,177,Gasoline,Robotic,AWD,57000
+Kia,Sorento,EX,2016,1,184000.0,2.4,188,Gasoline,Automatic,FWD,70000
+Kia,Picanto,EX,2019,2,59658.0,1.2,84,Gasoline,Automatic,FWD,68630
+Kia,Picanto,EX,2019,1,85604.0,1.2,84,Gasoline,Automatic,FWD,67860
+Kia,Picanto,GT-Line,2019,1,79171.0,1.2,84,Gasoline,Automatic,FWD,67267
+Kia,Picanto,GT-Line,2019,1,73606.0,1.2,84,Gasoline,Automatic,FWD,67595
+Kia,Picanto,EX,2019,1,70000.0,1.2,84,Gasoline,Automatic,FWD,67130
+Kia,Picanto,GT-Line,2019,1,107075.0,1.2,84,Gasoline,Automatic,FWD,62745
+Kia,Picanto,EX,2018,2,135000.0,1.2,84,Gasoline,Automatic,FWD,56250
+Kia,Picanto,LX,2018,2,120000.0,1.2,84,Gasoline,Automatic,FWD,53915
+Kia,Picanto,GT-Line,2018,1,33250.0,1.2,84,Gasoline,Automatic,FWD,68305
+Kia,Picanto,EX,2018,1,122000.0,1.2,84,Gasoline,Automatic,FWD,54992
+Kia,Picanto,EX,2017,2,165000.0,1.2,84,Gasoline,Automatic,FWD,47450
+Kia,Picanto,EX,2017,1,85000.0,1.2,84,Gasoline,Automatic,FWD,55150
+Kia,Picanto,Top,2017,1,100455.0,1.2,85,Gasoline,Automatic,FWD,47807
+Kia,Picanto,Top,2016,2,77407.0,1.2,85,Gasoline,Automatic,FWD,47450
+Kia,Niro Plus,LX,2023,1,86188.0,1.6,141,Plug,Robotic,FWD,109330
+Kia,Niro Plus,EX,2022,2,129862.0,1.6,141,Plug,Robotic,FWD,90415
+Kia,Niro Plus,EX,2022,1,95000.0,1.6,141,Plug,Robotic,FWD,113382
+Kia,Niro,EX,2022,1,98000.0,1.6,141,Plug,Robotic,FWD,112675
+Kia,Stonic,Premium,2019,2,141000.0,1.0,120,Gasoline,Robotic,FWD,67000
+Kia,Picanto,GT-Line,2018,1,127000.0,1.2,84,Gasoline,Automatic,FWD,55000
+Kia,Picanto,LX,2017,2,99900.0,1.2,84,Gasoline,Automatic,FWD,46000
+Kia,Picanto,LX,2022,2,35000.0,1.2,84,Gasoline,Robotic,FWD,75000
+Kia,Niro,EX,2021,2,126000.0,1.6,141,Plug,Robotic,FWD,110000
+Kia,Picanto,X-Line,2022,1,24000.0,1.2,84,Gasoline,Robotic,FWD,75000
+Kia,Niro,EX,2023,1,42000.0,1.6,183,Plug,Robotic,FWD,126992
+Kia,Niro,EX,2022,1,85000.0,1.6,141,Plug,Robotic,FWD,116725
+Kia,Niro,EX,2022,1,34315.0,1.6,141,Plug,Robotic,FWD,132625
+Kia,Niro,EX,2022,1,123000.0,1.6,141,Plug,Robotic,FWD,101992
+Kia,Niro,LX Plus,2021,2,78397.0,1.6,141,Plug,Robotic,FWD,96945
+Kia,Niro,EX,2021,1,92266.0,1.6,141,Plug,Robotic,FWD,112395
+Kia,Niro,Urban,2021,1,99000.0,1.6,141,Hybrid,Robotic,FWD,106265
+Kia,Niro,Urban,2021,1,87000.0,1.6,141,Hybrid,Robotic,FWD,106835
+Kia,Niro,Urban,2021,1,74000.0,1.6,141,Hybrid,Robotic,FWD,108665
+Kia,Niro,Urban,2021,1,70347.0,1.6,141,Hybrid,Robotic,FWD,116275
+Kia,Niro,Urban,2021,1,63889.0,1.6,141,Hybrid,Robotic,FWD,109760
+Kia,Niro,EX,2019,2,119033.0,1.6,141,Hybrid,Robotic,FWD,82375
+Kia,Niro,EX,2018,3,136091.0,1.6,141,Hybrid,Robotic,FWD,72155
+Kia,Niro,EX,2018,1,156000.0,1.6,141,Hybrid,Robotic,FWD,72835
+Kia,Niro,EX,2018,1,116345.0,1.6,141,Hybrid,Robotic,FWD,85465
+Kia,Niro,EX,2017,1,132276.0,1.6,141,Hybrid,Robotic,FWD,72660
+Kia,Niro,EX,2017,1,122304.0,1.6,141,Hybrid,Robotic,FWD,74975
+Kia,Forte,LX,2016,3,126600.0,1.6,130,Gasoline,Automatic,FWD,39995
+Kia,Ceed,LX,2019,3,230000.0,1.4,140,Gasoline,Robotic,FWD,42000
+Kia,Sportage,Urban,2017,2,135000.0,1.6,132,Gasoline,Automatic,FWD,57000
+Kia,Picanto,X-Line,2022,1,17300.0,1.2,84,Gasoline,Robotic,FWD,71000
+Kia,Stonic,GT-Line,2022,1,26000.0,1.0,100,Gasoline,Robotic,FWD,89990
+Kia,Stonic,LX,2021,2,77000.0,1.4,100,Gasoline,Automatic,FWD,77000
+Kia,Niro,LX,2019,2,175000.0,1.6,141,Hybrid,Robotic,FWD,60000
+Kia,Sportage,Urban,2018,1,166000.0,1.6,132,Gasoline,Automatic,FWD,62000
+Kia,Sportage,Urban,2017,2,84500.0,1.6,132,Gasoline,Automatic,FWD,63000
+Kia,Niro,EX,2018,1,69000.0,1.6,141,Hybrid,Robotic,FWD,84990
+Kia,Niro,EX,2025,1,24000.0,1.6,129,Hybrid,Robotic,FWD,145000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,2,64000.0,1.6,136,Diesel,Robotic,FWD,84000
+Kia,Sportage,Premium,2022,1,64000.0,1.6,180,Gasoline,Robotic,FWD,132990
+Kia,Carnival,EX,2022,3,29000.0,3.5,272,Gasoline,Automatic,FWD,199990
+Kia,Rio,LX,2017,2,95000.0,1.4,109,Gasoline,Automatic,FWD,35000
+Kia,Niro,EX,2023,1,29300.0,1.6,183,Plug,Robotic,FWD,138000
+Kia,Rio,LX,2015,3,220000.0,1.4,109,Gasoline,Automatic,FWD,19990
+Kia,Ceed,LX,2018,2,200000.0,1.6,135,Gasoline,Robotic,FWD,25000
+Kia,Sportage,Premium,2023,2,15000.0,2.0,156,Gasoline,Automatic,FWD,144000
+Kia,Niro,EX,2017,4,144000.0,1.6,141,Hybrid,Robotic,FWD,58000
+Kia,Picanto,LX,2021,2,108000.0,1.2,84,Gasoline,Robotic,FWD,52000
+Kia,Niro,EX,2019,1,59400.0,1.6,141,Hybrid,Robotic,FWD,106000
+Kia,Stonic,LX,2022,1,15000.0,1.4,100,Gasoline,Automatic,FWD,93000
+Kia,Niro,EX,2018,2,133000.0,1.6,141,Hybrid,Robotic,FWD,85000
+Kia,Picanto,LX,2016,2,143400.0,1.2,85,Gasoline,Automatic,FWD,31900
+Kia,Niro,EX,2019,2,149000.0,1.6,141,Hybrid,Robotic,FWD,64900
+Kia,Niro,EX,2017,3,141000.0,1.6,141,Hybrid,Robotic,FWD,51900
+Kia,Stonic,LX,2020,2,124000.0,1.0,120,Gasoline,Robotic,FWD,56900
+Kia,Picanto,LX,2022,2,114000.0,1.2,84,Gasoline,Robotic,FWD,49900
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,2,128000.0,1.6,177,Gasoline,Robotic,FWD,86900
+Kia,Picanto,GT-Line,2026,1,1500.0,1.2,79,Gasoline,Robotic,FWD,99990
+Kia,Sportage,Premium,2022,1,84000.0,1.6,180,Gasoline,Robotic,FWD,129990
+Kia,Ceed,LX,2017,4,168000.0,1.6,135,Gasoline,Robotic,FWD,29000
+Kia,Rio,LX,2017,2,94000.0,1.4,109,Gasoline,Automatic,FWD,34900
+Kia,Picanto,GT-Line,2019,2,51783.0,1.2,84,Gasoline,Automatic,FWD,58000
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,2,82000.0,1.6,177,Gasoline,Robotic,FWD,84500
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,1,129000.0,1.6,177,Gasoline,Robotic,FWD,77999
+Kia,Stonic,EX,2022,1,52000.0,1.0,100,Gasoline,Robotic,FWD,80000
+Kia,Niro,EX,2017,2,276000.0,1.6,141,Hybrid,Robotic,FWD,46500
+Kia,Sportage,Premium,2022,2,33000.0,1.6,180,Gasoline,Robotic,FWD,145000
+Kia,Picanto,EX,2020,1,69500.0,1.2,84,Gasoline,Automatic,FWD,67000
+Kia,Picanto,EX,2015,2,91000.0,1.2,85,Gasoline,Automatic,FWD,33000
+Kia,Sportage,Urban,2018,3,130000.0,1.6,132,Gasoline,Automatic,FWD,55000
+Kia,Sportage,Urban Top,2021,1,52000.0,2.0,155,Gasoline,Automatic,FWD,105000
+Kia,Niro Plus,EX,2023,1,79000.0,1.6,141,Plug,Robotic,FWD,145000
+Kia,Sportage,Urban,2018,1,95500.0,2.0,155,Gasoline,Automatic,FWD,72000
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,2,157154.0,1.6,136,Diesel,Robotic,FWD,78000
+Kia,Niro,LX Plus,2021,1,98000.0,1.6,141,Plug,Robotic,FWD,110000
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,1,140000.0,1.6,136,Diesel,Robotic,FWD,90000
+Kia,Niro,LX,2019,2,150000.0,1.6,141,Hybrid,Robotic,FWD,76000
+Kia,Niro,EX,2018,2,202000.0,1.6,141,Hybrid,Robotic,FWD,55000
+Kia,Stonic,LX,2021,1,136000.0,1.0,100,Gasoline,Robotic,FWD,59000
+Kia,Picanto,LX,2020,1,88000.0,1.2,84,Gasoline,Automatic,FWD,49900
+Kia,Picanto,LX,2022,2,52000.0,1.2,84,Gasoline,Robotic,FWD,64990
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,3,104000.0,1.6,136,Diesel,Robotic,FWD,79990
+Kia,Picanto,GT-Line,2019,2,89000.0,1.2,84,Gasoline,Automatic,FWD,62990
+Kia,Niro,EX,2017,2,160000.0,1.6,141,Hybrid,Robotic,FWD,70000
+Kia,Ceed,LX,2017,4,173000.0,1.6,135,Gasoline,Robotic,FWD,17000
+Kia,Niro,LX,2021,2,101800.0,1.6,141,Plug,Robotic,FWD,105000
+Kia,Picanto,LX,2018,2,109000.0,1.2,84,Gasoline,Automatic,FWD,50000
+Kia,Picanto,GT-Line,2020,1,44300.0,1.2,84,Gasoline,Automatic,FWD,65000
+Kia,Sportage,Urban,2017,3,194000.0,1.6,132,Gasoline,Automatic,FWD,58000
+Kia,Picanto,LX,2021,1,88000.0,1.2,84,Gasoline,Robotic,FWD,57000
+Kia,Picanto,LX,2021,1,73000.0,1.2,84,Gasoline,Robotic,FWD,64000
+Kia,Sportage,Urban,2016,2,148000.0,1.6,132,Gasoline,Automatic,FWD,50000
+Kia,Picanto,LX,2017,2,159000.0,1.2,85,Gasoline,Automatic,FWD,33000
+Kia,Picanto,LX,2019,2,87000.0,1.2,84,Gasoline,Automatic,FWD,53000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,69000.0,1.6,177,Gasoline,Robotic,FWD,104990
+Kia,Niro Plus,LX,2023,1,105000.0,1.6,141,Plug,Robotic,FWD,103000
+Kia,Niro,EX,2019,2,85000.0,1.6,141,Hybrid,Robotic,FWD,72900
+Kia,Sportage,Urban,2020,3,140000.0,2.0,155,Gasoline,Automatic,FWD,77900
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,39000.0,1.6,177,Gasoline,Robotic,FWD,115000
+Kia,Picanto,EX,2019,1,34500.0,1.2,84,Gasoline,Automatic,FWD,69000
+Kia,Sportage,Premium GT,2019,2,104700.0,1.6,177,Gasoline,Robotic,AWD,86000
+Kia,Niro,Urban,2021,1,45000.0,1.6,141,Hybrid,Robotic,FWD,121000
+Kia,Niro,EX,2019,1,52000.0,1.6,141,Hybrid,Robotic,FWD,109000
+Kia,Niro,EX,2020,1,60000.0,1.6,141,Hybrid,Robotic,FWD,114000
+Kia,Picanto,LX,2015,2,140000.0,1.2,85,Gasoline,Automatic,FWD,30000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,3,156400.0,1.6,136,Diesel,Robotic,FWD,49900
+Kia,Picanto,LX,2021,2,77100.0,1.2,84,Gasoline,Robotic,FWD,56900
+Kia,Sportage,Urban,2015,2,259000.0,1.6,133,Gasoline,Automatic,FWD,29000
+Kia,Seltos,Urban,2022,2,119000.0,2.0,149,Gasoline,Variable,FWD,98000
+Kia,Niro,EX,2017,2,149000.0,1.6,141,Hybrid,Robotic,FWD,67000
+Kia,Sportage,1.6 Turbo Diesel Urban,2019,2,159000.0,1.6,136,Diesel,Robotic,FWD,77700
+Kia,Sportage,Premium GT,2016,2,150000.0,1.6,177,Gasoline,Robotic,AWD,57900
+Kia,Stonic,LX,2021,2,71000.0,1.4,100,Gasoline,Automatic,FWD,62900
+Kia,Ceed,LX,2015,2,177000.0,1.6,135,Gasoline,Robotic,FWD,19000
+Kia,Picanto,GT-Line,2018,2,36500.0,1.2,84,Gasoline,Automatic,FWD,59900
+Kia,Niro Plus,EX,2022,1,92000.0,1.6,141,Plug,Robotic,FWD,119990
+Kia,Sportage,Urban,2017,1,66000.0,2.0,155,Gasoline,Automatic,FWD,80000
+Kia,Carnival,EX,2016,2,201000.0,3.3,276,Gasoline,Automatic,FWD,86000
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,1,100000.0,1.6,136,Diesel,Robotic,FWD,90000
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,2,115000.0,1.6,136,Diesel,Robotic,FWD,93500
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,2,129000.0,1.6,136,Diesel,Robotic,FWD,85000
+Kia,Picanto,Top,2016,2,150000.0,1.2,85,Gasoline,Automatic,FWD,29990
+Kia,Sportage,Urban,2022,2,50000.0,1.6,136,Diesel,Automatic,FWD,110000
+Kia,Stonic,GT-Line,2022,1,25000.0,1.0,100,Gasoline,Robotic,FWD,95000
+Kia,Picanto,GT-Line,2018,2,115000.0,1.2,84,Gasoline,Automatic,FWD,62000
+Kia,Ceed,LX,2018,2,170000.0,1.6,135,Gasoline,Robotic,FWD,42000
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,1,100046.0,1.6,136,Diesel,Robotic,FWD,82000
+Kia,Sportage,Premium,2023,1,20200.0,2.0,156,Gasoline,Automatic,FWD,164000
+Kia,Ceed,LX,2018,3,152000.0,1.6,135,Gasoline,Robotic,FWD,45200
+Kia,Niro,LX,2020,2,176000.0,1.6,141,Hybrid,Robotic,FWD,74000
+Kia,Picanto,LX,2021,2,42000.0,1.2,84,Gasoline,Robotic,FWD,67990
+Kia,Sportage,Premium GT,2019,2,110000.0,1.6,177,Gasoline,Robotic,AWD,79900
+Kia,Picanto,EX,2019,2,72000.0,1.2,84,Gasoline,Automatic,FWD,59900
+Kia,Stonic,LX,2020,3,112000.0,1.0,120,Gasoline,Robotic,FWD,59990
+Kia,Ceed,LX,2019,2,270000.0,1.6,136,Diesel,Robotic,FWD,30000
+Kia,Niro,EX,2017,1,199000.0,1.6,141,Hybrid,Robotic,FWD,65000
+Kia,Sportage,Premium GT,2019,3,141500.0,1.6,177,Gasoline,Robotic,AWD,79900
+Kia,Niro Plus,LX,2023,1,115000.0,1.6,141,Plug,Robotic,FWD,109900
+Kia,Sorento,EX,2015,2,122000.0,2.4,188,Gasoline,Automatic,AWD,73900
+Kia,Niro,EX,2017,1,144000.0,1.6,141,Hybrid,Robotic,FWD,75000
+Kia,Picanto,LX,2022,2,24500.0,1.2,84,Gasoline,Robotic,FWD,70000
+Kia,Picanto,LX,2020,1,32000.0,1.2,84,Gasoline,Automatic,FWD,69000
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,2,65000.0,1.6,177,Gasoline,Robotic,FWD,87900
+Kia,Niro,Urban,2021,1,25000.0,1.6,141,Hybrid,Robotic,FWD,104900
+Kia,Ceed,LX,2015,3,236000.0,1.6,135,Gasoline,Robotic,FWD,22900
+Kia,Picanto,LX,2022,2,7500.0,1.2,84,Gasoline,Robotic,FWD,73000
+Kia,Sportage,Urban Top,2021,1,47000.0,2.0,155,Gasoline,Automatic,FWD,108000
+Kia,Sportage,Urban,2015,3,140000.0,1.6,133,Gasoline,Automatic,FWD,47000
+Kia,Sportage,Urban,2015,3,150000.0,1.6,133,Gasoline,Automatic,FWD,51000
+Kia,Sportage,Urban,2016,3,58000.0,1.6,133,Gasoline,Automatic,FWD,60000
+Kia,Niro,EX,2019,1,42000.0,1.6,141,Hybrid,Robotic,FWD,115000
+Kia,Rio,LX,2016,2,181000.0,1.4,109,Gasoline,Automatic,FWD,23000
+Kia,Ceed,LX,2015,3,256000.0,1.6,135,Gasoline,Robotic,FWD,19500
+Kia,Sportage,Urban,2018,1,78000.0,1.6,132,Gasoline,Automatic,FWD,71000
+Kia,Niro,LX,2019,2,117000.0,1.6,141,Hybrid,Robotic,FWD,92500
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,1,61000.0,1.6,177,Gasoline,Robotic,FWD,105000
+Kia,Picanto,LX,2020,1,41000.0,1.2,84,Gasoline,Automatic,FWD,60000
+Kia,Sportage,Urban,2015,2,222000.0,1.6,133,Gasoline,Automatic,FWD,44400
+Kia,Picanto,EX,2015,3,89500.0,1.2,85,Gasoline,Automatic,FWD,36400
+Kia,Picanto,EX,2017,2,81000.0,1.2,84,Gasoline,Automatic,FWD,51000
+Kia,Niro,EX,2020,1,125000.0,1.6,141,Hybrid,Robotic,FWD,114500
+Kia,Sportage,Urban,2022,1,31000.0,2.0,156,Gasoline,Automatic,FWD,139000
+Kia,Rio,GX,2018,4,150000.0,1.4,100,Gasoline,Automatic,FWD,48000
+Kia,Picanto,LX,2016,3,155000.0,1.0,65,Gasoline,Automatic,FWD,26000
+Kia,Niro,EX,2020,2,75000.0,1.6,141,Hybrid,Robotic,FWD,105000
+Kia,Sorento,Urban,2022,2,69320.0,2.5,180,Gasoline,Automatic,FWD,148900
+Kia,Sportage,1.6 Turbo Diesel Urban,2021,2,133000.0,1.6,136,Diesel,Robotic,FWD,79000
+Kia,Sportage,Premium GT,2016,2,79000.0,1.6,177,Gasoline,Robotic,AWD,75000
+Kia,Niro,EX,2020,1,100000.0,1.6,141,Hybrid,Robotic,FWD,110000
+Kia,Picanto,LX,2020,2,33000.0,1.2,84,Gasoline,Automatic,FWD,62000
+Kia,Sportage,1.6 Turbo Gasoline Top,2020,2,56600.0,1.6,177,Gasoline,Robotic,FWD,95000
+Kia,Sportage,Urban,2018,2,85000.0,1.6,132,Gasoline,Automatic,FWD,75000
+Kia,Niro,EX,2017,3,124000.0,1.6,141,Hybrid,Robotic,FWD,71000
+Kia,Picanto,EX,2019,2,138000.0,1.2,84,Gasoline,Automatic,FWD,54000
+Kia,Picanto,LX,2018,1,146000.0,1.2,84,Gasoline,Automatic,FWD,44000
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,3,78000.0,1.6,177,Gasoline,Robotic,FWD,95000
+Kia,Seltos,EX Plus,2022,1,51000.0,2.0,149,Gasoline,Variable,FWD,116000
+Kia,Niro,EX,2018,1,187000.0,1.6,141,Hybrid,Robotic,FWD,65000
+Kia,Sportage,Urban,2015,2,91600.0,1.6,133,Gasoline,Automatic,FWD,54000
+Kia,Sportage,Urban,2019,2,114462.0,2.0,155,Gasoline,Automatic,FWD,90000
+Kia,Niro,EX,2019,1,16000.0,1.6,141,Hybrid,Robotic,FWD,112000
+Kia,Sportage,Premium GT,2018,2,99200.0,1.6,177,Gasoline,Robotic,AWD,74000
+Kia,Niro,Urban,2021,1,104800.0,1.6,141,Hybrid,Robotic,FWD,107000
+Kia,Forte,LX,2017,2,162000.0,1.6,130,Gasoline,Automatic,FWD,42000
+Kia,Sportage,Urban,2019,2,119400.0,2.0,155,Gasoline,Automatic,FWD,80300
+Kia,Niro,LX,2019,2,134000.0,1.6,141,Hybrid,Robotic,FWD,78000
+Kia,Picanto,LX,2015,3,158000.0,1.2,85,Gasoline,Automatic,FWD,31000
+Kia,Sportage,Urban,2019,2,80600.0,2.0,155,Gasoline,Automatic,FWD,97777
+Kia,Sportage,Urban,2017,2,110000.0,1.6,132,Gasoline,Automatic,FWD,61500
+Kia,Sportage,Urban,2016,1,111000.0,1.6,132,Gasoline,Automatic,FWD,58500
+Kia,Niro,EX,2018,1,79300.0,1.6,141,Hybrid,Robotic,FWD,105000
+Kia,Picanto,EX,2017,2,36000.0,1.2,84,Gasoline,Automatic,FWD,54000
+Kia,Sportage,LX,2016,1,122000.0,2.0,155,Gasoline,Automatic,FWD,65000
+Kia,Niro,EX,2019,2,95500.0,1.6,141,Hybrid,Robotic,FWD,93000
+Kia,Niro,EX,2019,2,122000.0,1.6,141,Hybrid,Robotic,FWD,90000
+Kia,Picanto,EX,2017,2,36000.0,1.2,84,Gasoline,Automatic,FWD,53000
+Kia,Niro,EX,2018,2,136000.0,1.6,141,Hybrid,Robotic,FWD,73000
+Kia,Niro,EX,2022,1,39000.0,1.6,141,Plug,Robotic,FWD,148000
+Kia,Ceed,LX,2015,2,231000.0,1.6,135,Gasoline,Robotic,FWD,25000
+Kia,Niro,EX,2017,2,274668.0,1.6,141,Hybrid,Robotic,FWD,65000
+Kia,Sportage,EX,2015,2,149000.0,2.0,166,Gasoline,Automatic,FWD,55000
+Kia,Sorento,Urban,2017,2,150000.0,2.4,188,Gasoline,Automatic,FWD,75000
+Kia,Sportage,Urban,2015,2,120000.0,1.6,133,Gasoline,Automatic,FWD,48000
+Kia,Picanto,EX,2020,1,74000.0,1.2,84,Gasoline,Automatic,FWD,65500
+Kia,Ceed,LX,2016,2,149000.0,1.6,135,Gasoline,Robotic,FWD,32000
+Kia,Niro,EX,2020,1,81000.0,1.6,141,Hybrid,Robotic,FWD,115000
+Kia,Niro,LX,2020,2,119000.0,1.6,141,Hybrid,Robotic,FWD,98500
+Kia,Sportage,1.6 Turbo Diesel Urban,2020,2,69800.0,1.6,136,Diesel,Robotic,FWD,90000
+Kia,Sportage,Urban,2016,3,100000.0,1.6,133,Gasoline,Automatic,FWD,55000
+Kia,Ceed,LX,2016,3,207000.0,1.6,135,Gasoline,Robotic,FWD,25000
+Kia,Ceed,LX,2020,2,150000.0,1.4,140,Gasoline,Robotic,FWD,62000
+Kia,Sportage,Premium GT,2018,3,134000.0,1.6,177,Gasoline,Robotic,AWD,77000
+Kia,Sportage,Urban,2018,2,140000.0,1.6,132,Gasoline,Automatic,FWD,70000
+Kia,Picanto,EX,2015,4,133000.0,1.2,85,Gasoline,Automatic,FWD,30000
+Kia,Niro,Urban,2021,1,47800.0,1.6,141,Hybrid,Robotic,FWD,120000
+Kia,Picanto,LX,2015,2,137000.0,1.2,85,Gasoline,Automatic,FWD,33000
+Kia,Niro,EX,2021,1,69000.0,1.6,141,Plug,Robotic,FWD,129000
+Kia,Niro,EX,2017,2,161000.0,1.6,141,Hybrid,Robotic,FWD,78500
+Kia,Sportage,Premium GT,2016,2,130000.0,1.6,177,Gasoline,Robotic,AWD,60000
+Kia,Picanto,EX,2019,1,85000.0,1.2,84,Gasoline,Automatic,FWD,65000
+Kia,Picanto,EX,2020,1,21000.0,1.2,84,Gasoline,Automatic,FWD,69900
+Kia,Picanto,EX,2018,1,90000.0,1.2,84,Gasoline,Automatic,FWD,59000
+Kia,Picanto,LX,2015,3,108000.0,1.2,85,Gasoline,Automatic,FWD,32000
+Kia,Picanto,LX,2021,2,54000.0,1.2,84,Gasoline,Robotic,FWD,62000
+Kia,Ceed,LX,2015,3,210000.0,1.6,135,Gasoline,Robotic,FWD,28000
+Kia,Picanto,LX,2022,2,27000.0,1.2,84,Gasoline,Robotic,FWD,71500
+Kia,Seltos,EX,2021,2,37000.0,2.0,149,Gasoline,Variable,FWD,106000
+Kia,Ceed,LX,2019,2,101500.0,1.4,140,Gasoline,Robotic,FWD,52000
+Kia,Sportage,EX,2015,2,210000.0,2.0,166,Gasoline,Automatic,FWD,56000
+Kia,Sportage,1.6 Turbo Gasoline Premium,2021,1,48000.0,1.6,177,Gasoline,Robotic,FWD,115000
+Kia,Sportage,1.6 Turbo Gasoline Top,2021,3,66400.0,1.6,177,Gasoline,Robotic,FWD,85000
+Kia,Niro,EX,2018,2,127000.0,1.6,141,Hybrid,Robotic,FWD,86000
+Kia,Seltos,EX,2021,1,32000.0,2.0,149,Gasoline,Variable,FWD,107000
+Kia,Sportage,Urban,2019,2,62000.0,2.0,155,Gasoline,Automatic,FWD,95000
+Kia,Sportage,Urban,2017,2,77000.0,1.6,132,Gasoline,Automatic,FWD,64000
+Kia,Xceed,EX,2021,1,47800.0,1.4,140,Gasoline,Robotic,FWD,104000
+Kia,Picanto,EX,2018,1,5900.0,1.2,84,Gasoline,Automatic,FWD,65000
+Mazda,3,Premium,2018,1,46000.0,2.0,165,Gasoline,Automatic,FWD,75000
+Mazda,2,Pure White,2021,1,31000.0,1.5,116,Gasoline,Automatic,FWD,89900
+Mazda,Cx 3,Urban,2024,1,51000.0,1.5,116,Gasoline,Automatic,FWD,114900
+Mazda,Cx 3,Pure White,2018,2,160000.0,2.0,156,Gasoline,Automatic,FWD,64000
+Mazda,2,Dynamic,2020,2,45000.0,1.5,116,Gasoline,Automatic,FWD,79900
+Mazda,3,Comfort,2022,1,113000.0,2.0,165,Gasoline,Automatic,FWD,85800
+Mazda,2,Pure White,2016,2,141000.0,1.5,111,Gasoline,Automatic,FWD,45800
+Mazda,3,Comfort,2021,2,118000.0,2.0,165,Gasoline,Automatic,FWD,71800
+Mazda,3,Sport,2018,1,84000.0,2.0,165,Gasoline,Automatic,FWD,74500
+Mazda,Cx 3,Urban,2023,1,41000.0,1.5,116,Gasoline,Automatic,FWD,111900
+Mazda,2,Dynamic,2022,1,114000.0,1.5,116,Gasoline,Automatic,FWD,70000
+Mazda,Cx 5,Executive,2021,2,62000.0,2.0,165,Gasoline,Automatic,FWD,124900
+Mazda,3,Comfort,2017,4,187777.0,1.5,120,Gasoline,Automatic,FWD,38900
+Mazda,2,Dynamic,2023,1,100000.0,1.5,116,Gasoline,Automatic,FWD,69000
+Mazda,3,Spirit,2020,3,90000.0,2.0,165,Gasoline,Automatic,FWD,90000
+Mazda,3,Spirit,2021,2,99000.0,2.0,165,Gasoline,Automatic,FWD,85000
+Mazda,3,Comfort,2021,2,67000.0,2.0,165,Gasoline,Automatic,FWD,84900
+Mazda,Cx 3,Zoom,2024,1,72816.0,1.5,116,Gasoline,Automatic,FWD,110925
+Mazda,Cx 3,Zoom,2024,1,38801.0,1.5,116,Gasoline,Automatic,FWD,109355
+Mazda,Cx 3,Urban,2023,2,36000.0,1.5,116,Gasoline,Automatic,FWD,108380
+Mazda,6,Luxury,2022,1,91936.0,2.0,165,Gasoline,Automatic,FWD,89770
+Mazda,3,Sport,2019,2,157800.0,2.0,165,Gasoline,Automatic,FWD,62250
+Mazda,2,Dynamic,2022,1,72000.0,1.5,116,Gasoline,Automatic,FWD,81662
+Mazda,2,Dynamic,2021,2,114332.0,1.5,116,Gasoline,Automatic,FWD,79475
+Mazda,Cx 5,Executive,2021,1,97426.0,2.0,165,Gasoline,Automatic,FWD,120690
+Mazda,Cx 5,Premium,2021,1,92470.0,2.0,165,Gasoline,Automatic,FWD,131275
+Mazda,Cx 5,Executive,2017,2,143000.0,2.0,165,Gasoline,Automatic,FWD,74505
+Mazda,Cx 3,Zoom,2021,3,79500.0,2.0,156,Gasoline,Automatic,FWD,89505
+Mazda,3,Premium,2023,1,70000.0,2.0,165,Gasoline,Automatic,FWD,139000
+Mazda,Cx 30,Comfort,2022,1,49000.0,2.0,165,Gasoline,Automatic,FWD,112990
+Mazda,Cx 5,Executive,2018,3,170000.0,2.0,165,Gasoline,Automatic,FWD,74999
+Mazda,3,Sport,2018,2,184306.0,2.0,165,Gasoline,Automatic,FWD,49999
+Mazda,3,Comfort,2017,3,174000.0,1.5,120,Gasoline,Automatic,FWD,42500
+Mazda,Cx 3,Urban,2022,1,57000.0,1.5,116,Gasoline,Automatic,FWD,94990
+Mazda,2,Dynamic,2022,2,92500.0,1.5,116,Gasoline,Automatic,FWD,74000
+Mazda,Cx 5,Executive,2020,3,75000.0,2.0,165,Gasoline,Automatic,FWD,110000
+Mazda,2,Dynamic,2021,2,64000.0,1.5,116,Gasoline,Automatic,FWD,60000
+Mazda,3,Sport,2018,2,141000.0,2.0,165,Gasoline,Automatic,FWD,65000
+Mazda,Cx 3,Urban,2023,1,52000.0,1.5,116,Gasoline,Automatic,FWD,95990
+Mazda,3,Black Edition,2022,1,97000.0,2.0,165,Gasoline,Automatic,FWD,99990
+Mazda,2,Dynamic,2017,1,64000.0,1.5,111,Gasoline,Automatic,FWD,73000
+Mazda,Cx 5,Executive,2019,1,159000.0,2.0,165,Gasoline,Automatic,FWD,87000
+Mazda,3,Spirit,2021,1,69000.0,2.0,165,Gasoline,Automatic,FWD,84900
+Mazda,Cx 5,Executive,2023,1,89000.0,2.0,165,Gasoline,Automatic,FWD,121000
+Mazda,Cx 30,Executive,2020,2,123700.0,2.0,165,Gasoline,Automatic,FWD,83000
+Mazda,Cx 30,Comfort,2022,2,127150.0,2.0,165,Gasoline,Automatic,FWD,85000
+Mazda,3,Spirit,2021,2,122000.0,2.0,165,Gasoline,Automatic,FWD,77000
+Mazda,3,Sport,2019,2,173000.0,2.0,165,Gasoline,Automatic,FWD,62300
+Mazda,3,Premium,2017,2,176000.0,2.0,165,Gasoline,Automatic,FWD,58000
+Mazda,Cx 5,Executive,2024,2,18000.0,2.0,165,Gasoline,Automatic,FWD,127000
+Mazda,Cx 5,Executive,2020,2,108000.0,2.0,165,Gasoline,Automatic,FWD,105000
+Mazda,2,Dynamic,2022,0,118000.0,1.5,116,Gasoline,Automatic,FWD,77000
+Mazda,3,Spirit,2023,1,50000.0,2.0,165,Gasoline,Automatic,FWD,120000
+Mazda,Cx 5,Executive,2022,1,106260.0,2.0,165,Gasoline,Automatic,FWD,120000
+Mazda,Cx 3,Urban,2023,1,21000.0,1.5,116,Gasoline,Automatic,FWD,115000
+Mazda,Cx 30,Comfort,2024,2,14580.0,2.0,165,Gasoline,Automatic,FWD,130000
+Mazda,Cx 5,Luxury,2016,3,100000.0,2.0,165,Gasoline,Automatic,FWD,65000
+Mazda,3,Spirit,2021,2,77000.0,2.0,165,Gasoline,Automatic,FWD,85000
+Mazda,3,Active,2015,2,195000.0,1.5,120,Gasoline,Automatic,FWD,24000
+Mazda,3,Spirit,2021,3,85000.0,2.0,165,Gasoline,Automatic,FWD,89000
+Mazda,2,Dynamic,2023,1,74000.0,1.5,116,Gasoline,Automatic,FWD,78900
+Mazda,Cx 5,Executive,2022,1,42000.0,2.0,165,Gasoline,Automatic,FWD,134900
+Mazda,Cx 5,Executive,2020,1,54000.0,2.0,165,Gasoline,Automatic,FWD,117000
+Mazda,Cx 30,Comfort,2024,1,3800.0,2.0,165,Gasoline,Automatic,FWD,142600
+Mazda,Cx 5,Executive,2022,1,38600.0,2.0,165,Gasoline,Automatic,FWD,134000
+Mazda,Cx 5,Executive,2017,3,100000.0,2.0,165,Gasoline,Automatic,FWD,81000
+Mazda,3,Spirit,2022,1,30000.0,2.0,165,Gasoline,Automatic,FWD,134000
+Mazda,3,Sport,2017,4,230000.0,2.0,165,Gasoline,Automatic,FWD,65000
+Mazda,Cx 30,Executive,2020,1,87450.0,2.0,165,Gasoline,Automatic,FWD,90000
+Mazda,Cx 30,Executive,2021,1,100000.0,2.0,165,Gasoline,Automatic,FWD,95000
+Mazda,6,Luxury,2018,4,49500.0,2.0,165,Gasoline,Automatic,FWD,74000
+Mazda,3,Black Edition,2022,1,43000.0,2.0,165,Gasoline,Automatic,FWD,120000
+Mazda,3,Sport,2019,3,137000.0,2.0,165,Gasoline,Automatic,FWD,60000
+Mazda,2,Dynamic,2015,3,132000.0,1.5,103,Gasoline,Automatic,FWD,38500
+Mazda,3,Spirit,2023,1,26000.0,2.0,165,Gasoline,Automatic,FWD,135000
+Mazda,3,Premium,2018,3,149000.0,2.0,165,Gasoline,Automatic,FWD,70000
+Mazda,Cx 3,Zoom,2020,3,65000.0,2.0,156,Gasoline,Automatic,FWD,84000
+Mazda,6,Luxury,2019,2,160000.0,2.0,165,Gasoline,Automatic,FWD,69900
+Mazda,Cx 5,Executive,2021,2,60000.0,2.0,165,Gasoline,Automatic,FWD,120000
+Mazda,Cx 5,Luxury,2018,2,115000.0,2.0,165,Gasoline,Automatic,FWD,112000
+Mazda,Cx 5,Comfort,2020,2,81000.0,2.0,165,Gasoline,Automatic,FWD,103000
+Mazda,3,Premium,2023,2,31000.0,2.0,165,Gasoline,Automatic,FWD,135000
+Mazda,3,Sport,2019,2,99000.0,2.0,165,Gasoline,Automatic,FWD,60000
+Mazda,Cx 5,Executive,2022,1,53000.0,2.0,165,Gasoline,Automatic,FWD,125000
+Mazda,3,Spirit,2021,2,100000.0,2.0,165,Gasoline,Automatic,FWD,98000
+Mazda,Cx 5,Executive,2015,2,120000.0,2.0,165,Gasoline,Automatic,FWD,67000
+Mazda,3,Spirit,2019,1,97000.0,2.0,165,Gasoline,Automatic,FWD,86000
+Mazda,Cx 5,Executive,2018,2,53600.0,2.0,165,Gasoline,Automatic,FWD,105000
+Mazda,3,Comfort,2021,2,64000.0,2.0,165,Gasoline,Automatic,FWD,93000
+Mazda,2,Dynamic,2022,3,63600.0,1.5,116,Gasoline,Automatic,FWD,80000
+Mazda,3,Sport,2018,3,125000.0,2.0,165,Gasoline,Automatic,FWD,63000
+Mazda,6,Luxury,2015,3,205000.0,2.0,165,Gasoline,Automatic,FWD,42000
+Mazda,3,Sport,2019,1,75000.0,2.0,165,Gasoline,Automatic,FWD,70000
+Mazda,Cx 3,Zoom,2024,1,400.0,1.5,116,Gasoline,Automatic,FWD,129900
+Mazda,3,Sport,2018,2,86000.0,2.0,165,Gasoline,Automatic,FWD,74000
+Mazda,Cx 5,Premium,2018,2,118000.0,2.5,195,Gasoline,Automatic,AWD,122000
+Mazda,6,Luxury,2020,2,86800.0,2.0,165,Gasoline,Automatic,FWD,94000
+Mazda,Cx 30,Executive,2020,2,94000.0,2.0,165,Gasoline,Automatic,FWD,98000
+Mazda,Cx 5,Executive,2022,2,27800.0,2.0,165,Gasoline,Automatic,FWD,151000
+Mazda,3,Spirit,2022,3,65000.0,2.0,165,Gasoline,Automatic,FWD,110000
+Mazda,Cx 5,Executive,2016,3,123312.0,2.0,165,Gasoline,Automatic,FWD,65000
+Mazda,3,Sport,2017,2,100000.0,2.0,165,Gasoline,Automatic,FWD,54800
+Mazda,Cx 5,Luxury,2016,1,184000.0,2.0,165,Gasoline,Automatic,FWD,66000
+Mazda,Cx 5,Executive,2020,3,85000.0,2.0,165,Gasoline,Automatic,FWD,115000
+Mazda,Cx 5,Executive,2016,2,215000.0,2.0,165,Gasoline,Automatic,FWD,69000
+Mazda,Cx 5,Executive,2016,4,97000.0,2.0,165,Gasoline,Automatic,FWD,75900
+Mazda,3,Sport,2018,2,120000.0,2.0,165,Gasoline,Automatic,FWD,66000
+Mazda,Cx 5,Executive,2021,1,38500.0,2.0,165,Gasoline,Automatic,FWD,132000
+Mazda,Cx 5,Luxury,2019,2,140500.0,2.0,165,Gasoline,Automatic,FWD,100000
+Mazda,3,Sport,2019,2,50000.0,2.0,165,Gasoline,Automatic,FWD,89900
+Mazda,Cx 5,Executive,2016,3,122900.0,2.0,165,Gasoline,Automatic,FWD,55900
+Mazda,3,Sport,2019,4,95000.0,2.0,165,Gasoline,Automatic,FWD,73000
+Mazda,3,Spirit,2021,2,58000.0,2.0,165,Gasoline,Automatic,FWD,103000
+Mazda,Cx 5,Premium,2020,1,52000.0,2.0,165,Gasoline,Automatic,FWD,144500
+Mazda,Cx 30,Comfort,2021,1,38000.0,2.0,165,Gasoline,Automatic,FWD,115000
+Mazda,Cx 5,Executive,2015,3,190000.0,2.0,155,Gasoline,Automatic,FWD,50000
+Mazda,3,Spirit,2024,2,500.0,2.0,165,Gasoline,Automatic,FWD,146000
+Mazda,2,Dynamic,2016,1,130000.0,1.5,111,Gasoline,Automatic,FWD,49000
+Mazda,6,Luxury,2016,4,222000.0,2.0,165,Gasoline,Automatic,FWD,39000
+Mazda,Cx 5,Luxury,2019,1,106000.0,2.0,165,Gasoline,Automatic,FWD,111000
+Mazda,Cx 5,Executive,2021,2,89000.0,2.0,165,Gasoline,Automatic,FWD,120000
+Mazda,Cx 5,Executive,2020,1,49000.0,2.0,165,Gasoline,Automatic,FWD,127000
+Mazda,3,Active,2015,2,225000.0,1.5,120,Gasoline,Automatic,FWD,34000
+Mazda,Cx 5,Executive,2017,2,173000.0,2.0,165,Gasoline,Automatic,FWD,86500
+Mazda,3,Black Edition,2022,1,10000.0,2.0,165,Gasoline,Automatic,FWD,142000
+Mazda,3,Premium,2018,2,140000.0,2.0,165,Gasoline,Automatic,FWD,78000
+Mazda,3,Sport,2018,3,117000.0,2.0,165,Gasoline,Automatic,FWD,65000
+Mazda,Cx 30,Comfort,2020,3,85000.0,2.0,165,Gasoline,Automatic,FWD,92200
+Mazda,Cx 5,Executive,2018,2,160000.0,2.0,165,Gasoline,Automatic,FWD,91000
+Mazda,3,Comfort,2017,2,142000.0,2.0,165,Gasoline,Automatic,FWD,54000
+Mazda,Cx 5,Executive,2018,4,108000.0,2.0,165,Gasoline,Automatic,FWD,95000
+Mazda,3,Spirit,2021,2,71000.0,2.0,165,Gasoline,Automatic,FWD,105000
+Mazda,Cx 5,Executive,2020,2,53000.0,2.0,165,Gasoline,Automatic,FWD,120000
+Mazda,Cx 5,Executive,2020,1,29000.0,2.0,165,Gasoline,Automatic,FWD,135300
+Mazda,Cx 5,Comfort,2021,2,130000.0,2.0,165,Gasoline,Automatic,FWD,97000
+Mazda,Cx 5,Executive,2021,2,57000.0,2.0,165,Gasoline,Automatic,FWD,115000
+Mazda,6,Premium,2016,3,180000.0,2.5,192,Gasoline,Automatic,FWD,55000
+Mazda,2,Dynamic,2018,2,124000.0,1.5,111,Gasoline,Automatic,FWD,57900
+Mazda,2,Dynamic,2022,2,115000.0,1.5,116,Gasoline,Automatic,FWD,79000
+Mazda,Cx 5,Executive,2019,3,112000.0,2.0,165,Gasoline,Automatic,FWD,95000
+Mazda,2,Dynamic,2017,2,166000.0,1.5,111,Gasoline,Automatic,FWD,56900
+Mazda,3,Spirit,2021,2,117681.0,2.0,165,Gasoline,Automatic,FWD,89492
+Mazda,2,Dynamic,2021,2,29640.0,1.5,116,Gasoline,Automatic,FWD,85495
+Mazda,Cx 5,Comfort,2021,1,41589.0,2.0,165,Gasoline,Automatic,FWD,120345
+Mazda,3,Sport,2017,3,176000.0,2.0,165,Gasoline,Automatic,FWD,60000
+Mazda,3,Sport,2017,1,84000.0,2.0,165,Gasoline,Automatic,FWD,59000
+Nissan,X Trail,Acenta Tech 5 seats,2020,2,69000.0,1.3,160,Gasoline,Robotic,FWD,85000
+Nissan,X Trail,Acenta,2016,2,260000.0,1.6,130,Diesel,Variable,FWD,38000
+Nissan,X Trail,Tekna 5 seats,2018,4,188000.0,2.0,177,Diesel,Variable,AWD,65800
+Nissan,Sentra,SV,2023,1,41000.0,2.0,149,Gasoline,Variable,FWD,97900
+Nissan,Micra,Visia,2018,2,139000.0,1.2,80,Gasoline,Variable,FWD,32800
+Nissan,Qashqai,Acenta SV,2016,3,135000.0,1.2,115,Gasoline,Variable,FWD,39000
+Nissan,Qashqai,Acenta,2020,2,150000.0,1.2,115,Gasoline,Variable,FWD,59999
+Nissan,Juke,Acenta Black,2018,2,105000.0,1.6,117,Gasoline,Variable,FWD,41800
+Nissan,Juke,Acenta Black,2016,2,70000.0,1.6,117,Gasoline,Variable,FWD,41900
+Nissan,Sentra,SR,2019,2,93684.0,1.8,124,Gasoline,Variable,FWD,52900
+Nissan,Qashqai,Acenta SV,2015,4,167000.0,1.2,115,Gasoline,Variable,FWD,33000
+Nissan,Qashqai,Acenta Tech,2018,1,97000.0,1.2,115,Gasoline,Variable,FWD,61000
+Nissan,X Trail,Tekna,2016,3,130000.0,1.6,130,Diesel,Variable,FWD,55900
+Nissan,Micra,Visia,2018,2,121500.0,1.2,80,Gasoline,Variable,FWD,34900
+Nissan,Sentra,SV,2022,2,93000.0,2.0,149,Gasoline,Variable,FWD,74800
+Nissan,Qashqai,Acenta SV,2015,2,133000.0,1.2,115,Gasoline,Variable,FWD,38800
+Nissan,Juke,Acenta,2016,3,94700.0,1.6,117,Gasoline,Variable,FWD,32900
+Nissan,X Trail,Visia,2017,2,313000.0,1.6,130,Diesel,Variable,FWD,40000
+Nissan,X Trail,Acenta Tech 5 seats,2020,1,114123.0,1.3,160,Gasoline,Robotic,FWD,79775
+Nissan,Sentra,SV,2023,1,92668.0,2.0,149,Gasoline,Variable,FWD,76660
+Nissan,Altima,SV,2015,3,176000.0,2.5,182,Gasoline,Variable,FWD,20500
+Nissan,Qashqai,Tekna,2019,1,88000.0,1.3,160,Gasoline,Robotic,FWD,84000
+Nissan,Micra,Visia,2017,3,181500.0,1.2,80,Gasoline,Variable,FWD,21000
+Nissan,Qashqai,Acenta Tech,2018,2,142000.0,1.6,130,Diesel,Variable,FWD,62000
+Nissan,Qashqai,Visia,2017,1,47000.0,1.2,115,Gasoline,Variable,FWD,53000
+Nissan,Qashqai,Acenta,2019,4,77000.0,1.3,160,Gasoline,Robotic,FWD,70000
+Nissan,Sentra,SV,2023,1,66438.0,2.0,149,Gasoline,Variable,FWD,83775
+Nissan,Sentra,SV,2021,2,64600.0,2.0,149,Gasoline,Variable,FWD,73625
+Nissan,Sentra,SV,2021,2,132000.0,2.0,149,Gasoline,Variable,FWD,56495
+Nissan,Sentra,SV,2021,2,113216.0,2.0,149,Gasoline,Variable,FWD,62605
+Nissan,Sentra,SR,2019,2,133000.0,1.8,124,Gasoline,Variable,FWD,56125
+Nissan,Sentra,SR,2019,2,127449.0,1.8,124,Gasoline,Variable,FWD,46495
+Nissan,Qashqai,Acenta Top,2021,2,63000.0,1.3,160,Gasoline,Robotic,FWD,94965
+Nissan,Qashqai,Acenta Top,2021,1,104002.0,1.3,160,Gasoline,Robotic,FWD,64510
+Nissan,Qashqai,Acenta,2020,2,123055.0,1.2,115,Gasoline,Variable,FWD,65995
+Nissan,Qashqai,Acenta Tech,2019,2,77486.0,1.3,160,Gasoline,Robotic,FWD,84285
+Nissan,Juke,Acenta-Tech,2021,1,64108.0,1.0,117,Gasoline,Robotic,FWD,80590
+Nissan,Juke,Acenta-Tech,2021,1,37715.0,1.0,117,Gasoline,Robotic,FWD,75615
+Nissan,Juke,Acenta-Tech,2020,1,90313.0,1.0,117,Gasoline,Robotic,FWD,71215
+Nissan,Qashqai,Tekna,2019,1,89327.0,1.3,160,Gasoline,Robotic,FWD,84000
+Nissan,Qashqai,Acenta Top,2021,1,87000.0,1.3,160,Gasoline,Robotic,FWD,82000
+Nissan,X Trail,Acenta Tech,2024,1,39000.0,1.5,213,Hybrid,Automatic,AWD,175000
+Nissan,X Trail,Acenta 7 seats,2018,2,143000.0,1.6,130,Diesel,Variable,FWD,65000
+Nissan,Micra,Visia,2017,1,215000.0,1.2,80,Gasoline,Variable,FWD,22500
+Nissan,Sentra,SV,2021,2,90000.0,2.0,149,Gasoline,Variable,FWD,62000
+Nissan,Qashqai,Visia,2016,2,84000.0,1.2,115,Gasoline,Variable,FWD,40000
+Nissan,Qashqai,Visia,2017,3,154000.0,1.2,115,Gasoline,Variable,FWD,32900
+Nissan,Qashqai,Acenta PR,2017,1,128000.0,1.2,115,Gasoline,Variable,FWD,39900
+Nissan,Qashqai,Acenta,2019,2,113000.0,1.3,160,Gasoline,Robotic,FWD,52900
+Nissan,Qashqai,Tekna,2018,2,102000.0,1.2,115,Gasoline,Variable,FWD,64900
+Nissan,X Trail,Acenta Top,2025,1,45000.0,1.5,163,Gasoline,Variable,FWD,149990
+Nissan,Sentra,SR,2018,2,86000.0,1.8,130,Gasoline,Variable,FWD,50000
+Nissan,X Trail,Tekna 5 seats,2018,3,109900.0,2.0,177,Diesel,Variable,AWD,79900
+Nissan,Qashqai,Acenta PR,2017,2,94000.0,1.2,115,Gasoline,Variable,FWD,44990
+Nissan,Sentra,SR,2020,2,56300.0,1.8,124,Gasoline,Variable,FWD,60000
+Nissan,Qashqai,Acenta,2019,2,80492.0,1.3,160,Gasoline,Robotic,FWD,70000
+Nissan,X Trail,Acenta 7 seats,2020,1,80000.0,1.7,150,Diesel,Variable,FWD,100000
+Nissan,X Trail,Tekna,2017,2,215000.0,1.6,130,Diesel,Variable,FWD,70000
+Nissan,Qashqai,Acenta Top,2022,1,34000.0,1.3,156,Gasoline,Variable,FWD,131000
+Nissan,X Trail,Tekna 7 seats,2021,3,52000.0,1.3,160,Gasoline,Robotic,FWD,130000
+Nissan,Sentra,SR,2021,1,120000.0,1.8,124,Gasoline,Variable,FWD,51000
+Nissan,Qashqai,Visia,2017,2,117000.0,1.2,115,Gasoline,Variable,FWD,43000
+Nissan,Qashqai,Acenta,2020,3,150500.0,1.2,115,Gasoline,Variable,FWD,54900
+Nissan,X Trail,Acenta 7 seats,2020,2,87000.0,1.7,150,Diesel,Variable,FWD,91000
+Nissan,Micra,Visia,2015,2,160000.0,1.2,80,Gasoline,Variable,FWD,15800
+Nissan,Sentra,SV,2021,1,92000.0,2.0,149,Gasoline,Variable,FWD,62900
+Nissan,Qashqai,Acenta Tech,2021,3,99000.0,1.5,115,Diesel,Robotic,FWD,85990
+Nissan,X Trail,Tekna 7 seats,2018,3,110000.0,1.6,130,Diesel,Variable,FWD,75000
+Nissan,Qashqai,Acenta Tech,2019,1,70000.0,1.3,160,Gasoline,Robotic,FWD,75000
+Nissan,Sentra,SR,2019,2,140000.0,1.8,124,Gasoline,Variable,FWD,50000
+Nissan,Micra,Visia,2016,3,187000.0,1.2,80,Gasoline,Variable,FWD,18000
+Nissan,Qashqai,Acenta SV,2015,3,113000.0,1.2,115,Gasoline,Variable,FWD,29000
+Nissan,Qashqai,Acenta,2018,3,134000.0,1.2,115,Gasoline,Variable,FWD,54990
+Nissan,X Trail,Tekna 7 seats,2021,1,36000.0,1.3,160,Gasoline,Robotic,FWD,120000
+Nissan,Sentra,SV,2021,2,109000.0,2.0,149,Gasoline,Variable,FWD,75000
+Nissan,Micra,Visia,2015,4,182000.0,1.2,80,Gasoline,Variable,FWD,18000
+Nissan,Sentra,SR,2016,4,139000.0,1.8,130,Gasoline,Variable,FWD,30000
+Nissan,Micra,Visia,2016,1,160000.0,1.2,80,Gasoline,Variable,FWD,23000
+Nissan,Micra,Acenta,2015,3,140000.0,1.2,80,Gasoline,Variable,FWD,22000
+Nissan,Qashqai,Acenta Tech,2021,2,107000.0,1.5,115,Diesel,Robotic,FWD,89990
+Nissan,Sentra,SV,2021,2,145689.0,2.0,149,Gasoline,Variable,FWD,59990
+Nissan,Qashqai,Visia,2017,3,130000.0,1.2,115,Gasoline,Variable,FWD,47900
+Nissan,Qashqai,Acenta,2019,2,111000.0,1.2,115,Gasoline,Variable,FWD,71000
+Nissan,Qashqai,Acenta,2018,1,21000.0,1.2,115,Gasoline,Variable,FWD,68000
+Nissan,X Trail,Visia,2017,1,120000.0,1.6,130,Diesel,Variable,FWD,70000
+Nissan,Qashqai,Acenta SV,2015,3,105000.0,1.2,115,Gasoline,Variable,FWD,45999
+Nissan,Sentra,SR,2018,2,85500.0,1.8,130,Gasoline,Variable,FWD,51000
+Nissan,Qashqai,Acenta,2019,1,50000.0,1.5,115,Diesel,Robotic,FWD,80000
+Nissan,Sentra,SV,2022,1,25000.0,2.0,149,Gasoline,Variable,FWD,99500
+Nissan,Juke,Acenta-Tech,2020,1,73000.0,1.0,117,Gasoline,Robotic,FWD,72000
+Nissan,Sentra,SV,2021,3,96813.0,2.0,149,Gasoline,Variable,FWD,85000
+Nissan,Juke,Acenta,2015,2,118000.0,1.6,117,Gasoline,Variable,FWD,35000
+Nissan,Altima,SV,2017,3,112000.0,2.5,182,Gasoline,Variable,FWD,38000
+Nissan,Qashqai,Acenta,2019,2,155000.0,1.3,160,Gasoline,Robotic,FWD,62000
+Nissan,X Trail,Tekna 5 seats,2019,3,157000.0,2.0,177,Diesel,Variable,AWD,115000
+Nissan,X Trail,Tekna,2015,2,173000.0,1.6,130,Diesel,Variable,FWD,75000
+Nissan,Juke,Visia,2019,2,101100.0,1.6,117,Gasoline,Variable,FWD,51000
+Nissan,X Trail,Acenta Tech,2023,1,30500.0,1.5,163,Gasoline,Variable,FWD,180000
+Nissan,X Trail,Tekna 7 seats,2021,2,69000.0,1.3,160,Gasoline,Robotic,FWD,123000
+Nissan,Sentra,SR,2017,2,170000.0,1.8,130,Gasoline,Variable,FWD,32000
+Nissan,Maxima,SL,2019,2,191000.0,3.5,300,Gasoline,Variable,FWD,63000
+Nissan,Qashqai,Acenta SV,2015,3,105000.0,1.6,130,Diesel,Variable,FWD,53000
+Nissan,X Trail,Acenta 7 seats,2018,1,72000.0,1.6,130,Diesel,Variable,FWD,82000
+Nissan,X Trail,Tekna 7 seats,2020,1,57000.0,1.7,150,Diesel,Variable,FWD,127000
+Nissan,Juke,Visia,2019,2,70000.0,1.6,117,Gasoline,Variable,FWD,52000
+Nissan,Qashqai,Acenta Tech,2019,1,137000.0,1.2,115,Gasoline,Variable,FWD,85000
+Nissan,X Trail,Visia,2017,1,125000.0,1.6,130,Diesel,Variable,FWD,75000
+Nissan,Qashqai,Acenta Tech,2024,1,7000.0,1.3,156,Gasoline,Variable,FWD,185000
+Nissan,X Trail,Tekna 7 seats,2021,2,63000.0,1.3,160,Gasoline,Robotic,FWD,134000
+Nissan,Qashqai,Acenta,2020,2,122000.0,1.2,115,Gasoline,Variable,FWD,100000
+Nissan,X Trail,Tekna 5 seats,2020,1,53000.0,1.3,160,Gasoline,Robotic,FWD,120000
+Nissan,Qashqai,Visia,2017,1,172000.0,1.2,115,Gasoline,Variable,FWD,55000
+Nissan,Qashqai,Acenta Tech,2021,1,20000.0,1.5,115,Diesel,Robotic,FWD,119000
+Nissan,X Trail,Tekna 7 seats,2018,2,98000.0,1.6,130,Diesel,Variable,FWD,81500
+Nissan,Qashqai,Visia,2016,2,95000.0,1.2,115,Gasoline,Variable,FWD,55000
+Nissan,Sentra,SV,2022,1,31000.0,2.0,149,Gasoline,Variable,FWD,110000
+Nissan,Qashqai,Acenta,2018,3,110000.0,1.2,115,Gasoline,Variable,FWD,58000
+Nissan,Sentra,SR,2017,3,111000.0,1.8,130,Gasoline,Variable,FWD,43000
+Nissan,Maxima,SL,2018,2,126000.0,3.5,300,Gasoline,Variable,FWD,87000
+Nissan,X Trail,Visia,2017,2,120000.0,1.6,130,Diesel,Variable,FWD,75000
+Nissan,X Trail,Tekna 7 seats,2021,2,33000.0,1.3,160,Gasoline,Robotic,FWD,130000
+Nissan,X Trail,Acenta 7 seats,2018,1,86000.0,1.6,130,Diesel,Variable,FWD,96000
+Nissan,X Trail,Acenta 7 seats,2018,1,116000.0,1.6,130,Diesel,Variable,FWD,90000
+Nissan,X Trail,Acenta Tech,2024,2,2500.0,1.5,213,Hybrid,Automatic,AWD,230000
+Nissan,Qashqai,Visia,2016,4,149000.0,1.2,115,Gasoline,Variable,FWD,38000
+Nissan,Qashqai,Acenta,2018,2,149000.0,1.2,115,Gasoline,Variable,FWD,60000
+Nissan,Maxima,SL,2017,4,152000.0,3.5,300,Gasoline,Variable,FWD,65000
+Nissan,Micra,Visia,2017,3,140000.0,1.2,80,Gasoline,Variable,FWD,32000
+Nissan,X Trail,Tekna,2016,2,140000.0,1.6,130,Diesel,Variable,FWD,72000
+Nissan,Qashqai,Tekna,2015,3,140000.0,1.6,130,Diesel,Variable,FWD,56000
+Nissan,Qashqai,Acenta SV,2016,4,95000.0,1.2,115,Gasoline,Variable,FWD,54900
+Nissan,Qashqai,Acenta,2019,3,50000.0,1.2,115,Gasoline,Variable,FWD,79000
+Nissan,X Trail,Visia,2017,2,220000.0,1.6,130,Diesel,Variable,FWD,56000
+Nissan,Micra,Visia,2017,2,60000.0,1.2,80,Gasoline,Variable,FWD,33000
+Nissan,Sentra,SR,2017,3,175000.0,1.8,130,Gasoline,Variable,FWD,35000
+Nissan,Qashqai,Acenta,2019,2,100000.0,1.2,115,Gasoline,Variable,FWD,76000
+Nissan,Juke,Acenta-Tech,2020,2,23000.0,1.0,117,Gasoline,Robotic,FWD,82000
+Nissan,Qashqai,Acenta SV,2016,1,143000.0,1.2,115,Gasoline,Variable,FWD,53000
+Nissan,Qashqai,Acenta Tech,2018,1,18000.0,1.2,115,Gasoline,Variable,FWD,88000
+Nissan,X Trail,Tekna 7 seats,2018,2,160000.0,1.6,130,Diesel,Variable,FWD,75000
+Nissan,Micra,Visia,2015,2,165000.0,1.2,80,Gasoline,Variable,FWD,22000
+Nissan,Micra,Visia,2017,3,107000.0,1.2,80,Gasoline,Manual,FWD,25000
+Nissan,X Trail,Visia,2017,2,91000.0,1.6,130,Diesel,Variable,FWD,82000
+Nissan,Sentra,SR,2018,2,106000.0,1.8,130,Gasoline,Variable,FWD,55000
+Nissan,Qashqai,Acenta,2018,1,125000.0,1.2,115,Gasoline,Variable,FWD,65000
+Nissan,X Trail,Acenta 7 seats,2019,3,130000.0,1.6,130,Diesel,Variable,FWD,85000
+Nissan,X Trail,Tekna,2017,2,124000.0,1.6,130,Diesel,Variable,FWD,88000
+Nissan,Qashqai,Acenta Top,2021,1,55600.0,1.3,160,Gasoline,Robotic,FWD,117500
+Nissan,Qashqai,Acenta,2017,1,70000.0,1.2,115,Gasoline,Variable,FWD,60000
+Nissan,Qashqai,Acenta,2018,1,125000.0,1.2,115,Gasoline,Variable,FWD,69000
+Nissan,X Trail,Visia,2017,1,124000.0,1.6,130,Diesel,Variable,FWD,80000
+Nissan,Qashqai,Acenta Tech,2019,3,62000.0,1.2,115,Gasoline,Variable,FWD,92000
+Nissan,Juke,Acenta,2017,3,127000.0,1.6,117,Gasoline,Variable,FWD,49960
+Nissan,X Trail,Tekna,2017,3,129000.0,1.6,130,Diesel,Variable,FWD,62000
+Nissan,Qashqai,Acenta PR,2017,2,151000.0,1.2,115,Gasoline,Variable,FWD,61000
+Nissan,Micra,Visia,2019,2,72000.0,1.2,80,Gasoline,Variable,FWD,55000
+Nissan,Micra,Visia,2016,2,145000.0,1.2,80,Gasoline,Manual,FWD,18500
+Nissan,X Trail,Tekna,2017,2,160000.0,1.6,130,Diesel,Variable,FWD,85000
+Nissan,Micra,Visia,2019,3,87654.0,1.2,80,Gasoline,Variable,FWD,49000
+Nissan,X Trail,Tekna 7 seats,2022,1,14000.0,1.3,160,Gasoline,Robotic,FWD,147000
+Nissan,Altima,SV,2015,2,200000.0,2.5,182,Gasoline,Variable,FWD,39000
+Nissan,Sentra,SR,2020,2,111000.0,1.8,124,Gasoline,Variable,FWD,56000
+Nissan,Sentra,SR,2019,3,57710.0,1.8,124,Gasoline,Variable,FWD,59000
+Nissan,Juke,Acenta Black,2018,1,53450.0,1.6,117,Gasoline,Variable,FWD,59000
+Nissan,X Trail,Acenta 7 seats,2020,1,85000.0,1.7,150,Diesel,Variable,FWD,117000
+Nissan,Micra,Visia,2018,2,148000.0,1.2,80,Gasoline,Manual,FWD,23000
+Nissan,Juke,Acenta,2016,2,166000.0,1.6,117,Gasoline,Variable,FWD,41000
+Nissan,Micra,Visia,2018,2,63000.0,1.2,80,Gasoline,Variable,FWD,48000
+Nissan,X Trail,Tekna,2017,2,97200.0,1.6,130,Diesel,Variable,FWD,91000
+Nissan,Micra,Visia,2019,4,108000.0,1.2,80,Gasoline,Manual,FWD,26000
+Nissan,Qashqai,Acenta,2019,2,95000.0,1.3,160,Gasoline,Robotic,FWD,84000
+Nissan,Qashqai,Tekna,2015,2,99000.0,1.2,115,Gasoline,Variable,FWD,50000
+Nissan,Qashqai,Acenta Tech,2020,1,51000.0,1.3,160,Gasoline,Robotic,FWD,99000
+Nissan,Qashqai,Acenta,2015,3,131000.0,1.2,115,Gasoline,Variable,FWD,62000
+Nissan,Qashqai,Acenta Tech,2019,1,25000.0,1.2,115,Gasoline,Variable,FWD,95500
+Nissan,Micra,Acenta,2020,2,30000.0,1.0,100,Gasoline,Manual,FWD,53000
+Nissan,X Trail,Acenta,2016,3,198500.0,1.6,130,Diesel,Variable,FWD,66000
+Nissan,Qashqai,Acenta Top,2020,1,83000.0,1.3,160,Gasoline,Robotic,FWD,110000
+Nissan,Qashqai,Acenta,2019,2,52000.0,1.3,160,Gasoline,Robotic,FWD,85000
+Nissan,Qashqai,Acenta,2015,2,222000.0,1.6,130,Diesel,Variable,FWD,36000
+Nissan,Qashqai,Acenta SV,2016,2,100000.0,1.2,115,Gasoline,Variable,FWD,57000
+Nissan,X Trail,Tekna 5 seats,2018,2,126500.0,2.0,177,Diesel,Variable,AWD,105000
+Nissan,X Trail,Acenta 7 seats,2018,2,160000.0,1.6,130,Diesel,Variable,FWD,82300
+Nissan,Qashqai,Acenta Tech,2018,1,40000.0,1.6,130,Diesel,Variable,FWD,83000
+Nissan,Qashqai,Acenta,2018,1,100000.0,1.2,115,Gasoline,Variable,FWD,77000
+Nissan,Qashqai,Tekna,2022,1,46000.0,1.3,156,Gasoline,Variable,FWD,146000
+Nissan,Qashqai,Visia,2017,3,135000.0,1.6,130,Diesel,Variable,FWD,60000
+Nissan,Micra,Visia,2018,2,140000.0,1.2,80,Gasoline,Variable,FWD,36000
+Nissan,X Trail,Tekna 5 seats,2018,3,120000.0,2.0,177,Diesel,Variable,AWD,95000
+Nissan,X Trail,Tekna,2017,1,126325.0,1.6,130,Diesel,Variable,FWD,94000
+Nissan,Qashqai,Acenta Tech,2019,3,182000.0,1.2,115,Gasoline,Variable,FWD,63000
+Nissan,Qashqai,Acenta Tech,2018,1,68000.0,1.6,130,Diesel,Variable,FWD,90000
+Nissan,X Trail,Tekna,2023,1,16000.0,1.5,163,Gasoline,Variable,FWD,192000
+Nissan,X Trail,Tekna 7 seats,2019,2,92500.0,1.7,150,Diesel,Variable,FWD,114500
+Nissan,Qashqai,Visia,2017,2,73000.0,1.2,115,Gasoline,Variable,FWD,58000
+Nissan,X Trail,Acenta Tech 5 seats,2019,2,130000.0,1.3,160,Gasoline,Robotic,FWD,103000
+Nissan,Sentra,SV,2021,1,109000.0,2.0,149,Gasoline,Variable,FWD,76000
+Nissan,Qashqai,Acenta SV,2015,1,104000.0,1.2,115,Gasoline,Variable,FWD,38500
+Nissan,Sentra,SV,2021,2,87000.0,2.0,149,Gasoline,Variable,FWD,88000
+Nissan,X Trail,Acenta,2016,2,110000.0,1.6,130,Diesel,Variable,FWD,54999
+Nissan,X Trail,Tekna,2017,2,159000.0,1.6,130,Diesel,Variable,FWD,64990
+Nissan,X Trail,Acenta 7 seats,2019,1,197000.0,1.6,130,Diesel,Variable,FWD,59990
+Nissan,Qashqai,Visia,2017,2,160000.0,1.2,115,Gasoline,Variable,FWD,39999
+Nissan,Sentra,SV,2022,2,93967.0,2.0,149,Gasoline,Variable,FWD,77205
+Nissan,Sentra,SR,2019,3,73000.0,1.8,124,Gasoline,Variable,FWD,54995
+Nissan,Qashqai,Acenta,2019,2,106545.0,1.3,160,Gasoline,Robotic,FWD,67155
+Nissan,Juke,Acenta Black,2017,2,104200.0,1.6,117,Gasoline,Variable,FWD,45045
+Nissan,Sentra,SR,2019,2,155000.0,1.8,124,Gasoline,Variable,FWD,45000
+Nissan,Qashqai,Acenta SV,2016,1,88000.0,1.2,115,Gasoline,Variable,FWD,49000
+Nissan,X Trail,Visia,2017,2,185000.0,1.6,130,Diesel,Variable,FWD,60000
+Nissan,Qashqai,Tekna,2020,2,102000.0,1.3,160,Gasoline,Robotic,FWD,90000
+Nissan,X Trail,Tekna 5 seats,2018,2,127000.0,2.0,177,Diesel,Variable,AWD,85000
+Nissan,Qashqai,Acenta Tech,2021,1,82000.0,1.5,115,Diesel,Robotic,FWD,115000
+Nissan,Sentra,SR,2019,1,111000.0,1.8,124,Gasoline,Variable,FWD,60000
+Nissan,X Trail,Acenta 7 seats,2020,2,89020.0,1.7,150,Diesel,Variable,FWD,90000
+Nissan,X Trail,Visia,2017,2,85000.0,1.6,130,Diesel,Variable,FWD,91000
+Nissan,Sentra,SV,2021,1,128000.0,2.0,149,Gasoline,Variable,FWD,75000
+Skoda,Superb,Laurin & Klement,2017,3,183000.0,2.0,220,Gasoline,Robotic,FWD,80000
+Skoda,Octavia,Ambition,2018,2,156940.0,1.0,115,Gasoline,Robotic,FWD,45900
+Skoda,Enyaq Iv,Lounge,2024,1,49000.0,,204,Electro,Automatic,RWD,157900
+Skoda,Octavia,Ambition,2022,1,100000.0,1.0,110,Gasoline,Robotic,FWD,89900
+Skoda,Karoq,Style,2019,1,111000.0,1.5,150,Gasoline,Robotic,FWD,78900
+Skoda,Octavia,Ambition,2019,1,131329.0,1.5,150,Gasoline,Robotic,FWD,72900
+Skoda,Kodiaq,Style,2021,2,96000.0,1.5,150,Gasoline,Robotic,FWD,117900
+Skoda,Superb,Ambition,2021,1,104000.0,1.5,150,Gasoline,Robotic,FWD,97000
+Skoda,Octavia,Ambition,2015,2,185000.0,1.4,150,Gasoline,Robotic,FWD,22800
+Skoda,Octavia,Ambition,2015,3,180000.0,1.2,110,Gasoline,Robotic,FWD,29000
+Skoda,Kodiaq,Exclusive,2018,3,165742.0,2.0,180,Gasoline,Robotic,AWD,84900
+Skoda,Octavia,Style,2021,2,85000.0,1.5,150,Gasoline,Robotic,FWD,108000
+Skoda,Scala,Ambition,2023,1,129000.0,1.0,110,Gasoline,Robotic,FWD,74800
+Skoda,Karoq,Premium,2019,1,73000.0,1.5,150,Gasoline,Robotic,FWD,81900
+Skoda,Rapid,Ambition,2018,2,186244.0,1.0,95,Gasoline,Robotic,FWD,32800
+Skoda,Superb,Laurin & Klement,2021,2,126000.0,2.0,280,Gasoline,Robotic,AWD,155000
+Skoda,Superb,Business,2021,1,119000.0,1.5,150,Gasoline,Robotic,FWD,89999
+Skoda,Octavia,Ambition,2018,4,182780.0,1.0,116,Gasoline,Robotic,FWD,38500
+Skoda,Kodiaq,Ambition,2020,2,169500.0,2.0,150,Diesel,Robotic,FWD,89900
+Skoda,Octavia,Ambition,2020,3,151000.0,1.5,150,Gasoline,Robotic,FWD,65000
+Skoda,Rapid,Ambition,2018,4,263340.0,1.0,95,Gasoline,Robotic,FWD,34000
+Skoda,Octavia,Ambition,2021,2,79000.0,1.0,110,Gasoline,Robotic,FWD,79000
+Skoda,Kodiaq,Style,2020,2,126000.0,1.5,150,Gasoline,Robotic,FWD,116000
+Skoda,Scala,Ambition,2020,1,310000.0,1.0,115,Gasoline,Robotic,FWD,32000
+Skoda,Kodiaq,Style,2019,1,85461.0,1.4,150,Gasoline,Robotic,FWD,114000
+Skoda,Superb,Style,2019,1,111383.0,1.5,150,Gasoline,Robotic,FWD,87755
+Skoda,Octavia,Ambition,2022,1,59803.0,1.4,204,Plug,Robotic,FWD,126995
+Skoda,Octavia,Ambition,2021,1,125128.0,1.0,110,Gasoline,Robotic,FWD,74855
+Skoda,Octavia,Exclusive,2019,2,115100.0,1.5,150,Gasoline,Robotic,FWD,85480
+Skoda,Yeti,Ambition,2017,3,137000.0,1.2,110,Gasoline,Robotic,FWD,47900
+Skoda,Kodiaq,Style,2020,2,98000.0,1.5,150,Gasoline,Robotic,FWD,119795
+Skoda,Kodiaq,Ambition,2019,2,119870.0,1.5,150,Gasoline,Robotic,FWD,93995
+Skoda,Karoq,Style,2021,2,125128.0,1.5,150,Gasoline,Robotic,FWD,99740
+Skoda,Karoq,Style,2021,1,100000.0,1.5,150,Gasoline,Robotic,FWD,104365
+Skoda,Karoq,Ambition,2020,1,61173.0,1.5,150,Gasoline,Robotic,FWD,98665
+Skoda,Kamiq,Ambition,2023,1,58200.0,1.0,110,Gasoline,Robotic,FWD,110550
+Skoda,Kamiq,Style,2022,1,65000.0,1.5,150,Gasoline,Robotic,FWD,120210
+Skoda,Fabia,Style,2017,2,136258.0,1.0,110,Gasoline,Robotic,FWD,46095
+Skoda,Superb,Ambition,2021,1,104000.0,1.5,150,Gasoline,Robotic,FWD,93000
+Skoda,Octavia,Ambition,2022,1,103000.0,1.0,110,Gasoline,Robotic,FWD,84500
+Skoda,Kodiaq,Style,2022,1,44000.0,2.0,190,Gasoline,Robotic,AWD,154990
+Skoda,Octavia,Style,2017,3,179000.0,1.4,150,Gasoline,Robotic,FWD,43000
+Skoda,Kodiaq,Style,2021,1,113000.0,1.5,150,Gasoline,Robotic,FWD,115000
+Skoda,Octavia,Style,2017,2,182000.0,1.0,115,Gasoline,Robotic,FWD,45000
+Skoda,Fabia,Ambition,2017,3,157614.0,1.2,110,Gasoline,Robotic,FWD,32500
+Skoda,Octavia,Style,2017,2,170000.0,1.0,115,Gasoline,Robotic,FWD,50000
+Skoda,Kamiq,Ambition,2021,2,91000.0,1.5,150,Gasoline,Robotic,FWD,77777
+Skoda,Kodiaq,Ambition,2021,2,135000.0,1.5,150,Gasoline,Robotic,FWD,80000
+Skoda,Octavia,Ambition,2017,3,185000.0,1.2,110,Gasoline,Robotic,FWD,44999
+Skoda,Kodiaq,Business,2022,1,118000.0,1.5,150,Gasoline,Robotic,FWD,112900
+Skoda,Octavia,Ambition,2019,2,91000.0,1.0,115,Gasoline,Robotic,FWD,54900
+Skoda,Scala,Ambition,2020,2,159000.0,1.0,115,Gasoline,Robotic,FWD,54990
+Skoda,Octavia,Dynamic,2023,1,98600.0,1.5,150,Gasoline,Robotic,FWD,127999
+Skoda,Kamiq,Style,2020,2,94000.0,1.5,150,Gasoline,Robotic,FWD,83990
+Skoda,Fabia,Style,2018,2,170115.0,1.0,110,Gasoline,Robotic,FWD,49990
+Skoda,Karoq,Style,2020,2,105000.0,1.5,150,Gasoline,Robotic,FWD,83000
+Skoda,Kodiaq,Style,2020,2,114000.0,1.5,150,Gasoline,Robotic,FWD,109990
+Skoda,Octavia,Elegance,2015,3,300000.0,2.0,150,Diesel,Robotic,FWD,27000
+Skoda,Octavia,Ambition,2019,3,155000.0,1.5,150,Gasoline,Robotic,FWD,62000
+Skoda,Octavia,Ambition,2022,2,99000.0,1.5,150,Gasoline,Robotic,FWD,104000
+Skoda,Octavia,Special Edition,2018,2,276000.0,2.0,150,Diesel,Robotic,FWD,33000
+Skoda,Yeti,Ambition,2016,2,220000.0,1.2,110,Gasoline,Robotic,FWD,32000
+Skoda,Octavia,Special Edition,2019,1,250000.0,2.0,150,Diesel,Robotic,FWD,55000
+Skoda,Fabia,Ambition,2024,1,34900.0,1.0,110,Gasoline,Robotic,FWD,95000
+Skoda,Octavia,Ambition,2019,2,150000.0,1.5,150,Gasoline,Robotic,FWD,66000
+Skoda,Superb,Exclusive,2019,1,119000.0,1.8,180,Gasoline,Robotic,FWD,84990
+Skoda,Octavia,Ambition,2018,2,122000.0,1.0,115,Gasoline,Robotic,FWD,50000
+Skoda,Kamiq,Ambition,2023,1,104000.0,1.0,110,Gasoline,Robotic,FWD,83000
+Skoda,Karoq,Ambition,2020,2,165000.0,1.5,150,Gasoline,Robotic,FWD,74990
+Skoda,Octavia,Ambition,2016,3,259999.0,1.2,110,Gasoline,Robotic,FWD,24900
+Skoda,Octavia,Ambition,2020,2,95000.0,1.5,150,Gasoline,Robotic,FWD,70000
+Skoda,Octavia,Ambition,2016,2,150000.0,1.2,110,Gasoline,Robotic,FWD,23000
+Skoda,Octavia,Ambition,2017,2,175000.0,1.0,116,Gasoline,Robotic,FWD,35000
+Skoda,Octavia,Style,2016,2,170000.0,1.4,150,Gasoline,Robotic,FWD,35000
+Skoda,Kodiaq,Ambition,2019,2,137000.0,1.5,150,Gasoline,Robotic,FWD,82000
+Skoda,Superb,Style,2019,2,65500.0,1.5,150,Gasoline,Robotic,FWD,109000
+Skoda,Octavia,Ambition,2019,1,95900.0,1.5,150,Gasoline,Robotic,FWD,80000
+Skoda,Octavia,Exclusive,2019,1,59000.0,1.5,150,Gasoline,Robotic,FWD,94000
+Skoda,Kodiaq,Ambition,2019,1,241000.0,2.0,150,Diesel,Robotic,FWD,78000
+Skoda,Octavia Rs,RS,2025,1,8700.0,2.0,265,Gasoline,Automatic,FWD,225000
+Skoda,Rapid,Ambition,2017,3,177000.0,1.2,90,Gasoline,Robotic,FWD,27000
+Skoda,Octavia,Ambition,2020,1,110000.0,1.5,150,Gasoline,Robotic,FWD,65000
+Skoda,Superb,Style,2018,1,205000.0,1.8,180,Gasoline,Robotic,FWD,68000
+Skoda,Octavia,Elegance,2015,2,240000.0,1.4,140,Gasoline,Robotic,FWD,43000
+Skoda,Octavia,Exclusive,2018,2,170000.0,1.8,180,Gasoline,Robotic,FWD,55000
+Skoda,Superb,Ambition,2020,2,68500.0,1.5,150,Gasoline,Robotic,FWD,75000
+Skoda,Rapid,Elegance,2015,1,220000.0,1.6,90,Diesel,Manual,FWD,25000
+Skoda,Kodiaq,Business,2020,1,108000.0,1.5,150,Gasoline,Robotic,FWD,95000
+Skoda,Yeti,Ambition,2018,1,317864.0,1.2,110,Gasoline,Robotic,FWD,35000
+Skoda,Fabia,Style,2016,2,108000.0,1.2,110,Gasoline,Robotic,FWD,40000
+Skoda,Octavia,Dynamic,2020,2,200000.0,2.0,150,Diesel,Robotic,FWD,65000
+Skoda,Kodiaq,Style,2018,1,71000.0,2.0,180,Gasoline,Robotic,AWD,150000
+Skoda,Kodiaq,Ambition,2019,1,238000.0,1.5,150,Gasoline,Robotic,FWD,78000
+Skoda,Superb,SportLine,2021,2,105000.0,2.0,280,Gasoline,Robotic,AWD,179999
+Skoda,Octavia,Style,2016,4,197000.0,1.8,180,Gasoline,Robotic,FWD,36000
+Skoda,Kodiaq,Style,2017,2,276000.0,2.0,180,Gasoline,Robotic,AWD,60000
+Skoda,Fabia,Ambition,2015,4,180000.0,1.0,110,Gasoline,Robotic,FWD,22900
+Skoda,Octavia,Ambition,2016,4,210000.0,1.2,110,Gasoline,Robotic,FWD,29000
+Skoda,Octavia,Special,2017,3,280000.0,2.0,150,Diesel,Robotic,FWD,35000
+Skoda,Rapid,Ambition,2016,3,200000.0,1.2,90,Gasoline,Robotic,FWD,20000
+Skoda,Yeti,Elegance,2015,2,130000.0,1.2,105,Gasoline,Robotic,FWD,46000
+Skoda,Octavia,Ambition,2016,3,200000.0,1.2,110,Gasoline,Robotic,FWD,26000
+Skoda,Octavia,Ambition,2016,2,135000.0,1.2,110,Gasoline,Robotic,FWD,41500
+Skoda,Kamiq,Ambition,2020,2,14000.0,1.5,150,Gasoline,Robotic,FWD,94000
+Skoda,Superb,Laurin & Klement,2017,1,115000.0,2.0,280,Gasoline,Robotic,AWD,95000
+Skoda,Superb,Style,2021,3,49400.0,1.4,218,Plug,Robotic,FWD,169999
+Skoda,Scala,Ambition,2021,2,99500.0,1.0,110,Gasoline,Robotic,FWD,58000
+Skoda,Octavia,Ambition,2017,1,156000.0,1.5,150,Gasoline,Robotic,FWD,55000
+Skoda,Octavia Rs,RS,2022,1,30000.0,2.0,245,Gasoline,Robotic,FWD,178000
+Skoda,Octavia,Style,2019,4,270000.0,2.0,150,Diesel,Robotic,FWD,50000
+Skoda,Kodiaq,Ambition,2019,3,155000.0,2.0,150,Diesel,Robotic,FWD,90000
+Skoda,Octavia,Special Edition,2015,4,198000.0,1.8,180,Gasoline,Robotic,FWD,48000
+Skoda,Octavia,Ambition,2017,2,215000.0,1.2,110,Gasoline,Robotic,FWD,35000
+Skoda,Octavia,Ambition,2016,3,172000.0,1.2,110,Gasoline,Robotic,FWD,37000
+Skoda,Superb,Ambition,2020,1,119000.0,1.5,150,Gasoline,Robotic,FWD,95500
+Skoda,Octavia,Ambition,2021,3,278000.0,2.0,150,Diesel,Robotic,FWD,60800
+Skoda,Octavia,Ambition,2015,4,188000.0,1.2,105,Gasoline,Robotic,FWD,34000
+Skoda,Octavia,Ambition,2021,2,66000.0,1.0,110,Gasoline,Robotic,FWD,93000
+Skoda,Superb,Ambition,2021,4,91000.0,1.5,150,Gasoline,Robotic,FWD,110000
+Skoda,Rapid,Ambition,2015,2,218000.0,1.6,90,Diesel,Automatic,FWD,25000
+Skoda,Octavia,Ambition,2017,2,180000.0,1.2,110,Gasoline,Robotic,FWD,40000
+Skoda,Kodiaq,Laurin&Klement,2021,1,71000.0,2.0,190,Gasoline,Robotic,AWD,155000
+Skoda,Octavia,Ambition,2017,1,175000.0,1.0,116,Gasoline,Robotic,FWD,39000
+Skoda,Octavia,Ambition,2015,3,216000.0,1.4,140,Gasoline,Robotic,FWD,34000
+Skoda,Octavia,Ambition,2015,3,200000.0,1.2,105,Gasoline,Robotic,FWD,35000
+Skoda,Karoq,Ambition,2018,3,85000.0,1.0,115,Gasoline,Robotic,FWD,80000
+Skoda,Octavia,Ambition,2016,1,270000.0,1.4,150,Gasoline,Robotic,FWD,35000
+Skoda,Octavia,Exclusive,2019,1,160000.0,1.5,150,Gasoline,Robotic,FWD,78000
+Skoda,Kodiaq,Business,2020,1,74000.0,1.5,150,Gasoline,Robotic,FWD,106000
+Skoda,Octavia,Exclusive,2019,3,99500.0,2.0,190,Gasoline,Robotic,FWD,95000
+Skoda,Octavia,Special Edition,2016,3,226484.0,1.8,180,Gasoline,Robotic,FWD,40000
+Skoda,Kodiaq,Style,2018,2,166000.0,1.4,150,Gasoline,Robotic,FWD,90000
+Skoda,Octavia,Ambition,2017,3,197000.0,1.0,115,Gasoline,Robotic,FWD,54000
+Skoda,Rapid,Ambition,2015,4,220000.0,1.4,125,Gasoline,Robotic,FWD,22000
+Skoda,Kodiaq,Ambition,2017,2,325000.0,1.5,150,Gasoline,Robotic,FWD,70000
+Skoda,Octavia,Ambition,2015,2,243000.0,1.2,105,Gasoline,Robotic,FWD,32000
+Skoda,Octavia,Ambition,2016,3,278000.0,1.2,110,Gasoline,Robotic,FWD,33000
+Skoda,Scala,Ambition,2021,2,68000.0,1.0,115,Gasoline,Robotic,FWD,68000
+Skoda,Fabia,Active,2018,4,149000.0,1.0,95,Gasoline,Manual,FWD,34000
+Skoda,Octavia,Special Edition,2016,3,160000.0,1.8,180,Gasoline,Robotic,FWD,43000
+Skoda,Octavia,Ambition,2017,2,116000.0,1.2,110,Gasoline,Robotic,FWD,49000
+Skoda,Kodiaq,Style,2020,2,144000.0,1.5,150,Gasoline,Robotic,FWD,98500
+Skoda,Octavia,Ambition,2019,2,127000.0,1.5,150,Gasoline,Robotic,FWD,79000
+Skoda,Octavia,Style,2016,4,206000.0,1.8,180,Gasoline,Robotic,FWD,35000
+Skoda,Kodiaq,Ambition,2018,1,155000.0,2.0,150,Diesel,Robotic,FWD,99999
+Skoda,Octavia,Style,2016,1,160000.0,1.4,150,Gasoline,Robotic,FWD,55000
+Skoda,Superb,Exclusive,2019,2,175000.0,2.0,190,Diesel,Robotic,FWD,120000
+Skoda,Octavia,Style,2016,3,156000.0,1.2,110,Gasoline,Robotic,FWD,45000
+Skoda,Octavia,Ambition,2016,1,127000.0,1.2,110,Gasoline,Robotic,FWD,49000
+Skoda,Octavia,Ambition,2023,1,11500.0,1.4,204,Plug,Robotic,FWD,175000
+Skoda,Octavia,Ambition,2018,2,170000.0,1.5,150,Gasoline,Robotic,FWD,74000
+Skoda,Enyaq Iv,Lounge,2023,1,26000.0,,204,Electro,Automatic,RWD,195000
+Skoda,Octavia,Ambition,2021,2,132000.0,1.0,110,Gasoline,Robotic,FWD,85000
+Skoda,Octavia,Special,2017,3,390000.0,2.0,150,Diesel,Robotic,FWD,33000
+Skoda,Octavia,Ambition,2016,4,159000.0,1.2,110,Gasoline,Robotic,FWD,48000
+Skoda,Octavia,Ambition,2019,2,84000.0,1.5,150,Gasoline,Robotic,FWD,95000
+Skoda,Karoq,Style,2021,1,78000.0,1.5,150,Gasoline,Robotic,FWD,110000
+Skoda,Kodiaq,Style,2019,3,127000.0,2.0,150,Diesel,Robotic,FWD,116000
+Skoda,Superb,Laurin & Klement,2022,1,63000.0,1.4,218,Plug,Robotic,FWD,219000
+Skoda,Superb,SportLine,2023,1,19000.0,2.0,280,Gasoline,Robotic,AWD,265000
+Skoda,Kodiaq,Ambition,2019,2,94000.0,1.4,150,Gasoline,Robotic,FWD,110000
+Skoda,Octavia,Special,2017,1,199883.0,2.0,150,Diesel,Robotic,FWD,55000
+Skoda,Kodiaq,Ambition,2019,2,180000.0,1.5,150,Gasoline,Robotic,FWD,79555
+Skoda,Octavia,Ambition,2018,4,140000.0,1.4,150,Gasoline,Robotic,FWD,56000
+Skoda,Octavia,Style,2018,2,337000.0,2.0,150,Diesel,Robotic,FWD,51000
+Skoda,Kodiaq,Business,2022,1,75000.0,1.5,150,Gasoline,Robotic,FWD,145000
+Skoda,Kodiaq,Ambition,2019,3,180000.0,2.0,150,Diesel,Robotic,FWD,93200
+Skoda,Kodiaq,Exclusive,2017,1,112100.0,2.0,180,Gasoline,Robotic,AWD,102000
+Skoda,Superb,Business,2020,2,90000.0,1.5,150,Gasoline,Robotic,FWD,113000
+Skoda,Karoq,Style,2019,1,140000.0,1.5,150,Gasoline,Robotic,FWD,92000
+Skoda,Rapid,Ambition,2015,2,150000.0,1.4,122,Gasoline,Robotic,FWD,35000
+Skoda,Superb,Style,2019,1,117500.0,1.5,150,Gasoline,Robotic,FWD,116000
+Skoda,Octavia,Ambition,2017,3,112000.0,1.4,150,Gasoline,Robotic,FWD,53000
+Skoda,Kodiaq,Style,2020,1,94000.0,2.0,150,Diesel,Robotic,FWD,134000
+Skoda,Kamiq,Style,2020,1,60000.0,1.5,150,Gasoline,Robotic,FWD,94000
+Skoda,Octavia,Ambition,2015,3,174000.0,1.2,105,Gasoline,Robotic,FWD,41000
+Skoda,Octavia,Ambition,2016,2,130000.0,1.2,110,Gasoline,Robotic,FWD,30000
+Skoda,Kodiaq,Style,2022,2,66000.0,2.0,200,Diesel,Robotic,AWD,187000
+Skoda,Octavia,Style,2017,3,131000.0,1.0,115,Gasoline,Robotic,FWD,57000
+Skoda,Superb,Business,2020,2,84000.0,1.5,150,Gasoline,Robotic,FWD,105500
+Skoda,Octavia,Ambition,2020,2,101000.0,1.5,150,Gasoline,Robotic,FWD,105000
+Skoda,Karoq,Style,2019,2,115000.0,1.5,150,Gasoline,Robotic,FWD,93500
+Skoda,Kodiaq,Style,2020,1,41000.0,1.5,150,Gasoline,Robotic,FWD,160000
+Skoda,Octavia,Ambition,2015,3,149000.0,1.2,110,Gasoline,Robotic,FWD,41000
+Skoda,Karoq,Style,2018,2,88000.0,1.5,150,Gasoline,Robotic,FWD,93000
+Skoda,Kodiaq,Ambition,2018,1,107000.0,1.4,150,Gasoline,Robotic,FWD,95000
+Skoda,Superb,Laurin & Klement,2016,3,155000.0,2.0,280,Gasoline,Robotic,AWD,90000
+Skoda,Rapid,Ambition,2017,3,160000.0,1.2,90,Gasoline,Robotic,FWD,27000
+Skoda,Octavia,Ambition,2015,3,144200.0,1.2,105,Gasoline,Robotic,FWD,40000
+Skoda,Superb,Style,2019,2,170000.0,1.4,150,Gasoline,Robotic,FWD,98000
+Skoda,Octavia,Ambition,2016,2,161000.0,1.2,110,Gasoline,Robotic,FWD,46000
+Skoda,Octavia,Ambition,2022,2,48000.0,1.5,150,Gasoline,Robotic,FWD,125000
+Skoda,Octavia,Ambition,2015,4,190000.0,1.2,110,Gasoline,Robotic,FWD,42000
+Skoda,Octavia,Ambition,2019,1,180000.0,1.5,150,Gasoline,Robotic,FWD,55000
+Skoda,Kodiaq,Ambition,2019,1,87500.0,2.0,150,Diesel,Robotic,FWD,123000
+Skoda,Octavia,Style,2022,1,5000.0,1.5,150,Gasoline,Robotic,FWD,157000
+Skoda,Kodiaq,Laurin&Klement,2020,1,50000.0,2.0,190,Diesel,Robotic,AWD,168000
+Skoda,Octavia,Ambition,2021,1,113000.0,1.5,150,Gasoline,Robotic,FWD,110000
+Skoda,Rapid,Sport,2016,2,153000.0,1.4,125,Gasoline,Robotic,FWD,42000
+Skoda,Superb,Style,2021,1,150000.0,1.5,150,Gasoline,Robotic,FWD,150000
+Skoda,Superb,Ambition,2017,3,250000.0,1.4,150,Gasoline,Robotic,FWD,62000
+Skoda,Karoq,Style,2018,2,128000.0,1.5,150,Gasoline,Robotic,FWD,76000
+Skoda,Fabia,Style,2023,1,35000.0,1.0,110,Gasoline,Robotic,FWD,110000
+Skoda,Rapid,Ambition,2015,2,180000.0,1.4,122,Gasoline,Robotic,FWD,30000
+Skoda,Kodiaq,Ambition,2020,1,56900.0,2.0,150,Diesel,Robotic,FWD,129000
+Skoda,Octavia,Elegance,2015,2,172000.0,1.8,180,Gasoline,Robotic,FWD,37000
+Skoda,Rapid,Style,2018,1,185000.0,1.0,95,Gasoline,Robotic,FWD,38000
+Skoda,Octavia,Ambition,2017,2,99000.0,1.0,115,Gasoline,Robotic,FWD,52000
+Skoda,Superb,Laurin & Klement,2022,3,42000.0,1.4,218,Plug,Robotic,FWD,200000
+Skoda,Superb,Ambition,2020,2,65000.0,1.5,150,Gasoline,Robotic,FWD,105000
+Skoda,Octavia,Ambition,2015,2,198000.0,1.2,105,Gasoline,Robotic,FWD,35000
+Skoda,Octavia,Style,2016,2,188000.0,1.4,150,Gasoline,Robotic,FWD,48000
+Skoda,Superb,Ambition,2019,2,182000.0,1.5,150,Gasoline,Robotic,FWD,80000
+Skoda,Superb,Ambition,2020,2,69000.0,1.5,150,Gasoline,Robotic,FWD,112000
+Skoda,Octavia,Ambition,2019,2,178000.0,1.5,150,Gasoline,Robotic,FWD,74000
+Skoda,Octavia,Ambition,2019,2,190000.0,1.5,150,Gasoline,Robotic,FWD,66000
+Skoda,Octavia,Special Edition,2019,1,339000.0,2.0,150,Diesel,Manual,FWD,31000
+Skoda,Octavia,Special Edition,2019,1,355000.0,2.0,150,Diesel,Robotic,FWD,20000
+Skoda,Rapid,Ambition,2016,4,214000.0,1.2,90,Gasoline,Robotic,FWD,30000
+Skoda,Octavia,Ambition,2019,2,157000.0,1.0,115,Gasoline,Robotic,FWD,69000
+Skoda,Superb,Ambition,2022,3,61500.0,1.5,150,Gasoline,Robotic,FWD,122000
+Skoda,Octavia,Ambition,2021,1,47500.0,1.5,150,Gasoline,Robotic,FWD,124000
+Skoda,Octavia,Elegance,2015,2,188500.0,1.2,105,Gasoline,Robotic,FWD,45000
+Skoda,Scala,Ambition,2020,3,132000.0,1.0,115,Gasoline,Robotic,FWD,58500
+Skoda,Rapid,Ambition,2017,2,180000.0,1.2,90,Gasoline,Robotic,FWD,40000
+Skoda,Kodiaq,Ambition,2021,3,131000.0,1.5,150,Gasoline,Robotic,FWD,120000
+Skoda,Superb,Style,2020,1,72000.0,1.5,150,Gasoline,Robotic,FWD,135000
+Skoda,Rapid,Ambition,2016,1,189000.0,1.2,90,Gasoline,Robotic,FWD,27000
+Skoda,Kodiaq,Style,2017,2,158000.0,2.0,150,Diesel,Robotic,FWD,111000
+Skoda,Superb,Ambition,2019,4,167000.0,1.5,150,Gasoline,Robotic,FWD,92000
+Skoda,Octavia,Ambition,2019,2,74800.0,1.0,115,Gasoline,Robotic,FWD,76000
+Skoda,Kodiaq,Style,2020,1,75000.0,2.0,190,Gasoline,Robotic,AWD,149000
+Skoda,Kodiaq,Style,2020,1,63000.0,2.0,190,Diesel,Robotic,AWD,155000
+Skoda,Kodiaq,Laurin&Klement,2021,1,60000.0,2.0,190,Gasoline,Robotic,AWD,170000
+Skoda,Octavia,Ambition,2017,2,200000.0,1.2,110,Gasoline,Robotic,FWD,51000
+Skoda,Superb,Style,2020,1,26000.0,1.5,150,Gasoline,Robotic,FWD,150000
+Skoda,Kodiaq,Style,2019,1,187000.0,2.0,150,Diesel,Robotic,FWD,103000
+Skoda,Kodiaq,Style,2018,1,30000.0,1.4,150,Gasoline,Robotic,AWD,120000
+Skoda,Superb,Laurin & Klement,2019,1,155000.0,2.0,272,Gasoline,Robotic,AWD,140000
+Skoda,Kodiaq,Style,2018,2,209000.0,1.4,150,Gasoline,Robotic,FWD,99000
+Skoda,Octavia,Elegance,2015,3,180000.0,1.4,140,Gasoline,Robotic,FWD,40000
+Skoda,Octavia,Elegance,2015,2,185000.0,1.4,140,Gasoline,Robotic,FWD,41000
+Skoda,Kodiaq,Style,2019,1,99000.0,2.0,150,Diesel,Robotic,FWD,125000
+Skoda,Octavia,Ambition,2018,2,108000.0,1.0,115,Gasoline,Robotic,FWD,57000
+Skoda,Kodiaq,Exclusive,2020,1,40000.0,2.0,190,Gasoline,Robotic,AWD,160000
+Skoda,Octavia,Special,2017,2,260000.0,2.0,150,Diesel,Robotic,FWD,41000
+Skoda,Superb,Laurin & Klement,2018,1,125000.0,2.0,280,Gasoline,Robotic,AWD,143000
+Skoda,Octavia,Ambition,2015,2,205000.0,1.2,105,Gasoline,Robotic,FWD,37000
+Skoda,Octavia,Ambition,2015,3,180000.0,1.2,105,Gasoline,Robotic,FWD,47000
+Skoda,Superb,Laurin & Klement,2019,2,107000.0,2.0,272,Gasoline,Robotic,AWD,150000
+Skoda,Superb,Style,2019,2,84000.0,1.5,150,Gasoline,Robotic,FWD,105000
+Skoda,Superb,Laurin & Klement,2022,1,50000.0,1.4,218,Plug,Robotic,FWD,215000
+Skoda,Octavia,Ambition,2016,2,185000.0,1.2,110,Gasoline,Robotic,FWD,50000
+Skoda,Octavia,Elegance,2015,4,150000.0,1.2,105,Gasoline,Robotic,FWD,50000
+Skoda,Rapid,Ambition,2016,2,144500.0,1.2,90,Gasoline,Robotic,FWD,39000
+Skoda,Superb,SportLine,2022,2,26000.0,1.4,218,Plug,Robotic,FWD,275000
+Skoda,Superb,SportLine,2022,1,30000.0,1.4,218,Plug,Robotic,FWD,240000
+Skoda,Rapid,Style,2016,1,212000.0,1.2,90,Gasoline,Robotic,FWD,27000
+Skoda,Octavia,Style,2019,1,102000.0,1.0,115,Gasoline,Robotic,FWD,75000
+Skoda,Octavia,Ambition,2019,1,132000.0,1.0,115,Gasoline,Robotic,FWD,68000
+Skoda,Octavia,Ambition,2019,2,108000.0,1.0,115,Gasoline,Robotic,FWD,60000
+Skoda,Karoq,Ambition,2018,2,120000.0,1.5,150,Gasoline,Robotic,FWD,84000
+Skoda,Superb,Laurin & Klement,2023,1,21000.0,1.4,218,Plug,Robotic,FWD,223000
+Skoda,Octavia,Ambition,2018,2,175000.0,1.0,115,Gasoline,Robotic,FWD,52000
+Skoda,Octavia,Ambition,2017,2,225848.0,1.4,150,Gasoline,Robotic,FWD,45000
+Skoda,Rapid,Ambition,2019,2,190000.0,1.0,110,Gasoline,Robotic,FWD,42000
+Skoda,Octavia,Style,2016,3,105000.0,1.2,110,Gasoline,Robotic,FWD,55000
+Skoda,Octavia,Ambition,2019,2,144000.0,1.0,115,Gasoline,Robotic,FWD,75000
+Skoda,Fabia,Style,2015,1,138000.0,1.2,110,Gasoline,Robotic,FWD,54000
+Skoda,Octavia,Style,2016,1,131000.0,1.4,150,Gasoline,Robotic,FWD,56000
+Skoda,Octavia,Dynamic,2023,1,10000.0,1.5,150,Gasoline,Robotic,FWD,160000
+Skoda,Superb,SportLine,2021,1,80000.0,2.0,280,Gasoline,Robotic,AWD,250000
+Skoda,Octavia,Dynamic,2022,1,48500.0,1.0,110,Gasoline,Robotic,FWD,125000
+Skoda,Superb,Style,2021,2,67000.0,1.5,150,Gasoline,Robotic,FWD,144000
+Skoda,Superb,Ambition,2015,3,170000.0,1.4,150,Gasoline,Robotic,FWD,52000
+Skoda,Octavia,Ambition,2016,2,202000.0,1.4,150,Gasoline,Robotic,FWD,45000
+Skoda,Kodiaq,Style,2017,1,125000.0,1.5,150,Gasoline,Robotic,FWD,93000
+Skoda,Karoq,Ambition,2019,1,56000.0,1.5,150,Gasoline,Robotic,FWD,97000
+Skoda,Superb,Business,2020,2,25000.0,1.5,150,Gasoline,Robotic,FWD,115000
+Skoda,Superb,Laurin & Klement,2017,4,150000.0,2.0,280,Gasoline,Robotic,AWD,105000
+Skoda,Superb,Style,2019,2,177000.0,1.5,150,Gasoline,Robotic,FWD,126000
+Skoda,Rapid,Ambition,2016,2,210000.0,1.4,125,Gasoline,Robotic,FWD,29500
+Skoda,Rapid,Ambition,2016,3,192000.0,1.2,90,Gasoline,Robotic,FWD,26500
+Skoda,Octavia,Ambition,2018,2,100000.0,1.0,115,Gasoline,Robotic,FWD,67000
+Skoda,Kodiaq,Style,2021,1,33000.0,1.5,150,Gasoline,Robotic,FWD,165000
+Skoda,Kodiaq,Ambition,2021,2,47000.0,1.5,150,Gasoline,Robotic,FWD,130000
+Skoda,Octavia,Ambition,2019,2,160000.0,1.5,150,Gasoline,Robotic,FWD,77000
+Skoda,Superb,Laurin & Klement,2020,1,84000.0,2.0,190,Gasoline,Robotic,FWD,157000
+Skoda,Fabia,Style,2018,2,82000.0,1.0,110,Gasoline,Robotic,FWD,59000
+Skoda,Superb,Style,2018,3,128000.0,1.8,180,Gasoline,Robotic,FWD,90000
+Skoda,Karoq,Style,2020,1,73000.0,1.5,150,Gasoline,Robotic,FWD,105000
+Skoda,Superb,Ambition,2018,2,230000.0,1.4,150,Gasoline,Robotic,FWD,67000
+Skoda,Rapid,Ambition,2017,3,166000.0,1.2,90,Gasoline,Robotic,FWD,34000
+Skoda,Kamiq,Style,2022,1,30000.0,1.0,110,Gasoline,Robotic,FWD,108000
+Skoda,Octavia,Special Edition,2017,4,137000.0,1.8,180,Gasoline,Robotic,FWD,61000
+Skoda,Octavia,Ambition,2017,4,170000.0,1.2,110,Gasoline,Robotic,FWD,55000
+Skoda,Octavia Rs,RS,2019,2,159000.0,2.0,245,Gasoline,Robotic,FWD,120000
+Skoda,Octavia,Ambition,2015,2,140000.0,1.2,110,Gasoline,Robotic,FWD,35000
+Skoda,Octavia Rs,RS,2023,2,38000.0,2.0,245,Gasoline,Robotic,FWD,194999
+Skoda,Octavia,Ambition,2019,2,196000.0,1.5,150,Gasoline,Robotic,FWD,68000
+Skoda,Octavia,Ambition,2022,1,115000.0,1.5,150,Gasoline,Robotic,FWD,110000
+Skoda,Scala,Ambition,2022,1,122000.0,1.0,110,Gasoline,Robotic,FWD,74000
+Skoda,Superb,Exclusive,2018,3,95000.0,1.8,180,Gasoline,Robotic,FWD,98000
+Skoda,Karoq,Style,2020,2,105000.0,1.5,150,Gasoline,Robotic,FWD,94000
+Skoda,Kodiaq,Style,2021,2,94000.0,1.5,150,Gasoline,Robotic,FWD,122900
+Skoda,Superb,Laurin & Klement,2021,3,60000.0,1.4,218,Plug,Robotic,FWD,169000
+Skoda,Octavia,Style,2017,2,170000.0,1.0,115,Gasoline,Robotic,FWD,52000
+Skoda,Superb,Ambition,2018,3,196000.0,1.4,150,Gasoline,Robotic,FWD,60000
+Skoda,Superb,Laurin & Klement,2021,2,60000.0,2.0,280,Gasoline,Robotic,AWD,155900
+Skoda,Octavia,Ambition,2019,2,124000.0,1.5,150,Gasoline,Robotic,FWD,73900
+Skoda,Octavia,Ambition,2016,3,135000.0,1.2,110,Gasoline,Robotic,FWD,31000
+Skoda,Octavia,Ambition,2019,1,107000.0,1.5,150,Gasoline,Robotic,FWD,81475
+Skoda,Kodiaq,Ambition,2021,1,77500.0,1.5,150,Gasoline,Robotic,FWD,130855
+Skoda,Kodiaq,Style,2020,1,101500.0,2.0,190,Gasoline,Robotic,AWD,124735
+Skoda,Superb,Ambition,2016,1,200000.0,1.4,150,Gasoline,Robotic,FWD,50000
+Skoda,Karoq,Style,2021,2,99000.0,1.5,150,Gasoline,Robotic,FWD,101000
+Skoda,Octavia,Ambition,2018,1,210000.0,1.0,115,Gasoline,Robotic,FWD,45000
+Skoda,Octavia,Ambition,2018,2,129000.0,1.4,150,Gasoline,Robotic,FWD,52000
+Skoda,Fabia,Style,2017,2,150000.0,1.2,110,Gasoline,Robotic,FWD,40000
+Skoda,Kamiq,Ambition,2023,2,95000.0,1.0,110,Gasoline,Robotic,FWD,80000
+Skoda,Octavia,Ambition,2019,2,148000.0,1.5,150,Gasoline,Robotic,FWD,70000
+Skoda,Fabia,Style,2018,1,28000.0,1.0,110,Gasoline,Robotic,FWD,45000
+Skoda,Octavia,Elegance,2015,1,190000.0,1.4,140,Gasoline,Robotic,FWD,29000
+Skoda,Kamiq,Ambition,2022,1,39000.0,1.5,150,Gasoline,Robotic,FWD,105000
+Skoda,Octavia Rs,RS,2022,4,80000.0,2.0,245,Gasoline,Robotic,FWD,165000
+Skoda,Octavia,Ambition,2018,2,125000.0,1.5,150,Gasoline,Robotic,FWD,65000
+Skoda,Octavia,Style,2016,2,124500.0,1.2,110,Gasoline,Robotic,FWD,50000
+Skoda,Kodiaq,Business,2022,1,30000.0,1.5,150,Gasoline,Robotic,FWD,150000
+Skoda,Octavia,Ambition,2017,2,161000.0,1.0,115,Gasoline,Robotic,FWD,48000
+Skoda,Scala,Style,2022,1,41000.0,1.0,110,Gasoline,Robotic,FWD,100000
+Skoda,Fabia,Elegance,2015,2,199000.0,1.2,105,Gasoline,Robotic,FWD,30000
+Skoda,Kodiaq,Style,2021,4,87000.0,1.5,150,Gasoline,Robotic,FWD,130000
+Honda,Civic,Comfort,2018,2,107000.0,1.0,129,Gasoline,Variable,FWD,48800
+Honda,Hr V,Comfort,2018,2,81000.0,1.5,130,Gasoline,Variable,FWD,64900
+Honda,Jazz,Trend,2017,2,135000.0,1.3,102,Gasoline,Variable,FWD,38800
+Honda,Jazz,Comfort,2017,2,123000.0,1.3,102,Gasoline,Variable,FWD,40000
+Honda,Civic,5D Sport,2020,2,70000.0,1.5,182,Gasoline,Variable,FWD,90000
+Honda,Cr V,Elegance,2020,1,34835.0,1.5,190,Gasoline,Variable,AWD,103635
+Honda,Civic,Comfort,2018,2,130000.0,1.0,129,Gasoline,Variable,FWD,50000
+Honda,Civic,5D Sport,2020,2,159000.0,1.5,182,Gasoline,Variable,FWD,58000
+Honda,Cr V,Elegance,2020,2,160000.0,1.5,190,Gasoline,Variable,AWD,83000
+Honda,Jazz,Comfort,2018,2,236000.0,1.3,102,Gasoline,Variable,FWD,37000
+Honda,Civic,5D Sport,2021,2,56000.0,1.5,182,Gasoline,Variable,FWD,92000
+Honda,Civic,Sport,2019,1,82500.0,1.5,182,Gasoline,Variable,FWD,78000
+Honda,Jazz,Elegance,2020,1,130000.0,1.5,98,Hybrid,Automatic,FWD,69000
+Honda,Civic,Sport,2018,1,140000.0,1.5,182,Gasoline,Variable,FWD,65000
+Honda,Civic,Sport,2019,1,109000.0,1.5,182,Gasoline,Variable,FWD,81000
+Honda,Cr V,Elegance,2020,1,50000.0,1.5,190,Gasoline,Variable,AWD,123000
+Honda,Civic,Sport,2018,1,150000.0,1.5,182,Gasoline,Variable,FWD,72000
+Honda,Civic,Comfort,2015,1,180000.0,1.8,142,Gasoline,Automatic,FWD,35000
+Honda,Civic,Comfort,2019,2,82000.0,1.0,129,Gasoline,Variable,FWD,58000
+Honda,Jazz,Comfort,2018,1,123500.0,1.3,102,Gasoline,Variable,FWD,55000
+Honda,Civic,Comfort,2015,4,192000.0,1.8,142,Gasoline,Automatic,FWD,27000
+Honda,Jazz,Trend,2017,2,156000.0,1.3,102,Gasoline,Variable,FWD,41000
+Honda,Jazz,Elegance,2015,2,82000.0,1.3,88,Hybrid,Variable,FWD,50000
+Honda,Civic,Comfort,2017,2,183000.0,1.8,142,Gasoline,Automatic,FWD,38200
+Honda,Cr V,Comfort 4WD,2016,3,123000.0,2.0,155,Gasoline,Automatic,AWD,65000
+Honda,Cr V,Comfort 4WD,2018,1,121000.0,2.0,155,Gasoline,Automatic,AWD,82000
+Honda,Cr V,Comfort 4WD,2016,2,133000.0,2.0,155,Gasoline,Automatic,AWD,70000
+Honda,Civic,Sport,2018,2,71000.0,1.5,182,Gasoline,Variable,FWD,82000
+Honda,Civic,Comfort,2017,2,198000.0,1.8,142,Gasoline,Automatic,FWD,36900
+Honda,Jazz,Comfort,2017,2,106000.0,1.3,102,Gasoline,Variable,FWD,52955
+Honda,Hr V,Comfort,2018,1,92205.0,1.5,130,Gasoline,Variable,FWD,67455
+Honda,Jazz,Comfort,2018,1,110000.0,1.3,102,Gasoline,Variable,FWD,55000
+Honda,Cr V,Elegance,2020,1,36000.0,1.5,190,Gasoline,Variable,AWD,89000
+Honda,Jazz,Trend,2017,1,178000.0,1.3,102,Gasoline,Variable,FWD,55000
+Honda,Jazz,Comfort,2016,1,97000.0,1.3,102,Gasoline,Variable,FWD,37000
+Honda,Hr V,Elegance,2021,2,89600.0,1.5,130,Gasoline,Variable,FWD,79000
+Chevrolet,Trailblazer,LTZ,2021,1,102093.0,1.3,155,Gasoline,Variable,FWD,74900
+Chevrolet,Spark,LT,2019,2,90000.0,1.4,98,Gasoline,Variable,FWD,42800
+Chevrolet,Spark,LT,2017,2,140000.0,1.4,98,Gasoline,Variable,FWD,29800
+Chevrolet,Traverse,LS,2022,1,98255.0,3.6,310,Gasoline,Automatic,FWD,166720
+Chevrolet,Trailblazer,LT Plus,2021,1,76500.0,1.3,155,Gasoline,Variable,FWD,85805
+Chevrolet,Trailblazer,LT Plus,2024,1,52300.0,1.3,155,Gasoline,Variable,FWD,108635
+Chevrolet,Trailblazer,LTZ,2022,1,68556.0,1.3,155,Gasoline,Variable,FWD,71495
+Chevrolet,Trailblazer,Active Z,2022,1,58000.0,1.3,155,Gasoline,Variable,AWD,98500
+Chevrolet,Trailblazer,LTZ,2022,1,46500.0,1.3,155,Gasoline,Variable,FWD,99015
+Chevrolet,Trailblazer,LT Plus,2022,1,31917.0,1.3,155,Gasoline,Variable,FWD,98850
+Chevrolet,Trailblazer,LS,2021,1,51123.0,1.3,155,Gasoline,Variable,FWD,78454
+Chevrolet,Trailblazer,LTZ,2022,1,30400.0,1.3,155,Gasoline,Variable,FWD,92000
+Chevrolet,Equinox,LT Plus,2021,3,95000.0,1.5,170,Gasoline,Automatic,FWD,84000
+Chevrolet,Cruze,Premier,2017,4,134000.0,1.4,153,Gasoline,Automatic,FWD,25000
+Chevrolet,Spark,LT Plus,2021,2,76743.0,1.4,98,Gasoline,Variable,FWD,61480
+Chevrolet,Spark,LT Plus,2021,2,73162.0,1.4,98,Gasoline,Variable,FWD,61120
+Chevrolet,Spark,Premier,2021,1,87423.0,1.4,98,Gasoline,Variable,FWD,70020
+Chevrolet,Spark,Premier,2021,1,61616.0,1.4,98,Gasoline,Variable,FWD,71540
+Chevrolet,Spark,LT Plus,2020,3,66628.0,1.4,98,Gasoline,Variable,FWD,48720
+Chevrolet,Spark,Premier,2020,2,59839.0,1.4,98,Gasoline,Variable,FWD,65159
+Chevrolet,Spark,Premier,2020,2,102950.0,1.4,98,Gasoline,Variable,FWD,61195
+Chevrolet,Spark,Premier,2020,1,57110.0,1.4,98,Gasoline,Variable,FWD,67562
+Chevrolet,Spark,LTZ,2019,1,134115.0,1.4,98,Gasoline,Variable,FWD,50450
+Chevrolet,Spark,LT Plus,2018,2,75000.0,1.4,98,Gasoline,Variable,FWD,55350
+Chevrolet,Spark,LTZ,2018,1,84700.0,1.4,98,Gasoline,Variable,FWD,59466
+Chevrolet,Spark,LT,2017,2,91016.0,1.4,98,Gasoline,Variable,FWD,45585
+Chevrolet,Spark,LTZ,2017,2,80796.0,1.4,98,Gasoline,Variable,FWD,52720
+Chevrolet,Equinox,LT Plus,2022,1,27547.0,1.5,170,Gasoline,Automatic,FWD,100247
+Chevrolet,Equinox,LTZ,2021,1,39000.0,1.5,170,Gasoline,Automatic,FWD,93780
+Chevrolet,Equinox,LT Plus,2020,2,38238.0,1.5,170,Gasoline,Automatic,FWD,85085
+Chevrolet,Equinox,LT,2019,3,83000.0,1.5,170,Gasoline,Automatic,FWD,63995
+Chevrolet,Equinox,LT,2018,2,157000.0,1.5,170,Gasoline,Automatic,FWD,46000
+Chevrolet,Trax,LT,2018,1,68000.0,1.4,138,Gasoline,Automatic,FWD,49000
+Chevrolet,Traverse,LS,2017,2,114240.0,3.6,281,Gasoline,Automatic,FWD,65000
+Chevrolet,Traverse,LS,2018,3,94500.0,3.6,281,Gasoline,Automatic,FWD,69999
+Chevrolet,Spark,LT Plus,2021,3,88000.0,1.4,98,Gasoline,Variable,FWD,45900
+Chevrolet,Spark,LT Plus,2020,2,98000.0,1.4,98,Gasoline,Variable,FWD,52000
+Chevrolet,Spark,LT,2018,3,116000.0,1.4,98,Gasoline,Variable,FWD,44000
+Chevrolet,Trailblazer,LT Plus,2022,1,54000.0,1.3,155,Gasoline,Variable,FWD,89990
+Chevrolet,Malibu,LT,2016,3,144000.0,1.5,160,Gasoline,Automatic,FWD,30000
+Chevrolet,Orlando,LT,2015,2,188000.0,1.4,140,Gasoline,Automatic,FWD,19000
+Chevrolet,Equinox,LT,2019,2,177000.0,1.5,170,Gasoline,Automatic,FWD,62000
+Chevrolet,Spark,Premier,2021,1,60000.0,1.4,98,Gasoline,Variable,FWD,62000
+Chevrolet,Trax,LT,2015,2,198000.0,1.8,141,Gasoline,Automatic,FWD,22000
+Chevrolet,Spark,Premier,2020,2,83000.0,1.4,98,Gasoline,Variable,FWD,55000
+Chevrolet,Spark,LT Plus,2023,1,48000.0,1.4,98,Gasoline,Variable,FWD,69990
+Chevrolet,Equinox,RS,2022,3,74040.0,1.5,170,Gasoline,Automatic,FWD,87000
+Chevrolet,Equinox,LT,2019,2,112000.0,1.5,170,Gasoline,Automatic,FWD,49000
+Chevrolet,Orlando,LT,2017,2,155000.0,1.4,140,Gasoline,Automatic,FWD,25000
+Chevrolet,Traverse,LS,2023,1,69000.0,3.6,310,Gasoline,Automatic,FWD,179990
+Chevrolet,Equinox,RS,2023,1,69000.0,1.5,170,Gasoline,Automatic,FWD,134000
+Chevrolet,Equinox,LT,2018,2,85000.0,1.5,170,Gasoline,Automatic,FWD,74000
+Chevrolet,Traverse,LS,2020,1,46000.0,3.6,310,Gasoline,Automatic,FWD,139990
+Chevrolet,Spark,LT Plus,2020,1,93000.0,1.4,98,Gasoline,Variable,FWD,52000
+Chevrolet,Malibu,LT,2016,2,130000.0,1.5,160,Gasoline,Automatic,FWD,43000
+Chevrolet,Traverse,LT,2019,2,180000.0,3.6,310,Gasoline,Automatic,AWD,130000
+Chevrolet,Equinox,RS,2023,1,48000.0,1.5,170,Gasoline,Automatic,FWD,129990
+Chevrolet,Trailblazer,LT Plus,2021,1,70000.0,1.3,155,Gasoline,Variable,FWD,74900
+Chevrolet,Traverse,LS,2017,3,200000.0,3.6,281,Gasoline,Automatic,FWD,44900
+Chevrolet,Equinox,LT Plus,2021,1,50400.0,1.5,170,Gasoline,Automatic,FWD,102000
+Chevrolet,Trax,LT,2015,4,143000.0,1.4,140,Gasoline,Automatic,FWD,22000
+Chevrolet,Spark,LT,2017,3,123000.0,1.4,98,Gasoline,Variable,FWD,39000
+Chevrolet,Malibu,LS,2017,4,157500.0,1.5,160,Gasoline,Automatic,FWD,35000
+Chevrolet,Equinox,LTZ,2020,1,56000.0,1.5,170,Gasoline,Automatic,FWD,80000
+Chevrolet,Spark,LT Plus,2018,2,50000.0,1.4,98,Gasoline,Variable,FWD,43000
+Chevrolet,Equinox,LTZ,2021,3,118000.0,1.5,170,Gasoline,Automatic,FWD,95000
+Chevrolet,Spark,LTZ,2017,1,55948.0,1.4,98,Gasoline,Variable,FWD,57000
+Chevrolet,Spark,Premier,2020,1,50327.0,1.4,98,Gasoline,Variable,FWD,66900
+Chevrolet,Trailblazer,Active Z,2022,1,42000.0,1.3,155,Gasoline,Variable,AWD,118000
+Chevrolet,Spark,LT Plus,2017,2,203137.0,1.4,98,Gasoline,Variable,FWD,43000
+Chevrolet,Equinox,LT,2018,3,155000.0,1.5,170,Gasoline,Automatic,FWD,90000
+Chevrolet,Spark,LT Plus,2019,2,70000.0,1.4,98,Gasoline,Variable,FWD,52000
+Chevrolet,Spark,LT Plus,2020,2,79600.0,1.4,98,Gasoline,Variable,FWD,56000
+Chevrolet,Trailblazer,Active Z,2023,1,37000.0,1.3,155,Gasoline,Variable,AWD,153000
+Chevrolet,Spark,Premier,2020,1,71000.0,1.4,98,Gasoline,Variable,FWD,59000
+Chevrolet,Blazer,RS,2022,1,86000.0,2.0,230,Gasoline,Automatic,AWD,182000
+Chevrolet,Malibu,LT,2017,1,97000.0,1.5,160,Gasoline,Automatic,FWD,42000
+Chevrolet,Spark,LT Plus,2020,1,125000.0,1.4,98,Gasoline,Variable,FWD,54000
+Chevrolet,Trailblazer,Active Z,2023,2,14500.0,1.3,155,Gasoline,Variable,AWD,149000
+Chevrolet,Malibu,LT,2015,2,100700.0,2.0,259,Gasoline,Automatic,FWD,35500
+Chevrolet,Spark,LT,2018,2,162000.0,1.4,98,Gasoline,Variable,FWD,50000
+Chevrolet,Malibu,LT,2017,2,129000.0,1.5,160,Gasoline,Automatic,FWD,51000
+Chevrolet,Trax,LT,2018,2,65500.0,1.4,138,Gasoline,Automatic,FWD,59000
+Chevrolet,Traverse,LS,2016,2,113000.0,3.6,281,Gasoline,Automatic,FWD,70000
+Chevrolet,Cruze,LT,2017,3,170000.0,1.4,153,Gasoline,Automatic,FWD,25000
+Chevrolet,Trax,LT,2016,2,88000.0,1.4,140,Gasoline,Automatic,FWD,44000
+Chevrolet,Trailblazer,LT Plus,2022,1,33000.0,1.3,155,Gasoline,Variable,FWD,112500
+Chevrolet,Impala,LT,2016,3,129000.0,3.6,305,Gasoline,Automatic,FWD,67800
+Chevrolet,Blazer,RS,2023,1,26000.0,2.0,231,Gasoline,Automatic,AWD,230000
+Chevrolet,Orlando,LT,2018,3,120000.0,1.4,140,Gasoline,Automatic,FWD,50000
+Chevrolet,Trailblazer,LTZ,2022,1,38000.0,1.3,155,Gasoline,Variable,FWD,115000
+Chevrolet,Spark,LT,2018,2,127000.0,1.4,98,Gasoline,Variable,FWD,42000
+Chevrolet,Trailblazer,LS,2021,2,46500.0,1.3,155,Gasoline,Variable,FWD,85000
+Chevrolet,Traverse,LS,2016,2,159400.0,3.6,281,Gasoline,Automatic,FWD,68500
+Chevrolet,Trax,LS,2019,1,45000.0,1.4,138,Gasoline,Automatic,FWD,62000
+Chevrolet,Traverse,LS,2016,3,110000.0,3.6,281,Gasoline,Automatic,FWD,60000
+Chevrolet,Trax,LT,2016,3,91000.0,1.4,140,Gasoline,Automatic,FWD,39000
+Chevrolet,Malibu,LT,2019,2,131000.0,1.5,160,Gasoline,Variable,FWD,60000
+Chevrolet,Spark,LT,2017,2,96000.0,1.4,98,Gasoline,Variable,FWD,40850
+Chevrolet,Spark,Premier,2021,1,7000.0,1.4,98,Gasoline,Variable,FWD,72500
+Chevrolet,Trax,LT,2017,3,93000.0,1.4,138,Gasoline,Automatic,FWD,51000
+Chevrolet,Spark,LT,2017,2,118500.0,1.4,98,Gasoline,Variable,FWD,35000
+Chevrolet,Impala,LTZ,2015,4,153000.0,3.6,305,Gasoline,Automatic,FWD,58000
+Chevrolet,Traverse,LT,2016,3,148000.0,3.6,281,Gasoline,Automatic,FWD,75000
+Chevrolet,Spark,LTZ,2016,2,77550.0,1.4,98,Gasoline,Variable,FWD,42000
+Chevrolet,Equinox,LT,2019,2,66000.0,1.5,170,Gasoline,Automatic,FWD,85000
+Chevrolet,Equinox,RS,2022,1,63000.0,1.5,170,Gasoline,Automatic,AWD,152000
+Chevrolet,Spark,Premier,2021,1,29500.0,1.4,98,Gasoline,Variable,FWD,66000
+Chevrolet,Trax,LT,2015,3,118000.0,1.4,140,Gasoline,Automatic,FWD,38000
+Chevrolet,Spark,Premier,2020,1,50372.0,1.4,98,Gasoline,Variable,FWD,64000
+Chevrolet,Trax,LT,2018,2,39000.0,1.4,138,Gasoline,Automatic,FWD,75000
+Chevrolet,Traverse,LS,2015,3,120000.0,3.6,281,Gasoline,Automatic,FWD,60000
+Chevrolet,Spark,LT Plus,2019,4,43000.0,1.4,98,Gasoline,Variable,FWD,52000
+Chevrolet,Spark,LT,2016,2,100000.0,1.4,98,Gasoline,Variable,FWD,39000
+Chevrolet,Traverse,LT,2015,3,157000.0,3.6,281,Gasoline,Automatic,FWD,64000
+Chevrolet,Spark,Premier,2020,2,43000.0,1.4,98,Gasoline,Variable,FWD,65500
+Chevrolet,Spark,Premier,2021,2,46200.0,1.4,98,Gasoline,Variable,FWD,63000
+Chevrolet,Blazer,RS,2020,2,79120.0,2.0,230,Gasoline,Automatic,AWD,176100
+Chevrolet,Spark,Premier,2021,1,8300.0,1.4,98,Gasoline,Variable,FWD,70000
+Chevrolet,Impala,Premier,2018,1,40000.0,3.6,305,Gasoline,Automatic,FWD,110000
+Chevrolet,Spark,LT,2017,3,119000.0,1.4,98,Gasoline,Variable,FWD,27900
+Chevrolet,Traverse,Premier,2021,2,56000.0,3.6,310,Gasoline,Automatic,AWD,220000
+Chevrolet,Spark,LT Plus,2020,2,60000.0,1.4,98,Gasoline,Variable,FWD,49900
+Chevrolet,Equinox,LT Plus,2022,1,77000.0,1.5,170,Gasoline,Automatic,FWD,98900
+Chevrolet,Equinox,LS,2020,1,86000.0,1.5,170,Gasoline,Automatic,FWD,74900
+Chevrolet,Traverse,Premier,2022,1,113000.0,3.6,310,Gasoline,Automatic,AWD,225000
+Chevrolet,Spark,LT,2017,2,152000.0,1.4,98,Gasoline,Variable,FWD,29500
+Chevrolet,Trailblazer,LS,2023,1,109000.0,1.3,155,Gasoline,Variable,FWD,95000
+Chevrolet,Spark,Premier,2021,1,39000.0,1.4,98,Gasoline,Variable,FWD,74905
+Chevrolet,Equinox,LT Plus,2020,2,87983.0,1.5,170,Gasoline,Automatic,FWD,76315
+Chevrolet,Equinox,LS,2018,1,153000.0,1.5,170,Gasoline,Automatic,FWD,44000
+Chevrolet,Equinox,RS,2022,1,40000.0,1.5,170,Gasoline,Automatic,FWD,125000
+Chevrolet,Trax,LS,2017,1,22000.0,1.4,138,Gasoline,Automatic,FWD,44000
+Chevrolet,Malibu,LTZ,2019,3,64000.0,1.5,160,Gasoline,Variable,FWD,72000
+Chevrolet,Equinox,LTZ,2020,1,53800.0,1.5,170,Gasoline,Automatic,FWD,117000
+Mitsubishi,Asx,Intense,2022,1,94000.0,2.0,150,Gasoline,Variable,FWD,94900
+Mitsubishi,Space Star,Instyle,2017,1,98000.0,1.2,80,Gasoline,Variable,FWD,31900
+Mitsubishi,Asx,Instyle,2021,1,80000.0,2.0,150,Gasoline,Variable,FWD,76900
+Mitsubishi,Outlander,Instyle,2015,1,172000.0,2.0,150,Gasoline,Variable,FWD,63500
+Mitsubishi,Eclipse Cross,Instyle,2021,2,141000.0,1.5,163,Gasoline,Variable,FWD,76900
+Mitsubishi,Eclipse Cross,Instyle,2021,2,35000.0,1.5,163,Gasoline,Variable,FWD,93000
+Mitsubishi,Eclipse Cross,Instyle,2020,1,157000.0,1.5,163,Gasoline,Variable,FWD,72900
+Mitsubishi,Attrage,Instyle,2016,2,180000.0,1.2,80,Gasoline,Variable,FWD,19800
+Mitsubishi,Outlander,Premium,2017,1,209000.0,2.0,150,Gasoline,Variable,FWD,62900
+Mitsubishi,Space Star,Supreme,2023,2,35252.0,1.2,71,Gasoline,Variable,FWD,71130
+Mitsubishi,Space Star,Supreme,2023,1,71667.0,1.2,71,Gasoline,Variable,FWD,69605
+Mitsubishi,Space Star,Supreme,2022,1,66501.0,1.2,71,Gasoline,Variable,FWD,66415
+Mitsubishi,Outlander,Premium (7 seats),2021,2,88817.0,2.0,150,Gasoline,Variable,FWD,119995
+Mitsubishi,Outlander,Intense (7 seats),2020,2,78834.0,2.0,150,Gasoline,Variable,FWD,105915
+Mitsubishi,Outlander,Intense (7 seats),2020,1,138200.0,2.0,150,Gasoline,Variable,FWD,103740
+Mitsubishi,Eclipse Cross,Executive,2022,1,70700.0,1.5,150,Gasoline,Variable,FWD,107225
+Mitsubishi,Space Star,Instyle,2015,3,83000.0,1.2,80,Gasoline,Variable,FWD,26000
+Mitsubishi,Outlander,Instyle,2018,4,130000.0,2.0,150,Gasoline,Variable,FWD,80500
+Mitsubishi,Asx,Instyle,2019,2,185000.0,2.0,150,Gasoline,Variable,FWD,48000
+Mitsubishi,Space Star,Supreme,2022,2,32000.0,1.2,71,Gasoline,Variable,FWD,65000
+Mitsubishi,Eclipse Cross,Intense,2020,2,114000.0,1.5,163,Gasoline,Variable,FWD,77000
+Mitsubishi,Space Star,Supreme,2022,2,100000.0,1.2,71,Gasoline,Variable,FWD,53000
+Mitsubishi,Outlander,Intense,2017,1,170838.0,2.0,150,Gasoline,Variable,FWD,70800
+Mitsubishi,Space Star,Premium,2018,3,99500.0,1.2,80,Gasoline,Variable,FWD,34000
+Mitsubishi,Eclipse Cross,Executive,2022,1,43035.0,1.5,150,Gasoline,Variable,FWD,110825
+Mitsubishi,Eclipse Cross,Executive,2022,1,38536.0,1.5,150,Gasoline,Variable,FWD,115015
+Mitsubishi,Eclipse Cross,Panoramic,2022,1,20766.0,1.5,150,Gasoline,Variable,FWD,114590
+Mitsubishi,Eclipse Cross,Instyle,2020,2,81555.0,1.5,163,Gasoline,Variable,FWD,87405
+Mitsubishi,Attrage,Instyle,2019,1,30702.0,1.2,80,Gasoline,Variable,FWD,45995
+Mitsubishi,Asx,Panoramic,2023,1,16411.0,2.0,150,Gasoline,Variable,FWD,111975
+Mitsubishi,Asx,Intense,2023,1,25492.0,2.0,150,Gasoline,Variable,FWD,111760
+Mitsubishi,Asx,Instyle,2022,2,42491.0,2.0,150,Gasoline,Variable,FWD,97397
+Mitsubishi,Asx,Instyle,2021,2,96000.0,2.0,150,Gasoline,Variable,FWD,91625
+Mitsubishi,Asx,Instyle,2021,1,43034.0,2.0,150,Gasoline,Variable,FWD,96155
+Mitsubishi,Asx,Premium,2020,1,71300.0,2.0,150,Gasoline,Variable,FWD,88395
+Mitsubishi,Asx,Instyle,2020,1,102240.0,2.0,150,Gasoline,Variable,FWD,88680
+Mitsubishi,Outlander,Instyle,2017,2,152000.0,2.0,150,Gasoline,Variable,FWD,79000
+Mitsubishi,Outlander,Instyle,2015,2,235000.0,2.0,150,Gasoline,Variable,FWD,55000
+Mitsubishi,Space Star,Instyle,2018,2,150000.0,1.2,80,Gasoline,Variable,FWD,28900
+Mitsubishi,Outlander,Instyle,2015,3,278000.0,2.0,150,Gasoline,Variable,FWD,59000
+Mitsubishi,Space Star,Instyle,2019,4,98500.0,1.2,80,Gasoline,Variable,FWD,37500
+Mitsubishi,Asx,Intense,2020,1,115000.0,2.0,150,Gasoline,Variable,FWD,73000
+Mitsubishi,L200,Instyle,2017,1,151000.0,2.4,154,Diesel,Automatic,RWD,110000
+Mitsubishi,Space Star,Supreme,2021,3,44000.0,1.2,71,Gasoline,Variable,FWD,44990
+Mitsubishi,Outlander,Luxury,2021,1,49000.0,2.5,181,Gasoline,Variable,FWD,139990
+Mitsubishi,Asx,Panoramic,2022,2,139000.0,2.0,150,Gasoline,Variable,FWD,92500
+Mitsubishi,Outlander,Executive,2023,1,65000.0,2.5,181,Gasoline,Variable,FWD,135000
+Mitsubishi,Space Star,Supreme,2023,1,21800.0,1.2,71,Gasoline,Variable,FWD,71900
+Mitsubishi,Eclipse Cross,Instyle,2018,2,85500.0,1.5,163,Gasoline,Variable,FWD,64000
+Mitsubishi,Outlander,Premium,2016,3,136000.0,2.0,150,Gasoline,Variable,FWD,72000
+Mitsubishi,Asx,Intense,2020,4,84000.0,2.0,150,Gasoline,Variable,FWD,76500
+Mitsubishi,Asx,Premium,2020,2,50000.0,2.0,150,Gasoline,Variable,FWD,93000
+Mitsubishi,Lancer,Sport,2017,2,81000.0,1.8,140,Gasoline,Variable,FWD,48000
+Mitsubishi,Asx,Instyle,2021,2,132000.0,2.0,150,Gasoline,Variable,FWD,68000
+Mitsubishi,Eclipse Cross,Instyle,2025,2,11000.0,1.5,150,Gasoline,Variable,FWD,117000
+Mitsubishi,Space Star,Premium,2022,1,37000.0,1.2,71,Gasoline,Variable,FWD,71000
+Mitsubishi,Outlander,Intense,2016,2,196000.0,2.0,150,Gasoline,Variable,FWD,55000
+Mitsubishi,L200,Dakar,2020,2,159000.0,2.3,150,Diesel,Automatic,AWD,119990
+Mitsubishi,L200,Desert,2016,2,238000.0,2.4,154,Diesel,Automatic,AWD,75000
+Mitsubishi,Outlander,Luxury,2017,2,165000.0,2.0,121,Plug,Automatic,AWD,79990
+Mitsubishi,Outlander,Intense,2021,1,153384.0,2.0,150,Gasoline,Variable,FWD,80000
+Mitsubishi,Outlander,Instyle (7 seats),2021,2,64000.0,2.0,150,Gasoline,Variable,FWD,118000
+Mitsubishi,Space Star,Supreme,2023,1,36000.0,1.2,71,Gasoline,Variable,FWD,69000
+Mitsubishi,Asx,Intense,2020,2,57000.0,2.0,150,Gasoline,Variable,FWD,81000
+Mitsubishi,Outlander,Premium,2016,4,185000.0,2.0,150,Gasoline,Variable,FWD,68000
+Mitsubishi,Attrage,Instyle,2015,3,227963.0,1.2,80,Gasoline,Variable,FWD,15000
+Mitsubishi,Eclipse Cross,Instyle,2019,2,118000.0,1.5,163,Gasoline,Variable,FWD,67500
+Mitsubishi,Outlander,Instyle,2015,3,224000.0,2.0,150,Gasoline,Variable,FWD,54990
+Mitsubishi,L200,Intense,2015,1,119000.0,2.4,154,Diesel,Manual,AWD,74990
+Mitsubishi,Asx,Instyle,2021,1,100881.0,2.0,150,Gasoline,Variable,FWD,78000
+Mitsubishi,Outlander,Instyle,2023,1,63222.0,2.5,181,Gasoline,Variable,FWD,165000
+Mitsubishi,L200,Dakar,2015,2,195000.0,2.5,178,Diesel,Automatic,AWD,78990
+Mitsubishi,Lancer,Sport,2016,2,170000.0,1.8,140,Gasoline,Variable,FWD,34999
+Mitsubishi,Space Star,Supreme,2021,1,97000.0,1.2,71,Gasoline,Variable,FWD,47900
+Mitsubishi,Space Star,Supreme,2022,2,80000.0,1.2,71,Gasoline,Variable,FWD,49900
+Mitsubishi,Outlander,Intense (7 seats),2021,2,125000.0,2.0,150,Gasoline,Variable,FWD,108000
+Mitsubishi,Outlander,Premium,2016,2,170000.0,2.0,150,Gasoline,Variable,FWD,80000
+Mitsubishi,Outlander,Instyle,2016,3,200000.0,2.0,150,Gasoline,Variable,FWD,64000
+Mitsubishi,Space Star,Supreme,2021,2,67000.0,1.2,71,Gasoline,Variable,FWD,53000
+Mitsubishi,Outlander,Instyle,2015,2,190000.0,2.0,150,Gasoline,Variable,FWD,55000
+Mitsubishi,Attrage,Instyle,2016,3,231000.0,1.2,80,Gasoline,Variable,FWD,23000
+Mitsubishi,Attrage,Instyle,2016,3,217000.0,1.2,80,Gasoline,Variable,FWD,13000
+Mitsubishi,Outlander,Instyle,2017,2,210000.0,2.0,150,Gasoline,Variable,FWD,69999
+Mitsubishi,Outlander,Instyle (7 seats),2021,1,38000.0,2.0,150,Gasoline,Variable,FWD,129000
+Mitsubishi,Outlander,Premium,2016,3,200000.0,2.0,150,Gasoline,Variable,FWD,75000
+Mitsubishi,Space Star,Supreme,2023,2,12600.0,1.2,71,Gasoline,Variable,FWD,74000
+Mitsubishi,Outlander,Supreme,2017,1,200000.0,2.0,121,Plug,Automatic,AWD,75000
+Mitsubishi,Outlander,Instyle,2017,3,180000.0,2.0,150,Gasoline,Variable,FWD,90000
+Mitsubishi,Asx,Instyle,2022,1,29500.0,2.0,150,Gasoline,Variable,FWD,103500
+Mitsubishi,Outlander,Instyle,2018,1,95500.0,2.0,150,Gasoline,Variable,FWD,92000
+Mitsubishi,Asx,Intense,2023,1,6000.0,2.0,150,Gasoline,Variable,FWD,125000
+Mitsubishi,Outlander,Instyle,2016,2,226000.0,2.0,150,Gasoline,Variable,FWD,80000
+Mitsubishi,Outlander,Premium,2024,1,10000.0,2.5,181,Gasoline,Variable,FWD,200000
+Mitsubishi,Outlander,Premium,2017,1,114200.0,2.0,150,Gasoline,Variable,FWD,94800
+Mitsubishi,Outlander,Intense,2019,1,59000.0,2.0,150,Gasoline,Variable,FWD,105000
+Mitsubishi,Eclipse Cross,Instyle,2022,1,49000.0,1.5,150,Gasoline,Variable,FWD,118000
+Mitsubishi,Outlander,Intense (7 seats),2019,2,171000.0,2.0,150,Gasoline,Variable,FWD,75000
+Mitsubishi,Attrage,Instyle,2016,2,270192.0,1.2,80,Gasoline,Variable,FWD,24000
+Mitsubishi,Outlander,Premium (7 seats),2018,2,83000.0,2.0,150,Gasoline,Variable,FWD,109460
+Mitsubishi,Space Star,Supreme,2020,3,35000.0,1.2,80,Gasoline,Variable,FWD,50000
+Mitsubishi,Asx,Intense,2019,2,80000.0,2.0,150,Gasoline,Variable,FWD,70000
+Mitsubishi,Outlander,Luxury,2020,1,115800.0,2.4,224,Plug,Automatic,AWD,113000
+Mitsubishi,Outlander,Intense,2019,1,68000.0,2.0,150,Gasoline,Variable,FWD,103000
+Mitsubishi,Outlander,Instyle (7 seats),2019,1,112000.0,2.0,150,Gasoline,Variable,FWD,105000
+Mitsubishi,Outlander,Instyle,2015,2,165000.0,2.0,150,Gasoline,Variable,FWD,72000
+Mitsubishi,Outlander,Instyle,2016,2,200000.0,2.0,150,Gasoline,Variable,FWD,88000
+Mitsubishi,Outlander,Premium (7 seats),2019,2,158000.0,2.0,150,Gasoline,Variable,FWD,110000
+Mitsubishi,Outlander,Premium,2016,2,185000.0,2.0,150,Gasoline,Variable,FWD,66500
+Mitsubishi,Outlander,Instyle,2015,2,250000.0,2.0,150,Gasoline,Variable,FWD,75000
+Mitsubishi,Outlander,Premium,2015,2,150000.0,2.0,150,Gasoline,Variable,FWD,79000
+Mitsubishi,Outlander,Luxury,2019,1,180000.0,2.4,224,Plug,Automatic,AWD,101900
+Mitsubishi,Outlander,Premium,2017,2,120000.0,2.0,150,Gasoline,Variable,FWD,93000
+Mitsubishi,Asx,Instyle,2021,1,21000.0,2.0,150,Gasoline,Variable,FWD,100000
+Mitsubishi,Outlander,Intense (7 seats),2018,2,147000.0,2.0,150,Gasoline,Variable,FWD,84000
+Mitsubishi,Eclipse Cross,Premium,2020,1,35500.0,1.5,163,Gasoline,Variable,FWD,112000
+Mitsubishi,Outlander,Instyle,2016,2,205000.0,2.0,150,Gasoline,Variable,FWD,68000
+Mitsubishi,Attrage,Instyle,2015,2,175000.0,1.2,80,Gasoline,Variable,FWD,24000
+Mitsubishi,Outlander,Instyle (7 seats),2021,1,83000.0,2.0,150,Gasoline,Variable,FWD,128000
+Mitsubishi,L200,Desert,2021,1,90000.0,2.3,150,Diesel,Automatic,AWD,160900
+Mitsubishi,Outlander,Instyle,2022,2,21000.0,2.5,181,Gasoline,Variable,FWD,170000
+Mitsubishi,Space Star,Instyle,2021,1,23250.0,1.2,71,Gasoline,Variable,FWD,62500
+Mitsubishi,Outlander,Instyle (7 seats),2019,3,93650.0,2.0,150,Gasoline,Variable,FWD,110000
+Mitsubishi,Asx,Instyle,2019,1,122000.0,2.0,150,Gasoline,Variable,FWD,65500
+Mitsubishi,L200,Dakar,2015,1,330000.0,2.4,181,Diesel,Automatic,AWD,70000
+Mitsubishi,L200,Supreme,2017,1,240000.0,2.4,181,Diesel,Automatic,AWD,80000
+Mitsubishi,Outlander,Instyle,2015,2,160000.0,2.0,150,Gasoline,Variable,FWD,65000
+Mitsubishi,Eclipse Cross,Instyle,2021,2,51000.0,1.5,163,Gasoline,Variable,FWD,105000
+Mitsubishi,Outlander,Instyle,2015,3,178000.0,2.0,150,Gasoline,Variable,FWD,70000
+Mitsubishi,Outlander,Instyle (7 seats),2018,2,88000.0,2.0,150,Gasoline,Variable,FWD,115000
+Mitsubishi,Outlander,Instyle,2018,2,130000.0,2.0,150,Gasoline,Variable,FWD,93900
+Mitsubishi,Attrage,Instyle,2015,3,297000.0,1.2,80,Gasoline,Variable,FWD,15000
+Mitsubishi,Space Star,Supreme,2019,3,100000.0,1.2,80,Gasoline,Variable,FWD,48000
+Mitsubishi,Outlander,Instyle,2016,2,189000.0,2.0,150,Gasoline,Variable,FWD,79000
+Mitsubishi,Outlander,Instyle (7 seats),2018,2,75000.0,2.0,150,Gasoline,Variable,FWD,108000
+Mitsubishi,L200,Desert,2016,1,126000.0,2.4,154,Diesel,Automatic,AWD,125000
+Mitsubishi,Outlander,Premium (7 seats),2018,2,50000.0,2.0,150,Gasoline,Variable,FWD,115000
+Mitsubishi,Outlander,Intense (7 seats),2019,2,107000.0,2.0,150,Gasoline,Variable,FWD,102000
+Mitsubishi,Eclipse Cross,Instyle,2020,1,40000.0,1.5,163,Gasoline,Variable,FWD,102500
+Mitsubishi,Outlander,Premium,2016,2,114000.0,2.0,150,Gasoline,Variable,FWD,80000
+Mitsubishi,Eclipse Cross,Intense,2018,3,122600.0,1.5,163,Gasoline,Variable,FWD,72000
+Mitsubishi,Outlander,Instyle (7 seats),2019,3,68500.0,2.0,150,Gasoline,Variable,FWD,113000
+Mitsubishi,Outlander,Luxury,2023,1,15000.0,2.5,181,Gasoline,Variable,FWD,190000
+Mitsubishi,Attrage,Instyle,2016,3,300000.0,1.2,80,Gasoline,Variable,FWD,22000
+Mitsubishi,Outlander,Premium,2016,2,165000.0,2.0,150,Gasoline,Variable,FWD,75500
+Mitsubishi,Space Star,Supreme,2022,1,43000.0,1.2,71,Gasoline,Variable,FWD,65300
+Mitsubishi,Outlander,Instyle,2016,3,180000.0,2.0,150,Gasoline,Variable,FWD,72000
+Mitsubishi,Eclipse Cross,Intense,2019,2,101000.0,1.5,163,Gasoline,Variable,FWD,80000
+Mitsubishi,Outlander,Intense (7 seats),2020,1,110000.0,2.0,150,Gasoline,Variable,FWD,117000
+Mitsubishi,Outlander,Instyle,2016,2,199000.0,2.0,150,Gasoline,Variable,FWD,68000
+Mitsubishi,Attrage,Instyle,2016,2,153000.0,1.2,80,Gasoline,Variable,FWD,27000
+Mitsubishi,Eclipse Cross,Premium,2019,2,100000.0,1.5,163,Gasoline,Variable,FWD,85000
+Mitsubishi,Outlander,Instyle,2015,1,110000.0,2.0,150,Gasoline,Variable,FWD,72000
+Mitsubishi,Space Star,Instyle,2015,4,170000.0,1.2,80,Gasoline,Variable,FWD,25000
+Mitsubishi,Eclipse Cross,Premium,2018,2,74000.0,1.5,163,Gasoline,Variable,FWD,98000
+Mitsubishi,Outlander,Intense (7 seats),2018,2,116800.0,2.0,150,Gasoline,Variable,FWD,90000
+Mitsubishi,Asx,Intense,2020,1,9200.0,2.0,150,Gasoline,Variable,FWD,101500
+Mitsubishi,Outlander,Intense,2017,1,105000.0,2.0,150,Gasoline,Variable,FWD,79000
+Mitsubishi,Attrage,Instyle,2015,2,226000.0,1.2,80,Gasoline,Variable,FWD,16900
+Mitsubishi,Space Star,Instyle,2018,1,90000.0,1.2,80,Gasoline,Variable,FWD,40000
+Mitsubishi,Outlander,Luxury,2020,1,76000.0,2.4,224,Plug,Automatic,AWD,135000
+Mitsubishi,Outlander,Luxury,2021,1,37500.0,2.4,224,Plug,Automatic,AWD,145000
+Mitsubishi,Lancer,Sport,2015,2,182000.0,1.8,140,Gasoline,Variable,FWD,32000
+Mitsubishi,Outlander,Instyle,2015,3,124000.0,2.0,150,Gasoline,Variable,FWD,51900
+Mitsubishi,Asx,Instyle,2021,2,89000.0,2.0,150,Gasoline,Variable,FWD,83900
+Mitsubishi,Eclipse Cross,Instyle,2018,3,155000.0,1.5,163,Gasoline,Variable,FWD,59900
+Mitsubishi,Outlander,Instyle,2016,2,210000.0,2.0,150,Gasoline,Variable,FWD,63900
+Mitsubishi,Outlander,Premium (7 seats),2018,1,125000.0,2.0,150,Gasoline,Variable,FWD,85000
+Mitsubishi,Outlander,Instyle (7 seats),2019,2,200000.0,2.0,150,Gasoline,Variable,FWD,81900
+Mitsubishi,L200,Intense,2019,1,70000.0,2.4,154,Diesel,Manual,AWD,119900
+Mitsubishi,Space Star,Supreme,2023,1,44304.0,1.2,71,Gasoline,Variable,FWD,73165
+Mitsubishi,Space Star,Supreme,2023,2,35000.0,1.2,71,Gasoline,Variable,FWD,66885
+Mitsubishi,Space Star,Supreme,2021,2,16552.0,1.2,71,Gasoline,Variable,FWD,65335
+Mitsubishi,Space Star,Premium,2017,3,144241.0,1.2,80,Gasoline,Variable,FWD,28655
+Mitsubishi,Outlander,Instyle,2016,3,130000.0,2.0,150,Gasoline,Variable,FWD,80655
+Mitsubishi,Eclipse Cross,Panoramic,2022,1,120000.0,1.5,150,Gasoline,Variable,FWD,97995
+Mitsubishi,Outlander,Instyle,2016,3,175000.0,2.0,150,Gasoline,Variable,FWD,60000
+Mitsubishi,Asx,Instyle,2022,1,20000.0,2.0,150,Gasoline,Variable,FWD,102000
+Mitsubishi,Eclipse Cross,Luxury,2023,1,18000.0,2.4,188,Plug,Automatic,AWD,175700
+Mitsubishi,Eclipse Cross,Premium,2021,1,120000.0,1.5,163,Gasoline,Variable,FWD,105000
+Mitsubishi,Outlander,Instyle,2016,2,186000.0,2.0,150,Gasoline,Variable,FWD,66000
+Mitsubishi,Outlander,Intense (7 seats),2019,2,195000.0,2.0,150,Gasoline,Variable,FWD,90000
+Mitsubishi,Outlander,Premium,2016,3,208000.0,2.0,150,Gasoline,Variable,FWD,63900
+Mitsubishi,Outlander,Intense,2017,1,185000.0,2.0,150,Gasoline,Variable,FWD,80000
+Mitsubishi,Space Star,Instyle,2015,2,325500.0,1.2,80,Gasoline,Variable,FWD,55000
+Mitsubishi,Eclipse Cross,Premium,2023,2,3033.0,1.5,150,Gasoline,Variable,FWD,168999
+Audi,A1,Basis,2016,4,137000.0,1.0,95,Gasoline,Robotic,FWD,39800
+Audi,A1,Limited,2018,3,96000.0,1.0,95,Gasoline,Robotic,FWD,66800
+Audi,Q5,Design,2017,3,186000.0,2.0,252,Gasoline,Robotic,AWD,86990
+Audi,Tt,Design,2017,4,116000.0,2.0,230,Gasoline,Robotic,AWD,119990
+Audi,Q5,Limited,2017,3,115000.0,2.0,180,Gasoline,Automatic,AWD,77900
+Audi,A3,Luxury,2019,2,114000.0,1.4,204,Plug,Robotic,FWD,110000
+Audi,A1,Basis,2016,3,86000.0,1.4,125,Gasoline,Robotic,FWD,49500
+Audi,Q7,Premium,2019,1,148000.0,3.0,374,Plug,Automatic,AWD,174990
+Audi,Q2,Design Assistance 35 TFSI Luxury,2020,2,114000.0,1.5,150,Gasoline,Robotic,FWD,99990
+Audi,Tt,Design,2020,4,128000.0,2.0,197,Gasoline,Robotic,FWD,134900
+Audi,Q2,Design Assistance 35 TFSI Luxury,2017,4,115000.0,1.4,150,Gasoline,Robotic,FWD,69999
+Audi,Q3,Basis,2019,3,87000.0,1.4,150,Gasoline,Robotic,FWD,89900
+Audi,Q2,Design Assistance 35 TFSI Luxury,2017,2,157000.0,1.4,150,Gasoline,Robotic,FWD,70000
+Audi,Q3,Luxury,2016,4,108000.0,2.0,180,Gasoline,Robotic,AWD,77000
+Audi,A3,Luxury,2018,3,130000.0,1.4,204,Plug,Robotic,FWD,124000
+Audi,Q5,Limited,2017,4,121000.0,2.0,230,Gasoline,Automatic,AWD,75000
+Audi,A4,Executive,2015,1,116000.0,1.8,120,Gasoline,Variable,FWD,60000
+Audi,Q3,Executive,2016,2,180000.0,1.4,150,Gasoline,Robotic,FWD,74000
+Audi,Q3,Luxury,2017,1,79800.0,1.4,150,Gasoline,Robotic,FWD,90000
+Audi,Q7,Luxury,2018,1,129000.0,3.0,272,Diesel,Automatic,AWD,185000
+Audi,Q3,Basis,2019,2,100000.0,1.4,150,Gasoline,Robotic,FWD,103000
+Audi,Q5,Executive,2016,2,160000.0,2.0,230,Gasoline,Automatic,AWD,100000
+Audi,Q7,Premium,2018,2,120000.0,3.0,374,Plug,Automatic,AWD,220000
+Audi,Q3,Limited,2018,1,100000.0,2.0,180,Gasoline,Robotic,AWD,110000
+Audi,Q5,Executive,2016,2,105000.0,2.0,230,Gasoline,Automatic,AWD,102000
+Audi,Q7,Luxury,2016,3,187000.0,3.0,272,Diesel,Automatic,AWD,150000
+Audi,Q5,Executive,2016,2,150000.0,2.0,180,Gasoline,Automatic,AWD,89000
+Audi,A3,Luxury,2018,3,120000.0,1.5,150,Gasoline,Robotic,FWD,80000
+Audi,Q5,Luxury,2016,2,180000.0,2.0,230,Gasoline,Automatic,AWD,185000
+Audi,A1,Basis,2015,2,98000.0,1.4,125,Gasoline,Manual,FWD,65000
+Audi,Q3,Limited,2018,4,118000.0,2.0,180,Gasoline,Robotic,AWD,114000
+Audi,Q5,Executive,2015,3,100000.0,2.0,225,Gasoline,Automatic,AWD,90000
+Audi,A4,Executive,2015,2,178000.0,1.8,120,Gasoline,Variable,FWD,35000
+Audi,Tt,Design,2024,1,8000.0,2.0,197,Gasoline,Robotic,FWD,229900
+Audi,Q3,Executive,2016,3,152000.0,1.4,150,Gasoline,Robotic,FWD,63900
+Audi,A1,Basis,2018,2,79000.0,1.0,95,Gasoline,Robotic,FWD,79999
+Suzuki,S Cross,GLXV,2023,1,52000.0,1.4,129,Gasoline,Automatic,FWD,121900
+Suzuki,Sx4,GLX,2015,2,144000.0,1.6,118,Gasoline,Variable,FWD,31900
+Suzuki,Ignis,GLX,2021,3,16000.0,1.2,83,Gasoline,Variable,FWD,72800
+Suzuki,Crossover,GLX,2018,1,103000.0,1.4,140,Gasoline,Automatic,FWD,67000
+Suzuki,Crossover,GLX,2017,3,138000.0,1.4,140,Gasoline,Automatic,FWD,51800
+Suzuki,Ignis,GLX,2021,1,22900.0,1.2,83,Gasoline,Variable,FWD,72900
+Suzuki,S Cross,GLX,2021,2,124245.0,1.4,129,Gasoline,Automatic,FWD,82900
+Suzuki,S Cross,GLX,2024,1,6000.0,1.4,129,Gasoline,Automatic,FWD,135000
+Suzuki,Swift,GLX Hybrid,2021,1,84000.0,1.2,83,Gasoline,Automatic,FWD,74900
+Suzuki,S Cross,GLX,2021,1,68000.0,1.4,129,Gasoline,Automatic,FWD,79900
+Suzuki,Crossover,GLX,2020,1,27000.0,1.4,140,Gasoline,Automatic,FWD,82900
+Suzuki,Vitara,GLX,2025,1,22551.0,1.4,129,Gasoline,Automatic,FWD,139905
+Suzuki,Vitara,GLX,2022,1,98000.0,1.4,129,Gasoline,Automatic,FWD,110005
+Suzuki,S Cross,GLXV 4x4,2024,1,30000.0,1.4,129,Gasoline,Automatic,AWD,150000
+Suzuki,Jimny,GLX,2015,3,123800.0,1.3,85,Gasoline,Automatic,AWD,64000
+Suzuki,Crossover,GLX,2021,1,169000.0,1.4,129,Gasoline,Automatic,FWD,65000
+Suzuki,Celerio,GLX,2016,1,168800.0,1.0,68,Gasoline,Robotic,FWD,18900
+Suzuki,Crossover,GLX,2015,4,295000.0,1.6,117,Gasoline,Variable,FWD,21000
+Suzuki,Vitara,GLX,2022,1,93413.0,1.4,129,Gasoline,Automatic,FWD,92465
+Suzuki,Vitara,GLX,2022,1,85073.0,1.4,129,Gasoline,Automatic,FWD,94590
+Suzuki,Vitara,GLXV,2022,1,59948.0,1.4,129,Gasoline,Automatic,FWD,122735
+Suzuki,Vitara,GLX,2021,1,16500.0,1.4,129,Gasoline,Automatic,FWD,120350
+Suzuki,Vitara,GLX,2022,1,129987.0,1.4,129,Gasoline,Automatic,FWD,88035
+Suzuki,Crossover,GLX,2022,2,85289.0,1.4,129,Gasoline,Automatic,FWD,101580
+Suzuki,Crossover,GLX,2021,1,98700.0,1.4,129,Gasoline,Automatic,FWD,96285
+Suzuki,Crossover,GLX,2021,1,103090.0,1.4,129,Gasoline,Automatic,FWD,94055
+Suzuki,Crossover,GLX,2019,2,140000.0,1.4,140,Gasoline,Automatic,FWD,73505
+Suzuki,Swift,GLX Hybrid,2024,1,34359.0,1.2,83,Gasoline,Automatic,FWD,108580
+Suzuki,Swift,GLX Hybrid,2021,1,61904.0,1.2,83,Gasoline,Automatic,FWD,87852
+Suzuki,S Cross,GLXV,2024,1,58176.0,1.4,129,Gasoline,Automatic,FWD,137872
+Suzuki,S Cross,GLXV,2024,1,57261.0,1.4,129,Gasoline,Automatic,FWD,137200
+Suzuki,S Cross,GLXV,2023,1,95907.0,1.4,129,Gasoline,Automatic,FWD,102605
+Suzuki,S Cross,GLXV,2023,1,79300.0,1.4,129,Gasoline,Automatic,FWD,119635
+Suzuki,S Cross,GLXV 4x4,2023,1,63625.0,1.4,129,Gasoline,Automatic,AWD,134225
+Suzuki,S Cross,GLXV,2023,1,42001.0,1.4,129,Gasoline,Automatic,FWD,129060
+Suzuki,S Cross,GLXV,2023,1,34598.0,1.4,129,Gasoline,Automatic,FWD,136795
+Suzuki,S Cross,GLXV,2022,1,83384.0,1.4,129,Gasoline,Automatic,FWD,100370
+Suzuki,Crossover,GLX,2021,1,61000.0,1.4,129,Gasoline,Automatic,FWD,95000
+Suzuki,Baleno,GLX,2020,2,123000.0,1.2,90,Gasoline,Variable,FWD,40000
+Suzuki,Sx4,GLX,2022,2,45200.0,1.4,129,Gasoline,Variable,FWD,98000
+Suzuki,S Cross,GLXV,2023,1,29611.0,1.4,129,Gasoline,Automatic,FWD,136435
+Suzuki,S Cross,GLX,2022,1,73818.0,1.4,129,Gasoline,Automatic,FWD,117655
+Suzuki,S Cross,GLXV,2023,1,74000.0,1.4,129,Gasoline,Automatic,FWD,126780
+Suzuki,Ignis,GLX,2024,1,12300.0,1.2,83,Gasoline,Variable,FWD,100855
+Suzuki,Ignis,GLX,2021,2,97357.0,1.2,83,Gasoline,Variable,FWD,73775
+Suzuki,Ignis,GLX,2019,1,84327.0,1.3,90,Gasoline,Variable,FWD,64995
+Suzuki,Celerio,GLX,2019,1,99200.0,1.0,68,Gasoline,Robotic,FWD,37995
+Suzuki,Baleno,GLX,2019,2,109000.0,1.2,90,Gasoline,Variable,FWD,43000
+Suzuki,Vitara,GLX,2016,1,163000.0,1.6,119,Gasoline,Automatic,FWD,49000
+Suzuki,Sx4,GLX,2015,3,198000.0,1.6,118,Gasoline,Variable,FWD,32000
+Suzuki,Baleno,GLX,2017,2,166000.0,1.2,90,Gasoline,Variable,FWD,32000
+Suzuki,Baleno,GLX,2017,2,131000.0,1.2,90,Gasoline,Variable,FWD,35000
+Suzuki,Celerio,GLX,2016,2,43000.0,1.0,68,Gasoline,Robotic,FWD,31500
+Suzuki,Ignis,GLX,2021,1,34000.0,1.2,83,Gasoline,Variable,FWD,74990
+Suzuki,Celerio,GLX,2018,1,95000.0,1.0,68,Gasoline,Robotic,FWD,34500
+Suzuki,S Cross,GLX,2022,1,63223.0,1.4,129,Gasoline,Automatic,FWD,99000
+Suzuki,Jimny,GLX,2015,2,140000.0,1.3,85,Gasoline,Automatic,AWD,54900
+Suzuki,Vitara,GLXV,2021,1,86000.0,1.4,129,Gasoline,Automatic,FWD,102900
+Suzuki,Crossover,GLX,2017,3,161800.0,1.4,140,Gasoline,Automatic,FWD,54900
+Suzuki,Baleno,GLX,2017,3,182000.0,1.2,90,Gasoline,Variable,FWD,31000
+Suzuki,Sx4,GLX,2015,4,167000.0,1.6,118,Gasoline,Variable,FWD,32000
+Suzuki,Sx4,GLX,2015,1,202000.0,1.6,118,Gasoline,Variable,FWD,37000
+Suzuki,Crossover,GLX,2019,2,170000.0,1.4,140,Gasoline,Automatic,FWD,56500
+Suzuki,Jimny,GLX,2021,1,53700.0,1.5,102,Gasoline,Automatic,AWD,145000
+Suzuki,Sx4,GLX,2015,3,94000.0,1.6,118,Gasoline,Variable,FWD,45000
+Suzuki,Vitara,GLXV 2T,2016,1,159000.0,1.6,119,Gasoline,Automatic,AWD,57000
+Suzuki,Vitara,GLXV,2016,1,177500.0,1.6,119,Gasoline,Automatic,AWD,60000
+Suzuki,Vitara,GLX,2020,2,101252.0,1.4,140,Gasoline,Automatic,FWD,85000
+Suzuki,S Cross,GLX,2022,1,75000.0,1.4,129,Gasoline,Automatic,FWD,105000
+Suzuki,Swift,GLX Hybrid,2021,1,45000.0,1.2,83,Gasoline,Automatic,FWD,85500
+Suzuki,Vitara,GLXV,2016,1,248000.0,1.6,119,Gasoline,Automatic,AWD,53000
+Suzuki,Ignis,GLX,2020,2,146000.0,1.3,90,Gasoline,Variable,FWD,61500
+Suzuki,Baleno,GLX,2019,3,147000.0,1.2,90,Gasoline,Variable,FWD,39500
+Suzuki,Crossover,GLX,2017,2,156000.0,1.4,140,Gasoline,Automatic,FWD,64000
+Suzuki,Crossover,GLX,2021,1,63000.0,1.4,140,Gasoline,Automatic,FWD,95000
+Suzuki,Vitara,GLXV 2T,2016,2,137700.0,1.6,119,Gasoline,Automatic,AWD,55000
+Suzuki,Sx4,GLX,2016,2,130000.0,1.6,118,Gasoline,Variable,FWD,50000
+Suzuki,Sx4,GLX,2015,2,70000.0,1.6,118,Gasoline,Variable,FWD,49000
+Suzuki,Sx4,GLX,2016,2,71000.0,1.6,118,Gasoline,Variable,FWD,52000
+Suzuki,Vitara,GLXV,2017,3,155000.0,1.6,119,Gasoline,Automatic,AWD,67000
+Suzuki,Vitara,GLXV 2T,2016,2,147000.0,1.6,119,Gasoline,Automatic,AWD,59800
+Suzuki,Crossover,GLX,2018,2,115000.0,1.4,140,Gasoline,Automatic,FWD,60000
+Suzuki,Sx4,GLX,2015,3,160000.0,1.6,118,Gasoline,Variable,FWD,35000
+Suzuki,Jimny,GLX,2022,1,28000.0,1.5,102,Gasoline,Automatic,AWD,158000
+Suzuki,Sx4,GLX,2016,2,60000.0,1.6,118,Gasoline,Variable,FWD,50000
+Suzuki,Vitara,GLX,2021,1,42000.0,1.4,129,Gasoline,Automatic,FWD,107000
+Suzuki,Vitara,GLXV 2T,2016,1,178680.0,1.6,119,Gasoline,Automatic,AWD,65000
+Suzuki,Swift,GLX Hybrid,2023,1,7000.0,1.2,83,Gasoline,Automatic,FWD,94000
+Suzuki,S Cross,GLX,2022,1,57000.0,1.4,129,Gasoline,Automatic,FWD,108000
+Suzuki,Swift,GLX Hybrid,2021,1,105000.0,1.2,83,Gasoline,Automatic,FWD,79000
+Suzuki,Swift,GLX,2019,4,58000.0,1.2,90,Gasoline,Automatic,FWD,59900
+Suzuki,S Cross,GLXV 4x4,2023,1,88000.0,1.4,129,Gasoline,Automatic,AWD,123990
+Suzuki,S Cross,GLX,2024,1,30000.0,1.4,129,Gasoline,Automatic,FWD,129515
+Suzuki,Crossover,GLX,2022,2,98000.0,1.4,129,Gasoline,Automatic,FWD,92905
+Suzuki,Crossover,GLX,2022,1,89500.0,1.4,129,Gasoline,Automatic,FWD,104685
+Suzuki,Swift,GLX Hybrid,2021,2,78800.0,1.2,83,Gasoline,Automatic,FWD,84900
+Suzuki,Swift,GLX,2016,1,100766.0,1.2,94,Gasoline,Automatic,FWD,47715
+Suzuki,S Cross,GLXV,2024,1,17671.0,1.4,129,Gasoline,Automatic,FWD,136995
+Suzuki,S Cross,GLX,2022,1,23478.0,1.4,129,Gasoline,Automatic,FWD,118175
+Suzuki,Crossover,GLX,2021,2,100000.0,1.4,129,Gasoline,Automatic,FWD,88000
+Suzuki,Vitara,GLX,2016,1,71000.0,1.6,119,Gasoline,Automatic,FWD,62000
+Suzuki,Vitara,GLXV,2016,1,62000.0,1.6,119,Gasoline,Automatic,AWD,67500
+Peugeot,3008,Premium,2020,1,77000.0,1.6,180,Gasoline,Automatic,FWD,84500
+Peugeot,2008,Active,2023,1,72000.0,1.5,130,Diesel,Automatic,FWD,82900
+Peugeot,208,GT,2024,1,10000.0,1.2,130,Gasoline,Automatic,FWD,99000
+Peugeot,3008,Active,2020,2,77000.0,1.2,130,Gasoline,Automatic,FWD,67900
+Peugeot,2008,Premium,2020,2,75000.0,1.5,130,Diesel,Automatic,FWD,64900
+Peugeot,2008,Active,2023,1,107365.0,1.5,130,Diesel,Automatic,FWD,83000
+Peugeot,5008,Active,2020,2,96000.0,1.2,130,Gasoline,Automatic,FWD,57800
+Peugeot,208,GT,2022,3,27000.0,1.2,130,Gasoline,Automatic,FWD,79900
+Peugeot,2008,Active Go,2020,2,67000.0,1.2,110,Gasoline,Automatic,FWD,44800
+Peugeot,3008,Active Pack,2022,1,109000.0,1.5,130,Diesel,Automatic,FWD,87999
+Peugeot,2008,Active Go,2019,2,100000.0,1.2,110,Gasoline,Automatic,FWD,38800
+Peugeot,2008,Premium,2021,1,57000.0,1.2,130,Gasoline,Automatic,FWD,74900
+Peugeot,3008,Active Pack,2021,1,65000.0,1.2,130,Gasoline,Automatic,FWD,79000
+Peugeot,3008,Active Pack,2022,2,143000.0,1.5,130,Diesel,Automatic,FWD,71500
+Peugeot,208,Premium,2021,1,86568.0,1.2,130,Gasoline,Automatic,FWD,55000
+Peugeot,308,Active,2015,3,120000.0,1.2,130,Gasoline,Automatic,FWD,16000
+Peugeot,3008,Active,2017,3,95000.0,1.6,120,Diesel,Automatic,FWD,55200
+Peugeot,5008,Premium,2021,2,120000.0,1.6,180,Gasoline,Automatic,FWD,77000
+Peugeot,2008,Premium,2021,1,80000.0,1.2,130,Gasoline,Automatic,FWD,78000
+Peugeot,2008,Active,2021,1,95000.0,1.2,130,Gasoline,Automatic,FWD,75000
+Peugeot,2008,Active,2025,1,45843.0,1.2,130,Gasoline,Automatic,FWD,95770
+Peugeot,3008,Active,2019,1,122000.0,1.5,130,Diesel,Automatic,FWD,57900
+Peugeot,3008,Active,2019,1,98490.0,1.5,130,Diesel,Automatic,FWD,67900
+Peugeot,5008,Active Pack,2024,1,58855.0,1.2,130,Gasoline,Automatic,FWD,131255
+Peugeot,5008,Active Pack,2024,1,28680.0,1.2,130,Gasoline,Automatic,FWD,140995
+Peugeot,5008,Active Pack,2023,1,40264.0,1.2,130,Gasoline,Automatic,FWD,108995
+Peugeot,5008,Premium,2023,1,31125.0,1.2,130,Gasoline,Automatic,FWD,125415
+Peugeot,5008,Active Pack,2023,1,117081.0,1.2,130,Gasoline,Automatic,FWD,87295
+Peugeot,5008,Active Pack,2022,1,73620.0,1.5,130,Diesel,Automatic,FWD,100955
+Peugeot,5008,Premium,2021,1,87519.0,1.6,180,Gasoline,Automatic,FWD,101530
+Peugeot,5008,Premium,2021,1,74053.0,1.6,180,Gasoline,Automatic,FWD,101845
+Peugeot,5008,Active,2020,2,103000.0,1.2,130,Gasoline,Automatic,FWD,70155
+Peugeot,408,Allure Pack,2023,1,45432.0,1.2,130,Gasoline,Automatic,FWD,111515
+Peugeot,408,Allure Pack,2023,1,35854.0,1.2,130,Gasoline,Automatic,FWD,112515
+Peugeot,408,Allure Pack,2023,1,30138.0,1.2,130,Gasoline,Automatic,FWD,112995
+Peugeot,308,Premium,2019,1,105190.0,1.2,130,Gasoline,Automatic,FWD,51005
+Peugeot,3008,Active Pack,2024,1,70764.0,1.5,130,Diesel,Automatic,FWD,127245
+Peugeot,3008,GT,2025,1,6107.0,1.2,136,Gasoline,Robotic,FWD,151995
+Peugeot,3008,Premium,2024,1,44108.0,1.2,130,Gasoline,Automatic,FWD,121225
+Peugeot,2008,Active,2021,1,55000.0,1.2,130,Gasoline,Automatic,FWD,80000
+Peugeot,3008,Premium,2019,2,67000.0,1.2,130,Gasoline,Automatic,FWD,65000
+Peugeot,2008,Active Go,2018,3,95000.0,1.2,110,Gasoline,Automatic,FWD,38000
+Peugeot,5008,Active Pack,2024,1,26000.0,1.2,130,Gasoline,Automatic,FWD,124000
+Peugeot,5008,Active,2018,2,123000.0,1.6,165,Gasoline,Automatic,FWD,59000
+Peugeot,3008,Active Pack,2023,2,97700.0,1.2,130,Gasoline,Automatic,FWD,75000
+Peugeot,3008,Active Pack,2024,1,38892.0,1.5,130,Diesel,Automatic,FWD,133995
+Peugeot,3008,Premium,2024,1,37968.0,1.2,130,Gasoline,Automatic,FWD,124940
+Peugeot,3008,Premium,2024,1,29665.0,1.2,130,Gasoline,Automatic,FWD,121385
+Peugeot,3008,Active Pack,2023,2,43708.0,1.2,130,Gasoline,Automatic,FWD,87415
+Peugeot,3008,Active Pack,2023,1,93240.0,1.5,130,Diesel,Automatic,FWD,105540
+Peugeot,3008,Premium,2023,1,88405.0,1.2,130,Gasoline,Automatic,FWD,96995
+Peugeot,3008,Active Pack,2023,1,86629.0,1.5,130,Diesel,Automatic,FWD,113380
+Peugeot,3008,Active Pack,2023,1,85943.0,1.5,130,Diesel,Automatic,FWD,109805
+Peugeot,3008,Active Pack,2023,1,65614.0,1.2,130,Gasoline,Automatic,FWD,98495
+Peugeot,3008,Active Pack,2023,1,51040.0,1.2,130,Gasoline,Automatic,FWD,99960
+Peugeot,3008,Premium,2023,1,50423.0,1.5,130,Diesel,Automatic,FWD,123045
+Peugeot,3008,Premium,2023,1,44466.0,1.2,130,Gasoline,Automatic,FWD,109245
+Peugeot,3008,Premium,2023,1,37569.0,1.5,130,Diesel,Automatic,FWD,127560
+Peugeot,3008,Premium,2023,1,35770.0,1.2,130,Gasoline,Automatic,FWD,110335
+Peugeot,3008,Active Pack,2023,1,33853.0,1.2,130,Gasoline,Automatic,FWD,102605
+Peugeot,3008,Premium,2023,1,27696.0,1.5,130,Diesel,Automatic,FWD,125710
+Peugeot,3008,Premium,2022,1,92837.0,1.6,180,Gasoline,Automatic,FWD,96355
+Peugeot,3008,Active Pack,2022,1,88307.0,1.5,130,Diesel,Automatic,FWD,92475
+Peugeot,3008,Active Pack,2022,1,79471.0,1.5,130,Diesel,Automatic,FWD,93182
+Peugeot,3008,Premium,2022,1,78705.0,1.5,130,Diesel,Automatic,FWD,110430
+Peugeot,3008,Active Pack,2021,1,37400.0,1.5,130,Diesel,Automatic,FWD,94500
+Peugeot,3008,Premium,2018,4,114200.0,1.6,120,Diesel,Automatic,FWD,58000
+Peugeot,2008,Active Go,2017,3,90000.0,1.2,110,Gasoline,Automatic,FWD,20000
+Peugeot,2008,GT,2023,1,39000.0,1.2,130,Gasoline,Automatic,FWD,100000
+Peugeot,208,Active Pro,2017,4,126340.0,1.2,110,Gasoline,Automatic,FWD,27000
+Peugeot,2008,Active Go,2018,2,124000.0,1.2,110,Gasoline,Automatic,FWD,38000
+Peugeot,3008,Premium,2022,1,74187.0,1.2,130,Gasoline,Automatic,FWD,97325
+Peugeot,3008,Active Pack,2022,1,67978.0,1.6,180,Gasoline,Automatic,FWD,101740
+Peugeot,3008,Active Pack,2022,1,65372.0,1.5,130,Diesel,Automatic,FWD,105375
+Peugeot,3008,Active Pack,2022,1,61753.0,1.5,130,Diesel,Automatic,FWD,106560
+Peugeot,3008,Active Pack,2022,1,51625.0,1.2,130,Gasoline,Automatic,FWD,89915
+Peugeot,3008,Active Pack,2022,1,40946.0,1.5,130,Diesel,Automatic,FWD,113175
+Peugeot,3008,Premium,2022,1,39000.0,1.2,130,Gasoline,Automatic,FWD,105475
+Peugeot,3008,Active Pack,2022,1,35566.0,1.5,130,Diesel,Automatic,FWD,112495
+Peugeot,3008,Premium,2022,1,127210.0,1.5,130,Diesel,Automatic,FWD,89995
+Peugeot,3008,Active Pack,2021,2,88000.0,1.5,130,Diesel,Automatic,FWD,88125
+Peugeot,3008,Active Pack,2021,2,82547.0,1.2,130,Gasoline,Automatic,FWD,63995
+Peugeot,3008,Active,2021,2,76714.0,1.5,130,Diesel,Automatic,FWD,86695
+Peugeot,3008,Active Pack,2021,2,70114.0,1.5,130,Diesel,Automatic,FWD,88125
+Peugeot,3008,Active Pack,2021,1,96653.0,1.5,130,Diesel,Automatic,FWD,87177
+Peugeot,3008,Active Pack,2021,1,95343.0,1.5,130,Diesel,Automatic,FWD,87137
+Peugeot,3008,Active Pack,2021,1,93423.0,1.5,130,Diesel,Automatic,FWD,92610
+Peugeot,3008,Active Pack,2021,1,92874.0,1.2,130,Gasoline,Automatic,FWD,73610
+Peugeot,3008,Active Pack,2021,1,89485.0,1.5,130,Diesel,Automatic,FWD,88617
+Peugeot,3008,Active Pack,2021,1,83454.0,1.6,180,Gasoline,Automatic,FWD,80175
+Peugeot,3008,Active Pack,2021,1,67603.0,1.5,130,Diesel,Automatic,FWD,95672
+Peugeot,3008,Active,2020,2,58000.0,1.5,130,Diesel,Automatic,FWD,89000
+Peugeot,308,Active,2015,2,105000.0,1.2,130,Gasoline,Automatic,FWD,22000
+Peugeot,5008,Active Pack,2021,1,74000.0,1.5,130,Diesel,Automatic,FWD,100000
+Peugeot,3008,Active Pack,2022,1,61000.0,1.2,130,Gasoline,Automatic,FWD,105700
+Peugeot,3008,Premium,2020,1,125000.0,1.2,130,Gasoline,Automatic,FWD,90000
+Peugeot,308,Active,2016,4,90000.0,1.2,130,Gasoline,Automatic,FWD,19000
+Peugeot,2008,Active Go,2020,2,56000.0,1.2,110,Gasoline,Automatic,FWD,45000
+Peugeot,3008,Active,2019,2,85000.0,1.2,130,Gasoline,Automatic,FWD,65000
+Peugeot,208,Premium S,2021,1,60300.0,1.2,130,Gasoline,Automatic,FWD,60000
+Peugeot,3008,Active Pack,2021,1,64967.0,1.5,130,Diesel,Automatic,FWD,95285
+Peugeot,3008,Active,2021,1,59244.0,1.5,130,Diesel,Automatic,FWD,95445
+Peugeot,3008,Premium,2021,1,58919.0,1.2,130,Gasoline,Automatic,FWD,92315
+Peugeot,3008,Active Pack,2021,1,123426.0,1.5,130,Diesel,Automatic,FWD,87560
+Peugeot,3008,Active Pack,2021,1,120018.0,1.5,130,Diesel,Automatic,FWD,87995
+Peugeot,3008,Active,2021,1,105860.0,1.5,130,Diesel,Automatic,FWD,84575
+Peugeot,3008,Active Pack,2021,1,105306.0,1.2,130,Gasoline,Automatic,FWD,72815
+Peugeot,3008,Premium,2020,2,88328.0,1.2,130,Gasoline,Automatic,FWD,70692
+Peugeot,3008,Premium,2020,2,82595.0,1.6,180,Gasoline,Automatic,FWD,81985
+Peugeot,3008,Active,2020,1,99200.0,1.2,130,Gasoline,Automatic,FWD,63992
+Peugeot,3008,Premium,2020,1,93518.0,1.2,130,Gasoline,Automatic,FWD,70922
+Peugeot,3008,Premium,2020,1,82159.0,1.2,130,Gasoline,Automatic,FWD,71707
+Peugeot,3008,Premium,2020,1,79191.0,1.2,130,Gasoline,Automatic,FWD,71650
+Peugeot,3008,Premium,2020,1,74340.0,1.2,130,Gasoline,Automatic,FWD,73925
+Peugeot,3008,Premium,2020,1,57847.0,1.2,130,Gasoline,Automatic,FWD,81695
+Peugeot,3008,Active,2020,1,115000.0,1.5,130,Diesel,Automatic,FWD,78445
+Peugeot,3008,Premium,2020,1,100497.0,1.2,130,Gasoline,Automatic,FWD,83870
+Peugeot,3008,Active,2019,2,97000.0,1.5,130,Diesel,Automatic,FWD,66192
+Peugeot,3008,Active,2019,2,55637.0,1.2,130,Gasoline,Automatic,FWD,65215
+Peugeot,3008,Premium,2019,2,127500.0,1.2,130,Gasoline,Automatic,FWD,61770
+Peugeot,3008,Premium,2021,1,90000.0,1.5,130,Diesel,Automatic,FWD,117000
+Peugeot,308,Active,2017,2,123000.0,1.2,130,Gasoline,Automatic,FWD,22990
+Peugeot,301,Active,2017,2,157000.0,1.6,115,Gasoline,Automatic,FWD,15000
+Peugeot,3008,Active,2017,3,120000.0,1.6,120,Diesel,Automatic,FWD,57000
+Peugeot,208,Access Plus,2017,2,109000.0,1.2,110,Gasoline,Automatic,FWD,24000
+Peugeot,3008,Premium,2021,1,48000.0,1.2,130,Gasoline,Automatic,FWD,100000
+Peugeot,3008,Active Pack,2022,2,64500.0,1.5,130,Diesel,Automatic,FWD,124000
+Peugeot,2008,Active,2023,1,22000.0,1.2,130,Gasoline,Automatic,FWD,110000
+Peugeot,3008,Premium,2017,2,124000.0,1.6,165,Gasoline,Automatic,FWD,62505
+Peugeot,3008,Premium,2017,1,132642.0,1.6,120,Diesel,Automatic,FWD,62905
+Peugeot,208,Premium S,2024,1,40510.0,1.2,130,Gasoline,Automatic,FWD,93722
+Peugeot,208,Premium S,2024,1,26712.0,1.2,130,Gasoline,Automatic,FWD,101045
+Peugeot,208,Premium S,2023,1,77818.0,1.2,130,Gasoline,Automatic,FWD,77645
+Peugeot,208,Premium S,2023,1,6930.0,1.2,130,Gasoline,Automatic,FWD,95265
+Peugeot,208,Premium S,2023,1,57721.0,1.2,130,Gasoline,Automatic,FWD,86645
+Peugeot,208,Premium S,2023,1,46098.0,1.2,130,Gasoline,Automatic,FWD,81725
+Peugeot,208,Premium S,2023,1,45039.0,1.2,130,Gasoline,Automatic,FWD,86645
+Peugeot,208,Premium S,2023,1,34899.0,1.2,130,Gasoline,Automatic,FWD,89025
+Peugeot,208,Premium S,2023,1,16721.0,1.2,130,Gasoline,Automatic,FWD,91515
+Peugeot,208,Premium S,2022,1,42624.0,1.2,130,Gasoline,Automatic,FWD,82055
+Peugeot,208,Active,2020,2,80246.0,1.2,110,Gasoline,Automatic,FWD,48880
+Peugeot,208,Active,2020,2,75795.0,1.2,110,Gasoline,Automatic,FWD,45352
+Peugeot,208,Active,2020,2,61321.0,1.2,110,Gasoline,Automatic,FWD,52615
+Peugeot,2008,GT,2024,1,35000.0,1.2,130,Gasoline,Automatic,FWD,115855
+Peugeot,3008,Premium,2021,1,27000.0,1.2,130,Gasoline,Automatic,FWD,129000
+Peugeot,2008,Access,2015,3,150000.0,1.2,82,Gasoline,Robotic,FWD,10000
+Peugeot,3008,Active,2019,4,97000.0,1.5,130,Diesel,Automatic,FWD,65000
+Peugeot,2008,GT,2024,1,28874.0,1.2,130,Gasoline,Automatic,FWD,115955
+Peugeot,2008,Premium,2023,1,78858.0,1.2,130,Gasoline,Automatic,FWD,89830
+Peugeot,2008,GT,2023,1,61731.0,1.2,130,Gasoline,Automatic,FWD,99925
+Peugeot,2008,GT,2023,1,60344.0,1.2,130,Gasoline,Automatic,FWD,97855
+Peugeot,2008,GT,2023,1,59017.0,1.2,130,Gasoline,Automatic,FWD,97935
+Peugeot,2008,GT,2023,1,35401.0,1.2,130,Gasoline,Automatic,FWD,103690
+Peugeot,2008,Premium,2023,1,33717.0,1.2,130,Gasoline,Automatic,FWD,100810
+Peugeot,2008,Premium,2023,1,30817.0,1.2,130,Gasoline,Automatic,FWD,100592
+Peugeot,2008,GT,2023,1,33157.0,1.2,130,Gasoline,Automatic,FWD,101715
+Peugeot,2008,Premium,2023,1,29449.0,1.2,130,Gasoline,Automatic,FWD,100830
+Peugeot,2008,GT,2023,1,29021.0,1.2,130,Gasoline,Automatic,FWD,103717
+Peugeot,2008,GT,2023,1,28086.0,1.2,130,Gasoline,Automatic,FWD,111325
+Peugeot,2008,Premium,2023,1,27128.0,1.2,130,Gasoline,Automatic,FWD,95655
+Peugeot,2008,GT,2023,1,22655.0,1.2,130,Gasoline,Automatic,FWD,110145
+Peugeot,2008,Premium,2023,1,21075.0,1.2,130,Gasoline,Automatic,FWD,102485
+Peugeot,2008,Premium,2023,1,20106.0,1.2,130,Gasoline,Automatic,FWD,103685
+Peugeot,2008,Premium,2023,1,19061.0,1.2,130,Gasoline,Automatic,FWD,101615
+Peugeot,2008,GT,2023,1,18779.0,1.2,130,Gasoline,Automatic,FWD,110115
+Peugeot,2008,GT,2023,1,16611.0,1.2,130,Gasoline,Automatic,FWD,102650
+Peugeot,2008,Premium,2023,1,12496.0,1.2,130,Gasoline,Automatic,FWD,106445
+Peugeot,3008,Premium,2020,2,80000.0,1.2,130,Gasoline,Automatic,FWD,110000
+Peugeot,3008,Premium,2017,3,94000.0,1.6,165,Gasoline,Automatic,FWD,74000
+Peugeot,208,Access Plus,2018,3,115000.0,1.2,110,Gasoline,Automatic,FWD,32000
+Peugeot,208,Active Pro,2016,2,163000.0,1.2,110,Gasoline,Automatic,FWD,20000
+Peugeot,3008,Active,2020,2,31000.0,1.6,180,Gasoline,Automatic,FWD,95000
+Peugeot,3008,Active,2018,2,65000.0,1.6,120,Diesel,Automatic,FWD,79000
+Peugeot,2008,Premium,2020,1,70000.0,1.5,130,Diesel,Automatic,FWD,72000
+Peugeot,2008,Active,2022,1,77067.0,1.2,130,Gasoline,Automatic,FWD,83960
+Peugeot,2008,Active,2022,1,71698.0,1.5,130,Diesel,Automatic,FWD,81995
+Peugeot,2008,Active,2022,1,68700.0,1.5,130,Diesel,Automatic,FWD,81415
+Peugeot,2008,Active,2022,1,49071.0,1.2,130,Gasoline,Automatic,FWD,89995
+Peugeot,2008,Active,2022,1,46163.0,1.5,130,Diesel,Automatic,FWD,91705
+Peugeot,2008,Active,2022,1,45080.0,1.2,130,Gasoline,Automatic,FWD,89555
+Peugeot,2008,Premium,2022,1,37162.0,1.2,130,Gasoline,Automatic,FWD,91675
+Peugeot,2008,Active,2022,1,37148.0,1.2,130,Gasoline,Automatic,FWD,92460
+Peugeot,2008,Active,2022,1,30700.0,1.2,130,Gasoline,Automatic,FWD,95985
+Peugeot,2008,Active,2022,1,29892.0,1.2,130,Gasoline,Automatic,FWD,91705
+Peugeot,2008,GT,2022,1,29885.0,1.2,130,Gasoline,Automatic,FWD,97675
+Peugeot,2008,Active,2022,1,29480.0,1.2,130,Gasoline,Automatic,FWD,91682
+Peugeot,2008,Active,2022,1,118253.0,1.5,130,Diesel,Automatic,FWD,65345
+Peugeot,2008,GT,2021,2,71028.0,1.2,130,Gasoline,Automatic,FWD,77682
+Peugeot,2008,Premium,2021,2,46438.0,1.2,130,Gasoline,Automatic,FWD,77915
+Peugeot,2008,GT,2021,2,27837.0,1.2,130,Gasoline,Automatic,FWD,81995
+Peugeot,2008,Premium,2021,1,98558.0,1.2,130,Gasoline,Automatic,FWD,74215
+Peugeot,2008,Active,2021,1,96686.0,1.5,130,Diesel,Automatic,FWD,69352
+Peugeot,2008,Active,2021,1,83902.0,1.2,130,Gasoline,Automatic,FWD,75995
+Peugeot,2008,Premium,2021,1,80318.0,1.5,130,Diesel,Automatic,FWD,77312
+Peugeot,3008,Premium,2022,1,19200.0,1.2,130,Gasoline,Automatic,FWD,120000
+Peugeot,3008,Active Pack,2023,1,15500.0,1.5,130,Diesel,Automatic,FWD,140000
+Peugeot,3008,Premium,2020,1,85000.0,1.5,130,Diesel,Automatic,FWD,110000
+Peugeot,5008,Premium,2020,2,95000.0,1.6,180,Gasoline,Automatic,FWD,108000
+Peugeot,3008,Active,2019,3,91000.0,1.5,130,Diesel,Automatic,FWD,95000
+Peugeot,3008,Active Pack,2021,1,59000.0,1.2,130,Gasoline,Automatic,FWD,107000
+Peugeot,208,Active Pro,2016,1,135000.0,1.2,110,Gasoline,Automatic,FWD,25000
+Peugeot,208,Access,2016,2,69000.0,1.2,110,Gasoline,Automatic,FWD,32000
+Peugeot,5008,Active,2018,2,125000.0,1.6,165,Gasoline,Automatic,FWD,68000
+Peugeot,2008,Premium,2021,1,74501.0,1.2,130,Gasoline,Automatic,FWD,79415
+Peugeot,2008,GT,2021,1,54329.0,1.2,130,Gasoline,Automatic,FWD,81990
+Peugeot,2008,Active,2021,1,46482.0,1.2,130,Gasoline,Automatic,FWD,79985
+Peugeot,2008,Active,2021,1,3614.0,1.2,130,Gasoline,Automatic,FWD,88790
+Peugeot,2008,GT,2021,1,33776.0,1.2,130,Gasoline,Automatic,FWD,89455
+Peugeot,2008,Active,2021,1,31279.0,1.2,130,Gasoline,Automatic,FWD,80840
+Peugeot,2008,Premium,2021,1,21190.0,1.2,130,Gasoline,Automatic,FWD,86435
+Peugeot,2008,Active,2021,1,103181.0,1.2,130,Gasoline,Automatic,FWD,73575
+Peugeot,2008,Premium,2020,3,101786.0,1.5,130,Diesel,Automatic,FWD,63472
+Peugeot,2008,Premium,2020,1,83075.0,1.2,130,Gasoline,Automatic,FWD,75872
+Peugeot,2008,Premium,2020,1,74134.0,1.2,130,Gasoline,Automatic,FWD,73995
+Peugeot,2008,Active,2020,1,33040.0,1.2,130,Gasoline,Automatic,FWD,73685
+Peugeot,5008,Active,2018,2,148500.0,1.6,165,Gasoline,Automatic,FWD,56000
+Peugeot,208,Active Pro,2016,2,150759.0,1.2,110,Gasoline,Automatic,FWD,24000
+Peugeot,2008,Active Go,2018,2,141000.0,1.2,110,Gasoline,Automatic,FWD,37000
+Peugeot,2008,Active Go,2017,1,42155.0,1.2,110,Gasoline,Automatic,FWD,45752
+Peugeot,2008,Active,2020,2,113000.0,1.5,130,Diesel,Automatic,FWD,62000
+Peugeot,3008,Premium,2018,2,115000.0,1.6,165,Gasoline,Automatic,FWD,54900
+Peugeot,3008,Premium,2020,1,106000.0,1.2,130,Gasoline,Automatic,FWD,76900
+Peugeot,3008,Active,2020,1,90000.0,1.2,130,Gasoline,Automatic,FWD,69900
+Peugeot,2008,Premium,2017,4,94000.0,1.2,110,Gasoline,Automatic,FWD,29900
+Peugeot,3008,Active Pack,2022,1,26000.0,1.2,130,Gasoline,Automatic,FWD,125000
+Peugeot,3008,Premium,2018,2,160000.0,1.6,120,Diesel,Automatic,FWD,77000
+Peugeot,2008,Active,2020,2,23000.0,1.2,130,Gasoline,Automatic,FWD,75000
+Peugeot,3008,Active Pack,2021,2,64000.0,1.5,130,Diesel,Automatic,FWD,115500
+Peugeot,208,Active,2015,3,126000.0,1.6,120,Gasoline,Automatic,FWD,27000
+Peugeot,3008,Active,2020,2,86000.0,1.2,130,Gasoline,Automatic,FWD,59990
+Peugeot,208,GT,2023,1,39000.0,1.2,130,Gasoline,Automatic,FWD,89990
+Peugeot,2008,Active,2016,3,169000.0,1.2,110,Gasoline,Automatic,FWD,12990
+Peugeot,3008,Active,2021,1,32000.0,1.5,130,Diesel,Automatic,FWD,109990
+Peugeot,208,Access Plus,2017,3,109000.0,1.2,110,Gasoline,Automatic,FWD,16490
+Peugeot,3008,Active,2017,2,179000.0,1.6,120,Diesel,Automatic,FWD,38990
+Peugeot,3008,Premium,2021,1,38500.0,1.2,130,Gasoline,Automatic,FWD,122000
+Peugeot,3008,Premium,2018,3,118000.0,1.6,120,Diesel,Automatic,FWD,80000
+Peugeot,208,Active,2015,3,45000.0,1.2,110,Gasoline,Automatic,FWD,29000
+Peugeot,208,Access,2018,2,113000.0,1.2,110,Gasoline,Automatic,FWD,32000
+Peugeot,2008,Active,2016,2,75000.0,1.6,120,Gasoline,Automatic,FWD,43000
+Peugeot,3008,Active Pack,2022,1,109000.0,1.6,180,Gasoline,Automatic,FWD,84990
+Peugeot,2008,Premium,2021,1,80640.0,,136,Electro,Automatic,FWD,77900
+Peugeot,208,Access,2017,2,147000.0,1.2,110,Gasoline,Automatic,FWD,18500
+Peugeot,3008,Active,2017,2,182000.0,1.6,120,Diesel,Automatic,FWD,55000
+Peugeot,2008,Premium,2017,2,69000.0,1.2,110,Gasoline,Automatic,FWD,43000
+Peugeot,3008,Active,2017,2,129000.0,1.6,120,Diesel,Automatic,FWD,65500
+Peugeot,301,Active,2017,2,90000.0,1.6,115,Gasoline,Automatic,FWD,25000
+Peugeot,3008,Premium,2019,3,67000.0,1.2,130,Gasoline,Automatic,FWD,74000
+Peugeot,308,Active,2015,3,180000.0,1.2,130,Gasoline,Automatic,FWD,19000
+Peugeot,3008,Active,2020,1,64800.0,1.2,130,Gasoline,Automatic,FWD,104000
+Peugeot,208,Premium S,2023,1,10000.0,1.2,130,Gasoline,Automatic,FWD,105000
+Peugeot,301,Active,2015,4,170000.0,1.2,82,Gasoline,Robotic,FWD,11000
+Peugeot,208,GT,2023,1,9100.0,1.2,130,Gasoline,Automatic,FWD,119000
+Peugeot,3008,Active,2020,1,37500.0,1.5,130,Diesel,Automatic,FWD,112000
+Peugeot,3008,Active,2017,4,190000.0,1.6,120,Diesel,Automatic,FWD,60000
+Peugeot,3008,Active,2020,1,24000.0,1.5,130,Diesel,Automatic,FWD,120000
+Peugeot,3008,Premium,2019,3,48000.0,1.6,180,Gasoline,Automatic,FWD,100000
+Peugeot,3008,Active,2019,2,130000.0,1.5,130,Diesel,Automatic,FWD,101000
+Peugeot,2008,Active Go,2016,4,107000.0,1.2,110,Gasoline,Automatic,FWD,35000
+Peugeot,3008,Active,2019,3,135000.0,1.5,130,Diesel,Automatic,FWD,81000
+Peugeot,3008,Active,2017,1,55300.0,1.6,120,Diesel,Automatic,FWD,81000
+Peugeot,2008,Access,2015,3,165000.0,1.2,82,Gasoline,Robotic,FWD,22000
+Peugeot,3008,Premium,2017,1,57000.0,1.6,120,Diesel,Automatic,FWD,88000
+Peugeot,208,Active Pro,2016,2,122000.0,1.2,110,Gasoline,Automatic,FWD,27000
+Peugeot,2008,Premium,2020,1,54000.0,1.5,130,Diesel,Automatic,FWD,92000
+Peugeot,5008,Active,2019,1,88000.0,1.5,130,Diesel,Automatic,FWD,95000
+Peugeot,3008,Premium,2019,1,92000.0,1.6,180,Gasoline,Automatic,FWD,77000
+Peugeot,3008,Premium,2019,3,67500.0,1.2,130,Gasoline,Automatic,FWD,94000
+Peugeot,3008,Active,2018,2,130000.0,1.6,165,Gasoline,Automatic,FWD,71000
+Peugeot,3008,Premium,2021,1,71100.0,1.6,180,Gasoline,Automatic,FWD,120000
+Peugeot,3008,Premium,2018,2,88000.0,1.6,120,Diesel,Automatic,FWD,94000
+Peugeot,3008,Premium,2018,1,132000.0,1.6,165,Gasoline,Automatic,FWD,82000
+Peugeot,2008,Active,2015,2,158000.0,1.6,120,Gasoline,Automatic,FWD,18400
+Peugeot,5008,Premium,2020,2,115000.0,1.6,180,Gasoline,Automatic,FWD,90000
+Peugeot,3008,Premium,2021,1,42000.0,1.6,180,Gasoline,Automatic,FWD,130000
+Peugeot,3008,Premium,2021,1,64000.0,1.5,130,Diesel,Automatic,FWD,114000
+Peugeot,3008,Premium,2019,2,131000.0,1.2,130,Gasoline,Automatic,FWD,75000
+Peugeot,301,Active,2016,2,60000.0,1.2,82,Gasoline,Robotic,FWD,21600
+Peugeot,3008,Premium,2020,2,40600.0,1.2,130,Gasoline,Automatic,FWD,114000
+Peugeot,208,Active,2015,3,180000.0,1.2,110,Gasoline,Automatic,FWD,20000
+Peugeot,3008,Active Pack,2024,2,3000.0,1.5,130,Diesel,Automatic,FWD,175000
+Peugeot,3008,Premium,2017,2,52000.0,1.6,165,Gasoline,Automatic,FWD,95000
+Peugeot,2008,Premium,2017,2,70000.0,1.2,110,Gasoline,Automatic,FWD,53000
+Peugeot,3008,Premium,2018,2,90000.0,1.6,165,Gasoline,Automatic,FWD,90000
+Peugeot,3008,Active,2020,1,89000.0,1.2,130,Gasoline,Automatic,FWD,64990
+Peugeot,3008,Active Pack,2021,2,54000.0,1.5,130,Diesel,Automatic,FWD,104990
+Peugeot,2008,Active Go,2019,2,128000.0,1.2,110,Gasoline,Automatic,FWD,36500
+Peugeot,3008,Active,2019,2,110000.0,1.5,130,Diesel,Automatic,FWD,72900
+Peugeot,5008,Premium,2018,2,112048.0,1.6,165,Gasoline,Automatic,FWD,69132
+Peugeot,3008,Premium,2023,1,49184.0,1.5,130,Diesel,Automatic,FWD,121280
+Peugeot,3008,Premium,2022,1,54026.0,1.2,130,Gasoline,Automatic,FWD,101165
+Peugeot,3008,Active Pack,2022,1,101590.0,1.6,180,Gasoline,Automatic,FWD,93885
+Peugeot,208,Premium S,2023,1,19819.0,1.2,130,Gasoline,Automatic,FWD,90645
+Peugeot,2008,Premium,2022,1,82928.0,1.5,130,Diesel,Automatic,FWD,81125
+Peugeot,2008,Premium,2022,1,75960.0,,136,Electro,Automatic,FWD,74505
+Peugeot,2008,Active,2021,2,58119.0,1.2,130,Gasoline,Automatic,FWD,72985
+Peugeot,2008,Active Go,2016,3,115000.0,1.2,110,Gasoline,Automatic,FWD,19999
+Peugeot,5008,Active Pack,2021,1,105000.0,1.2,130,Gasoline,Automatic,FWD,78000
+Peugeot,3008,Active Pack,2022,1,165000.0,1.5,130,Diesel,Automatic,FWD,78900
+Peugeot,2008,Active,2022,1,150000.0,1.5,130,Diesel,Automatic,FWD,62000
+Subaru,Xv,Base,2015,1,156000.0,1.6,114,Gasoline,Variable,AWD,28900
+Subaru,Xv,Crosstrek,2023,1,124011.0,2.0,152,Gasoline,Variable,AWD,98000
+Subaru,Xv,Premium,2018,1,138000.0,1.6,114,Gasoline,Variable,AWD,55900
+Subaru,Forester,Sport,2021,1,136026.0,2.5,182,Gasoline,Variable,AWD,120157
+Subaru,Forester,Sport,2019,1,128000.0,2.5,182,Gasoline,Variable,AWD,109990
+Subaru,Xv,Base,2015,4,160000.0,2.0,150,Gasoline,Variable,AWD,42000
+Subaru,Forester,Sport,2019,2,187000.0,2.5,182,Gasoline,Variable,AWD,89990
+Subaru,Xv,Classic,2020,3,179000.0,1.6,114,Gasoline,Variable,AWD,60000
+Subaru,Xv,Base,2016,4,198000.0,1.6,114,Gasoline,Variable,AWD,45000
+Subaru,Forester,Sport,2020,2,53444.0,2.5,182,Gasoline,Variable,AWD,134000
+Subaru,Xv,Classic,2018,2,190000.0,1.6,114,Gasoline,Variable,AWD,53000
+Subaru,Xv,Base,2017,2,165000.0,1.6,114,Gasoline,Variable,AWD,44900
+Subaru,Forester,X,2015,3,171000.0,2.0,150,Gasoline,Variable,AWD,60000
+Subaru,Forester,X,2023,1,14000.0,2.5,182,Gasoline,Variable,AWD,177000
+Subaru,Forester,Z,2020,1,81000.0,2.5,182,Gasoline,Variable,AWD,108000
+Subaru,Forester,Sport,2020,1,83000.0,2.5,182,Gasoline,Variable,AWD,143000
+Subaru,Xv,Classic,2019,1,83000.0,2.0,152,Gasoline,Variable,AWD,88000
+Subaru,Forester,Z,2017,1,170000.0,2.0,150,Gasoline,Variable,AWD,65000
+Subaru,Xv,Crosstrek,2019,1,120000.0,2.0,152,Gasoline,Variable,AWD,91000
+Subaru,Forester,X,2015,3,213000.0,2.0,150,Gasoline,Variable,AWD,58000
+Subaru,Xv,Kyoto,2017,2,123000.0,1.6,114,Gasoline,Variable,AWD,61000
+Subaru,Xv,Base,2017,3,312000.0,1.6,114,Gasoline,Variable,AWD,52000
+Subaru,Forester,Z,2017,2,150510.0,2.0,150,Gasoline,Variable,AWD,74000
+Subaru,Forester,Z,2018,1,105000.0,2.0,150,Gasoline,Variable,AWD,85000
+Subaru,Forester,X,2015,1,177000.0,2.0,150,Gasoline,Variable,AWD,65000
+Subaru,Forester,X,2020,2,93000.0,2.5,182,Gasoline,Variable,AWD,116000
+Subaru,Forester,Sport,2020,2,62500.0,2.5,182,Gasoline,Variable,AWD,143500
+Subaru,Xv,Classic,2018,1,163500.0,2.0,152,Gasoline,Variable,AWD,70000
+Subaru,Forester,X,2021,3,60000.0,2.5,182,Gasoline,Variable,AWD,140000
+Subaru,Xv,Base,2016,1,108000.0,1.6,114,Gasoline,Variable,AWD,51500
+Subaru,Xv,Base,2017,3,115000.0,1.6,114,Gasoline,Variable,AWD,55000
+Subaru,Xv,Kyoto,2017,2,205000.0,1.6,114,Gasoline,Variable,AWD,48000
+Subaru,Xv,Kyoto,2017,1,147600.0,1.6,114,Gasoline,Variable,AWD,57000
+Subaru,Xv,Base,2015,2,126600.0,1.6,114,Gasoline,Variable,AWD,52000
+Subaru,Forester,X,2018,2,150000.0,2.0,150,Gasoline,Variable,AWD,81000
+Subaru,Forester,X,2022,1,78000.0,2.5,182,Gasoline,Variable,AWD,140000
+Subaru,Xv,Premium,2016,1,145000.0,1.6,114,Gasoline,Variable,AWD,57000
+Subaru,Xv,Crosstrek,2022,2,126000.0,2.0,152,Gasoline,Variable,AWD,97900
+Subaru,Xv,Crosstrek,2022,2,125000.0,2.0,152,Gasoline,Variable,AWD,94900
+Subaru,Forester,Sport,2022,1,85000.0,2.5,182,Gasoline,Variable,AWD,155000
+Subaru,Xv,Premium,2017,2,93400.0,1.6,114,Gasoline,Variable,AWD,66000
+Subaru,Xv,Base,2017,1,160000.0,2.0,150,Gasoline,Variable,AWD,68000
+Ford,Kuga,Trend X,2017,2,114000.0,1.5,182,Gasoline,Automatic,FWD,45900
+Ford,Kuga,Trend,2016,2,136000.0,1.5,182,Gasoline,Automatic,FWD,29900
+Ford,Focus,Titanium,2017,1,98000.0,1.5,150,Gasoline,Automatic,FWD,25500
+Ford,Kuga,Trend X,2020,2,129000.0,1.5,175,Gasoline,Automatic,FWD,52500
+Ford,Kuga,Titanium,2019,2,129000.0,1.5,175,Gasoline,Automatic,FWD,49990
+Ford,Edge,Titanium Plus,2016,3,175500.0,3.5,285,Gasoline,Automatic,AWD,49900
+Ford,Kuga,Trend X,2017,2,113000.0,1.5,182,Gasoline,Automatic,FWD,46900
+Ford,Edge,Titanium Plus,2017,2,167900.0,3.5,285,Gasoline,Automatic,AWD,64900
+Ford,Explorer,Limited Luxury,2018,3,84500.0,3.5,290,Gasoline,Automatic,FWD,109900
+Ford,Kuga,Titanium,2015,4,160000.0,1.5,182,Gasoline,Automatic,AWD,34900
+Ford,Kuga,Trend X,2018,3,113400.0,1.5,182,Gasoline,Automatic,FWD,49000
+Ford,Kuga,Trend X,2019,2,145000.0,1.5,175,Gasoline,Automatic,FWD,50000
+Ford,Kuga,Titanium,2020,1,97000.0,1.5,175,Gasoline,Automatic,FWD,82750
+Ford,Edge,Titanium,2017,2,113000.0,2.0,245,Gasoline,Automatic,FWD,86000
+Ford,Focus,Trend,2016,2,212000.0,1.5,150,Gasoline,Automatic,FWD,23000
+Ford,Focus,Trend,2017,2,142000.0,1.5,150,Gasoline,Automatic,FWD,32000
+Ford,Kuga,Trend X,2018,2,127000.0,1.5,182,Gasoline,Automatic,FWD,60000
+Ford,Edge,Titanium,2017,1,54000.0,2.0,245,Gasoline,Automatic,FWD,97000
+Ford,Kuga,Titanium,2017,2,177000.0,1.5,182,Gasoline,Automatic,FWD,45000
+Ford,Focus,Titanium,2016,3,180000.0,1.5,150,Gasoline,Automatic,FWD,32000
+Ford,Edge,Titanium,2019,1,100000.0,2.0,245,Gasoline,Automatic,FWD,120000
+Ford,Edge,Titanium Plus,2017,2,93124.0,3.5,285,Gasoline,Automatic,AWD,99000
+Ford,Kuga,Titanium,2018,2,152000.0,1.5,182,Gasoline,Automatic,FWD,51000
+Ford,Explorer,Limited,2017,1,179269.0,3.5,290,Gasoline,Automatic,FWD,120000
+Ford,Explorer,Limited Luxury,2016,2,119000.0,3.5,290,Gasoline,Automatic,FWD,105000
+Ford,Focus,Trend,2016,2,170000.0,1.5,150,Gasoline,Automatic,FWD,35500
+Ford,Kuga,Trend X,2019,1,60000.0,1.5,175,Gasoline,Automatic,FWD,72500
+Ford,Focus,Titanium,2016,2,240000.0,1.5,150,Gasoline,Automatic,FWD,19500
+Ford,Explorer,Limited Luxury,2016,3,130000.0,3.5,290,Gasoline,Automatic,FWD,79900

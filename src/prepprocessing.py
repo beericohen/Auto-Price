@@ -33,5 +33,5 @@ def prepprocessing():
     dummies.to_csv(DATA_PATH, index=False)
     print(f"Saved: preprocessing.csv  ({len(dummies)} rows, {len(dummies.columns)} columns)")
 
-
-prepprocessing()
+if __name__ == '__main__':
+    prepprocessing()

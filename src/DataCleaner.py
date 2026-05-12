@@ -40,11 +40,27 @@ def cleanData():
     print(f'Rare models removed: {rare_models}')
     df = df[~df['model'].isin(rare_models)]
 
+    # Removing submodels that appear less than 3 times (keeping NaN rows)
+    submodel_counts = df['submodel'].value_counts()
+    rare_submodels = submodel_counts[submodel_counts < 3].index.tolist()
+    print(f'Rare submodels removed: {rare_submodels}')
+    df = df[df['submodel'].isna() | ~df['submodel'].isin(rare_submodels)]
+
+
+    #Removing color col
+    df = df.drop(columns=['body_color'])
     print(f'After cleaning: {len(df)} rows')
+
+    # Instead of 3, use 20 minimum appearances
+    submodel_counts = df['submodel'].value_counts()
+    rare_submodels = submodel_counts[submodel_counts < 20].index.tolist()
+    df['submodel'] = df['submodel'].apply(lambda x: 'Other' if x in rare_submodels else x)
 
     # Saving
     clean_path = os.path.join(DATA_DIR, 'autoboom_clean.csv')
     df.to_csv(clean_path, index=False)
     print('\nSaved: autoboom_clean.csv')
 
-cleanData()
+
+if __name__ == '__main__':
+    cleanData()
