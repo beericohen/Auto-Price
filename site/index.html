@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="AI-powered used car price estimator for the Israeli market." />
+<title>AutoPrice — Israeli Used Car Price Estimator</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+<div class="bg-glow glow-one"></div><div class="bg-glow glow-two"></div>
+<header class="nav"><a class="brand" href="#top"><span class="brand-mark">₪</span><span>AutoPrice</span></a><nav><a href="#predict">Predict</a><a href="#how">How it works</a><a href="https://github.com/beericohen/Auto-Price" target="_blank" rel="noreferrer">GitHub ↗</a></nav></header>
+<main id="top">
+<section class="hero"><div class="eyebrow">ISRAELI USED-CAR MARKET · MACHINE LEARNING</div><h1>Know what a used car<br><span>should cost.</span></h1><p class="hero-copy">Estimate a fair market price from the car’s age, mileage, ownership history and specifications — powered by the project’s XGBoost model.</p><div class="hero-actions"><a class="button primary" href="#predict">Estimate a price <span>→</span></a><a class="button ghost" href="#how">Explore the model</a></div><div class="trust-row"><span>✓ Client-side prediction</span><span>✓ No account required</span><span>✓ Prices in ₪</span></div></section>
+<section class="app-shell" id="predict"><div class="section-heading"><div><div class="eyebrow">PRICE ESTIMATOR</div><h2>Tell us about the car</h2></div><div id="model-status" class="status loading">Loading model…</div></div>
+<form id="prediction-form"><div class="form-grid">
+<label>Manufacturer<select id="manufacturer" name="manufacturer" required></select></label><label>Model<select id="model" name="model" required></select></label><label>Submodel<select id="submodel" name="submodel" required></select></label>
+<label>Year<input id="year" name="year" type="number" min="1990" max="2030" value="2020" required></label><label>Mileage (km)<input id="mileage" name="mileage" type="number" min="0" max="1000000" step="1000" value="50000" required></label><label>Previous owners<input id="hand" name="hand" type="number" min="1" max="10" value="1" required></label>
+<label>Engine size (L)<input id="engine_liters" name="engine_liters" type="number" min="0.1" max="10" step="0.1" value="1.6" required></label><label>Horsepower<input id="horsepower" name="horsepower" type="number" min="20" max="1500" value="110" required></label><label>Fuel type<select id="fuel" name="fuel" required></select></label><label>Transmission<select id="transmission" name="transmission" required></select></label><label>Drive type<select id="drive_type" name="drive_type" required></select></label>
+</div><button class="button primary full" id="predict-button" type="submit" disabled>Calculate estimated price <span>→</span></button><p class="form-note">This is an estimate, not a guaranteed sale price. Real-world value can vary with condition, trim, location and market timing.</p></form>
+<div class="result" id="result" hidden><div><div class="eyebrow">ESTIMATED MARKET PRICE</div><div class="price" id="price">₪—</div><p id="result-summary"></p></div><div class="result-side"><span>Model</span><strong>XGBoost Fine</strong><span>Validation R²</span><strong>0.904</strong></div></div></section>
+<section class="how" id="how"><div class="eyebrow">UNDER THE HOOD</div><h2>From listing data to a price</h2><div class="steps"><article><span>01</span><h3>Clean</h3><p>Used-car listings are cleaned and transformed into a consistent feature set.</p></article><article><span>02</span><h3>Encode</h3><p>Manufacturer, model, submodel and other categories become model-ready features.</p></article><article><span>03</span><h3>Predict</h3><p>The fine-tuned XGBoost regressor runs directly in your browser — no Python server required.</p></article></div></section>
+<section class="metrics"><div><strong>₪8,928</strong><span>MAE</span></div><div><strong>₪13,216</strong><span>RMSE</span></div><div><strong>0.904</strong><span>R²</span></div><div><strong>3,145+</strong><span>Clean listings</span></div></section>
+</main><footer><span>AutoPrice · Built for the Israeli used-car market</span><a href="https://github.com/beericohen/Auto-Price" target="_blank" rel="noreferrer">View source on GitHub ↗</a></footer>
+<script src="./app.js" defer></script>
+</body></html>
