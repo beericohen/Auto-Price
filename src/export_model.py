@@ -29,7 +29,7 @@ import joblib
 from path import *
 
 # ---- EDIT THESE IF YOUR FILES LIVE ELSEWHERE -----------------------------
-OUT_DIR = os.path.join("site", "assets", "data")
+OUT_DIR = os.path.join("assets", "data")
 # ---------------------------------------------------------------------------
 
 NUMERIC_COLS = ["year", "hand", "engine_liters", "horsepower", "mileage"]
