@@ -8,31 +8,19 @@ The project is designed as a **static GitHub Pages application** — no Streamli
 
 ## 🎯 Model
 
-The current production model is the fine-tuned XGBoost regressor.
+The current production model is Neural Network results
 
 | Metric | Validation result |
 |---|---:|
-| MAE | ₪8,928 |
-| RMSE | ₪13,216 |
-| R² | 0.904 |
+| MAE | ₪8480 |
+| RMSE | ₪12,023 |
+| R² | 0.8967 |
 
 The dataset contains roughly 3,145 cleaned listings across manufacturers including Kia, Toyota, Hyundai, Skoda, Mazda, Nissan, Chevrolet, Honda, Mitsubishi, Peugeot, Suzuki, Audi, Ford and Subaru.
 
 ## 🖥️ Frontend
 
 The new UI lives in `site/` and uses plain HTML, CSS and JavaScript rather than Streamlit. It is responsive, accessible, and runs the prediction directly in the browser.
-
-### Why GitHub Pages?
-
-GitHub Pages is static hosting, so it cannot directly execute Python or load a `.pkl` model on the server. The deployment workflow solves this by:
-
-1. Installing the Python ML dependencies in GitHub Actions.
-2. Loading `Models/XGBoost_fine.pkl` and the existing scalers.
-3. Exporting the model's trees and preprocessing metadata to `site/assets/*.json`.
-4. Publishing `site/` with GitHub Pages.
-5. Running inference in the visitor's browser.
-
-This keeps the public demo simple and avoids running a backend just to make a prediction.
 
 ## 📁 Project structure
 
@@ -41,7 +29,6 @@ Auto-Price/
 ├── .github/workflows/pages.yml   # Build + deploy GitHub Pages
 ├── Models/                       # Trained ML models
 ├── data/                         # Training data and scalers
-├── scripts/export_model.py       # Converts XGBoost to browser JSON
 ├── site/
 │   ├── index.html                # Public web app
 │   ├── styles.css                # Responsive UI
@@ -66,18 +53,6 @@ python -m http.server 8000 --directory site
 Then open `http://localhost:8000`.
 
 > Do not open `index.html` directly with `file://`; browsers may block the JSON asset requests.
-
-## 🚀 GitHub Pages setup
-
-The repository already contains `.github/workflows/pages.yml`.
-
-1. Open the repository on GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, select **GitHub Actions** as the source.
-4. Push to `main` or manually run the **Deploy AutoPrice to GitHub Pages** workflow under **Actions**.
-5. After the workflow succeeds, GitHub will show the published Pages URL in **Settings → Pages**.
-
-Every push to `main` automatically rebuilds the model assets and redeploys the site.
 
 ## 📊 Dataset
 
