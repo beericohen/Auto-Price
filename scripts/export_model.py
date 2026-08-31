@@ -23,7 +23,7 @@ meta={'feature_index':{n:i for i,n in enumerate(features)},'categories':cats,
       'manufacturer_models':{m:related('model','manufacturer',m) for m in cats['manufacturer']},
       'model_submodels':{m:related('submodel','model',m) for m in cats['model']}}
 fs=joblib.load(ROOT/'data'/'scaler.pkl'); ps=joblib.load(ROOT/'data'/'minmax_scaler.pkl')
-meta['scaler']={'mean':fs.mean_.tolist(),'scale':fs.scale_.tolist()}
+meta['scaler']={'min':fs.min_.tolist(),'scale':fs.scale_.tolist()}
 meta['price_scaler']={'min':float(ps.min_[0]),'scale':float(ps.scale_[0])}
 trees=[json.loads(t) for t in booster.get_dump(dump_format='json')]
 model_json={'feature_names':features,'feature_index':{n:i for i,n in enumerate(features)},'base_score':float(booster.base_score),'trees':trees}
