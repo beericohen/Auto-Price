@@ -1,121 +1,109 @@
+# 🚗 AutoPrice — Israeli Used-Car Price Predictor
 
+AutoPrice is a machine-learning project that estimates the market price of used cars in Israel from real-world listings collected from Autoboom.
 
-# 🚗 Auto Price – Israeli Used Car Price Predictor
+## ✨ Live website
 
-A machine learning project that predicts used car prices in Israel based on real listings collected from Autoboom.
+The project is designed as a **static GitHub Pages application** — no Streamlit server is required. The trained XGBoost model is exported during the GitHub Actions build into browser-readable JSON and evaluated client-side.
 
----
+## 🎯 Model
 
-## 📌 Motivation
+The current production model is the fine-tuned XGBoost regressor.
 
-Used car prices in Israel are often opaque and hard to evaluate. This project aims to build a model that estimates a fair market price for a used car based on its characteristics — helping buyers and sellers make informed decisions.
+| Metric | Validation result |
+|---|---:|
+| MAE | ₪8,928 |
+| RMSE | ₪13,216 |
+| R² | 0.904 |
 
----
+The dataset contains roughly 3,145 cleaned listings across manufacturers including Kia, Toyota, Hyundai, Skoda, Mazda, Nissan, Chevrolet, Honda, Mitsubishi, Peugeot, Suzuki, Audi, Ford and Subaru.
 
-## Final Models Preformence
-**XGBoost fine tuned**:
-- `MAE` 8,928₪
-- `RMSE` 13,216₪
-- `R2 score` 0.904
+## 🖥️ Frontend
 
----
+The new UI lives in `site/` and uses plain HTML, CSS and JavaScript rather than Streamlit. It is responsive, accessible, and runs the prediction directly in the browser.
 
-## Website
-[Car Price Predictor](https://auto-price-predictor.streamlit.app/)
+### Why GitHub Pages?
 
-## 📄 Documentation
+GitHub Pages is static hosting, so it cannot directly execute Python or load a `.pkl` model on the server. The deployment workflow solves this by:
 
-pdf file or website will be later uploaded here
+1. Installing the Python ML dependencies in GitHub Actions.
+2. Loading `Models/XGBoost_fine.pkl` and the existing scalers.
+3. Exporting the model's trees and preprocessing metadata to `site/assets/*.json`.
+4. Publishing `site/` with GitHub Pages.
+5. Running inference in the visitor's browser.
 
----
+This keeps the public demo simple and avoids running a backend just to make a prediction.
+
+## 📁 Project structure
+
+```text
+Auto-Price/
+├── .github/workflows/pages.yml   # Build + deploy GitHub Pages
+├── Models/                       # Trained ML models
+├── data/                         # Training data and scalers
+├── scripts/export_model.py       # Converts XGBoost to browser JSON
+├── site/
+│   ├── index.html                # Public web app
+│   ├── styles.css                # Responsive UI
+│   └── app.js                    # Browser-side inference
+├── src/                          # Data collection, cleaning, EDA and training code
+├── Auto_Price_Documentation.docx
+├── requirements.txt
+└── README.md
+```
+
+## 🧪 Run locally
+
+For the complete ML pipeline, install the Python dependencies from `requirements.txt`.
+
+To preview the website after generating its model assets:
+
+```bash
+python scripts/export_model.py
+python -m http.server 8000 --directory site
+```
+
+Then open `http://localhost:8000`.
+
+> Do not open `index.html` directly with `file://`; browsers may block the JSON asset requests.
+
+## 🚀 GitHub Pages setup
+
+The repository already contains `.github/workflows/pages.yml`.
+
+1. Open the repository on GitHub.
+2. Go to **Settings → Pages**.
+3. Under **Build and deployment**, select **GitHub Actions** as the source.
+4. Push to `main` or manually run the **Deploy AutoPrice to GitHub Pages** workflow under **Actions**.
+5. After the workflow succeeds, GitHub will show the published Pages URL in **Settings → Pages**.
+
+Every push to `main` automatically rebuilds the model assets and redeploys the site.
 
 ## 📊 Dataset
 
-- **Source:** Scrapped using python script from [Autoboom](https://autoboom.co.il/en)
-- **Size:** ~3145 listings after cleaning
-- **Manufacturers:** Kia, Toyota, Hyundai, Skoda, Mazda, Nissan, Chevrolet, Honda, Mitsubishi, Peugeot, Suzuki, Audi, Ford, Subaru
+The project uses scraped Autoboom listings and a preprocessing pipeline. Important features include manufacturer, model, submodel, year, mileage, previous owners (`hand`), fuel, engine size, horsepower, transmission and drive type.
 
-| Feature | Description |
-|---|---|
-| `manufacturer` | Car brand (e.g. Toyota, Kia) |
-| `model` | Car model (e.g. Corolla, Sportage) |
-| `year` | Year of manufacture |
-| `mileage` | Kilometers driven |
-| `price` | Listed price in ILS ₪ |
-| `hand` | Number of previous owners |
-| `fuel` | Fuel type (gassoline / diesel / hybrid / plug-in / electric) |
-| `engine liters` | Engine liters|
-| `horsepower` | horsepower|
-| `transmission` | Transmission type (e.g. Automatic, Robotic, Manual)|
+The model should be treated as an estimate rather than an official valuation. Vehicle condition, exact trim, accidents, location, seller type and market changes can all affect the actual price.
 
----
+## 🔬 EDA highlights
 
-## 🔍 EDA Findings
+The existing analysis found strong relationships between price and several features:
 
-Exploratory Data Analysis was performed to understand the relationships between features and price.
+- Newer cars generally have higher prices.
+- Higher mileage is associated with lower prices.
+- More previous owners are associated with lower prices.
+- Hybrid and electric vehicles can occupy higher price ranges.
+- The price distribution is right-skewed.
 
-**Key findings:**
+## 🛠️ Future improvements
 
-- `year` has a strong positive correlation with price (**0.73**) — newer cars cost more
-- `mileage` has a strong negative correlation with price (**-0.59**) — more km = lower price
-- `hand` has a moderate negative correlation with price (**-0.49**) — more owners = lower price
-- `fuel` electric cars or hybrid often costs more.
-- Price distribution is **right-skewed** — most cars between 50,000–150,000 ₪ with a long tail of expensive vehicles
+- Add confidence intervals or an estimated price range instead of only a point estimate.
+- Add an interactive market-comparison chart using the cleaned listings.
+- Add model/version metadata and automatic evaluation reports to CI.
+- Enrich training data with official Israeli price-list information where licensing permits.
+- Add more manufacturers and newer listings.
+- Add automated tests comparing browser predictions against Python predictions.
 
----
+## ⚠️ Disclaimer
 
-## 🗂️ Project Structure
-
-```
-Auto-Price/
-│
-├── data/
-│   ├── kia_data.csv                # Kia raw data
-│   ├── toyota_data.csv             # Toyota raw data
-│   ├── hyundai_data.csv            # Hyundai raw data
-│   ├── skoda_data.csv              # Skoda raw data
-│   ├── mazda_data.csv              # Mazda raw data
-│   ├── nissan_data.csv             # Nissan raw data
-│   ├── chevrolet_data.csv          # Chevrolet raw data
-│   ├── honda_data.csv              # Honda raw data
-│   ├── mitsubishi_data.csv         # Mitsubishi raw data
-│   ├── peugeot_data.csv            # Peugeot raw data
-│   ├── suzuki_data.csv             # Suzuki raw data
-│   ├── audi_data.csv               # Audi raw data
-│   ├── ford_data.csv               # Ford raw data
-│   ├── subaru_data.csv             # Subaru raw data
-│   ├── autoboom_raw.csv            # All manufacturers raw data combined
-│   ├── autoboom_clean.csv          # All manufacturers cleaned data
-│   ├── preprocessing.csv           # All the data with one hot encoding and normalization
-│   ├── minmax_scaler.pkl           # The data that being used to reverse the price normalization
-│   ├── scaler.pkl                  # The data that being used to reverse the normalization of the other values
-|
-│
-├── src/
-│   └── scrapper.py                 # Scrapper script
-│   └── DataCleaner.py              # data cleaning script
-│   └── EDA.py                      # EDA script
-│   └── Preprocessing.py            # Preprocessing script
-│   └── models.py                   # All the choosen models
-│   └── Tunning.py                  # Does a tuning of the models
-│   └── app.py                      # UI
-│   └── retrain.py                  # Retrain the model based on new data
-│
-│
-├── graphs/                         # EDA visualizations
-|
-├── Models/                         # All the models pkl files for future use
-│
-└── README.md
-└── requirements.txt
-
-```
-
----
-
-## 🚀 Future Improvements
-
-- Enrich data with official price list (מחירון יבואן) as a feature
-- Build a simple web app to predict price from user input
-- Add more manifacturers
-- Training the model that he can preddict models and manifacturres that he doesnt know
+AutoPrice is an educational machine-learning project. Its output is an estimate and is not a professional appraisal or a guarantee of a vehicle's sale price.
