@@ -4,7 +4,7 @@
  */
 (function () {
   const DATA_BASE = "assets/data/";
-  const VALIDATION = { mae: 8480, rmse: 12023, r2: 0.8967 };
+  const FALLBACK_VALIDATION = { mae: 8480, rmse: 12023, r2: 0.8967, folds: 5 };
   const linScale = (v, min, max) => max === min ? 0 : (v - min) / (max - min);
   const linUnscale = (v, min, max) => v * (max - min) + min;
   function relu(v) { for (let i=0;i<v.length;i++) if(v[i]<0) v[i]=0; return v; }
@@ -20,7 +20,10 @@
       this.modelToManufacturer=this.dataset.model_to_manufacturer;
       this.modelToSubmodels=this.dataset.model_to_submodels;
       this.manufacturerToModels=this.dataset.manufacturer_to_models;
-      this.meta={hiddenLayers:this.model.architecture.hidden_layer_sizes,activation:this.model.architecture.activation,nFeatures:this.model.feature_order.length,nRows:this.stats.n_rows,validation:VALIDATION,groups:this.model.groups};
+      // Prefer metadata exported alongside the model so running export_model.py
+      // cannot silently revert the website to stale hard-coded metrics.
+      this.validation=this.model.validation || this.dataset.validation || FALLBACK_VALIDATION;
+      this.meta={hiddenLayers:this.model.architecture.hidden_layer_sizes,activation:this.model.architecture.activation,nFeatures:this.model.feature_order.length,nRows:this.stats.n_rows,validation:this.validation,groups:this.model.groups};
       this.datasetStats=this._stats(); return true;
     }
     predict(inputs){
