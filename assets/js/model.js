@@ -3,7 +3,7 @@
  * Network math intentionally mirrors the existing production model.
  */
 (function () {
-  const DATA_BASE = "assets/data/";
+  const DATA_BASES = ["assets/data/", "../data/"];
   const FALLBACK_VALIDATION = { mae: 8480, rmse: 12023, r2: 0.8967, folds: 5 };
   const linScale = (v, min, max) => max === min ? 0 : (v - min) / (max - min);
   const linUnscale = (v, min, max) => v * (max - min) + min;
@@ -13,8 +13,15 @@
   class CarModel {
     constructor(){ this.ready=this._load(); }
     async _load(){
-      const [mr,dr]=await Promise.all([fetch(DATA_BASE+"model.json"),fetch(DATA_BASE+"dataset.json")]);
-      if(!mr.ok||!dr.ok) throw new Error("Model assets could not be loaded.");
+      let mr=null, dr=null, lastError=null;
+      for(const base of DATA_BASES){
+        try{
+          const pair=await Promise.all([fetch(base+"model.json",{cache:"no-store"}),fetch(base+"dataset.json",{cache:"no-store"})]);
+          if(pair[0].ok && pair[1].ok){mr=pair[0];dr=pair[1];break;}
+          lastError=new Error(`Model assets returned HTTP ${pair[0].status}/${pair[1].status} from ${base}`);
+        }catch(err){lastError=err;}
+      }
+      if(!mr||!dr) throw (lastError||new Error("Model assets could not be loaded."));
       this.model=await mr.json(); this.dataset=await dr.json();
       this.options=this.dataset.options; this.records=this.dataset.records; this.stats=this.dataset.stats;
       this.modelToManufacturer=this.dataset.model_to_manufacturer;
