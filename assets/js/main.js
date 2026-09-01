@@ -11,7 +11,6 @@ async function boot(){
  try{await window.CarModel.ready}catch(e){status.textContent="We couldn't load the valuation data. Check that assets/data/model.json and assets/data/dataset.json exist, then refresh.";console.error(e);return}
  const M=window.CarModel;
  // 3D visualization is deliberately loaded after the model/data so a CDN failure can never break the calculator.
- let car3d=null;try{const mod=await import("./car3d.js");car3d=mod.initCar3D($("#car3d-canvas"))}catch(e){console.warn("Optional 3D car unavailable",e)}
  const man=$("#f-manufacturer"),model=$("#f-model"),sub=$("#f-submodel"),fuel=$("#f-fuel"),trans=$("#f-transmission"),drive=$("#f-drive");
  const manufacturers=Array.isArray(M.options?.manufacturer)?M.options.manufacturer:[];
  fill(man,manufacturers,"Choose manufacturer");

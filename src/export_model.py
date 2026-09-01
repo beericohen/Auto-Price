@@ -16,9 +16,8 @@ import joblib
 
 from path import *
 
-REPO_DIR = BASE_DIR
-SITE_DIR = os.path.join(REPO_DIR, "site") if os.path.isdir(os.path.join(REPO_DIR, "site")) else REPO_DIR
-OUT_DIR = os.path.join(SITE_DIR, "assets", "data")
+BASE_DIR
+OUT_DIR = os.path.join(BASE_DIR, "assets", "data")
 
 NUMERIC_COLS = ["year", "hand", "engine_liters", "horsepower", "mileage"]
 GROUP_PREFIXES = [
