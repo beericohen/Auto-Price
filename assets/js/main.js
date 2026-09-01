@@ -225,7 +225,7 @@ async function boot() {
     const clamped = Math.max(0, price);
     odometer.set(clamped);
     resultContext.textContent = percentileContext(inputs, clamped);
-    resultConfidence.textContent = `Typical error on the training data: about \u20AA${formatShekelWhole(6080)} (\u00B18.4%). Treat this as a starting point for negotiation, not a final price.`;
+    resultConfidence.textContent = `Typical error on the training data: about \u20AA${formatShekelWhole(8000)}. Treat this as a starting point for negotiation, not a final price.`;
 
     chart.setYou({ mileage: inputs.mileage, year: inputs.year, price: clamped });
     $("#market").scrollIntoView({ behavior: "smooth", block: "start" });
