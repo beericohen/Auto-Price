@@ -1,235 +1,31 @@
 import { initCar3D } from "./car3d.js";
-
-const $ = (sel, root = document) => root.querySelector(sel);
-const $$ = (sel, root = document) => Array.from(root.querySelectorAll(sel));
-
-function formatShekelWhole(n) {
-  return Math.round(n).toLocaleString("en-US");
+const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+const money=n=>`₪${Math.round(n).toLocaleString("en-US")}`;
+const whole=n=>Math.round(n).toLocaleString("en-US");
+function fill(sel,values,placeholder){sel.innerHTML="";if(placeholder){const o=document.createElement("option");o.textContent=placeholder;o.value="";o.disabled=true;o.selected=true;sel.append(o);}values.forEach(v=>{const o=document.createElement("option");o.value=v;o.textContent=v;sel.append(o);});}
+function slider(input){const paint=()=>input.style.setProperty("--fill",`${(input.value-input.min)/(input.max-input.min)*100}%`);input.addEventListener("input",paint);paint();}
+function animateNumber(el,to,duration=650){const from=Number(el.dataset.value||0),start=performance.now();const step=t=>{const p=Math.min(1,(t-start)/duration),e=1-Math.pow(1-p,3),v=from+(to-from)*e;el.textContent=whole(v);if(p<1)requestAnimationFrame(step);else el.dataset.value=to};requestAnimationFrame(step);}
+function inputs(){return {manufacturer:$("#f-manufacturer").value,model:$("#f-model").value,submodel:$("#f-submodel").value,fuel:$("#f-fuel").value,transmission:$("#f-transmission").value,drive_type:$("#f-drive").value,year:+$("#f-year").value,hand:+$("#f-hand").value,engine_liters:+$("#f-engine").value,horsepower:+$("#f-horsepower").value,mileage:+$("#f-mileage").value};}
+function dealScore(value,asking){const ratio=asking/value;const score=Math.max(0,Math.min(100,Math.round(100-((ratio-0.7)*100))));let label="FAIR PRICE",cls="fair";if(ratio<=.9){label="EXCELLENT DEAL";cls="good"}else if(ratio<=1.05){label="FAIR PRICE";cls="fair"}else{label="POTENTIALLY OVERPRICED";cls="bad"}return {score,label,cls,ratio};}
+async function boot(){
+ try{await window.CarModel.ready}catch(e){$("#load-status").textContent="We couldn't load the valuation engine. Please refresh the page or use the GitHub Pages site.";return}
+ const M=window.CarModel, carCanvas=$("#car3d-canvas");let car3d=null;try{car3d=initCar3D(carCanvas)}catch(e){}
+ const man=$("#f-manufacturer"),model=$("#f-model"),sub=$("#f-submodel"),fuel=$("#f-fuel"),trans=$("#f-transmission"),drive=$("#f-drive");
+ fill(man,M.options.manufacturer,"Choose manufacturer");fill(fuel,M.options.fuel);fill(trans,M.options.transmission);fill(drive,M.options.drive_type);model.disabled=true;sub.disabled=true;fill(model,[],"Choose manufacturer first");fill(sub,[],"Choose model first");
+ const ranges=[["#f-year",v=>v],["#f-hand",v=>v==1?`${v} owner`:`${v} owners`],["#f-mileage",v=>`${whole(v)} km`],["#f-engine",v=>`${(+v).toFixed(1)} L`],["#f-horsepower",v=>`${v} hp"]];ranges.forEach(([s,fmt])=>{const i=$(s),o=document.querySelector(`[data-out-for="${i.id}"]`);slider(i);const render=()=>o.textContent=fmt(i.value);i.addEventListener("input",render);render()});
+ man.onchange=()=>{fill(model,M.manufacturerToModels[man.value]||["Other"],"Choose model");model.disabled=false;sub.disabled=true;fill(sub,[],"Choose model first")};model.onchange=()=>{fill(sub,M.modelToSubmodels[model.value]||M.options.submodel,"Choose submodel");sub.disabled=false};fuel.onchange=()=>car3d?.setFuelColor(fuel.value);car3d?.setFuelColor(fuel.value);
+ const chart=new window.ScatterChart($("#scatter-svg"),M.records,M.stats);$$(".axis-toggle button").forEach(b=>b.onclick=()=>{$$(".axis-toggle button").forEach(x=>x.classList.remove("active"));b.classList.add("active");chart.setAxis(b.dataset.axis)});
+ let lastInputs=null,lastPrice=null,mode="buy";
+ function renderSimilar(xs,price){const rows=M.comparableRecords(xs,6),grid=$("#similar-grid");grid.innerHTML="";rows.forEach(r=>{const d=Math.round(r.price-price);const card=document.createElement("article");card.className="similar-card";card.innerHTML=`<div class="similar-title"><strong>${r.manufacturer} ${r.model}</strong><span>${r.year}</span></div><div class="similar-meta">${r.submodel} · ${whole(r.mileage)} km · ${r.hand} owner${r.hand==1?"":"s"}</div><div class="similar-bottom"><strong>${money(r.price)}</strong><span class="${d>=0?"above":"below"}">${d>=0?"+":""}${money(d)} vs estimate</span></div>`;grid.append(card)})}
+ function renderBars(){const S=M.datasetStats;$("#dash-vehicles").textContent=whole(S.vehicles);$("#dash-makers").textContent=whole(S.manufacturers);$("#dash-models").textContent=whole(S.models);$("#dash-median").textContent=money(S.medianPrice);$("#dash-average").textContent=money(S.averagePrice);$("#dash-mileage").textContent=whole(S.averageMileage)+" km";const bars=(id,data)=>{const max=Math.max(...data.map(x=>x[1]));$(id).innerHTML=data.map(([k,v])=>`<div class="bar-row"><span>${k}</span><div><i style="width:${v/max*100}%"></i></div><b>${v}</b></div>`).join("")};bars("#maker-bars",S.topManufacturers);bars("#year-bars",[...S.topYears].sort((a,b)=>+a[0]-+b[0]))}
+ renderBars();
+ $("#stat-r2").textContent=M.meta.validation.r2.toFixed(4);$("#stat-mae").textContent=money(M.meta.validation.mae);$("#stat-rmse").textContent=money(M.meta.validation.rmse);$("#stat-rows").textContent=whole(M.stats.n_rows);$("#stat-features").textContent=M.meta.nFeatures;$("#stat-hidden-1").textContent=M.meta.hiddenLayers[0];$("#stat-hidden-2").textContent=M.meta.hiddenLayers[1];
+ $$(".mode-toggle button").forEach(b=>b.onclick=()=>{$$(".mode-toggle button").forEach(x=>x.classList.remove("active"));b.classList.add("active");mode=b.dataset.mode;$("#submit-label").textContent=mode==="buy"?"Calculate market value":"Calculate asking price"});
+ $("#valuation-form").onsubmit=async e=>{e.preventDefault();const xs=inputs();if(!xs.manufacturer||!xs.model||!xs.submodel){$("#load-status").textContent="Choose a manufacturer, model and submodel first.";return}$("#load-status").textContent="ANALYZING MARKET DATA…";$("#valuation-form").classList.add("is-loading");await new Promise(r=>setTimeout(r,120));try{const price=Math.max(0,M.predict(xs).price);lastInputs=xs;lastPrice=price;animateNumber($("#price-value"),price);$("#range-low").textContent=money(Math.max(0,price-M.meta.validation.mae));$("#range-high").textContent=money(price+M.meta.validation.mae);const pos=M.marketPosition(xs,price),cov=M.coverage(xs);$("#percentile").textContent=pos.percentile;$("#position-marker").style.left=`${pos.percentile}%`;$("#position-scope").textContent=pos.scope;$("#position-title").textContent=pos.percentile>=70?"Priced above most comparable listings":pos.percentile<=30?"Priced below most comparable listings":"Around the middle of the market";$("#position-text").textContent=`Your car is cheaper than ${pos.percentile}% of ${pos.count.toLocaleString()} ${pos.scope.toLowerCase()}.`;$("#market-summary").textContent=`${pos.comparableCount} ${xs.manufacturer} ${xs.model} listings are available for comparison.`;chart.setYou({mileage:xs.mileage,year:xs.year,price});renderSimilar(xs,price);const covScore=cov.level==="High"?90:cov.level==="Medium"?65:35;$("#coverage-level").textContent=cov.level;$("#coverage-fill").style.width=covScore+"%";$("#coverage-text").textContent=cov.count?`${cov.count} matching ${xs.manufacturer} ${xs.model} listings found; reliability reflects dataset coverage and similarity, not a statistical confidence interval.`:"No matching model listings found, so coverage is limited.";
+ const asking=+$("#f-asking").value;const dc=$("#deal-card");if(asking>0){const d=dealScore(price,asking);dc.hidden=false;dc.className="deal-card "+d.cls;$("#deal-score").textContent=d.score+" / 100";$("#deal-label").textContent=d.label;$("#deal-fill").style.width=d.score+"%";$("#deal-explain").textContent=`Seller asks ${money(asking)} — ${Math.round(Math.abs(price-asking)/price*100)}% ${asking<price?"below":"above"} the model estimate.`}else dc.hidden=true;
+ $("#load-status").textContent="VALUATION COMPLETE";$("#whatif-mileage").value=xs.mileage;$("#whatif-mileage-value").textContent=whole(xs.mileage)+" km";$("#whatif-current").textContent=money(price);$("#whatif-new").textContent=money(price);$("#whatif-delta").textContent="Move the slider to run another real model prediction.";$("#valuation").classList.add("has-result");setTimeout(()=>$("#similar").scrollIntoView({behavior:"smooth",block:"start"}),300)}catch(err){$("#load-status").textContent="We couldn't calculate this valuation. Please check the selected vehicle details and try again."}finally{$("#valuation-form").classList.remove("is-loading")}};
+ const wi=$("#whatif-mileage");wi.oninput=()=>{if(!lastInputs)return;$("#whatif-mileage-value").textContent=whole(wi.value)+" km";const xs={...lastInputs,mileage:+wi.value},p=Math.max(0,M.predict(xs).price);$("#whatif-new").textContent=money(p);const d=p-lastPrice;$("#whatif-delta").textContent=`${d>=0?"+":""}${money(d)} vs current estimate · actual model re-run`};
+ $("#cta-start").onclick=()=>$("#valuation").scrollIntoView({behavior:"smooth"});
+ const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add("in-view")}),{threshold:.08});$$(".section,.hero-copy,.hero-visual").forEach(e=>io.observe(e));
 }
-
-function fillSelect(select, values, { placeholder } = {}) {
-  select.innerHTML = "";
-  if (placeholder) {
-    const opt = document.createElement("option");
-    opt.value = "";
-    opt.textContent = placeholder;
-    opt.disabled = true;
-    opt.selected = true;
-    select.appendChild(opt);
-  }
-  values.forEach((v) => {
-    const opt = document.createElement("option");
-    opt.value = v;
-    opt.textContent = v;
-    select.appendChild(opt);
-  });
-}
-
-function setupSliderFill(input) {
-  const update = () => {
-    const min = Number(input.min);
-    const max = Number(input.max);
-    const pct = ((Number(input.value) - min) / (max - min)) * 100;
-    input.style.setProperty("--fill", pct + "%");
-  };
-  input.addEventListener("input", update);
-  update();
-}
-
-/* ---------------------------------------------------------------------- */
-/* Odometer                                                                */
-/* ---------------------------------------------------------------------- */
-
-class Odometer {
-  constructor(container, digitCount) {
-    this.container = container;
-    this.digitCount = digitCount;
-    this.digits = [];
-    this.container.innerHTML = "";
-    for (let i = 0; i < digitCount; i++) {
-      const digit = document.createElement("span");
-      digit.className = "odometer-digit";
-      const reel = document.createElement("span");
-      reel.className = "reel";
-      for (let n = 0; n <= 9; n++) {
-        const s = document.createElement("span");
-        s.textContent = n;
-        reel.appendChild(s);
-      }
-      digit.appendChild(reel);
-      this.container.appendChild(digit);
-      this.digits.push({ el: digit, reel });
-    }
-  }
-
-  set(value) {
-    const str = String(Math.max(0, Math.round(value))).padStart(this.digitCount, "0").slice(-this.digitCount);
-    str.split("").forEach((ch, i) => {
-      const n = Number(ch);
-      const { reel } = this.digits[i];
-      reel.style.transform = `translateY(${-n * (100 / 10)}%)`;
-    });
-  }
-}
-
-/* ---------------------------------------------------------------------- */
-/* Boot                                                                    */
-/* ---------------------------------------------------------------------- */
-
-async function boot() {
-  const statusEl = $("#load-status");
-  try {
-    await window.CarModel.ready;
-  } catch (err) {
-    if (statusEl) {
-      statusEl.textContent =
-        "Couldn't load the model data. If you opened this file directly, serve it with a local server or GitHub Pages instead — browsers block fetch() on file://.";
-      statusEl.style.display = "block";
-    }
-    console.error(err);
-    return;
-  }
-
-  const CarModel = window.CarModel;
-  const { options, manufacturerToModels, modelToSubmodels } = CarModel;
-
-  // ---- 3D car ----
-  const carCanvas = $("#car3d-canvas");
-  let car3d = null;
-  if (carCanvas) car3d = initCar3D(carCanvas);
-
-  // ---- populate About section stats ----
-  $("#stat-r2").textContent = "0.9";
-  $("#stat-mae").textContent = "\u20AA" + formatShekelWhole(7973);
-  $("#stat-rows").textContent = CarModel.stats.n_rows.toLocaleString("en-US");
-  $("#stat-features").textContent = String(CarModel.meta.nFeatures);
-  $("#stat-rows-2").textContent = CarModel.stats.n_rows.toLocaleString("en-US");
-  const [h1, h2] = CarModel.meta.hiddenLayers;
-  if ($("#stat-hidden-1")) $("#stat-hidden-1").textContent = String(h1);
-  if ($("#stat-hidden-2")) $("#stat-hidden-2").textContent = String(h2);
-
-  // ---- form elements ----
-  const form = $("#valuation-form");
-  const manufacturerSel = $("#f-manufacturer");
-  const modelSel = $("#f-model");
-  const submodelSel = $("#f-submodel");
-  const fuelSel = $("#f-fuel");
-  const transmissionSel = $("#f-transmission");
-  const driveSel = $("#f-drive");
-
-  const yearInput = $("#f-year");
-  const handInput = $("#f-hand");
-  const mileageInput = $("#f-mileage");
-  const engineInput = $("#f-engine");
-  const hpInput = $("#f-horsepower");
-
-  fillSelect(manufacturerSel, options.manufacturer, { placeholder: "Choose manufacturer" });
-  fillSelect(fuelSel, options.fuel);
-  fillSelect(transmissionSel, options.transmission);
-  fillSelect(driveSel, options.drive_type);
-  modelSel.disabled = true;
-  submodelSel.disabled = true;
-  fillSelect(modelSel, [], { placeholder: "Choose manufacturer first" });
-  fillSelect(submodelSel, [], { placeholder: "Choose model first" });
-
-  [yearInput, handInput, mileageInput, engineInput, hpInput].forEach((input) => {
-    setupSliderFill(input);
-    const out = $(`[data-out-for="${input.id}"]`);
-    const render = () => {
-      if (!out) return;
-      if (input === mileageInput) out.textContent = Number(input.value).toLocaleString("en-US") + " km";
-      else if (input === engineInput) out.textContent = Number(input.value).toFixed(1) + " L";
-      else if (input === hpInput) out.textContent = input.value + " hp";
-      else if (input === handInput) out.textContent = input.value + (input.value === "1" ? " owner" : " owners");
-      else out.textContent = input.value;
-    };
-    input.addEventListener("input", render);
-    render();
-  });
-
-  manufacturerSel.addEventListener("change", () => {
-    const manu = manufacturerSel.value;
-    const models = manufacturerToModels[manu] || ["Other"];
-    modelSel.disabled = false;
-    fillSelect(modelSel, models, { placeholder: "Choose model" });
-    submodelSel.disabled = true;
-    fillSelect(submodelSel, [], { placeholder: "Choose model first" });
-  });
-
-  modelSel.addEventListener("change", () => {
-    const modelName = modelSel.value;
-    const submodels = modelToSubmodels[modelName] || options.submodel;
-    submodelSel.disabled = false;
-    fillSelect(submodelSel, submodels, { placeholder: "Choose submodel" });
-  });
-
-  fuelSel.addEventListener("change", () => {
-    if (car3d) car3d.setFuelColor(fuelSel.value);
-  });
-  if (car3d) car3d.setFuelColor(fuelSel.value);
-
-  // ---- odometer ----
-  const odometer = new Odometer($("#odometer-digits"), 6);
-  odometer.set(0);
-  const resultContext = $("#result-context");
-  const resultPlaceholder = $("#result-placeholder");
-  const resultConfidence = $("#result-confidence");
-
-  // ---- chart ----
-  const chartSvg = $("#scatter-svg");
-  const chart = new window.ScatterChart(chartSvg, CarModel.records, CarModel.stats);
-  $$(".axis-toggle button").forEach((btn) => {
-    btn.addEventListener("click", () => {
-      $$(".axis-toggle button").forEach((b) => b.classList.remove("active"));
-      btn.classList.add("active");
-      chart.setAxis(btn.dataset.axis);
-    });
-  });
-
-  function percentileContext(inputs, price) {
-    const sameModel = CarModel.records.filter(
-      (r) => r.manufacturer === inputs.manufacturer && r.model === inputs.model
-    );
-    const pool = sameModel.length >= 8 ? sameModel : CarModel.records;
-    const cheaperCount = pool.filter((r) => r.price < price).length;
-    const percentile = Math.round((cheaperCount / pool.length) * 100);
-    const scope = sameModel.length >= 8 ? `similar ${inputs.manufacturer} ${inputs.model} listings` : "listings in the dataset";
-    return `That's higher than ${percentile}% of ${scope}.`;
-  }
-
-  form.addEventListener("submit", (e) => {
-    e.preventDefault();
-
-    const inputs = {
-      manufacturer: manufacturerSel.value,
-      model: modelSel.value,
-      submodel: submodelSel.value,
-      fuel: fuelSel.value,
-      transmission: transmissionSel.value,
-      drive_type: driveSel.value,
-      year: Number(yearInput.value),
-      hand: Number(handInput.value),
-      engine_liters: Number(engineInput.value),
-      horsepower: Number(hpInput.value),
-      mileage: Number(mileageInput.value),
-    };
-
-    if (!inputs.manufacturer || !inputs.model || !inputs.submodel) {
-      resultPlaceholder.textContent = "Fill in manufacturer, model, and submodel to get an estimate.";
-      resultPlaceholder.style.display = "block";
-      return;
-    }
-    resultPlaceholder.style.display = "none";
-
-    const { price } = CarModel.predict(inputs);
-    const clamped = Math.max(0, price);
-    odometer.set(clamped);
-    resultContext.textContent = percentileContext(inputs, clamped);
-    resultConfidence.textContent = `Typical error on the training data: about \u20AA${formatShekelWhole(8000)}. Treat this as a starting point for negotiation, not a final price.`;
-
-    chart.setYou({ mileage: inputs.mileage, year: inputs.year, price: clamped });
-    $("#market").scrollIntoView({ behavior: "smooth", block: "start" });
-  });
-}
-
 boot();

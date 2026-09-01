@@ -1,271 +1,30 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>AutoPrice — Israeli used car valuation, in your browser</title>
-<meta name="description" content="Estimate the market value of a used car in Israel with a neural network that runs entirely in your browser." />
-
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="assets/css/style.css" />
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Auto-Price — Israeli Used Car Valuation</title>
+<meta name="description" content="Browser-based used-car valuation for the Israeli market, powered by the project's trained neural network.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-
-<nav class="site-nav">
-  <a class="brand" href="#top">
-    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="12" cy="12" r="9.5" stroke="#FFB330" stroke-width="1.5"/>
-      <path d="M12 6.5V12L15.5 14" stroke="#FFB330" stroke-width="1.5" stroke-linecap="round"/>
-    </svg>
-    AutoPrice
-  </a>
-  <ul class="nav-links">
-    <li><a href="#valuation">Valuation</a></li>
-    <li><a href="#market">Market</a></li>
-    <li><a href="#about">How it works</a></li>
-  </ul>
-</nav>
-
+<nav class="site-nav"><a class="brand" href="#top"><span class="brand-mark">◉</span> Auto-Price</a><div class="nav-links"><a href="#valuation">Valuation</a><a href="#market">Market</a><a href="#about">Model</a></div></nav>
 <main id="top">
-
-  <!-- ============================= HERO ============================= -->
-  <section class="hero">
-    <div class="container">
-      <div class="hero-copy">
-        <h1>Know what your car is really worth.</h1>
-        <p class="lede">
-          A neural network trained on thousands of used-car listings from the
-          Israeli market values your car in seconds — entirely in your
-          browser. No server, no upload, no waiting.
-        </p>
-        <div class="hero-actions">
-          <button class="btn btn-primary" id="cta-start">Start valuation</button>
-          <span class="hero-meta">Free · Runs client-side · No signup</span>
-        </div>
-      </div>
-
-      <div class="gauge-panel" aria-hidden="true">
-        <div class="gauge-ring"></div>
-        <canvas id="car3d-canvas"></canvas>
-        <div class="gauge-caption">MARKET VALUE ESTIMATOR</div>
-      </div>
-    </div>
-  </section>
-
-  <hr class="lane-divider container" />
-
-  <!-- ============================ CALCULATOR ============================ -->
-  <section class="section" id="valuation">
-    <div class="container">
-      <div class="section-head">
-        <h2>Value your car</h2>
-        <p class="lede">Fill in the details a buyer would actually check. Every field feeds the model — nothing here is decorative.</p>
-      </div>
-
-      <p id="load-status" role="status" style="display:none; color:#ef5b5b; margin-bottom:20px; max-width: 60ch;"></p>
-
-      <div class="calc-layout">
-        <form class="calc-panel" id="valuation-form">
-
-          <div class="field-group">
-            <div class="field-group-label">MAKE &amp; MODEL</div>
-            <div class="field-row">
-              <div class="field">
-                <label for="f-manufacturer">Manufacturer</label>
-                <select id="f-manufacturer" required></select>
-              </div>
-              <div class="field">
-                <label for="f-model">Model</label>
-                <select id="f-model" required></select>
-              </div>
-              <div class="field">
-                <label for="f-submodel">Trim / submodel</label>
-                <select id="f-submodel" required></select>
-              </div>
-            </div>
-            <div class="field-row" style="margin-top:16px;">
-              <div class="field">
-                <label for="f-fuel">Fuel</label>
-                <select id="f-fuel"></select>
-              </div>
-              <div class="field">
-                <label for="f-transmission">Transmission</label>
-                <select id="f-transmission"></select>
-              </div>
-              <div class="field">
-                <label for="f-drive">Drive type</label>
-                <select id="f-drive"></select>
-              </div>
-            </div>
-          </div>
-
-          <div class="field-group">
-            <div class="field-group-label">CONDITION &amp; USE</div>
-            <div class="field-row">
-              <div class="field">
-                <label for="f-year">Year <span class="field-value" data-out-for="f-year">2020</span></label>
-                <input type="range" id="f-year" min="2015" max="2026" step="1" value="2020" />
-              </div>
-              <div class="field">
-                <label for="f-hand">Owners <span class="field-value" data-out-for="f-hand">1</span></label>
-                <input type="range" id="f-hand" min="0" max="4" step="1" value="1" />
-              </div>
-              <div class="field">
-                <label for="f-mileage">Mileage <span class="field-value" data-out-for="f-mileage">80,000 km</span></label>
-                <input type="range" id="f-mileage" min="0" max="390000" step="1000" value="80000" />
-              </div>
-            </div>
-          </div>
-
-          <div class="field-group">
-            <div class="field-group-label">ENGINE</div>
-            <div class="field-row">
-              <div class="field">
-                <label for="f-engine">Engine size <span class="field-value" data-out-for="f-engine">1.6 L</span></label>
-                <input type="range" id="f-engine" min="0" max="3.6" step="0.1" value="1.6" />
-              </div>
-              <div class="field">
-                <label for="f-horsepower">Horsepower <span class="field-value" data-out-for="f-horsepower">120 hp</span></label>
-                <input type="range" id="f-horsepower" min="65" max="374" step="1" value="120" />
-              </div>
-            </div>
-          </div>
-
-          <button type="submit" class="btn btn-primary calc-submit">Calculate value</button>
-        </form>
-
-        <aside class="result-panel">
-          <div class="result-label">ESTIMATED MARKET VALUE</div>
-          <div class="odometer">
-            <span class="currency">₪</span>
-            <span class="odometer-digits" id="odometer-digits"></span>
-          </div>
-          <p class="result-placeholder" id="result-placeholder">Fill in the form and calculate to see a live estimate.</p>
-          <p class="result-context" id="result-context"></p>
-          <p class="result-confidence" id="result-confidence"></p>
-        </aside>
-      </div>
-    </div>
-  </section>
-
-  <hr class="lane-divider container" />
-
-  <!-- ============================ MARKET ============================ -->
-  <section class="section" id="market">
-    <div class="container">
-      <div class="section-head">
-        <h2>Where your car stands</h2>
-        <p class="lede">Every teal dot is a real listing from the training data. Once you calculate a value, your car appears as an amber pin among them.</p>
-      </div>
-
-      <div class="chart-panel">
-        <div class="chart-toolbar">
-          <div class="axis-toggle" role="group" aria-label="Chart x-axis">
-            <button type="button" class="active" data-axis="mileage">Price vs. mileage</button>
-            <button type="button" data-axis="year">Price vs. year</button>
-          </div>
-          <div class="chart-legend">
-            <span><span class="swatch market"></span>Market</span>
-            <span><span class="swatch you"></span>Your car</span>
-          </div>
-        </div>
-        <svg id="scatter-svg" role="img" aria-label="Scatter plot of price against mileage or year"></svg>
-        <p class="chart-note">The <strong>percentile</strong> shown after you calculate compares your car to similar listings when there are enough of them, otherwise to the full dataset.</p>
-      </div>
-    </div>
-  </section>
-
-  <hr class="lane-divider container" />
-
-  <!-- ============================ ABOUT ============================ -->
-  <section class="section" id="about">
-    <div class="container">
-      <div class="about-layout">
-        <div>
-          <div class="section-head" style="margin-bottom: 0;">
-            <h2>How the estimate is made</h2>
-            <p class="lede">A multilayer perceptron reads 14 details about a car and outputs one number: its expected price in the Israeli used-car market.</p>
-          </div>
-
-          <div class="stat-row">
-            <div class="stat-card">
-              <div class="stat-value" id="stat-r2">—</div>
-              <div class="stat-label">R² fit</div>
-            </div>
-            <div class="stat-card">
-              <div class="stat-value" id="stat-mae">—</div>
-              <div class="stat-label">Mean absolute error</div>
-            </div>
-            <div class="stat-card">
-              <div class="stat-value" id="stat-rows">—</div>
-              <div class="stat-label">Training listings</div>
-            </div>
-          </div>
-          <p class="stat-footnote">Measured against the training data itself, not a separate held-out test set — treat these as a sense of fit, not an independent benchmark.</p>
-
-          <div class="limits-box">
-            <strong>What it doesn't know:</strong> accident history, service records, cosmetic condition, or how motivated the seller is to negotiate. It only sees the fields in the form above, learned from <span id="stat-features">—</span> input features across <span id="stat-rows-2">—</span> listings.
-          </div>
-        </div>
-
-        <div class="layers">
-          <div class="layer-row">
-            <div class="layer-index">01</div>
-            <div class="layer-body">
-              <div class="layer-name">Input layer — 84 features</div>
-              <div class="layer-desc">Manufacturer, model, trim, fuel, transmission and drive type (one-hot encoded), plus year, ownership count, mileage, engine size and horsepower (scaled 0–1).</div>
-              <div class="layer-bar"><div class="layer-bar-fill" style="width: 100%;"></div></div>
-            </div>
-          </div>
-          <div class="layer-row">
-            <div class="layer-index">02</div>
-            <div class="layer-body">
-              <div class="layer-name">Hidden layer — <span id="stat-hidden-1">64</span> neurons, ReLU</div>
-              <div class="layer-desc">Combines the raw inputs into broader patterns — the rough shape of "recent, low-mileage, high-trim" versus "older, high-mileage, base trim."</div>
-              <div class="layer-bar"><div class="layer-bar-fill" style="width: 100%;"></div></div>
-            </div>
-          </div>
-          <div class="layer-row">
-            <div class="layer-index">03</div>
-            <div class="layer-body">
-              <div class="layer-name">Hidden layer — <span id="stat-hidden-2">32</span> neurons, ReLU</div>
-              <div class="layer-desc">Refines those patterns further before they're reduced to a single value.</div>
-              <div class="layer-bar"><div class="layer-bar-fill" style="width: 50%;"></div></div>
-            </div>
-          </div>
-          <div class="layer-row">
-            <div class="layer-index">04</div>
-            <div class="layer-body">
-              <div class="layer-name">Output — 1 value</div>
-              <div class="layer-desc">A single predicted price, scaled back into shekels.</div>
-              <div class="layer-bar"><div class="layer-bar-fill" style="width: 4%;"></div></div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-</main>
-
-<footer>
-  <div class="container foot-grid">
-    <div>
-      <div>CarGauge — a static site. The whole model runs client-side in JavaScript, no backend involved.</div>
-      <div style="margin-top:4px;">Estimates only — not a valuation guarantee.</div>
-    </div>
-  </div>
-</footer>
-
-<script src="assets/js/model.js"></script>
-<script src="assets/js/chart.js"></script>
-<script type="module" src="assets/js/main.js"></script>
-<script>
-  document.getElementById("cta-start").addEventListener("click", () => {
-    document.getElementById("valuation").scrollIntoView({ behavior: "smooth", block: "start" });
-  });
-</script>
-</body>
-</html>
+<section class="hero"><div class="container hero-grid"><div class="hero-copy"><div class="eyebrow">ISRAELI USED-CAR MARKET</div><h1>Car value,<br><em>without the guesswork.</em></h1><p>Estimate a used car's market value with the trained Auto-Price neural network — entirely in your browser.</p><div class="hero-actions"><button class="btn btn-primary" id="cta-start">Estimate my car <span>→</span></button><span class="hero-note">Free · No signup · No backend</span></div></div><div class="hero-visual"><div class="visual-grid"></div><div class="visual-orbit orbit-a"></div><div class="visual-orbit orbit-b"></div><canvas id="car3d-canvas" aria-label="Decorative car visualization"></canvas><div class="visual-tag">LIVE<br>VALUATION</div></div></div></section>
+<section class="section" id="valuation"><div class="container"><div class="section-head"><div><div class="eyebrow">01 / VALUATION</div><h2>Tell us about the car.</h2></div><p>The same inputs used by the production browser model. Change them and the model recalculates instantly.</p></div>
+<div class="mode-toggle" role="group" aria-label="Valuation mode"><button class="active" data-mode="buy">BUY <span>Is it worth it?</span></button><button data-mode="sell">SELL <span>What should I ask?</span></button></div>
+<div class="calc-layout"><form class="calc-panel" id="valuation-form"><div class="field-group"><div class="field-group-label">CAR</div><div class="field-row three"><div class="field"><label for="f-manufacturer">Manufacturer</label><select id="f-manufacturer" required></select></div><div class="field"><label for="f-model">Model</label><select id="f-model" required></select></div><div class="field"><label for="f-submodel">Trim / submodel</label><select id="f-submodel" required></select></div></div><div class="field-row three spaced"><div class="field"><label for="f-fuel">Fuel</label><select id="f-fuel"></select></div><div class="field"><label for="f-transmission">Transmission</label><select id="f-transmission"></select></div><div class="field"><label for="f-drive">Drive type</label><select id="f-drive"></select></div></div></div>
+<div class="field-group"><div class="field-group-label">CONDITION & USE</div><div class="field-row three"><div class="field"><label for="f-year">Year <output data-out-for="f-year">2020</output></label><input type="range" id="f-year" min="2015" max="2026" value="2020"></div><div class="field"><label for="f-hand">Owners <output data-out-for="f-hand">1 owner</output></label><input type="range" id="f-hand" min="0" max="4" value="1"></div><div class="field"><label for="f-mileage">Mileage <output data-out-for="f-mileage">80,000 km</output></label><input type="range" id="f-mileage" min="0" max="390000" step="1000" value="80000"></div></div></div>
+<div class="field-group"><div class="field-group-label">ENGINE</div><div class="field-row two"><div class="field"><label for="f-engine">Engine size <output data-out-for="f-engine">1.6 L</output></label><input type="range" id="f-engine" min="0" max="3.6" step="0.1" value="1.6"></div><div class="field"><label for="f-horsepower">Horsepower <output data-out-for="f-horsepower">120 hp</output></label><input type="range" id="f-horsepower" min="65" max="374" value="120"></div></div></div>
+<div class="asking-wrap"><label for="f-asking">Asking price <span>optional — unlocks Deal Score</span></label><div class="asking-input"><span>₪</span><input id="f-asking" type="number" min="0" step="500" placeholder="e.g. 82,000"><span>seller asks</span></div></div>
+<button type="submit" class="btn btn-primary calc-submit"><span id="submit-label">Calculate market value</span> <span>→</span></button><div id="load-status" class="error-state" role="status"></div></form>
+<aside class="result-panel" aria-live="polite"><div class="result-top"><span class="result-label">ESTIMATED MARKET VALUE</span><span class="live-dot">MODEL READY</span></div><div class="price-wrap"><span>₪</span><strong id="price-value">—</strong></div><div class="range-label">ESTIMATED MARKET RANGE</div><div class="price-range"><strong id="range-low">—</strong><span>—</span><strong id="range-high">—</strong></div><p class="range-note">Based on the model's cross-validation MAE of ₪8,480. This is an estimated range, not a prediction interval or guarantee.</p><div class="result-divider"></div><div class="result-context" id="result-context">Complete the form to see where this car sits in the market.</div><div class="deal-card" id="deal-card" hidden><div><div class="mini-label">DEAL SCORE</div><strong id="deal-score">—</strong><span id="deal-label">—</span></div><div class="deal-bar"><i id="deal-fill"></i></div><p id="deal-explain"></p></div><div class="coverage" id="coverage"><div class="coverage-head"><span>PREDICTION RELIABILITY</span><strong id="coverage-level">—</strong></div><div class="coverage-track"><i id="coverage-fill"></i></div><p id="coverage-text">Based on how well the selected car is represented in the available dataset.</p></div></aside></div></div></section>
+<section class="section market-section" id="market"><div class="container"><div class="section-head"><div><div class="eyebrow">02 / MARKET POSITION</div><h2>Where does your car stand?</h2></div><p id="market-summary">Every point is a real listing in the supplied dataset.</p></div><div class="position-card"><div class="position-copy"><div class="big-percent"><span id="percentile">—</span><small>%</small></div><h3 id="position-title">Calculate a valuation</h3><p id="position-text">Your car's market position will appear here.</p><div class="position-line"><span>0%</span><div><i id="position-marker"></i></div><span>100%</span></div><div class="position-caption"><span>Lower priced</span><strong id="position-scope">Market</strong><span>Higher priced</span></div></div><div class="chart-panel"><div class="chart-toolbar"><div class="axis-toggle" role="group" aria-label="Chart axis"><button class="active" data-axis="mileage">Price × mileage</button><button data-axis="year">Price × year</button></div><div class="legend"><span><i></i> Market</span><span><i class="you-dot"></i> Your car</span></div></div><svg id="scatter-svg" role="img" aria-label="Used-car price scatter plot"></svg></div></div></div></section>
+<section class="section" id="similar"><div class="container"><div class="section-head"><div><div class="eyebrow">03 / COMPARABLES</div><h2>Similar cars.</h2></div><p>Nearest real listings in the supplied dataset, ranked by vehicle characteristics.</p></div><div class="similar-grid" id="similar-grid"><div class="empty-card">Run a valuation to find comparable cars.</div></div></div></section>
+<section class="section insight-section"><div class="container"><div class="insight-grid"><div class="insight-card"><div class="eyebrow">WHY THIS PRICE?</div><h2>What the model considers.</h2><p>Auto-Price evaluates the vehicle details below through its trained neural network. The model does not expose reliable per-feature ₪ contributions, so these are shown as inputs — not invented feature importance scores.</p><div class="factor-list"><span>Manufacturer</span><span>Model & trim</span><span>Year</span><span>Mileage</span><span>Owners</span><span>Engine</span><span>Horsepower</span><span>Fuel</span><span>Transmission</span><span>Drive type</span></div></div><div class="whatif-card"><div class="eyebrow">WHAT-IF SIMULATOR</div><h2>Change the car. Re-run the model.</h2><p>Use the mileage slider to test a different scenario. Every change runs the actual exported neural network again.</p><label for="whatif-mileage">Mileage <output id="whatif-mileage-value">80,000 km</output></label><input type="range" id="whatif-mileage" min="0" max="390000" step="1000" value="80000"><div class="whatif-values"><div><small>CURRENT</small><strong id="whatif-current">—</strong></div><div class="arrow">→</div><div><small>SCENARIO</small><strong id="whatif-new">—</strong></div></div><p class="scenario-note" id="whatif-delta"></p></div></div></div></section>
+<section class="section dashboard" id="dashboard"><div class="container"><div class="section-head"><div><div class="eyebrow">04 / ISRAELI MARKET</div><h2>The dataset at a glance.</h2></div><p>Statistics calculated directly from the records shipped with this site.</p></div><div class="stat-grid"><div><strong id="dash-vehicles">—</strong><span>Listings</span></div><div><strong id="dash-makers">—</strong><span>Manufacturers</span></div><div><strong id="dash-models">—</strong><span>Models</span></div><div><strong id="dash-median">—</strong><span>Median price</span></div><div><strong id="dash-average">—</strong><span>Average price</span></div><div><strong id="dash-mileage">—</strong><span>Average mileage</span></div></div><div class="dashboard-grid"><div class="data-card"><h3>Most represented manufacturers</h3><div id="maker-bars"></div></div><div class="data-card"><h3>Listings by year</h3><div id="year-bars"></div></div></div></div></section>
+<section class="section about-section" id="about"><div class="container"><div class="section-head"><div><div class="eyebrow">05 / THE MODEL</div><h2>Transparent by design.</h2></div><p>These are the actual production model facts available in the project — no inflated accuracy claims.</p></div><div class="model-grid"><div class="model-card"><div class="model-stat"><strong id="stat-r2">—</strong><span>5-fold CV R²</span></div><div class="model-stat"><strong id="stat-mae">—</strong><span>5-fold CV MAE</span></div><div class="model-stat"><strong id="stat-rmse">—</strong><span>5-fold CV RMSE</span></div><div class="model-stat"><strong id="stat-rows">—</strong><span>Training listings</span></div></div><div class="architecture"><h3>Neural network architecture</h3><div class="layer"><b>INPUT</b><span id="stat-features">—</span> features</div><div class="layer"><b>HIDDEN</b><span id="stat-hidden-1">—</span> neurons · ReLU</div><div class="layer"><b>HIDDEN</b><span id="stat-hidden-2">—</span> neurons · ReLU</div><div class="layer"><b>OUTPUT</b>1 predicted price</div><p>Five-fold cross-validation metrics come from the project's training pipeline. The final browser model is retrained on the full dataset after model selection.</p></div></div><div class="disclaimer">Estimates are not professional appraisals. The dataset/model does not know accident history, service records, cosmetic condition, seller motivation, location, or future market changes.</div></div></section>
+</main><footer><div class="container"><strong>Auto-Price</strong><span>Static · Client-side · Israeli used-car market</span><span>Estimates only — not a valuation guarantee.</span></div></footer>
+<script src="assets/js/model.js"></script><script src="assets/js/chart.js"></script><script type="module" src="assets/js/main.js"></script>
+</body></html>
