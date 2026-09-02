@@ -45344,5 +45344,64 @@
         "r2": 0.8967,
         "method": "5-fold cross-validation"
     },
-    "export_version": 2
+    "export_version": 2,
+    "feature_importance": [
+        {
+            "key": "model",
+            "label": "Model",
+            "pct": 30.87
+        },
+        {
+            "key": "submodel",
+            "label": "Trim / submodel",
+            "pct": 28.19
+        },
+        {
+            "key": "manufacturer",
+            "label": "Manufacturer",
+            "pct": 13.99
+        },
+        {
+            "key": "transmission",
+            "label": "Transmission",
+            "pct": 5.97
+        },
+        {
+            "key": "fuel",
+            "label": "Fuel type",
+            "pct": 5.85
+        },
+        {
+            "key": "drive_type",
+            "label": "Drive type",
+            "pct": 3.84
+        },
+        {
+            "key": "year",
+            "label": "Year",
+            "pct": 2.66
+        },
+        {
+            "key": "mileage",
+            "label": "Mileage",
+            "pct": 2.32
+        },
+        {
+            "key": "engine_liters",
+            "label": "Engine size",
+            "pct": 2.22
+        },
+        {
+            "key": "hand",
+            "label": "Owners",
+            "pct": 2.2
+        },
+        {
+            "key": "horsepower",
+            "label": "Horsepower",
+            "pct": 1.89
+        }
+    ],
+    "feature_importance_method": "Sum of absolute input-layer weight magnitudes per feature (one-hot groups combined), normalized to 100%. Reflects the trained network's sensitivity to each feature -- not a SHAP/\u20aa decomposition.",
+    "trained_at": "2026-08-31"
 }

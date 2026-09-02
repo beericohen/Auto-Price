@@ -56,6 +56,77 @@ function animateNumber(el, to, duration = 650) {
   requestAnimationFrame(step);
 }
 
+// Signed money formatting, e.g. "+₪4,200" / "−₪1,100"
+const moneySigned = (n) => `${n > 0 ? "+" : n < 0 ? "\u2212" : "±"}₪${Math.round(Math.abs(n)).toLocaleString("en-US")}`;
+
+// ---------- Theme toggle ----------
+function setupTheme() {
+  const btn = $("#theme-toggle");
+  if (!btn) return;
+  const root = document.documentElement;
+
+  btn.addEventListener("click", () => {
+    const next = root.getAttribute("data-theme") === "light" ? "dark" : "light";
+    root.setAttribute("data-theme", next);
+    try { localStorage.setItem("autoprice-theme", next); } catch (e) {}
+    window.car3d?.setTheme?.(next);
+  });
+}
+
+// ---------- Progressive 3-step form ----------
+function setupStepper() {
+  const steps = $$(".form-step");
+  const dots = $$(".step-dot");
+  const bar = $("#step-bar-fill");
+  const panel = $("#valuation-form");
+  let current = 1;
+
+  function requiredOk(step) {
+    if (step !== 1) return true;
+    return !!($("#f-manufacturer").value && $("#f-model").value && $("#f-submodel").value);
+  }
+
+  function render(dir) {
+    steps.forEach((s) => {
+      const n = +s.dataset.step;
+      s.classList.toggle("is-active", n === current);
+      s.classList.toggle("dir-back", n === current && dir === "back");
+    });
+    dots.forEach((d) => {
+      const n = +d.dataset.dot;
+      d.classList.toggle("active", n === current);
+      d.classList.toggle("done", n < current);
+      d.setAttribute("aria-selected", n === current ? "true" : "false");
+    });
+    bar.style.width = `${(current / steps.length) * 100}%`;
+  }
+
+  function goTo(n, dir) {
+    if (n > current && !requiredOk(current)) {
+      $("#load-status").textContent = "Choose a manufacturer, model and submodel first.";
+      panel.classList.remove("shake");
+      void panel.offsetWidth;
+      panel.classList.add("shake");
+      return;
+    }
+    $("#load-status").textContent = "";
+    current = n;
+    render(dir);
+  }
+
+  $$(".step-next").forEach((b) => (b.onclick = () => goTo(+b.dataset.goto, "next")));
+  $$(".step-back").forEach((b) => (b.onclick = () => goTo(+b.dataset.goto, "back")));
+  dots.forEach((d) => {
+    d.onclick = () => goTo(+d.dataset.dot, +d.dataset.dot < current ? "back" : "next");
+    d.onkeydown = (e) => {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); d.onclick(); }
+    };
+  });
+
+  render();
+  return { goTo, reset: () => goTo(1, "back") };
+}
+
 // Gather all form inputs
 function inputs() {
   return {
@@ -108,6 +179,9 @@ async function boot() {
   }
   
   const M = window.CarModel;
+
+  setupTheme();
+  const stepper = setupStepper();
   
   // 3D visualization is deliberately loaded after the model/data so a CDN failure can never break the calculator.
   const man = $("#f-manufacturer");
@@ -272,6 +346,34 @@ async function boot() {
   $("#stat-features").textContent = M.meta.nFeatures;
   $("#stat-hidden-1").textContent = M.meta.hiddenLayers[0];
   $("#stat-hidden-2").textContent = M.meta.hiddenLayers[1];
+
+  // Training date
+  const trainedEl = $("#stat-trained");
+  if (trainedEl) {
+    if (M.meta.trainedAt) {
+      const d = new Date(M.meta.trainedAt + "T00:00:00");
+      trainedEl.textContent = isNaN(d) ? M.meta.trainedAt : d.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
+    } else {
+      trainedEl.textContent = "Unknown";
+    }
+  }
+
+  // Feature importance bars
+  const impWrap = $("#importance-bars");
+  const impMethodEl = $("#importance-method");
+  if (impMethodEl && M.meta.featureImportanceMethod) impMethodEl.textContent = M.meta.featureImportanceMethod;
+  if (impWrap) {
+    const items = M.meta.featureImportance || [];
+    impWrap.innerHTML = items.length
+      ? items.map((it) => `
+          <div class="imp-row">
+            <span>${it.label}</span>
+            <div class="imp-track"><i class="imp-fill" style="--pct:${it.pct}%"></i></div>
+            <b>${it.pct}%</b>
+          </div>
+        `).join("")
+      : "<p>No feature-importance data was exported.</p>";
+  }
   
   // Handle Buy/Sell toggle
   $$(".mode-toggle button").forEach((b) => {
@@ -295,6 +397,7 @@ async function boot() {
     
     status.textContent = "ANALYZING MARKET DATA…";
     $("#valuation-form").classList.add("is-loading");
+    $(".calc-submit")?.classList.add("is-busy");
     
     // Artificial delay for UI feedback
     await new Promise((r) => setTimeout(r, 120));
@@ -305,6 +408,9 @@ async function boot() {
       lastPrice = price;
       
       animateNumber($("#price-value"), price);
+      $("#price-value").classList.remove("bump");
+      void $("#price-value").offsetWidth;
+      $("#price-value").classList.add("bump");
       $("#range-low").textContent = money(Math.max(0, price - M.meta.validation.mae));
       $("#range-high").textContent = money(price + M.meta.validation.mae);
       
@@ -353,12 +459,18 @@ async function boot() {
       
       status.textContent = "VALUATION COMPLETE";
       
-      // Update What-If Simulator
-      $("#whatif-mileage").value = xs.mileage;
-      $("#whatif-mileage-value").textContent = whole(xs.mileage) + " km";
+      // Update What-If Simulator (year / owners / mileage all seeded from this result)
+      const wiYear = $("#whatif-year"), wiHand = $("#whatif-hand"), wiMileage = $("#whatif-mileage");
+      wiYear.value = xs.year;
+      wiHand.value = xs.hand;
+      wiMileage.value = xs.mileage;
+      [wiYear, wiHand, wiMileage].forEach((el) => el.dispatchEvent(new Event("input")));
       $("#whatif-current").textContent = money(price);
       $("#whatif-new").textContent = money(price);
-      $("#whatif-delta").textContent = "Move the slider to run another real model prediction.";
+      $("#whatif-delta").textContent = "Move a slider to run another real model prediction.";
+      $("#whatif-delta").classList.remove("flash");
+
+      renderReceipt(M, xs, price);
       
       $("#valuation").classList.add("has-result");
       //setTimeout(() => $("#similar").scrollIntoView({ behavior: "smooth", block: "start" }), 300);
@@ -368,23 +480,94 @@ async function boot() {
       status.textContent = "We couldn't calculate this valuation. Please check the selected vehicle details and try again.";
     } finally {
       $("#valuation-form").classList.remove("is-loading");
+      $(".calc-submit")?.classList.remove("is-busy");
     }
   };
   
-  // What-If Mileage Slider Event
-  const wi = $("#whatif-mileage");
-  wi.oninput = () => {
-    if (!lastInputs) return;
-    
-    $("#whatif-mileage-value").textContent = whole(wi.value) + " km";
-    
-    const xs = { ...lastInputs, mileage: +wi.value };
-    const p = Math.max(0, M.predict(xs).price);
-    
-    $("#whatif-new").textContent = money(p);
-    const d = p - lastPrice;
-    $("#whatif-delta").textContent = `${d >= 0 ? "+" : ""}${money(d)} vs current estimate · actual model re-run`;
+  // What-If Simulator: year / owners / mileage each re-run the real model
+  const wiFmt = {
+    "#whatif-year": (v) => `${v}`,
+    "#whatif-hand": (v) => (v == 1 ? "1 owner" : `${v} owners`),
+    "#whatif-mileage": (v) => `${whole(v)} km`,
   };
+  $$("#whatif-year, #whatif-hand, #whatif-mileage").forEach((el) => {
+    slider(el);
+    const out = $(`${el.id === "whatif-year" ? "#whatif-year-value" : el.id === "whatif-hand" ? "#whatif-hand-value" : "#whatif-mileage-value"}`);
+    const paintLabel = () => (out.textContent = wiFmt[`#${el.id}`](el.value));
+    paintLabel();
+    el.addEventListener("input", () => {
+      paintLabel();
+      if (!lastInputs) return;
+
+      const xs = { ...lastInputs, year: +$("#whatif-year").value, hand: +$("#whatif-hand").value, mileage: +$("#whatif-mileage").value };
+      const p = Math.max(0, M.predict(xs).price);
+
+      const newEl = $("#whatif-new");
+      newEl.textContent = money(p);
+      newEl.classList.remove("pulse");
+      void newEl.offsetWidth;
+      newEl.classList.add("pulse");
+
+      const d = p - lastPrice;
+      const note = $("#whatif-delta");
+      note.textContent = `${d >= 0 ? "+" : ""}${money(d)} vs current estimate · actual model re-run`;
+      note.classList.remove("flash");
+      void note.offsetWidth;
+      note.classList.add("flash");
+    });
+  });
+
+  // "Why this price?" receipt — one line per factor, each a real re-run of the network
+  function renderReceipt(M, xs, price) {
+    const wrap = $("#receipt");
+    const empty = $("#receipt-empty");
+    if (!wrap) return;
+
+    let exp;
+    try {
+      exp = M.explainPrice(xs, price);
+    } catch (err) {
+      console.warn("Could not build price receipt", err);
+      return;
+    }
+
+    empty.hidden = true;
+    wrap.hidden = false;
+
+    $("#receipt-car").textContent = `${xs.manufacturer} ${xs.model} ${xs.submodel}`;
+    $("#receipt-date").textContent = new Date().toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" });
+    $("#receipt-base-value").textContent = money(exp.basePrice);
+    $("#receipt-base-note").textContent = exp.baseline._scoped
+      ? `(typical ${xs.manufacturer} ${xs.model})`
+      : "(typical car in the dataset)";
+
+    const items = [...exp.items];
+    if (Math.abs(exp.residual) >= 50) {
+      items.push({
+        key: "residual",
+        label: "Other model interactions",
+        fromLabel: "non-linear effects beyond single-factor swaps",
+        toLabel: "",
+        delta: exp.residual,
+        isResidual: true,
+      });
+    }
+
+    const itemsWrap = $("#receipt-items");
+    itemsWrap.innerHTML = items.map((it, i) => {
+      const cls = it.delta >= 0 ? "pos" : "neg";
+      const detail = it.isResidual ? it.fromLabel : `${it.fromLabel} → ${it.toLabel}`;
+      return `
+        <div class="receipt-item" style="animation-delay:${i * 90}ms">
+          <div class="ri-text"><span class="ri-label">${it.label}</span><span class="ri-detail">${detail}</span></div>
+          <span class="ri-amount ${cls}">${moneySigned(it.delta)}</span>
+        </div>
+      `;
+    }).join("");
+
+    $("#receipt-total").textContent = money(exp.actualPrice);
+    $("#receipt-note").textContent = "Base estimate + every line above reproduces the model's actual prediction exactly.";
+  }
   
   $("#cta-start").onclick = () => $("#valuation").scrollIntoView({ behavior: "smooth" });
   

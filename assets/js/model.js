@@ -81,7 +81,10 @@
           nFeatures: this.model.feature_order.length,
           nRows: this.stats.n_rows,
           validation: this.validation,
-          groups: this.model.groups
+          groups: this.model.groups,
+          trainedAt: this.model.trained_at || null,
+          featureImportance: this.model.feature_importance || [],
+          featureImportanceMethod: this.model.feature_importance_method || ""
       };
       
       this.datasetStats = this._stats(); 
@@ -194,6 +197,101 @@
       }
       
       return { level, count: same.length, avgDistance: d };
+    }
+
+    // Most frequent value in an array (used to build a "typical" baseline car)
+    _mode(arr){
+      const c = {};
+      arr.forEach(v => { c[v] = (c[v] || 0) + 1; });
+      let best = null, bestCount = -1;
+      for (const k in c) {
+        if (c[k] > bestCount) { best = k; bestCount = c[k]; }
+      }
+      return best;
+    }
+
+    // Median value in a numeric array
+    _median(arr){
+      const s = [...arr].sort((a, b) => a - b);
+      const n = s.length;
+      if (!n) return 0;
+      const mid = Math.floor(n / 2);
+      return n % 2 ? s[mid] : (s[mid - 1] + s[mid]) / 2;
+    }
+
+    // Build a "typical" reference car for the same manufacturer/model, used
+    // as the baseline for the price-breakdown receipt.
+    referenceProfile(inputs){
+      const same = this.records.filter(r => r.manufacturer === inputs.manufacturer && r.model === inputs.model);
+      const pool = same.length >= 5 ? same : this.records;
+
+      return {
+        manufacturer: inputs.manufacturer,
+        model: inputs.model,
+        submodel: this._mode(pool.map(r => r.submodel)),
+        fuel: this._mode(pool.map(r => r.fuel)),
+        transmission: this._mode(pool.map(r => r.transmission)),
+        drive_type: this._mode(pool.map(r => r.drive_type)),
+        year: Math.round(this._median(pool.map(r => r.year))),
+        hand: Math.round(this._median(pool.map(r => r.hand))),
+        engine_liters: this._median(pool.map(r => r.engine_liters)),
+        horsepower: Math.round(this._median(pool.map(r => r.horsepower))),
+        mileage: Math.round(this._median(pool.map(r => r.mileage))),
+        _scoped: same.length >= 5,
+        _poolSize: pool.length
+      };
+    }
+
+    /**
+     * "Why this price?" receipt.
+     * Starts from a typical car for the same manufacturer/model (the
+     * baseline), then swaps in the actual value of one factor at a time and
+     * re-runs the real exported network to see how much that single change
+     * moves the price versus the baseline. Every number here is a genuine
+     * prediction from the network, not a fabricated split — but because the
+     * network is non-linear, the individual deltas won't sum to exactly
+     * (actual price − base price); the leftover is reported as `residual`.
+     */
+    explainPrice(inputs, actualPrice){
+      const ref = this.referenceProfile(inputs);
+      const basePrice = Math.max(0, this.predict(ref).price);
+
+      const FACTORS = [
+        { key: "year", label: "Year", fmt: v => `${v}` },
+        { key: "mileage", label: "Mileage", fmt: v => `${Math.round(v).toLocaleString("en-US")} km` },
+        { key: "submodel", label: "Trim / submodel", fmt: v => `${v}` },
+        { key: "hand", label: "Owners", fmt: v => (v == 1 ? "1 owner" : `${v} owners`) },
+        { key: "engine_liters", label: "Engine size", fmt: v => `${(+v).toFixed(1)} L` },
+        { key: "horsepower", label: "Horsepower", fmt: v => `${v} hp` },
+        { key: "fuel", label: "Fuel type", fmt: v => `${v}` },
+        { key: "transmission", label: "Transmission", fmt: v => `${v}` },
+        { key: "drive_type", label: "Drive type", fmt: v => `${v}` }
+      ];
+
+      const items = FACTORS.map(f => {
+        if (inputs[f.key] === ref[f.key]) return null;
+        const swappedPrice = Math.max(0, this.predict({ ...ref, [f.key]: inputs[f.key] }).price);
+        const delta = swappedPrice - basePrice;
+        if (Math.abs(delta) < 1) return null;
+        return {
+          key: f.key,
+          label: f.label,
+          fromLabel: f.fmt(ref[f.key]),
+          toLabel: f.fmt(inputs[f.key]),
+          delta
+        };
+      }).filter(Boolean).sort((a, b) => Math.abs(b.delta) - Math.abs(a.delta));
+
+      const explainedTotal = basePrice + items.reduce((s, i) => s + i.delta, 0);
+
+      return {
+        baseline: ref,
+        basePrice,
+        items,
+        explainedTotal,
+        residual: actualPrice - explainedTotal,
+        actualPrice
+      };
     }
 
     // Generate summary stats for the dashboard view
