@@ -1,48 +1,413 @@
-const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
-const money=n=>`₪${Math.round(n).toLocaleString("en-US")}`;
-const whole=n=>Math.round(n).toLocaleString("en-US");
-function fill(sel,values,placeholder){sel.innerHTML="";if(placeholder){const o=document.createElement("option");o.textContent=placeholder;o.value="";o.disabled=true;o.selected=true;sel.append(o);}for(const v of (values||[])){const o=document.createElement("option");o.value=v;o.textContent=v;sel.append(o);}}
-function slider(input){const paint=()=>input.style.setProperty("--fill",`${(input.value-input.min)/(input.max-input.min)*100}%`);input.addEventListener("input",paint);paint();}
-function animateNumber(el,to,duration=650){const from=Number(el.dataset.value||0),start=performance.now();const step=t=>{const p=Math.min(1,(t-start)/duration),e=1-Math.pow(1-p,3),v=from+(to-from)*e;el.textContent=whole(v);if(p<1)requestAnimationFrame(step);else el.dataset.value=to};requestAnimationFrame(step);}
-function inputs(){return {manufacturer:$("#f-manufacturer").value,model:$("#f-model").value,submodel:$("#f-submodel").value,fuel:$("#f-fuel").value,transmission:$("#f-transmission").value,drive_type:$("#f-drive").value,year:+$("#f-year").value,hand:+$("#f-hand").value,engine_liters:+$("#f-engine").value,horsepower:+$("#f-horsepower").value,mileage:+$("#f-mileage").value};}
-function dealScore(value,asking){const ratio=asking/value;const score=Math.max(0,Math.min(100,Math.round(100-((ratio-0.7)*100))));let label="FAIR PRICE",cls="fair";if(ratio<=.9){label="EXCELLENT DEAL";cls="good"}else if(ratio<=1.05){label="FAIR PRICE";cls="fair"}else{label="POTENTIALLY OVERPRICED";cls="bad"}return {score,label,cls};}
-async function boot(){
- const status=$("#load-status");
- try{await window.CarModel.ready}catch(e){status.textContent="We couldn't load the valuation data. Check that assets/data/model.json and assets/data/dataset.json exist, then refresh.";console.error(e);return}
- const M=window.CarModel;
- // 3D visualization is deliberately loaded after the model/data so a CDN failure can never break the calculator.
- const man=$("#f-manufacturer"),model=$("#f-model"),sub=$("#f-submodel"),fuel=$("#f-fuel"),trans=$("#f-transmission"),drive=$("#f-drive");
- const manufacturers=Array.isArray(M.options?.manufacturer)?M.options.manufacturer:[];
- fill(man,manufacturers,"Choose manufacturer");
- fill(fuel,M.options?.fuel||[]);fill(trans,M.options?.transmission||[]);fill(drive,M.options?.drive_type||[]);
- model.disabled=true;sub.disabled=true;fill(model,[],"Choose manufacturer first");fill(sub,[],"Choose model first");
- if(!manufacturers.length){status.textContent="No manufacturer data was exported. Run src/export_model.py and refresh."}
- const ranges=[["#f-year",v=>v],["#f-hand",v=>v==1?`${v} owner`:`${v} owners`],["#f-mileage",v=>`${whole(v)} km`],["#f-engine",v=>`${(+v).toFixed(1)} L`],["#f-horsepower",v=>`${v} hp`]];ranges.forEach(([s,fmt])=>{const i=$(s),o=document.querySelector(`[data-out-for="${i.id}"]`);slider(i);const render=()=>o.textContent=fmt(i.value);i.addEventListener("input",render);render()});
- man.addEventListener("change",()=>{const models=M.manufacturerToModels?.[man.value]||[];fill(model,models,"Choose model");model.disabled=models.length===0;sub.disabled=true;fill(sub,[],"Choose model first");if(!models.length)status.textContent="No models were found for this manufacturer in the exported dataset."});
- model.addEventListener("change",()=>{const subs=M.modelToSubmodels?.[model.value]||[];fill(sub,subs,"Choose submodel");sub.disabled=subs.length===0;if(!subs.length)status.textContent="No submodels were found for this model in the exported dataset."});
- fuel.addEventListener("change",()=>car3d?.setFuelColor(fuel.value));
- let chart=null;
- try{
-  if(typeof window.ScatterChart==="function"){
-   chart=new window.ScatterChart($("#scatter-svg"),M.records,M.stats);
-   $$(".axis-toggle button").forEach(b=>b.onclick=()=>{$$(".axis-toggle button").forEach(x=>x.classList.remove("active"));b.classList.add("active");chart.setAxis(b.dataset.axis)});
-  }else console.warn("ScatterChart is unavailable; calculator will continue without the chart.");
- }catch(err){console.warn("Chart initialization failed; calculator will continue.",err);chart=null;}
- let lastInputs=null,lastPrice=null,mode="buy";
- function renderSimilar(xs,price){const rows=M.comparableRecords(xs,6),grid=$("#similar-grid");grid.innerHTML="";if(!rows.length){grid.innerHTML='<div class="empty-card">No comparable vehicles were found in the supplied dataset.</div>';return}rows.forEach(r=>{const d=Math.round(r.price-price);const card=document.createElement("article");card.className="similar-card";card.innerHTML=`<div class="similar-title"><strong>${r.manufacturer} ${r.model}</strong><span>${r.year}</span></div><div class="similar-meta">${r.submodel} · ${whole(r.mileage)} km · ${r.hand} owner${r.hand==1?"":"s"}</div><div class="similar-bottom"><strong>${money(r.price)}</strong><span class="${d>=0?"above":"below"}">${d>=0?"+":""}${money(d)} vs estimate</span></div>`;grid.append(card)})}
- function renderBars(){const S=M.datasetStats;if(!S)return;$("#dash-vehicles").textContent=whole(S.vehicles);$("#dash-makers").textContent=whole(S.manufacturers);$("#dash-models").textContent=whole(S.models);$("#dash-median").textContent=money(S.medianPrice);$("#dash-average").textContent=money(S.averagePrice);$("#dash-mileage").textContent=whole(S.averageMileage)+" km";const bars=(id,data)=>{if(!data?.length){$(id).innerHTML="<p>No data available.</p>";return}const max=Math.max(...data.map(x=>x[1]))||1;$(id).innerHTML=data.map(([k,v])=>`<div class="bar-row"><span>${k}</span><div><i style="width:${v/max*100}%"></i></div><b>${v}</b></div>`).join("")};bars("#maker-bars",S.topManufacturers);bars("#year-bars",[...(S.topYears||[])].sort((a,b)=>+a[0]-+b[0]))}
- renderBars();
- if(M.meta?.validation){$("#stat-r2").textContent=M.meta.validation.r2.toFixed(4);$("#stat-mae").textContent=money(M.meta.validation.mae);$("#stat-rmse").textContent=money(M.meta.validation.rmse)}
- $("#stat-rows").textContent=whole(M.stats.n_rows);$("#stat-features").textContent=M.meta.nFeatures;$("#stat-hidden-1").textContent=M.meta.hiddenLayers[0];$("#stat-hidden-2").textContent=M.meta.hiddenLayers[1];
- $$(".mode-toggle button").forEach(b=>b.onclick=()=>{$$(".mode-toggle button").forEach(x=>x.classList.remove("active"));b.classList.add("active");mode=b.dataset.mode;$("#submit-label").textContent=mode==="buy"?"Calculate market value":"Calculate asking price"});
- $("#valuation-form").onsubmit=async e=>{e.preventDefault();const xs=inputs();if(!xs.manufacturer||!xs.model||!xs.submodel){status.textContent="Choose a manufacturer, model and submodel first.";return}status.textContent="ANALYZING MARKET DATA…";$("#valuation-form").classList.add("is-loading");await new Promise(r=>setTimeout(r,120));try{const price=Math.max(0,M.predict(xs).price);lastInputs=xs;lastPrice=price;animateNumber($("#price-value"),price);$("#range-low").textContent=money(Math.max(0,price-M.meta.validation.mae));$("#range-high").textContent=money(price+M.meta.validation.mae);const pos=M.marketPosition(xs,price),cov=M.coverage(xs);$("#percentile").textContent=pos.percentile;$("#position-marker").style.left=`${pos.percentile}%`;$("#position-scope").textContent=pos.scope;$("#position-title").textContent=pos.percentile>=70?"Priced above most comparable listings":pos.percentile<=30?"Priced below most comparable listings":"Around the middle of the market";$("#position-text").textContent=`Your car is cheaper than ${pos.percentile}% of ${pos.count.toLocaleString()} ${pos.scope.toLowerCase()}.`;$("#market-summary").textContent=`${pos.comparableCount} ${xs.manufacturer} ${xs.model} listings are available for comparison.`;if(chart) if(chart) chart.setYou({mileage:xs.mileage,year:xs.year,price});renderSimilar(xs,price);const covScore=cov.level==="High"?90:cov.level==="Medium"?65:35;$("#coverage-level").textContent=cov.level;$("#coverage-fill").style.width=covScore+"%";$("#coverage-text").textContent=cov.count?`${cov.count} matching ${xs.manufacturer} ${xs.model} listings found; reliability reflects dataset coverage and similarity, not a statistical confidence interval.`:"No matching model listings found, so coverage is limited.";const asking=+$("#f-asking").value;const dc=$("#deal-card");if(asking>0){const d=dealScore(price,asking);dc.hidden=false;dc.className="deal-card "+d.cls;$("#deal-score").textContent=d.score+" / 100";$("#deal-label").textContent=d.label;$("#deal-fill").style.width=d.score+"%";$("#deal-explain").textContent=`Seller asks ${money(asking)} — ${Math.round(Math.abs(price-asking)/price*100)}% ${asking<price?"below":"above"} the model estimate.`}else dc.hidden=true;status.textContent="VALUATION COMPLETE";$("#whatif-mileage").value=xs.mileage;$("#whatif-mileage-value").textContent=whole(xs.mileage)+" km";$("#whatif-current").textContent=money(price);$("#whatif-new").textContent=money(price);$("#whatif-delta").textContent="Move the slider to run another real model prediction.";$("#valuation").classList.add("has-result");setTimeout(()=>$("#similar").scrollIntoView({behavior:"smooth",block:"start"}),300)}catch(err){console.error(err);status.textContent="We couldn't calculate this valuation. Please check the selected vehicle details and try again."}finally{$("#valuation-form").classList.remove("is-loading")}};
- const wi=$("#whatif-mileage");wi.oninput=()=>{if(!lastInputs)return;$("#whatif-mileage-value").textContent=whole(wi.value)+" km";const xs={...lastInputs,mileage:+wi.value},p=Math.max(0,M.predict(xs).price);$("#whatif-new").textContent=money(p);const d=p-lastPrice;$("#whatif-delta").textContent=`${d>=0?"+":""}${money(d)} vs current estimate · actual model re-run`};
- $("#cta-start").onclick=()=>$("#valuation").scrollIntoView({behavior:"smooth"});
- const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting)e.target.classList.add("in-view")}),{threshold:.08});$$(".section,.hero-copy,.hero-visual").forEach(e=>io.observe(e));
+// Query selectors
+const $ = (s) => document.querySelector(s);
+const $$ = (s) => [...document.querySelectorAll(s)];
+
+// Formatting utilities
+const money = (n) => `₪${Math.round(n).toLocaleString("en-US")}`;
+const whole = (n) => Math.round(n).toLocaleString("en-US");
+
+// Dropdown population helper
+function fill(sel, values, placeholder) {
+  sel.innerHTML = "";
+  if (placeholder) {
+    const o = document.createElement("option");
+    o.textContent = placeholder;
+    o.value = "";
+    o.disabled = true;
+    o.selected = true;
+    sel.append(o);
+  }
+  for (const v of values || []) {
+    const o = document.createElement("option");
+    o.value = v;
+    o.textContent = v;
+    sel.append(o);
+  }
 }
-window.addEventListener("error", e=>console.error("Auto-Price error:",e.error||e.message));
-boot().catch(err=>{
-  console.error("Auto-Price startup failed:",err);
-  const status=$("#load-status");
-  if(status) status.textContent="The calculator could not start. Check the browser console for the exact error.";
+
+// Range slider styling helper
+function slider(input) {
+  const paint = () => {
+    const percentage = ((input.value - input.min) / (input.max - input.min)) * 100;
+    input.style.setProperty("--fill", `${percentage}%`);
+  };
+  input.addEventListener("input", paint);
+  paint();
+}
+
+// Smooth number counting animation
+function animateNumber(el, to, duration = 650) {
+  const from = Number(el.dataset.value || 0);
+  const start = performance.now();
+
+  const step = (t) => {
+    const p = Math.min(1, (t - start) / duration);
+    const easeOutCubic = 1 - Math.pow(1 - p, 3);
+    const currentVal = from + (to - from) * easeOutCubic;
+
+    el.textContent = whole(currentVal);
+
+    if (p < 1) {
+      requestAnimationFrame(step);
+    } else {
+      el.dataset.value = to;
+    }
+  };
+  requestAnimationFrame(step);
+}
+
+// Gather all form inputs
+function inputs() {
+  return {
+    manufacturer: $("#f-manufacturer").value,
+    model: $("#f-model").value,
+    submodel: $("#f-submodel").value,
+    fuel: $("#f-fuel").value,
+    transmission: $("#f-transmission").value,
+    drive_type: $("#f-drive").value,
+    year: +$("#f-year").value,
+    hand: +$("#f-hand").value,
+    engine_liters: +$("#f-engine").value,
+    horsepower: +$("#f-horsepower").value,
+    mileage: +$("#f-mileage").value,
+  };
+}
+
+// Calculate if the asking price is a good deal compared to model estimate
+function dealScore(value, asking) {
+  const ratio = asking / value;
+  const score = Math.max(0, Math.min(100, Math.round(100 - (ratio - 0.7) * 100)));
+
+  let label = "FAIR PRICE";
+  let cls = "fair";
+
+  if (ratio <= 0.9) {
+    label = "EXCELLENT DEAL";
+    cls = "good";
+  } else if (ratio <= 1.05) {
+    label = "FAIR PRICE";
+    cls = "fair";
+  } else {
+    label = "POTENTIALLY OVERPRICED";
+    cls = "bad";
+  }
+
+  return { score, label, cls };
+}
+
+// Main application startup routine
+async function boot() {
+  const status = $("#load-status");
+  
+  try {
+    await window.CarModel.ready;
+  } catch (e) {
+    status.textContent = "We couldn't load the valuation data. Check that assets/data/model.json and assets/data/dataset.json exist, then refresh.";
+    console.error(e);
+    return;
+  }
+  
+  const M = window.CarModel;
+  
+  // 3D visualization is deliberately loaded after the model/data so a CDN failure can never break the calculator.
+  const man = $("#f-manufacturer");
+  const model = $("#f-model");
+  const sub = $("#f-submodel");
+  const fuel = $("#f-fuel");
+  const trans = $("#f-transmission");
+  const drive = $("#f-drive");
+  
+  const manufacturers = Array.isArray(M.options?.manufacturer) ? M.options.manufacturer : [];
+  
+  fill(man, manufacturers, "Choose manufacturer");
+  fill(fuel, M.options?.fuel || []);
+  fill(trans, M.options?.transmission || []);
+  fill(drive, M.options?.drive_type || []);
+  
+  model.disabled = true;
+  sub.disabled = true;
+  fill(model, [], "Choose manufacturer first");
+  fill(sub, [], "Choose model first");
+  
+  if (!manufacturers.length) {
+    status.textContent = "No manufacturer data was exported. Run src/export_model.py and refresh.";
+  }
+  
+  // Set up range sliders and formatting
+  const ranges = [
+    ["#f-year", (v) => v],
+    ["#f-hand", (v) => (v == 1 ? `${v} owner` : `${v} owners`)],
+    ["#f-mileage", (v) => `${whole(v)} km`],
+    ["#f-engine", (v) => `${(+v).toFixed(1)} L`],
+    ["#f-horsepower", (v) => `${v} hp`],
+  ];
+  
+  ranges.forEach(([s, fmt]) => {
+    const i = $(s);
+    const o = document.querySelector(`[data-out-for="${i.id}"]`);
+    slider(i);
+    const render = () => (o.textContent = fmt(i.value));
+    i.addEventListener("input", render);
+    render();
+  });
+  
+  // Handle cascading dropdowns
+  man.addEventListener("change", () => {
+    const models = M.manufacturerToModels?.[man.value] || [];
+    fill(model, models, "Choose model");
+    model.disabled = models.length === 0;
+    sub.disabled = true;
+    fill(sub, [], "Choose model first");
+    if (!models.length) status.textContent = "No models were found for this manufacturer in the exported dataset.";
+  });
+  
+  model.addEventListener("change", () => {
+    const subs = M.modelToSubmodels?.[model.value] || [];
+    fill(sub, subs, "Choose submodel");
+    sub.disabled = subs.length === 0;
+    if (!subs.length) status.textContent = "No submodels were found for this model in the exported dataset.";
+  });
+  
+  fuel.addEventListener("change", () => window.car3d?.setFuelColor(fuel.value));
+  
+  // Initialize Chart
+  let chart = null;
+  try {
+    if (typeof window.ScatterChart === "function") {
+      chart = new window.ScatterChart($("#scatter-svg"), M.records, M.stats);
+      $$(".axis-toggle button").forEach((b) => {
+        b.onclick = () => {
+          $$(".axis-toggle button").forEach((x) => x.classList.remove("active"));
+          b.classList.add("active");
+          chart.setAxis(b.dataset.axis);
+        };
+      });
+    } else {
+      console.warn("ScatterChart is unavailable; calculator will continue without the chart.");
+    }
+  } catch (err) {
+    console.warn("Chart initialization failed; calculator will continue.", err);
+    chart = null;
+  }
+  
+  let lastInputs = null;
+  let lastPrice = null;
+  let mode = "buy";
+  
+  // Render similar vehicles
+  function renderSimilar(xs, price) {
+    const rows = M.comparableRecords(xs, 6);
+    const grid = $("#similar-grid");
+    grid.innerHTML = "";
+    
+    if (!rows.length) {
+      grid.innerHTML = '<div class="empty-card">No comparable vehicles were found in the supplied dataset.</div>';
+      return;
+    }
+    
+    rows.forEach((r) => {
+      const d = Math.round(r.price - price);
+      const card = document.createElement("article");
+      card.className = "similar-card";
+      card.innerHTML = `
+        <div class="similar-title">
+          <strong>${r.manufacturer} ${r.model}</strong>
+          <span>${r.year}</span>
+        </div>
+        <div class="similar-meta">
+          ${r.submodel} · ${whole(r.mileage)} km · ${r.hand} owner${r.hand == 1 ? "" : "s"}
+        </div>
+        <div class="similar-bottom">
+          <strong>${money(r.price)}</strong>
+          <span class="${d >= 0 ? "above" : "below"}">${d >= 0 ? "+" : ""}${money(d)} vs estimate</span>
+        </div>
+      `;
+      grid.append(card);
+    });
+  }
+  
+  // Render dashboard statistics
+  function renderBars() {
+    const S = M.datasetStats;
+    if (!S) return;
+    
+    $("#dash-vehicles").textContent = whole(S.vehicles);
+    $("#dash-makers").textContent = whole(S.manufacturers);
+    $("#dash-models").textContent = whole(S.models);
+    $("#dash-median").textContent = money(S.medianPrice);
+    $("#dash-average").textContent = money(S.averagePrice);
+    $("#dash-mileage").textContent = whole(S.averageMileage) + " km";
+    
+    const bars = (id, data) => {
+      if (!data?.length) {
+        $(id).innerHTML = "<p>No data available.</p>";
+        return;
+      }
+      const max = Math.max(...data.map((x) => x[1])) || 1;
+      $(id).innerHTML = data
+        .map(([k, v]) => `
+          <div class="bar-row">
+            <span>${k}</span>
+            <div><i style="width:${(v / max) * 100}%"></i></div>
+            <b>${v}</b>
+          </div>
+        `)
+        .join("");
+    };
+    
+    bars("#maker-bars", S.topManufacturers);
+    bars("#year-bars", [...(S.topYears || [])].sort((a, b) => +a[0] - +b[0]));
+  }
+  
+  renderBars();
+  
+  // Output ML validation statistics
+  if (M.meta?.validation) {
+    $("#stat-r2").textContent = M.meta.validation.r2.toFixed(4);
+    $("#stat-mae").textContent = money(M.meta.validation.mae);
+    $("#stat-rmse").textContent = money(M.meta.validation.rmse);
+  }
+  
+  $("#stat-rows").textContent = whole(M.stats.n_rows);
+  $("#stat-features").textContent = M.meta.nFeatures;
+  $("#stat-hidden-1").textContent = M.meta.hiddenLayers[0];
+  $("#stat-hidden-2").textContent = M.meta.hiddenLayers[1];
+  
+  // Handle Buy/Sell toggle
+  $$(".mode-toggle button").forEach((b) => {
+    b.onclick = () => {
+      $$(".mode-toggle button").forEach((x) => x.classList.remove("active"));
+      b.classList.add("active");
+      mode = b.dataset.mode;
+      $("#submit-label").textContent = mode === "buy" ? "Calculate market value" : "Calculate asking price";
+    };
+  });
+  
+  // Main Valuation Submit event
+  $("#valuation-form").onsubmit = async (e) => {
+    e.preventDefault();
+    const xs = inputs();
+    
+    if (!xs.manufacturer || !xs.model || !xs.submodel) {
+      status.textContent = "Choose a manufacturer, model and submodel first.";
+      return;
+    }
+    
+    status.textContent = "ANALYZING MARKET DATA…";
+    $("#valuation-form").classList.add("is-loading");
+    
+    // Artificial delay for UI feedback
+    await new Promise((r) => setTimeout(r, 120));
+    
+    try {
+      const price = Math.max(0, M.predict(xs).price);
+      lastInputs = xs;
+      lastPrice = price;
+      
+      animateNumber($("#price-value"), price);
+      $("#range-low").textContent = money(Math.max(0, price - M.meta.validation.mae));
+      $("#range-high").textContent = money(price + M.meta.validation.mae);
+      
+      const pos = M.marketPosition(xs, price);
+      const cov = M.coverage(xs);
+      
+      $("#percentile").textContent = pos.percentile;
+      $("#position-marker").style.left = `${pos.percentile}%`;
+      $("#position-scope").textContent = pos.scope;
+      
+      $("#position-title").textContent =
+        pos.percentile >= 70
+          ? "Priced above most comparable listings"
+          : pos.percentile <= 30
+          ? "Priced below most comparable listings"
+          : "Around the middle of the market";
+          
+      $("#position-text").textContent = `Your car is cheaper than ${pos.percentile}% of ${pos.count.toLocaleString()} ${pos.scope.toLowerCase()}.`;
+      $("#market-summary").textContent = `${pos.comparableCount} ${xs.manufacturer} ${xs.model} listings are available for comparison.`;
+      
+      if (chart) chart.setYou({ mileage: xs.mileage, year: xs.year, price });
+      renderSimilar(xs, price);
+      
+      const covScore = cov.level === "High" ? 90 : cov.level === "Medium" ? 65 : 35;
+      $("#coverage-level").textContent = cov.level;
+      $("#coverage-fill").style.width = covScore + "%";
+      
+      $("#coverage-text").textContent = cov.count
+        ? `${cov.count} matching ${xs.manufacturer} ${xs.model} listings found; reliability reflects dataset coverage and similarity, not a statistical confidence interval.`
+        : "No matching model listings found, so coverage is limited.";
+        
+      const asking = +$("#f-asking").value;
+      const dc = $("#deal-card");
+      
+      if (asking > 0) {
+        const d = dealScore(price, asking);
+        dc.hidden = false;
+        dc.className = "deal-card " + d.cls;
+        $("#deal-score").textContent = d.score + " / 100";
+        $("#deal-label").textContent = d.label;
+        $("#deal-fill").style.width = d.score + "%";
+        $("#deal-explain").textContent = `Seller asks ${money(asking)} — ${Math.round((Math.abs(price - asking) / price) * 100)}% ${asking < price ? "below" : "above"} the model estimate.`;
+      } else {
+        dc.hidden = true;
+      }
+      
+      status.textContent = "VALUATION COMPLETE";
+      
+      // Update What-If Simulator
+      $("#whatif-mileage").value = xs.mileage;
+      $("#whatif-mileage-value").textContent = whole(xs.mileage) + " km";
+      $("#whatif-current").textContent = money(price);
+      $("#whatif-new").textContent = money(price);
+      $("#whatif-delta").textContent = "Move the slider to run another real model prediction.";
+      
+      $("#valuation").classList.add("has-result");
+      //setTimeout(() => $("#similar").scrollIntoView({ behavior: "smooth", block: "start" }), 300);
+      
+    } catch (err) {
+      console.error(err);
+      status.textContent = "We couldn't calculate this valuation. Please check the selected vehicle details and try again.";
+    } finally {
+      $("#valuation-form").classList.remove("is-loading");
+    }
+  };
+  
+  // What-If Mileage Slider Event
+  const wi = $("#whatif-mileage");
+  wi.oninput = () => {
+    if (!lastInputs) return;
+    
+    $("#whatif-mileage-value").textContent = whole(wi.value) + " km";
+    
+    const xs = { ...lastInputs, mileage: +wi.value };
+    const p = Math.max(0, M.predict(xs).price);
+    
+    $("#whatif-new").textContent = money(p);
+    const d = p - lastPrice;
+    $("#whatif-delta").textContent = `${d >= 0 ? "+" : ""}${money(d)} vs current estimate · actual model re-run`;
+  };
+  
+  $("#cta-start").onclick = () => $("#valuation").scrollIntoView({ behavior: "smooth" });
+  
+  // Setup intersection observer for scroll animations
+  const io = new IntersectionObserver(
+    (es) => {
+      es.forEach((e) => {
+        if (e.isIntersecting) e.target.classList.add("in-view");
+      });
+    },
+    { threshold: 0.08 }
+  );
+  $$(".section,.hero-copy,.hero-visual").forEach((e) => io.observe(e));
+}
+
+// Global error handling
+window.addEventListener("error", (e) => console.error("Auto-Price error:", e.error || e.message));
+
+// Start the app
+boot().catch((err) => {
+  console.error("Auto-Price startup failed:", err);
+  const status = $("#load-status");
+  if (status) {
+    status.textContent = "The calculator could not start. Check the browser console for the exact error.";
+  }
 });

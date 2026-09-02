@@ -3,10 +3,6 @@ export_model.py
 ----------------
 Exports the trained scikit-learn MLPRegressor and its preprocessing assets
 into JSON files consumed by the static GitHub Pages website.
-
-IMPORTANT: output paths are anchored to the repository root, so running
-`python src/export_model.py` from either the repository root or src/ produces
-the same website assets.
 """
 import json
 import os
@@ -24,8 +20,6 @@ GROUP_PREFIXES = [
     "manufacturer_", "submodel_", "model_", "fuel_", "transmission_", "drive_type_"
 ]
 
-# These are the project's documented 5-fold cross-validation results.
-# They describe validation performance, not a confidence interval.
 VALIDATION_METRICS = {
     "mae": 8480,
     "rmse": 12023,
@@ -33,10 +27,10 @@ VALIDATION_METRICS = {
     "method": "5-fold cross-validation",
 }
 
-
 def main():
     os.makedirs(OUT_DIR, exist_ok=True)
 
+    # Load the trained model and scalers
     model = joblib.load(MODEL_PATH)
     scaler = joblib.load(FEATURES_SCALER_PATH)
     yscaler = joblib.load(PRICE_SCALER_PATH)
@@ -45,6 +39,7 @@ def main():
     feature_cols = [c for c in df.columns if c != "price"]
     assert len(feature_cols) == model.n_features_in_, "Column count mismatch vs model input size"
 
+    # Group categorical features by their prefix for easier front-end mapping
     groups = {p: [] for p in GROUP_PREFIXES}
     for c in feature_cols:
         if c in NUMERIC_COLS:
@@ -54,6 +49,7 @@ def main():
                 groups[p].append(c)
                 break
 
+    # Construct the model metadata dictionary
     model_json = {
         "feature_order": feature_cols,
         "numeric_cols": NUMERIC_COLS,
@@ -80,16 +76,21 @@ def main():
     }
 
     model_path = os.path.join(OUT_DIR, "model.json")
+    
+    # FIX: Changed from separators=(",", ":") to indent=4 for human-readable JSON
     with open(model_path, "w", encoding="utf-8") as f:
-        json.dump(model_json, f, separators=(",", ":"))
+        json.dump(model_json, f, indent=4)
+        
     print(f"Wrote {model_path} ({os.path.getsize(model_path) / 1024:.1f} KB)")
 
+    # Helper function to reverse one-hot encoding back to readable strings
     def decode_group(row, prefix, cols):
         for c in cols:
             if row[c] == 1:
                 return c[len(prefix):]
         return "Other"
 
+    # Inverse transform scaled data back to real-world values
     inv_num = scaler.inverse_transform(df[NUMERIC_COLS])
     inv_price = yscaler.inverse_transform(df[["price"]])
 
@@ -97,6 +98,7 @@ def main():
     model_to_manufacturer = {}
     model_to_submodels = {}
 
+    # Reconstruct the dataset for the front-end to use for comparisons
     for i, row in df.iterrows():
         manufacturer = decode_group(row, "manufacturer_", groups["manufacturer_"])
         model_name = decode_group(row, "model_", groups["model_"])
@@ -134,19 +136,23 @@ def main():
 
     all_manufacturers = sorted(c[len("manufacturer_"):] for c in groups["manufacturer_"])
     manufacturer_to_models = {manu: [] for manu in all_manufacturers}
+    
     for m, manu in model_manufacturer_map.items():
         if m != "Other":
             manufacturer_to_models.setdefault(manu, []).append(m)
+            
     for manu in manufacturer_to_models:
         manufacturer_to_models[manu] = sorted(set(manufacturer_to_models[manu])) + ["Other"]
 
     prices = [r["price"] for r in records]
     sorted_prices = sorted(prices)
-    median = (
-        sorted_prices[len(sorted_prices) // 2]
-        if len(sorted_prices) % 2
-        else (sorted_prices[len(sorted_prices) // 2 - 1] + sorted_prices[len(sorted_prices) // 2]) / 2
-    )
+    
+    # Calculate median price safely
+    mid = len(sorted_prices) // 2
+    if len(sorted_prices) % 2:
+        median = sorted_prices[mid]
+    else:
+        median = (sorted_prices[mid - 1] + sorted_prices[mid]) / 2
 
     def top_counts(key, limit=6):
         counts = {}
@@ -154,6 +160,7 @@ def main():
             counts[r[key]] = counts.get(r[key], 0) + 1
         return sorted(counts.items(), key=lambda x: (-x[1], str(x[0])))[:limit]
 
+    # Construct the dataset JSON structure
     dataset_json = {
         "records": records,
         "options": {
@@ -186,11 +193,13 @@ def main():
     }
 
     dataset_path = os.path.join(OUT_DIR, "dataset.json")
+    
+    # FIX: Changed to indent=4 for human-readable JSON
     with open(dataset_path, "w", encoding="utf-8") as f:
-        json.dump(dataset_json, f, separators=(",", ":"))
+        json.dump(dataset_json, f, indent=4)
+        
     print(f"Wrote {dataset_path} ({os.path.getsize(dataset_path) / 1024:.1f} KB)")
     print(f"Website data directory: {OUT_DIR}")
-
 
 if __name__ == "__main__":
     main()
