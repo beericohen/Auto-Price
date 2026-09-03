@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Auto-Price</title>
+<title>Auto Price</title>
 <link rel="icon" type="image/x-icon" href="assets/images/icon.png">
 <meta name="description" content="Browser-based used-car valuation for the Israeli market, powered by the project's trained neural network.">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -11,7 +11,7 @@
 <script>(function(){try{var t=localStorage.getItem("autoprice-theme");if(!t){t=window.matchMedia&&window.matchMedia("(prefers-color-scheme: light)").matches?"light":"dark";}document.documentElement.setAttribute("data-theme",t);}catch(e){}})();</script>
 </head>
 <body>
-<nav class="site-nav"><a class="brand" href="#top"><span class="brand-mark">◉</span> Auto-Price</a><div class="nav-links"><a href="#valuation">Valuation</a><a href="#market">Market</a><a href="#about">Model</a></div><button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch between dark and light mode" title="Switch theme"><span class="theme-icon icon-sun" aria-hidden="true">☀</span><span class="theme-icon icon-moon" aria-hidden="true">☾</span></button></nav>
+<nav class="site-nav"><a class="brand" href="#top"><span class="brand-mark">◉</span> Auto Price</a><div class="nav-links"><a href="#valuation">Valuation</a><a href="#market">Market</a><a href="#about">Model</a></div><button type="button" class="theme-toggle" id="theme-toggle" aria-label="Switch between dark and light mode" title="Switch theme"><span class="theme-icon icon-sun" aria-hidden="true">☀</span><span class="theme-icon icon-moon" aria-hidden="true">☾</span></button></nav>
 <main id="top">
 <section class="hero"><div class="container hero-grid"><div class="hero-copy"><div class="eyebrow">ISRAELI USED-CAR MARKET</div><h1>Car value,<br><em>without the guesswork.</em></h1><p>Estimate a used car's market value with the trained Auto-Price neural network — entirely in your browser.</p><div class="hero-actions"><button class="btn btn-primary" id="cta-start">Estimate my car <span>→</span></button><span class="hero-note">Free · No signup · No backend</span></div></div><div class="hero-visual"><div class="visual-grid"></div><div class="visual-orbit orbit-a"></div><div class="visual-orbit orbit-b"></div><canvas id="car3d-canvas" aria-label="Decorative car visualization"></canvas><div class="visual-tag">LIVE<br>VALUATION</div></div></div></section>
 <section class="section" id="valuation"><div class="container"><div class="section-head"><div><div class="eyebrow">01 / VALUATION</div><h2>Tell us about the car.</h2></div><p>The same inputs used by the production browser model. Change them and the model recalculates instantly.</p></div>
